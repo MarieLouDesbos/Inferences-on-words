@@ -1,0 +1,1700 @@
+e;eid;'name';type;w;'formated name'
+e;74657;'pigeon';1;906
+e;239128;'_COM';36;50
+e;2983124;'_SW';36;50
+e;222644;'gris>40056';1;60;'gris>couleur'
+e;215024;'pigeon>140176';1;120;'pigeon>oiseau'
+e;241794;'_POL-NEUTRE';36;50
+e;220337;'oiseau>17559';1;836;'oiseau>animal'
+e;140176;'oiseau';1;7456
+e;222842;'columbidé';1;2
+e;229304;'colombidé';1;10
+e;136786;'ville';1;9193
+e;223173;'_POL-POS';36;50
+e;74860;'homme';1;28860
+e;40733;'diapside';1;74
+e;283634;'sauropside';777;30
+e;265837;'sauropsidé';1;6
+e;326373;'sauropsidien';1;52
+e;68439;'individu';1;6130
+e;24956;'être humain';1;818
+e;49293;'humain';1;3437
+e;244620;'être humain>74860';1;146;'être humain>homme'
+e;146033;'poire';1;990
+e;10078;'volatile';1;276
+e;110773;'amniote';1;82
+e;91794;'tétrapode';1;96
+e;183685;'pigeon vole';1;4
+e;179717;'pigeon voyageur';1;20
+e;194242;'pigeon à queue barrée';1;50
+e;194243;'pigeon biset';1;10
+e;194244;'pigeon colombin';1;50
+e;194245;'pigeon d'Elphinstone';1;50
+e;194246;'pigeon d'Eversmann';1;50
+e;194247;'pigeon de Bolle';1;50
+e;194248;'pigeon de Kittlitz';1;50
+e;194249;'pigeon de La Réunion';1;50
+e;194250;'pigeon des lauriers';1;50
+e;194251;'pigeon des mares';1;50
+e;194252;'pigeon des villes';1;50
+e;194253;'pigeon domestique';1;4
+e;194254;'pigeon frugivore';1;50
+e;194255;'pigeon leucomèle';1;50
+e;194256;'pigeon marron';1;50
+e;194257;'pigeon ramier';1;28
+e;194258;'pigeon rose';1;50
+e;194259;'pigeon rousset';1;50
+e;194260;'pigeon vert';1;50
+e;194261;'pigeon à cou rouge';1;50
+e;180818;'aile de pigeon';1;52
+e;205700;'plumer le pigeon';1;50
+e;290736;'pigeon de Nicobar';777;50
+e;118348;'coeur de pigeon';1;50
+e;222884;'pigeon soyeux';1;50
+e;101018;'gnathostome';1;84
+e;86640;'vertébré';1;904
+e;264881;'crânié';1;56
+e;265277;'crâniate';1;58
+e;282820;'pigeon de la Réunion';777;50
+e;307359;'pigeon des Bonin';777;50
+e;307360;'pigeon à tête blanche';777;50
+e;106869;'ramier';1;84
+e;317929;'olfactorien';1;40
+e;248081;'chordé';1;226
+e;142602;'cordé';1;112
+e;330964;'cordé>117095';1;36;'cordé>zoologie'
+e;265220;'épineurien';1;20
+e;115304;'deutérostomien';1;114
+e;264880;'bilatérien';1;80
+e;17559;'animal';1;14019
+e;264908;'eumétazoaire';1;80
+e;233133;'animal>117095';1;836;'animal>zoologie'
+e;55823;'métazoaire';1;174
+e;148362;'graines';1;2689
+e;15210;'villes';1;3682
+e;325741;'choanobionte';1;76
+e;54157;'gogo';1;120
+e;96209;'coeur-de-pigeon';1;50
+e;56446;'gorge-de-pigeon';1;50
+e;10845;'aile-de-pigeon';1;50
+e;325738;'filozoaire';1;84
+e;114288;'palombe';1;52
+e;116477;'personne';1;10307
+e;18562;'biset';1;52
+e;329657;'choano-organisme';1;62
+e;325736;'holozoaire';1;60
+e;370442;'pigeon de fantaisie';1;50
+e;370439;'pigeon cavalier';1;50
+e;370457;'pigeon nonnain';1;50
+e;370452;'pigeon coquillé';1;50
+e;370450;'pigeon à bec denté';1;50
+e;370444;'pigeon frisé';1;50
+e;1198611;':r2088123';10;0
+e;120733;'tourterelle';1;150
+e;370449;'pigeon texan';1;50
+e;370437;'pigeon boulant';1;50
+e;345393;'croupion de pigeon';1;50
+e;83368;'naïf';1;278
+e;325731;'opisthoconte';1;76
+e;370451;'pigeon de mer';1;50
+e;383825;'tir au pigeon';1;52
+e;370453;'pigeon culbutant';1;50
+e;370447;'pigeon paon';1;50
+e;370441;'pigeon d'agrément';1;50
+e;325728;'uniconte';1;42
+e;370456;'pigeon migrateur';1;50
+e;370446;'pigeon miroité';1;50
+e;370443;'pigeon de roche';1;50
+e;1198608;':r14028248';10;0
+e;30084;'niais';1;226
+e;370458;'pigeon tambour';1;50
+e;370448;'pigeon romain';1;50
+e;370445;'pigeon impérial';1;50
+e;370438;'pigeon capucin';1;50
+e;1198606;':r13514390';10;0
+e;1198607;':r13603278';10;0
+e;1198609;':r8915372';10;0
+e;1198610;':r13979835';10;0
+e;370440;'pigeon couronné';1;50
+e;370455;'pigeon haut-volant';1;50
+e;370454;'pigeon de consommation';1;50
+e;1198601;':r10928808';10;0
+e;14380871;'::>66:74657>24:126612';8;0;'pigeon [peut] se poser'
+e;14380874;'::>66:74657>24:14380872';8;0;'pigeon [peut] se poser [endroit] lampadaire'
+e;14465542;'::>66:74657>24:37229';8;0;'pigeon [peut] se trouver'
+e;14465545;'::>66:74657>24:14465543';8;0;'pigeon [peut] se trouver [endroit] centre-ville'
+e;14573353;'::>66:74657>24:14573351';8;0;'pigeon [peut] lâcher [objet] fiente'
+e;14573350;'::>66:74657>24:53223';8;0;'pigeon [peut] lâcher'
+e;16168821;'::>66:74657>24:73827';8;0;'pigeon [peut] voler'
+e;54794;'eucaryote';1;194
+e;1198600;':r11150267';10;0
+e;61801;'goura';1;50
+e;43853;'aile';1;2172
+e;230938;'place>157825';1;48;'place>place publique'
+e;1198598;':r11143646';10;0
+e;215023;'pigeon>83368';1;56;'pigeon>naïf'
+e;1198599;':r11137028';10;0
+e;171870;'Nom:';4;50
+e;73827;'voler';1;3095
+e;1198597;':r11130325';10;0
+e;145790;'colombe';1;292
+e;112137;'lampadaire';1;288
+e;1198596;':r11120854';10;0
+e;98382;'tourtereau';1;50
+e;29505;'dupe';1;88
+e;16605914;'::>66:74657>24:16605894';8;0;'pigeon [peut] voler>déplacement aérien [endroit] ciel>atmosphère'
+e;16605913;'::>66:74657>24:213857';8;0;'pigeon [peut] voler>déplacement aérien'
+e;1198595;':r14415937';10;0
+e;16595343;'::>66:74657>24:16595341';8;0;'pigeon [peut] fienter [endroit] passant'
+e;16595340;'::>66:74657>24:10246';8;0;'pigeon [peut] fienter'
+e;15303;'tourte';1;156
+e;225916;'personne>24956';1;720;'personne>être humain'
+e;17977;'sot';1;256
+e;65081;'organisme vivant';1;146
+e;1198594;':r9613097';10;0
+e;1650;'roucoulade';1;68
+e;1198593;':r10780749';10;0
+e;10246;'fienter';1;56
+e;1198592;':r10756904';10;0
+e;1198688;':r2674027';10;0
+e;234036;'être vivant>123933';1;258;'être vivant>entité'
+e;1198591;':r10751618';10;0
+e;213857;'voler>167847';1;278;'voler>déplacement aérien'
+e;16605894;'::>31:218806>29:213857';8;0;'voler>déplacement aérien [endroit] ciel>atmosphère'
+e;16605918;'se faire voler';1;0
+e;148105;'ailes';1;2750
+e;123492;'statue';1;2878
+e;1198590;':r11255518';10;0
+e;1483990;'être vivant non humain';1;4
+e;16595341;'::>31:83401>29:10246';8;0;'fienter [endroit] passant'
+e;37571;'fiente';1;112
+e;260820;'entité vivante';1;64
+e;20564;'rue';1;6965
+e;1198612;':r2083328';10;0
+e;1198613;':r2133759';10;0
+e;48501;'dinde';1;592
+e;225847;'organisme>71624';1;98;'organisme>être vivant'
+e;103405;'indifférence';1;612
+e;1198587;':r10923373';10;0
+e;1198588;':r2915664';10;0
+e;1198589;':r12047045';10;0
+e;237445;'être>68439';1;32;'être>individu'
+e;1198585;':r10786020';10;0
+e;5847440;':r114053392';10;0
+e;124919;'bec';1;2505
+e;71624;'être vivant';1;1888
+e;53223;'lâcher';1;126
+e;14573351;'::>14:37571>29:53223';8;0;'lâcher [objet] fiente'
+e;92955;'plumes';1;717
+e;126612;'se poser';1;92
+e;14380872;'::>31:112137>29:126612';8;0;'se poser [endroit] lampadaire'
+e;37229;'se trouver';1;54
+e;14465543;'::>31:131717>29:37229';8;0;'se trouver [endroit] centre-ville'
+e;254877;'_POL-NEUTRE_PC';36;50
+e;1198584;':r10768556';10;0
+e;1198586;':r10863652';10;0
+e;122409;'roucouler';1;152
+e;394858;'pigeon cauchois';1;50
+e;1791168;'pigeon de 1914-1918';1;0
+e;4901603;'pigeon vineux';1;0
+e;223172;'_POL-NEG';36;50
+e;394859;'pigeon cravaté';1;50
+e;146885;'Nom:Mas+SG';4;50
+e;36886;'faune';1;2225
+e;394862;'pigeon hirondelle';1;50
+e;394861;'pigeon de volière';1;50
+e;394857;'pigeon bouvreuil';1;50
+e;2560561;'bec-de-pigeon';1;0
+e;4903302;'pigeon du Pérou';1;0
+e;16605946;'::>66:74657>24:16605918';8;0;'pigeon [peut] se faire voler'
+e;15990905;':r416835010';10;0
+e;4901602;'pigeon simple';1;0
+e;4901598;'pigeon de Goodson';1;0
+e;4901600;'pigeon plombé';1;0
+e;4904133;'pigeon rameron';1;0
+e;43601;'se reproduire';1;502
+e;215896;'aile>117095>140176';1;90;'aile>zoologie>oiseau'
+e;394863;'pigeon pattu';1;50
+e;4903304;'pigeon tigré';1;0
+e;34148;'toit';1;2084
+e;110231;'crédule';1;180
+e;1198581;':r11433708';10;0
+e;4901596;'pigeon à bec rouge';1;0
+e;4901597;'pigeon à couronne blanche';1;0
+e;4901595;'pigeon à bec noir';1;0
+e;2585996;'_INFO-CNRTL-YES';36;50
+e;79580;'idiot';1;718
+e;82003;'voyageur';1;1077
+e;92226;'pigeonnier';1;96
+e;2550071;'pigeon du Chili';1;0
+e;2534550;'pois de pigeon';1;0
+e;4903303;'pigeon picazuro';1;0
+e;151440;'se faire rouler';1;56
+e;233008;'bec>140176';1;52;'bec>oiseau'
+e;164508;'se faire avoir';1;138
+e;215018;'poire>83368';1;50;'poire>naïf'
+e;394860;'pigeon de colombier';1;50
+e;52255;'arbre';1;5528
+e;29786;'ferme';1;3030
+e;13943;'place';1;3827
+e;218648;'arbre>136507';1;388;'arbre>végétal'
+e;5955;'parc';1;3400
+e;1198582;':r11429533';10;0
+e;1198583;':r2897351';10;0
+e;70086;'columbiforme';1;50
+e;2558804;'pigeon de Jérusalem';1;0
+e;4901599;'pigeon de la Jamaïque';1;0
+e;4902009;'pigeon jounud';1;0
+e;12704;'picorer';1;86
+e;228075;'bague>36482';1;50;'bague>ornithologie'
+e;38788;'espèce';1;3485
+e;396247;'individu>24956';1;134;'individu>être humain'
+e;4326614;'être pris pour un pigeon';1;0
+e;4901601;'pigeon ramiret';1;0
+e;119520;'chier';1;342
+e;135479;'naïveté';1;148
+e;1824139;'thorax de pigeon';1;0
+e;9012754;'gorge de pigeon';777;0
+e;9012753;'gris pigeon';777;0
+e;14688834;'anti-pigeon';1;0
+e;16035013;'ailes-de-pigeon';1;0
+e;6947595;'en:pigeon';1;0
+e;1198580;':r11425055';10;0
+e;217817;'_INFO-POLYSEMIC';36;50
+e;250117;'_INFO-SEM-PERS-FEM';36;50
+e;1198617;':r1364379';10;0
+e;118627;'escroqué';1;52
+e;2365749;'coeurs-de-pigeon';1;0
+e;36482;'ornithologie';1;276
+e;2586627;'Gender:Mas';4;0
+e;2586629;'Number:Sing';4;0
+e;2410682;'pigeon bec anglais';1;0
+e;5898683;'lait de pigeon';777;0
+e;15418905;'jouer à pigeon vole';1;0
+e;215727;'vol>53541';1;60;'vol>groupe'
+e;2457946;'pigeon de beauté allemand';1;0
+e;17329822;'pigeon pea';777;0
+e;15901065;':r414014054';10;0
+e;5864833;':r114207403';10;0
+e;245478;'biset>74657';1;52;'biset>pigeon'
+e;140429;'chasse';1;3199
+e;267642;'organisme animal';1;4
+e;214603;'queue>214624>140176';1;52;'queue>queue d'animal>oiseau'
+e;15350975;'pigeon rieur';1;0
+e;16055003;'pigeon-hirondelle';1;0
+e;16055004;'pigeon-poule';1;0
+e;25405;'voyager';1;1622
+e;252259;'se faire baiser>164508';1;2;'se faire baiser>se faire avoir'
+e;191741;'_INFO-VOC-COMMON';36;50
+e;396042;'tétrapode>86640';1;50;'tétrapode>vertébré'
+e;265838;'archosaurien';1;52
+e;436570;'entité biologique';1;50
+e;213545;'plume>140176';1;78;'plume>oiseau'
+e;2390738;'pigeon de Bohême';1;0
+e;2440514;'pigeon géant français';1;0
+e;162759;'_INFO-SEM-PLACE';36;504
+e;118439;'ball-trap';1;62
+e;63568;'Columbidés';1;50
+e;1636805;'oeil>44335';1;50;'oeil>organe'
+e;139709;'s'envoler';1;186
+e;161255;'se faire baiser';1;92
+e;108912;'bec-de-corbeau';1;54
+e;214534;'_INFO-MEANING-FIGURED';36;50
+e;16022959;':r406150345';10;0
+e;62726;'plume';1;2676
+e;15397529;'se faire passer pour un pigeon';1;0
+e;16010679;':r416847476';10;0
+e;15997848;':r406285496';10;0
+e;229805;'colombe>140176';1;38;'colombe>oiseau'
+e;6451679;'intoxication par pigeon d'argile';1;0
+e;32666;'Montmartre';1;126
+e;58768;'organisme';1;2509
+e;77488;'oisellerie';1;64
+e;16051237;':r416888108';10;0
+e;143669;'vertébrés';1;80
+e;117095;'zoologie';1;2392
+e;12080640;'pigeon hollandais';1;0
+e;12080639;'pigeon d'utilité mulhousien';1;0
+e;15215933;'chasse au pigeon';1;0
+e;7393;'baguer';1;64
+e;24979;'miettes';1;98
+e;422572;'Pigeon';1;50
+e;46057;'oiseaux';1;3001
+e;71539;'animaux';1;3421
+e;76714;'naïve';1;96
+e;77424;'oeil';1;3276
+e;151867;'pattes';1;2265
+e;34898;'pied';1;4548
+e;96211;'coeur';1;2342
+e;30536;'faire cuire';1;180
+e;260032;'cuire>16033';1;138;'cuire>cuisine'
+e;37298;'amour';1;7157
+e;162761;'_INFO-SEM-PERS';36;732
+e;191669;'_INFO-SEM-LIVING-BEING';36;160
+e;3383527;'bn:00020802n';444;0
+e;9056;'victime';1;3224
+e;38361;'miette';1;212
+e;307358;'Columba livia';777;50
+e;6382369;'pigeon de ville';1;0
+e;321601;'lampiste>109771';1;50;'lampiste>responsable'
+e;270454;'tourterelle>140176';1;56;'tourterelle>oiseau'
+e;78647;'sotte';1;102
+e;91682;'colombin';1;106
+e;391010;'coelomé';1;50
+e;3378472;'animal mâle';1;0
+e;77008;'yeux';1;4537
+e;74846;'corps';1;5240
+e;16747;'adn';1;164
+e;114327;'acide désoxyribonucléique';1;140
+e;217399;'place Saint-Marc';1;24
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;16964;'marcher';1;2562
+e;214536;'se faire enculer';1;26
+e;251717;'_INFO-MEANING-LITERAL';36;50
+e;6113325;'umls:C0325912';444;0
+e;9136782;'en:columbidae';1;0
+e;9136533;'en:goura';1;0
+e;1198673;':r2955050';10;0
+e;260608;'naïf>110231';1;76;'naïf>crédule'
+e;120910;'colombophilie';1;50
+e;60378;'Bouc émissaire';1;50
+e;5870930;'columbidés';1;0
+e;35143;'biologie';1;3428
+e;225934;'oeil>330323';1;224;'oeil>organe de la vue'
+e;5564841;'viande de pigeon';777;0
+e;224422;'manger>113902>119570';1;206;'manger>alimentation>absorber'
+e;227756;'plumer>62726';1;2;'plumer>plume'
+e;14929061;'en:dove';1;0
+e;6138515;'umls:C0999232';444;0
+e;142663;'sale';1;1420
+e;3508;'plumage';1;190
+e;144846;'tête';1;5937
+e;81934;'main';1;6788
+e;107477;'nez';1;2903
+e;74558;'os';1;3037
+e;390927;'tête>112609';1;72;'tête>anatomie'
+e;2498780;'pied-de-pigeon';1;0
+e;11035076;'pigeon nonne allemande';777;0
+e;65524;'bâtiment';1;3085
+e;17023;'cage';1;958
+e;111137;'fil électrique';1;122
+e;221412;'branche>52255';1;26;'branche>arbre'
+e;256780;'toit>51196';1;30;'toit>toiture'
+e;106987;'réverbère';1;90
+e;131717;'centre-ville';1;282
+e;330215;'bilatéralement symétrique';1;22
+e;213856;'voler>58321';1;178;'voler>malhonnêteté'
+e;124550;'tirer';1;2819
+e;98337;'plumer';1;82
+e;241775;'attraper>847';1;44;'attraper>capturer'
+e;142249;'bague';1;784
+e;276096;'_INFO-WIKI-YES';36;50
+e;162763;'_INFO-SEM-THING-CONCRETE';36;1238
+e;9677590;':r1897911';10;0
+e;144222;'aveuglement';1;180
+e;135191;'Venise';1;3073
+e;119942;'pigeonner';1;70
+e;28663;'minéralogie';1;354
+e;14469;'graine';1;1690
+e;593629;'tourterelle>171870';1;0;'tourterelle>Nom:'
+e;1482393;'sot>171870';1;0;'sot>Nom:'
+e;87789;'coelomate';1;52
+e;316850;'entité physique';1;50
+e;145953;'visage';1;3047
+e;213644;'os>116980';1;404;'os>squelette'
+e;375467;'rebord de fenêtre';1;50
+e;91694;'fontaine';1;1372
+e;88096;'gros';1;3306
+e;130164;'manger';1;10304
+e;2442;'vivre';1;3276
+e;140318;'parler';1;4469
+e;124600;'mourir';1;2755
+e;115440;'couver';1;172
+e;251694;'mourir>126720';1;238;'mourir>cesser de vivre'
+e;43253;'dormir';1;6578
+e;259820;'vivre>160251';1;78;'vivre>être en vie'
+e;47918;'boire';1;4566
+e;112239;'pondre';1;232
+e;262268;'se faire exploiter';1;22
+e;250346;'roucouler>74657';1;92;'roucouler>pigeon'
+e;225253;'marcher>8180';1;50;'marcher>croire'
+e;33882;'se nourrir';1;436
+e;2234;'copuler';1;236
+e;7886;'dégrader';1;128
+e;225252;'marcher>59303';1;182;'marcher>se déplacer'
+e;87091;'nidifier';1;54
+e;53455;'déféquer';1;144
+e;104396;'énerver';1;456
+e;49739;'apporter';1;1730
+e;12112;'faire chier';1;248
+e;26142;'agacer';1;336
+e;76181;'glousser';1;58
+e;233198;'boire>86872';1;100;'boire>se désaltérer'
+e;101610;'atterrir';1;252
+e;178926;'attérir';1;52
+e;94345;'nicher';1;128
+e;27636;'salir';1;310
+e;161875;'aterrir';1;56
+e;135139;'planer';1;348
+e;239520;'pondre>117095';1;26;'pondre>zoologie'
+e;239317;'se faire enculer>115432';1;24;'se faire enculer>duperie'
+e;6681658;'manger>113902';1;138;'manger>alimentation'
+e;105814;'regarder';1;3656
+e;14380870;'::>13:74657>29:126612';8;0;'se poser [sujet] pigeon'
+e;14465541;'::>13:74657>29:37229';8;0;'se trouver [sujet] pigeon'
+e;14573349;'::>13:74657>29:53223';8;0;'lâcher [sujet] pigeon'
+e;16168820;'::>13:74657>29:73827';8;0;'voler [sujet] pigeon'
+e;15323342;'en:get suckered';1;0
+e;15323340;'en:be suckered';1;0
+e;4332872;'se faire entuber';1;24
+e;15323341;'se faire pigeonner';1;0
+e;15282443;'en:to be had';1;0
+e;15203879;'en:be conned';1;0
+e;15454087;'en:get conned';1;0
+e;82148;'se blouser';1;62
+e;15309626;'se faire prendre pour un pigeon / passer pour un pigeon';1;0
+e;15282446;'en:get ripped off';1;0
+e;15244997;'en:be had';1;0
+e;15396328;'en:fall for it';1;0
+e;15291874;'en:be cheated';1;0
+e;15291873;'en:be tricked';1;0
+e;248918;'se faire arnaquer';1;84
+e;15309628;'en:be fooled';1;0
+e;15309627;'en:be taken for a ride';1;0
+e;15309629;'en:fall for something';1;0
+e;186631;'n'y voir que du feu';1;50
+e;266370;'se faire rouler dans la farine';1;50
+e;15454086;'en:be deceived';1;0
+e;15282442;'en:to get ripped off';1;0
+e;14374498;'se poser>34642';1;0;'se poser>se placer'
+e;14374500;'se poser>34642>3224813';1;0;'se poser>se placer>animal volant'
+e;16595339;'::>13:74657>29:10246';8;0;'fienter [sujet] pigeon'
+e;16605912;'::>13:74657>29:213857';8;0;'voler>déplacement aérien [sujet] pigeon'
+e;16322123;'::>31:77306>29:73827';8;0;'voler [endroit] ciel'
+e;15314438;'en:be taken to the cleaners';1;0
+e;15402014;'en:be clueless';1;0
+e;15402015;'en:be in the dark';1;0
+e;15402016;'en:be unaware';1;0
+e;186630;'n'y voir que du bleu';1;50
+e;15402017;'en:be dazzled';1;0
+e;15402018;'en:not smell the rat';1;0
+e;390955;'se faire piéger';1;74
+e;15431781;'en prendre plein les mirettes';1;0
+e;15422670;'en:be completely oblivious';1;0
+e;15422671;'en:not see a thing';1;0
+e;15422672;'en:not notice a thing';1;0
+e;56921;'exploiter';1;184
+e;328089;'::>16:77424>29:102042';8;50;'viser [avec] oeil'
+e;121724;'niquer';1;362
+e;224570;'::>16:77424>29:102042>14';9;50;'Que pourrait-on viser avec un oeil ?'
+e;65893;'truander';1;78
+e;14850;'attirer';1;284
+e;327287;'::>13:88767>29:98337';8;50;'plumer [sujet] fermier'
+e;328304;'::>13:137506>29:98337';8;50;'plumer [sujet] quelqu'un'
+e;327315;'::>13:102641>29:98337';8;50;'plumer [sujet] voleur'
+e;327623;'::>13:122455>29:98337';8;50;'plumer [sujet] escroc'
+e;327492;'::>13:116477>29:98337';8;50;'plumer [sujet] personne'
+e;327313;'::>13:61490>29:98337';8;50;'plumer [sujet] femme'
+e;239898;'enculer>6474';1;50;'enculer>duper'
+e;73183;'dindonner';1;50
+e;126425;'enculer';1;246
+e;32264;'plomber';1;64
+e;164229;'::>13:88767>29:98337>14';9;50;'Qu'est-ce qu'un fermier pourrait plumer ?'
+e;26735;'farcir';1;126
+e;163736;'::>13:137506>29:98337>14';9;50;'Qu'est-ce que quelqu'un pourrait plumer ?'
+e;162445;'::>13:102641>29:98337>14';9;50;'Qu'est-ce qu'un voleur pourrait plumer ?'
+e;159963;'::>13:122455>29:98337>14';9;50;'Qu'est-ce qu'une escroc pourrait plumer ?'
+e;159187;'::>13:116477>29:98337>14';9;50;'Qu'est-ce qu'une personne pourrait plumer ?'
+e;158388;'::>13:61490>29:98337>14';9;50;'Qu'est-ce qu'une femme pourrait plumer ?'
+e;847;'capturer';1;150
+e;24646;'attraper';1;838
+e;227757;'plumer>117101';1;56;'plumer>dépouiller'
+e;230989;'rouler>6474';1;22;'rouler>duper'
+e;231;'rouler';1;2012
+e;609594;'rouler>146882';1;0;'rouler>Ver:Inf'
+e;115369;'arnaquer';1;198
+e;5115;'cuire';1;1713
+e;80199;'cuisiner';1;1890
+e;228624;'cuisiner>156701';1;248;'cuisiner>faire la cuisine'
+e;254876;'_POL-POS_PC';36;50
+e;14952183;'en:sucker';1;0
+e;185926;'donner à manger';1;80
+e;213940;'rat>71115';1;170;'rat>rongeur'
+e;589414;'dupe>171870';1;0;'dupe>Nom:'
+e;3182860;'Pigeon biset';777;0
+e;3762435;'ingrédient de recette de cuisine';1;2
+e;12110329;'pigeon (plumes) ag';1;0
+e;12110331;'pigeon (sérum) ag';1;0
+e;12110328;'pigeon (déjections) ag';1;0
+e;12110330;'pigeon (protéines sériques+plumes+déjections) ag';1;0
+e;122864;'mort';1;7245
+e;51054;'rapace';1;430
+e;48496;'sauvage';1;2444
+e;141168;'domestique';1;1569
+e;237771;'sauvage>129068';1;22;'sauvage>indompté'
+e;10369;'albinos';1;72
+e;16062113;':r406025934';10;0
+e;3228593;'wiki:@';444;0
+e;76193;'maladies';1;3049
+e;125613;'gris-bleu';1;56
+e;3597049;'Columbidae';1;0
+e;61490;'femme';1;30614
+e;280489;'columbidae';777;50
+e;6392036;'pigeons domestiques';1;0
+e;6526881;'famille columbidae';1;0
+e;453095;'naïve>171870';1;50;'naïve>Nom:'
+e;600108;'naïf>171870';1;0;'naïf>Nom:'
+e;237765;'patte>141795';1;56;'patte>membre'
+e;8990;'patte';1;1766
+e;26363;'bras';1;4155
+e;95256;'queue';1;3266
+e;233138;'tête>390963';1;72;'tête>extrémité supérieure du corps'
+e;116980;'squelette';1;1226
+e;140715;'jambes';1;1549
+e;12103179;'pigeon anticorps panel';1;0
+e;12103178;'pigeon (sérum) ac igg';1;0
+e;12103177;'pigeon (sérum) ac ige';1;0
+e;12103176;'pigeon (protéines sériques+plumes+déjections) ac igg';1;0
+e;12103175;'pigeon (plumes) ac igg';1;0
+e;12103174;'pigeon (plumes) ac ige classification rast';1;0
+e;12103173;'pigeon (plumes) ac ige';1;0
+e;12103172;'pigeon (déjections) ac igg';1;0
+e;12103171;'pigeon (déjections) ac ige classification rast';1;0
+e;12103170;'pigeon (déjections) ac ige';1;0
+e;218806;'ciel>212';1;10;'ciel>atmosphère'
+e;55222;'petit';1;4357
+e;394107;'_INFO-MEANING-PREFERED';36;50
+e;79816;'bêtise';1;690
+e;50002;'stupidité';1;326
+e;60376;'crédulité';1;206
+e;29173;'déjection';1;136
+e;2959;'saleté';1;608
+e;247057;'symétrie bilatérale';1;10
+e;152125;'Zoologie';1;210
+e;139868;'bouc émissaire';1;106
+e;591749;'colombin>171870';1;0;'colombin>Nom:'
+e;3366;'lampiste';1;52
+e;391009;'célomate';1;50
+e;16110;'bouche';1;4340
+e;108463;'ventre';1;2056
+e;141814;'vertèbre';1;392
+e;241352;'ventre>112609';1;100;'ventre>anatomie'
+e;326146;'système nerveux en position dorsale';1;56
+e;120157;'règne animal';1;102
+e;12238744;'mesure de pigeon (déjections) ac igg | technique indéterminée | sérum | ponctuel | résultat numérique | masse/volume';1;0
+e;12238743;'mesure de pigeon (déjections) ac igg | technique indéterminée | sérum | ponctuel | résultat numérique | arbitraire/volume';1;0
+e;214224;'bâtiment>55137';1;120;'bâtiment>construction'
+e;14945721;'en:patsy';1;0
+e;14921038;'en:dupe';1;0
+e;3383528;'bn:00018991n';444;0
+e;153845;'Minéralogie';1;112
+e;42794;'arnaque';1;322
+e;198957;'dupé';1;50
+e;2096883;'tourterelles';2;0
+e;9136562;'en:columba livia';1;0
+e;16042170;'colymbidé';1;0
+e;3245297;'pigeon>118439';1;2;'pigeon>ball-trap'
+e;2348209;'poire>146881';1;0;'poire>Nom:Fem+SG'
+e;144317;'simple d'esprit';1;76
+e;3224813;'animal volant';1;0
+e;142086;'jambe';1;3395
+e;139779;'ADN';1;1254
+e;126285;'dos';1;2898
+e;47319;'colonne vertébrale';1;362
+e;109785;'peau';1;3979
+e;219363;'corps>112609';1;190;'corps>anatomie'
+e;240720;'squelette>112609';1;152;'squelette>anatomie'
+e;221019;'bouche>112609';1;214;'bouche>anatomie'
+e;50869;'seins';1;658
+e;95422;'cou';1;1944
+e;103311;'système nerveux';1;276
+e;83944;'nerf';1;858
+e;152844;'sang chaud';1;88
+e;228289;'sexe>218086';1;282;'sexe>organe sexuel'
+e;126388;'articulation';1;730
+e;51126;'cheveux';1;3421
+e;57875;'tube digestif';1;118
+e;213792;'coeur>213791';1;186;'coeur>organe musculaire'
+e;15026289;'ailes de pigeon';1;0
+e;12202151;'pigeon (protéines sériques+plumes+déjections)';1;0
+e;12201533;'pigeon (déjections)';1;0
+e;12201510;'pigeon (sérum)';1;0
+e;12201496;'pigeon (plumes)';1;0
+e;14159502;'tir au pigeon d'argile';1;2
+e;14159510;'crotte de pigeon';1;2
+e;50889;'gris';1;2604
+e;1384;'vivant';1;3307
+e;102934;'ovipare';1;150
+e;99220;'hétérotrophe';1;68
+e;599490;'domestique>171869';1;0;'domestique>Adj:'
+e;626;'peur';1;5423
+e;90830;'dégoût';1;854
+e;144681;'angoisse';1;1858
+e;49337;'crainte';1;1530
+e;3383525;'bn:00020813n';444;0
+e;151352;'vole';1;58
+e;14954782;'en:wood-pigeon';1;0
+e;14954781;'en:ring dove';1;0
+e;38344;'sociologie';1;2117
+e;6947917;'en:vertebrata';1;0
+e;273420;'aves';777;52
+e;6825581;'en:aves';1;0
+e;1573170;'niais>171870';1;0;'niais>Nom:'
+e;658961;'sotte>171870';1;0;'sotte>Nom:'
+e;578627;'ramier>171870';1;0;'ramier>Nom:'
+e;14950399;'en:naïve';1;0
+e;14954780;'en:wood pigeon';1;0
+e;15070285;'en:simpleton';1;0
+e;101689;'être animé';1;50
+e;14049831;'organisme vivant pluricellulaire hétérotrophe';1;6
+e;14049840;'organisme vivant pluricellulaire';1;0
+e;14049844;'organisme vivant hétérotrophe';1;0
+e;12321907;'en:eukaryote';1;0
+e;1655534;'clomate';1;0
+e;1395235;'être>171870';1;0;'être>Nom:'
+e;2461482;'métazoaire supérieur';1;0
+e;14940408;'en:gnathostome';1;0
+e;221034;'bras>112609';1;186;'bras>anatomie'
+e;60152;'bassin';1;2996
+e;213977;'bassin>112609';1;20;'bassin>anatomie'
+e;94431;'neck';1;52
+e;12791689;'acide désoxyribo-nucléique';1;0
+e;247661;'gros seins';1;228
+e;86657;'lolos';1;80
+e;15266770;'en:fun bags';1;0
+e;398564;'mâchoires';1;50
+e;11008328;'ADN>30051';1;8;'ADN>code génétique'
+e;364788;'monde animal';1;50
+e;6342336;'mallophage du pigeon';1;0
+e;6344139;'pigeon granivore';1;0
+e;6351614;'mallophage élancé du pigeon';1;0
+e;6384036;'pigeon roussard';1;0
+e;6385595;'tique du pigeon';1;0
+e;12196981;'pigeon (déjections) ac';1;0
+e;12196980;'pigeon (plumes) ac';1;0
+e;12196979;'pigeon (protéines sériques+plumes+déjections) ac';1;0
+e;12196978;'pigeon (sérum) ac';1;0
+e;12178245;'mesure de pigeon anticorps panel';1;0
+e;12178243;'détermination de la présence de pigeon (sérum) ac igg';1;0
+e;12178241;'détermination de la présence de pigeon (sérum) ac ige';1;0
+e;12178239;'détermination de la présence de pigeon (protéines sériques+plumes+déjections) ac igg';1;0
+e;12178237;'mesure de pigeon (protéines sériques+plumes+déjections) ac igg';1;0
+e;12178235;'détermination de la présence de pigeon (plumes) ac igg';1;0
+e;12178233;'mesure de pigeon (plumes) ac igg';1;0
+e;12178231;'détermination de la présence de pigeon (plumes) ac ige classification rast';1;0
+e;12178229;'détermination de la présence de pigeon (plumes) ac ige';1;0
+e;12178227;'mesure de pigeon (plumes) ac ige';1;0
+e;12178225;'détermination de la présence de pigeon (déjections) ac igg';1;0
+e;12178222;'mesure de pigeon (déjections) ac igg';1;0
+e;12178220;'détermination de la présence de pigeon (déjections) ac ige classification rast';1;0
+e;12178218;'mesure de pigeon (déjections) ac ige';1;0
+e;14084094;'pigeon violet';777;0
+e;14465548;'pigeon à la crapaudine';1;0
+e;15332340;'en plein centre-ville';1;0
+e;15706361;'en:to be cold-hearted';1;0
+e;15413802;'en:right in the town centre';1;0
+e;15413803;'en:right in the city centre';1;0
+e;15413804;'en:right in the town center';1;0
+e;15413806;'en:right in the middle of town';1;0
+e;15413805;'en:right in the city center';1;0
+e;15413807;'en:right in the middle of the city';1;0
+e;28105;'cuit';1;358
+e;2068685;'dindonné';2;0
+e;127950;'exploité';1;62
+e;153053;'niqué';1;50
+e;143191;'tiré';1;2427
+e;2106022;'truandé';2;0
+e;145958;'arnaqué';1;54
+e;143272;'cuisiné';1;104
+e;152612;'plumé';1;60
+e;78150;'roulé';1;90
+e;17716;'plombé';1;50
+e;42520;'bagué';1;56
+e;13849;'farci';1;102
+e;14287029;'cuit>2946892';1;0;'cuit>Ver:Conjug'
+e;143528;'lâché';1;68
+e;51283;'volé';1;224
+e;88199;'attiré';1;294
+e;260383;'capturé';1;1105
+e;12643;'attrapé';1;66
+e;19115;'enculé';1;100
+e;3187411;'laché';1;0
+e;7332979;'Langue:anglais';18;50
+e;14916413;'Langue:français';18;50
+e;172435;'Langage:familier';18;50
+e;49712;'appréhension';1;226
+e;15991431;'_ANIME-YES';36;50
+e;1912917;'_INFO-COUNTABLE-YES';36;0
+e;1956769;'ramier>13035';1;8;'ramier>paresseux'
+e;1956770;'ramier>330074';1;0;'ramier>espace naturel'
+e;132995;'immeuble';1;1896
+e;1198605;':r13925857';10;0
+e;245479;'biset>140902';1;50;'biset>étoffe'
+e;245480;'biset>28663';1;50;'biset>minéralogie'
+e;237782;'domestique>88269';1;70;'domestique>apprivoisé'
+e;218238;'poule>140176';1;170;'poule>oiseau'
+e;260609;'naïf>86095';1;54;'naïf>candide'
+e;94608;'pigeons';1;88
+e;39101;'bête';1;1430
+e;4333487;'être humain de sexe féminin';1;0
+e;1198602;':r13513632';10;0
+e;1198603;':r10764152';10;0
+e;1198604;':r11420955';10;0
+e;1198616;':r1960279';10;0
+e;1198619;':r3023931';10;0
+e;1198628;':r1890402';10;0
+e;1198635;':r2610194';10;0
+e;1198636;':r2543979';10;0
+e;1198637;':r2619739';10;0
+e;1198638;':r2607154';10;0
+e;1198640;':r2540156';10;0
+e;1198679;':r2685602';10;0
+e;1198708;':r2756477';10;0
+e;15351229;'en:fooled';1;0
+e;14940447;'en:gull';1;0
+e;15254714;'en:easy prey';1;0
+e;14922377;'en:had';1;0
+e;6905091;'en:done';1;0
+e;14465546;'bec grêle';1;0
+e;140100;'viande';1;5110
+e;16605947;'::>13:74657>29:16605918';8;0;'se faire voler [sujet] pigeon'
+e;260606;'naïf>20579';1;50;'naïf>naturel'
+e;79073;'oie';1;814
+e;248198;'_SEX_NO';36;50
+e;1745426;'dragon>74657';1;0;'dragon>pigeon'
+e;123408;'vol';1;3457
+e;113317;'Paris';1;3888
+e;6474;'duper';1;188
+e;15442431;'en:village centre';1;0
+e;15442432;'en:village center';1;0
+e;59691;'pigeonne';1;50
+e;134527;'dégradation';1;1487
+e;109420;'tir';1;2900
+e;44059;'argile';1;346
+e;81090;'fusil';1;1968
+e;56865;'sport';1;5429
+e;78768;'chasser';1;1086
+e;4401109;'tir aux clays';777;6
+e;282621;'balltrap';777;64
+e;215906;'chasse>103453';1;62;'chasse>cynégétique'
+e;55432;'pas de tir';1;68
+e;30459;'chasseur';1;1788
+e;161981;'balloter';1;56
+e;150;'chat';1;5437
+e;10899348;':r12162850';10;0
+e;12497961;':r146800';10;0
+e;215016;'poire>66643';1;8;'poire>liqueur'
+e;215017;'poire>145953';1;4;'poire>visage'
+e;215020;'poire>215019';1;50;'poire>ballon en caoutchouc'
+e;215022;'poire>215021';1;56;'poire>objet en forme de poire'
+e;215015;'poire>87286';1;128;'poire>fruit'
+e;10314012;'en:heterotroph';1;0
+e;18114;'escroquerie';1;246
+e;6912949;'en:hair';1;0
+e;6797233;'en:vertebra';1;0
+e;15080161;'en:animal kingdom';1;0
+e;120892;'méfiance';1;726
+e;4371886;':r167732';10;0
+e;4371885;':r2522918';10;0
+e;4373280;':r1570800';10;0
+e;3182298;'texan>91217';1;0;'texan>Texas'
+e;439857;'biset>171870';1;50;'biset>Nom:'
+e;114615;'dindon de la farce';1;92
+e;160013;'patte palmée';1;56
+e;3971273;'centre-bourg';1;0
+e;15433835;'Place Saint-Marc';1;0
+e;28453;'bonheur';1;2804
+e;274762;'Union internationale pour la conservation de la nature';777;54
+e;275142;'races';1;2155
+e;108373;'Empire romain';1;92
+e;151672;'empire romain';1;68
+e;63267;'Marc Antoine';1;76
+e;287663;'Decimus Junius Brutus Albinus';777;50
+e;148107;'pirates';1;1695
+e;93734;'Corsaire';1;50
+e;34495;'corsaires';1;50
+e;111092;'faucon';1;106
+e;33892;'Internet';1;3305
+e;71981;'missile';1;260
+e;19183;'Nord-Pas-de-Calais';1;2322
+e;87987;'France';1;4535
+e;6988;'Mouette';1;50
+e;136703;'mouettes';1;50
+e;43409;'Canada';1;3769
+e;63348;'marronnage';1;54
+e;144632;'Bordeaux';1;3079
+e;81451;'Bangkok';1;62
+e;152065;'H5N1';1;64
+e;146799;'grippe aviaire';1;144
+e;59697;'nuisances';1;52
+e;42683;'parasites';1;1091
+e;65149;'virus';1;2816
+e;76804;'Mouton';1;56
+e;114015;'brebis';1;682
+e;175925;'Rat';1;50
+e;163171;'rats';1;144
+e;141474;'Insecte';1;50
+e;72905;'insectes';1;2542
+e;146500;'Maison';1;3269
+e;51851;'empoisonnement';1;276
+e;51000;'rapaces';1;56
+e;285718;'Fauna Europaea';1;50
+e;285698;'Animal Diversity Web';1;50
+e;309526;'Alan P. Peterson';1;52
+e;272716;'Genre';777;3164
+e;431214;'Graine';1;50
+e;290898;'Columba junoniae';777;50
+e;408617;'Fer';1;50
+e;285692;'Catalogue of Life';1;50
+e;311123;'National Center for Biotechnology Information';777;52
+e;402430;'Race';1;50
+e;398049;'Pirate';1;50
+e;397722;'Faucon';1;50
+e;415974;'Missile';1;50
+e;137499;'Sifflet';1;50
+e;114723;'sifflets';1;70
+e;573286;'colombophiles';1;50
+e;397609;'Plume';1;50
+e;408257;'Maladie';1;1518
+e;320893;'Virus';1;50
+e;426463;'habitations';1;56
+e;418951;'Rapace';1;50
+e;285728;'DOI';1;2
+e;100274;'Germinal';1;244
+e;143900;'germinal';1;100
+e;410797;'Cerise';1;50
+e;49073;'cerise';1;860
+e;275862;'Thomas Corneille';777;50
+e;78670;'colombiculture';1;50
+e;2042537;'hertziennes';2;0
+e;2244427;'pigeonniers';2;0
+e;325719;'commensales';1;50
+e;10999215;'Hugo Pigeon';777;0
+e;10546947;'Kristy Pigeon';777;0
+e;10065547;'Louis-Joseph Pigeon';777;0
+e;10435299;'Michel Pigeon';777;0
+e;96070;'Caroline du Nord';1;60
+e;89178;'Tennessee';1;1411
+e;13632442;'Maison du Pigeon';777;0
+e;70459;'Le Pigeon';1;50
+e;5955165;'Mad Pigeon';777;0
+e;71845;'Guide Michelin';1;58
+e;88460;'Michelin';1;94
+e;191799;'lampe Pigeon';1;50
+e;11844;'Rouen';1;2789
+e;229806;'colombe>5205';1;52;'colombe>paix'
+e;240637;'colombe>115700';1;50;'colombe>poutre'
+e;3579716;'carneau>143712';1;0;'carneau>marine'
+e;3579717;'carneau>116053';1;0;'carneau>conduit'
+e;3579719;'carneau>122355';1;0;'carneau>tranchée'
+e;254878;'_POL-NEG_PC';36;50
+e;272210;'Columba';777;50
+e;22758;'règne';1;3570
+e;271811;'Animalia';777;50
+e;95373;'embranchement';1;94
+e;10956;'sous-embranchement';1;56
+e;176035;'Vertebrata';1;50
+e;142623;'classe';1;3606
+e;141059;'Ordre';1;2424
+e;17659;'Columbiformes';1;50
+e;143853;'Famille';1;2693
+e;112576;'genre';1;3749
+e;25137;'Carl von Linné';1;50
+e;18229;'Oiseau';1;54
+e;98300;'famille';1;4936
+e;46398;'jabot';1;62
+e;122367;'colombophile';1;64
+e;18919;'commensalisme';1;54
+e;113308;'commensal';1;52
+e;1562;'phylogénique';1;52
+e;222666;'parade nuptiale';1;156
+e;89142;'Allemagne';1;3719
+e;111558;'magnétite';1;52
+e;124092;'fer';1;3776
+e;220462;'NCBI';1;56
+e;20981;'UICN';1;74
+e;1956768;'ramier>74657';1;4;'ramier>pigeon'
+e;14330;'satisfaction';1;626
+e;37194;'poule';1;1848
+e;10965322;':r145074';10;0
+e;237444;'être>94160';1;62;'être>existence'
+e;3161641;'tumbler>144497';1;0;'tumbler>verre'
+e;3161653;'tumbler>4455';1;0;'tumbler>chien'
+e;2393387;'cravaté français';1;0
+e;8535678;'en:spine';1;0
+e;2592575;':r12166193';10;0
+e;250347;'roucouler>126850';1;50;'roucouler>flirter'
+e;250348;'roucouler>58135';1;54;'roucouler>chanter'
+e;270543;'frisé>75446';1;50;'frisé>bouclé'
+e;270545;'frisé>105503';1;50;'frisé>allemand'
+e;270544;'frisé>10766';1;50;'frisé>friser'
+e;3316377;'colombin>34994';1;0;'colombin>poterie'
+e;3316380;'colombin>2009';1;0;'colombin>Colombe'
+e;3316378;'colombin>40056';1;0;'colombin>couleur'
+e;3316376;'colombin>39690';1;18;'colombin>étron'
+e;1969859;'florentin>25966';1;0;'florentin>pâtisserie'
+e;1969860;'florentin>80603';1;0;'florentin>machiavélique'
+e;1969861;'florentin>139603';1;2;'florentin>Florence'
+e;1745425;'dragon>143712';1;0;'dragon>marine'
+e;2911489;'dragon>104993';1;0;'dragon>informatique'
+e;2911529;'dragon>28627';1;0;'dragon>ophtalmologie'
+e;233912;'dragon>219058';1;50;'dragon>signe astrologique'
+e;233913;'dragon>88744';1;50;'dragon>mégère'
+e;1745427;'dragon>99719';1;0;'dragon>reptile'
+e;2911488;'dragon>218087';1;0;'dragon>enfant turbulent'
+e;233911;'dragon>102633';1;50;'dragon>soldat'
+e;233910;'dragon>215202';1;34;'dragon>animal fantastique'
+e;332116;'tourte>98265';1;50;'tourte>balourd'
+e;332117;'tourte>111235';1;50;'tourte>métallurgie'
+e;326354;'tourte>177321';1;66;'tourte>préparation culinaire'
+e;270455;'tourterelle>50889';1;50;'tourterelle>gris'
+e;3682528;'boulant>92878';1;0;'boulant>géologie'
+e;3187425;'balloté';1;0
+e;47972;'réfléchir';1;762
+e;454397;':r2229769';10;50
+e;454399;':r1890404';10;50
+e;1198633;':r185379';10;0
+e;1198658;':r2986777';10;0
+e;1198684;':r2669302';10;0
+e;8756429;':r177330189';10;0
+e;330963;'cordé>3674';1;50;'cordé>botanique'
+e;1816244;'colonne rachidienne';1;0
+e;405965;'hair';1;54
+e;600043;'gris>171869';1;0;'gris>Adj:'
+e;674336;'sauvage>171869';1;0;'sauvage>Adj:'
+e;225848;'organisme>118203';1;52;'organisme>corps humain'
+e;237441;'être>85728';1;12;'être>exister'
+e;237443;'être>37229';1;66;'être>se trouver'
+e;2674388;'voyageur>143529';1;34;'voyageur>voyage'
+e;220188;'capucin>111410';1;52;'capucin>religieux'
+e;220189;'capucin>73893';1;50;'capucin>singe'
+e;220190;'capucin>29899';1;50;'capucin>lièvre'
+e;13369;'être';1;3929
+e;3343185;'aile>117095';1;38;'aile>zoologie'
+e;6797262;'en:vertebral column';1;0
+e;15047666;'en:alimentary canal';1;0
+e;1198639;':r2602569';10;0
+e;2592576;':r12201798';10;0
+e;8865269;':r190706746';10;0
+e;15871597;':r413692137';10;0
+e;4619274;':r25844355';10;0
+e;4645195;':r10139524';10;0
+e;4647205;':r10090052';10;0
+e;4648613;':r1570646';10;0
+e;2945380;'poire>103890';1;0;'poire>contrepoids'
+e;318667;'poire>153902';1;54;'poire>viande de boeuf'
+e;122455;'escroc';1;602
+e;174176;'spine';1;50
+e;119584;'obus';1;136
+e;15359480;'en:hooters';1;0
+e;79894;'nénés';1;76
+e;14918011;'en:DNA';1;0
+e;15196;'blanc';1;4731
+e;8542;'beige';1;142
+e;445936;':r247860';10;50
+e;446217;':r146462';10;50
+e;1306523;':r2223352';10;0
+e;14658152;':r372511873';10;0
+e;225846;'organisme>332175';1;54;'organisme>ensemble des organes'
+e;225849;'organisme>86627';1;50;'organisme>organisation'
+e;396249;'individu>64226';1;54;'individu>administration'
+e;3178150;'plume>123034';1;0;'plume>fellation'
+e;246521;'plume>71578';1;54;'plume>lit'
+e;213546;'plume>54234';1;54;'plume>écriture'
+e;213550;'plume>48961';1;52;'plume>parure'
+e;157007;'être>146885';1;50;'être>Nom:Mas+SG'
+e;6798394;'en:neck';1;0
+e;14917526;'en:deoxyribonucleic acid';1;0
+e;9928893;'nibards';1;22
+e;126613;'nichons';1;92
+e;64238;'noir';1;4408
+e;86356;'rouge';1;5574
+e;26976;'vert';1;3430
+e;129270;'irisé';1;72
+e;60;'bleu';1;3449
+e;1198614;':r13605805';10;0
+e;1198615;':r2483207';10;0
+e;1198618;':r13261340';10;0
+e;1198620;':r3021701';10;0
+e;1198621;':r1897913';10;0
+e;1198622;':r1771870';10;0
+e;1198623;':r2099314';10;0
+e;1198624;':r2101952';10;0
+e;1198625;':r2229770';10;0
+e;1198626;':r179843';10;0
+e;1198627;':r2694253';10;0
+e;1198629;':r1943406';10;0
+e;1198630;':r1943405';10;0
+e;1198631;':r1890403';10;0
+e;1198632;':r3194810';10;0
+e;1198634;':r2483206';10;0
+e;1198641;':r2547805';10;0
+e;1198642;':r15796446';10;0
+e;1198643;':r3005407';10;0
+e;1198644;':r11802215';10;0
+e;1198645;':r2688589';10;0
+e;1198646;':r2957321';10;0
+e;1198647;':r2942618';10;0
+e;1198648;':r2680028';10;0
+e;1198649;':r2664516';10;0
+e;1198650;':r2647140';10;0
+e;1198651;':r2614965';10;0
+e;1198652;':r2724025';10;0
+e;1198653;':r2802441';10;0
+e;1198654;':r2834763';10;0
+e;1198655;':r2863983';10;0
+e;1198656;':r2921408';10;0
+e;1198657;':r11261377';10;0
+e;1198659;':r2993299';10;0
+e;1198660;':r2483205';10;0
+e;1198661;':r10774311';10;0
+e;1198662;':r11810115';10;0
+e;1198663;':r13732749';10;0
+e;1198664;':r3040083';10;0
+e;1198665;':r2947331';10;0
+e;1198666;':r2936289';10;0
+e;1198667;':r2930934';10;0
+e;1198668;':r2909483';10;0
+e;1198669;':r2905488';10;0
+e;1198670;':r2901502';10;0
+e;1198671;':r2871550';10;0
+e;1198672;':r2967752';10;0
+e;1198674;':r2962396';10;0
+e;1198675;':r3011444';10;0
+e;1198676;':r3032464';10;0
+e;1198677;':r2972791';10;0
+e;1198678;':r2632224';10;0
+e;1198680;':r2708987';10;0
+e;1198681;':r2717386';10;0
+e;1198682;':r2727950';10;0
+e;1198683;':r2736709';10;0
+e;1198685;':r2660467';10;0
+e;1198686;':r2642315';10;0
+e;1198687;':r2634918';10;0
+e;1198689;':r2551657';10;0
+e;1198690;':r2598342';10;0
+e;1198691;':r2623598';10;0
+e;1198692;':r2627454';10;0
+e;1198693;':r2749946';10;0
+e;1198694;':r11829116';10;0
+e;1198695;':r2880490';10;0
+e;1198696;':r11806151';10;0
+e;1198697;':r12999014';10;0
+e;1198698;':r14713043';10;0
+e;1198699;':r15872120';10;0
+e;1198700;':r2768071';10;0
+e;1198701;':r2887501';10;0
+e;1198702;':r2829122';10;0
+e;1198703;':r2819918';10;0
+e;1198704;':r2814742';10;0
+e;1198705;':r2779690';10;0
+e;1198706;':r2775829';10;0
+e;1198707;':r2771160';10;0
+e;1198709;':r2702149';10;0
+e;1198710;':r11798423';10;0
+e;8865263;':r190706654';10;0
+e;9478533;':r213794563';10;0
+e;16372175;':r413718810';10;0
+e;2583838;':r53549345';10;0
+e;9825669;':r55529559';10;0
+e;11304312;':r289472207';10;0
+e;12032156;':r91634982';10;0
+e;17012928;':r367039285';10;0
+e;17020471;':r370368854';10;0
+e;4170579;'dbnary:fra:__ws_1_pigeon__nom__1';444;0
+e;4194330;'dbnary:fra:__ws_2_pigeon__nom__1';444;0
+e;4217859;'dbnary:fra:__ws_3_pigeon__nom__1';444;0
+e;220338;'oiseau>114092';1;50;'oiseau>auge'
+e;225706;'oiseau>68439';1;50;'oiseau>individu'
+e;234035;'être vivant>2442';1;4;'être vivant>vivre'
+e;3170279;'individu>25345';1;8;'individu>quidam'
+e;396248;'individu>69012';1;50;'individu>statistique'
+e;396250;'individu>35143';1;56;'individu>biologie'
+e;23917;'aquatique';1;160
+e;14938990;'en:foolish';1;0
+e;15753576;'en:gulled';1;0
+e;15753575;'en:diddled';1;0
+e;15443735;'en:taken in';1;0
+e;15443736;'en:duped';1;0
+e;135190;'lieu';1;3861
+e;157284;'lieu>68467';1;58;'lieu>poisson'
+e;43827;'écailles';1;228
+e;141480;'écaille';1;412
+e;250116;'_INFO-SEM-PERS-MASC';36;50
+e;48510;'dangereux';1;2359
+e;3383526;'bn:00069508n';444;0
+e;3383529;'bn:00053996n';444;0
+e;101503;'palonne';1;50
+e;14084066;'Pigeon rameron';777;0
+e;3180250;'Pigeon leucomèle';777;0
+e;256981;'rrrrrrouuuu';1;14
+e;2674389;'voyageur>74657';1;0;'voyageur>pigeon'
+e;3250035;'Pigeon marron';777;0
+e;5872854;'Pigeon colombin';777;0
+e;3249960;'Pigeon d'Eversmann';777;0
+e;3250094;'Pigeon à queue barrée';777;0
+e;5873440;'Pigeon d'Elphinstone';777;0
+e;3250242;'Pigeon rousset';777;0
+e;3249920;'Pigeon de Bolle';777;0
+e;3180365;'Pigeon des mares';777;0
+e;3250077;'Pigeon des lauriers';777;0
+e;3180254;'Pigeon de Kittlitz';777;0
+e;3180364;'Pigeon rose';777;0
+e;191974;'aigrette sacrée';1;50
+e;11439061;'Aigrette sacrée';777;0
+e;275369;'Colombine plumifère';777;50
+e;3177031;'Pigeon de la Réunion';777;0
+e;3180251;'Pigeon à tête blanche';777;0
+e;3180255;'Pigeon des Bonin';777;0
+e;29420;'carneau';1;50
+e;81490;'carrier';1;50
+e;131228;'dépigeonnage';1;50
+e;3156348;'an:146331:13284:92226:?';12;50
+e;55101;'florentin';1;68
+e;283265;'Colombine marquetée';777;50
+e;15266771;'en:funbags';1;0
+e;3332432;'Pigeon du Chili';777;0
+e;2388263;'bleu de Gascogne';1;0
+e;2494182;'boulant ancien allemand';1;0
+e;11804948;'Pigeon roussard';777;0
+e;2515790;'boulant allemand ancien';1;0
+e;2395786;'cravaté oriental';1;0
+e;20421;'boulant';1;50
+e;158389;'ballons';1;56
+e;15117847;'en:Columba livia';1;0
+e;15026319;'airbags';1;0
+e;14944652;'en:Simon says';1;0
+e;15215927;'en:capucin pigeon';1;0
+e;150308;'roubaisien';1;50
+e;3182299;'texan>74657';1;0;'texan>pigeon'
+e;3157695;'an:10862:?:119973:30458';12;50
+e;142558;'dragon';1;2177
+e;3156330;'an:135655:20164:14753:?';12;50
+e;14668711;'tir aux pigeons d'argile';1;4
+e;14159509;'blanche colombe';1;2
+e;14159503;'donner à manger aux pigeons';1;2
+e;321070;'suivre aveuglément';1;50
+e;10186743;'se faire plumer';1;6
+e;15215925;'en:peacock pigeon';1;0
+e;5753086;'Pigeon à bec noir';777;0
+e;3560146;'Alouette calandrelle';777;0
+e;3180210;'Coquette de Gould';777;0
+e;191996;'alouette calandrelle';1;50
+e;192654;'coquette de Gould';1;50
+e;2379773;'coulin';1;0
+e;4907577;'Pigeon ramiret';777;0
+e;4908617;'Pigeon picazuro';777;0
+e;8096;'capucin';1;66
+e;235064;'tumbler';1;2
+e;2244425;'pigeonnes';2;0
+e;11274;'cotinga';1;50
+e;4907534;'Pigeon simple';777;0
+e;14270756;'damascène>74657';1;0;'damascène>pigeon'
+e;3160054;'Alouette de Botha';777;0
+e;192000;'alouette de Botha';1;50
+e;3654891;'Chardonneret des Antilles';777;0
+e;194809;'tourterelle domestique';1;50
+e;192490;'chardonneret des Antilles';1;50
+e;3231954;'Tourterelle tigrine';777;0
+e;194814;'tourterelle tigrine';1;50
+e;194816;'tourterelle turque';1;56
+e;16165983;'cailles grillées au barbecue';1;0
+e;16165987;'coquelet farci au foie gras';1;0
+e;16166457;'ne pas tomber dans le panneau';1;0
+e;16165980;'sublime de cailles et courgettes';1;2
+e;16165992;'cailles aux champignons';1;0
+e;16165990;'cailles farcies aux marrons et cèpes';1;2
+e;16165993;'cailles rôties et farcies à la compote de pomme';1;2
+e;16165975;'caillettes ardéchoises';1;0
+e;16165976;'toasts aux oeufs de caille';1;0
+e;16165977;'cuisses de caille au foie gras';1;0
+e;16165973;'pigeonneau aux épices et légumes confits';1;0
+e;16163800;'chapon poché à la crème de foie gras';1;0
+e;16163804;'chapon farci au foie gras';1;0
+e;16163802;'chapon farci aux boudins blancs';1;0
+e;16163799;'chapon farci aux marrons';1;0
+e;16163803;'chapon farci aux fruits secs';1;0
+e;16163801;'chapon rôti aux raisins et au whisky';1;0
+e;16163796;'chapon aux poires et épices';1;0
+e;16163795;'chapon farci au foie gras et à la truffe';1;0
+e;16163793;'filet de chapon';1;4
+e;16163794;'filet de chapon au cognac et aux morilles';1;0
+e;16163791;'chapon au matafin de courges';1;0
+e;16163789;'pintadeau à la Brabançonne';1;0
+e;16163790;'pintadeau au riesling et raisins';1;0
+e;16163788;'pintadeau aux petits pois';1;0
+e;16163787;'pintade farcie caramélisée aux épices';1;0
+e;16163785;'pintade farcie au foie gras et légumes oubliés';1;0
+e;16163764;'filet de pintade et son gratin de poires à la crème';1;0
+e;16163765;'pintade au vinaigre balsamique de Modène';1;0
+e;16163767;'pintade aux baies roses';1;0
+e;16163766;'pintade sauce safran et choucroute';1;0
+e;16163784;'pintade à l'orange et au miel';1;0
+e;16163781;'fricassée de pintade aux morilles & pommes et terre façon salardaise';1;0
+e;247040;'se faire prendre pour un con';1;50
+e;16163783;'pintade forestière au Jurançon';1;0
+e;16163778;'pintade rôtie aux petits suisses';1;0
+e;16163773;'pintade farcie à la mousse de foie d'oie';1;0
+e;16163776;'pintade chaponne aux pommes et aux châtaignes';1;0
+e;16163774;'pintade au curcuma et endives caramélisées';1;0
+e;16163772;'pintade au pineau des Charentes';1;0
+e;16163770;'pintade aux navets et au miel';1;0
+e;16163771;'pintade à la Kriek et aux cerises';1;0
+e;16163769;'chapon de pintade aux boudins blancs et chorizo';1;0
+e;16163768;'pintade aux raisins secs flambée au rhum';1;0
+e;5094701;'sauté de dinde';1;0
+e;14304759;'se laisser mener en bateau';1;0
+e;8750133;'croire n'importe quoi';1;0
+e;2276427;'roucoule';2;0
+e;2362700;'béfler';1;0
+e;267524;'effectuer un vol';1;50
+e;16165991;'cailles à l'ananas';1;0
+e;16165981;'cailles au marc de Bourgogne';1;0
+e;16165988;'cailles farcies aux trompettes de la mort';1;2
+e;16165979;'cailles farcies au fromage de brebis';1;0
+e;16165978;'poitrines de cailles rôties';1;0
+e;16165994;'cailles farcies aux raisins et cognac';1;2
+e;16165989;'cailles aux olives';1;0
+e;2452825;'boulant de Norwich';1;0
+e;2405473;'pigéon';1;0
+e;83132;'texan';1;50
+e;2495470;'mugu';1;0
+e;92766;'damascène';1;50
+e;578628;'ramier>171869';1;0;'ramier>Adj:'
+e;2497377;'huppé picard';1;0
+e;139545;'frisé';1;158
+e;3161639;'Colombine longup';777;0
+e;192608;'colombine longup';1;50
+e;2601316;'frisé>74657';1;0;'frisé>pigeon'
+e;8911229;'en:cotinga';1;0
+e;15301138;'en:bomb-shell';1;0
+e;14962495;'en:statue';1;0
+e;15215926;'en:sphere pigeon';1;0
+e;167971;'founingo';1;50
+e;2396626;'funingue';1;0
+e;3161654;'tumbler>74657';1;0;'tumbler>pigeon'
+e;75655;'terre glaise';1;86
+e;14947725;'en:mansard';1;0
+e;6905796;'en:clay';1;0
+e;133845;'tourtre';1;50
+e;3579718;'carneau>74657';1;0;'carneau>pigeon'
+e;2437186;'mansart';1;0
+e;2526472;'clay';1;0
+e;149053;'mansard';1;50
+e;1655832;'rameron';1;0
+e;2840375;'roubaisien>74657';1;0;'roubaisien>pigeon'
+e;2484131;'boulant français';1;0
+e;2483074;'colombidée';1;0
+e;2472541;'ringslager';1;0
+e;326355;'tourte>140176';1;50;'tourte>oiseau'
+e;52590;'péristère';1;50
+e;309988;'Carpophage impérial';777;50
+e;3161080;'Carpophage pauline';777;0
+e;2488704;'ligeonpem';1;0
+e;1969857;'florentin>117095';1;0;'florentin>zoologie'
+e;154657;'vache à lait';1;98
+e;220191;'capucin>74657';1;50;'capucin>pigeon'
+e;15420387;'être de glace';1;0
+e;15332343;'en:in the city centre';1;0
+e;15413799;'en:in the town centre';1;0
+e;15413798;'dans le centre-ville';1;0
+e;15424260;'en:have a cold heart';1;0
+e;15424259;'en:be cold-hearted';1;0
+e;14926957;'en:downtown';1;0
+e;14926956;'en:city center';1;0
+e;15332348;'en:town centre';1;0
+e;15071496;'en:city centre';1;0
+e;15332346;'en:midtown';1;0
+e;15332344;'en:town center';1;0
+e;262523;'avoir un coeur de pierre';1;50
+e;262524;'avoir le coeur sec';1;50
+e;15246831;'en:be made of stone';1;0
+e;15420388;'en:have a heart of stone';1;0
+e;15750964;'en:get fleeced';1;0
+e;15413800;'en:in the city center';1;0
+e;600109;'naïf>171869';1;0;'naïf>Adj:'
+e;3682533;'boulant>74657';1;0;'boulant>pigeon'
+e;3316379;'colombin>74657';1;0;'colombin>pigeon'
+e;13817571;'roubaisien>146885';1;0;'roubaisien>Nom:Mas+SG'
+e;797835;'Leucosarcia';777;0
+e;83750;'colombaire';1;50
+e;2560882;'coulon';1;0
+e;3303773;'carrier>74657';1;0;'carrier>pigeon'
+e;16322124;'::>66:77306>30:73827';8;0;'ciel [lieu pour] voler'
+e;16605895;'::>66:218806>30:213857';8;0;'ciel>atmosphère [lieu pour] voler>déplacement aérien'
+e;16595342;'::>66:83401>30:10246';8;0;'passant [lieu pour] fienter'
+e;16235874;'satin>74657';1;0;'satin>pigeon'
+e;79806;'satin';1;92
+e;14573352;'::>66:37571>26:53223';8;0;'fiente [se faire] lâcher'
+e;14465544;'::>66:131717>30:37229';8;0;'centre-ville [lieu pour] se trouver'
+e;14380873;'::>66:112137>30:126612';8;0;'lampadaire [lieu pour] se poser'
+e;1595;'bouclier';1;1228
+e;11249867;'bouclier>117095';1;2;'bouclier>zoologie'
+e;11249872;'bouclier>117095>74657';1;0;'bouclier>zoologie>pigeon'
+e;7256380;'en:zoology';1;0
+e;13792806;'columba livia';1;0
+e;44256;'culbutant';1;50
+e;30511;'carme';1;50
+e;167890;'bagadais';1;50
+e;16058086;'sulphurette';1;0
+e;16057538;'silverette';1;0
+e;96289;'miroité';1;50
+e;16050504;'kropper';1;0
+e;167977;'géopélie';1;50
+e;16044231;'ectopiste';1;0
+e;6800353;'en:nervous system';1;0
+e;192611;'colombine plumifère';1;50
+e;192477;'carpophage pauline';1;50
+e;192610;'colombine marquetée';1;50
+e;16059281;'turbitéen';1;0
+e;16055932;'ptilinope';1;0
+e;16055006;'pigmy';1;0
+e;15396164;'en:shells';1;0
+e;15088586;'en:systema nervosum';1;0
+e;15047672;'en:pigeon breast';1;0
+e;9938548;'en:breasts';1;0
+e;15024430;'adduire';1;0
+e;2482908;'cainiau';1;0
+e;221983;'homme>24956';1;218;'homme>être humain'
+e;2487815;'hongrois géant';1;0
+e;2482826;'géant hongrois';1;0
+e;2569815;'carniau';1;0
+e;215551;'test de turing';666;50
+e;14753;'colombier';1;56
+e;32694;'dronte';1;54
+e;107545;'dodo';1;430
+e;167953;'diduncule';1;50
+e;2180418;'dépigeonniser';1;0
+e;2495094;'dépigeonner';1;0
+e;1924268;'colymbiforme';1;0
+e;42293;'colombiculteur';1;50
+e;146971;'cauchois';1;50
+e;16057965;'stralsunder';1;0
+e;106059;'pigeonneau';1;176
+e;2443578;'manotte';1;0
+e;566572;'lucernois';777;50
+e;21062;'king';1;58
+e;2043162;'heurte';2;0
+e;105991;'fuyard';1;98
+e;423887;'engorgeur';1;50
+e;108748;'péristéronique';1;50
+e;16030835;'péristéraphilie';1;0
+e;97621;'péristéraphile';1;50
+e;2551826;'trembleur de Stargard';1;0
+e;2533182;'maillé de Pologne';1;0
+e;2490390;'mondain de Plaisance';1;0
+e;2489986;'bouclier de velours de Franconie';1;0
+e;41608;'trie';1;50
+e;2620;'roucoulis';1;50
+e;20571;'roucoulement';1;62
+e;4907569;'ramiret';1;0
+e;16055950;'pulleur';1;0
+e;2494681;'puller';1;0
+e;67448;'pull';1;1110
+e;2445027;'culbutant de Stargard';1;0
+e;17317229;'2e régiment de grenadiers';777;0
+e;15290285;'en:fall into a trap';1;0
+e;15452086;'en:to be dazzled';1;0
+e;14606397;'organisme hétérotrophe';1;2
+e;14537441;'Du point de vue gustatif';777;0
+e;14537440;'Du point de vue médical';777;0
+e;7053316;'en:metazoa';1;0
+e;2367440;'columbiculture';1;0
+e;2452794;'cou de cygne';1;0
+e;2460880;'glouglou tambour';1;0
+e;2467134;'boulant allemand primitif';1;0
+e;2478290;'culbutant hongrois';1;0
+e;2494934;'claquart';1;0
+e;2500096;'poule florentin';1;0
+e;2534207;'culbutant hollandais ancien';1;0
+e;2561943;'culbutant de Poméranie';1;0
+e;2565418;'capucin néerlandais';1;0
+e;2568393;'mondain picard';1;0
+e;2570791;'bizet de Pologne';1;0
+e;14924381;'en:Bohemian';1;0
+e;14924380;'en:Bohemia';1;0
+e;64262;'la Bohème';1;50
+e;16593153;'Société centrale d'aviculture de France';777;0
+e;16531116;'Lac des Capucins';777;0
+e;16531115;'Lac Capucin';777;0
+e;16531114;'Rivière des Grands Capucins';777;0
+e;15282441;'en:get nabbed';1;0
+e;567416;'Mutualisme';1;50
+e;16437158;'droits de filets';777;0
+e;15098378;'en:skeet shooting';1;0
+e;16390959;'pios';777;0
+e;16390958;'semi-volants';777;0
+e;16390957;'appeaux de mécanique';777;0
+e;15314437;'en:get bamboozled';1;0
+e;15384693;'coeur d'une ville';1;0
+e;1805479;'être de marbre';1;0
+e;16143337;'Poultry Belt';777;0
+e;16143336;'Finition à la cire';777;0
+e;38505;'plumaison';1;50
+e;16143335;'Échaudage';777;0
+e;10833724;'Saignée';1;0
+e;429252;'Anesthésie';1;50
+e;14488746;'Réception des animaux';777;0
+e;2098970;'volières';2;0
+e;15942631;'colombier à pied';777;0
+e;101474;'fuie';1;50
+e;16103570;'Dans la littérature';777;0
+e;15786935;'Striatum';777;0
+e;10789222;'OFC';1;0
+e;15786934;'Amygdala';777;0
+e;45776;'points chauds';1;50
+e;15786933;'hotspots';777;0
+e;31900;'récompense';1;2018
+e;15323337;'en:to be taken for a ride';1;0
+e;152248;'terre battue';1;92
+e;15197734;'en:scalp hair';1;0
+e;15197733;'en:capilli';1;0
+e;15197732;'en:haired';1;0
+e;15080160;'en:animalia';1;0
+e;15582651;'se faire empapaouter';1;0
+e;15291872;'se faire enfumer';1;0
+e;15364653;'se faire douiller';1;0
+e;3768190;'se faire enfler';1;20
+e;15278810;'en:get scammed';1;0
+e;144333;'Soleil';1;3262
+e;14752424;'Hélianthe';1;0
+e;15322907;'en:make droppings';1;0
+e;5536212;'Cette section ne cite pas suffisamment ses sources';777;0
+e;15039566;'Pollution génétique';777;0
+e;15039565;'nuisances écologiques';777;0
+e;143654;'Total';1;2024
+e;14752049;'Hélianthe ou Soleil';777;0
+e;14541157;'Production en tonnes de graines de tournesol. Chiffres 2004-2005';777;0
+e;14541156;'Principaux pays producteurs';777;0
+e;14476896;'Tokyo Jungle';777;0
+e;11407903;'Avialae';777;0
+e;14180611;'Palombière';777;0
+e;14084119;'sia heu lupe';777;0
+e;3350734;'Parade nuptiale';777;0
+e;401094;'appeaux';1;50
+e;1989488;'appelants';2;0
+e;13644537;'Goloubeva';777;0
+e;11374705;'Goloubev';1;0
+e;13198858;'interaction écologique';777;0
+e;12692956;'liste de cris d'animaux';777;0
+e;12302511;'boîte de Skinner';777;0
+e;12268027;'la corniche';777;0
+e;12197752;'Vayiqra';777;0
+e;4335198;'affaire Robert Boulin';1;0
+e;11955132;'Wallace Craig';777;0
+e;11808008;'Patagioenas speciosa';777;0
+e;11755882;'république de Maurice';777;0
+e;11697602;'chasse aux pigeons ramiers migrateurs';777;0
+e;4901156;'Étourneau sansonnet';1;0
+e;11409461;'Archaeopteryx';777;0
+e;6346229;'perception du temps';1;2
+e;1766559;'Proche-Orient ancien';1;0
+e;2606470;'PLP';777;0
+e;11150904;'pollution par la lumière polarisée';777;0
+e;11146896;'perle de Napoléon';777;0
+e;11146895;'perle régente';777;0
+e;11105649;'Butor blongios';777;0
+e;11035077;'liste des races de pigeons';777;0
+e;10913839;'cuisine indonésienne';777;0
+e;10060288;'Les As de l'arnaque';777;0
+e;10060287;'Les Arnaqueurs VIP';777;0
+e;10044363;'Fievel et le Nouveau Monde';777;0
+e;8571113;'Vulnérable';777;0
+e;9039605;'Franck Boulin';777;0
+e;9039604;'Affaire Robert Boulin';777;0
+e;5831720;'Robert Boulin';777;0
+e;2497849;'Boulin';1;0
+e;9946701;'14 avril';777;0
+e;5873378;'vol actif';777;0
+e;275002;'vol passif';777;50
+e;5872121;'Sturnus vulgaris';777;0
+e;5871557;'Pterocles quadricinctus';777;0
+e;5871555;'Pterocles orientalis';777;0
+e;5871554;'Pterocles alchata';777;0
+e;5871553;'Syrrhaptes tibetanus';777;0
+e;5534862;'Mise en garde médicale';777;0
+e;42188;'filet';1;708
+e;426445;'Aucune';1;1915
+e;5786841;'cuisine bressane';777;0
+e;5720558;'Holub';1;0
+e;5685613;'sacs aériens';777;0
+e;5671278;'intelligence des oiseaux';777;0
+e;5669513;'Geophaps scripta';777;0
+e;5669162;'Ducula aenea';777;0
+e;5629856;'mets à base de volailles';777;0
+e;5626277;'Project Pigeon';777;0
+e;5622509;'timballo';777;0
+e;5610983;'Hispano Aviación 1112';777;0
+e;19356;'sexe';1;5772
+e;3425017;'Fusion';1;0
+e;3385495;'Xero';777;0
+e;391542;'Histoplasma capsulatum';1;50
+e;70341;'aviculture';1;88
+e;3184574;'lexique du football';777;0
+e;3183270;'se pratique suivant des modes diversifiés dans le Sud-Ouest de la';777;0
+e;3183269;'[[chas';777;0
+e;405637;'indirectes';1;50
+e;401033;'directes';1;50
+e;2601675;'Quasi menacé';777;0
+e;2369152;'butor blongios';1;2
+e;2952926;'Vogtland';1;0
+e;2952638;'féralisation';777;0
+e;383713;'ticket de rationnement';1;50
+e;39899;'rationnement';1;84
+e;2872080;'Préoccupation mineure';777;0
+e;2521627;'Epervier';1;0
+e;2479120;'syrrhapte de Pallas';1;0
+e;2588282;'Aspro';777;0
+e;2419041;'Peristera';1;0
+e;2360858;'papinade';1;0
+e;184396;'surface de réparation';1;12
+e;1906789;'tortas de gazpacho';777;0
+e;1906604;'gaspacho manchois';1;0
+e;606193;'Au Coeur de la Terre';777;0
+e;3129;'fusion';1;3278
+e;111535;'Salamine';1;52
+e;1796447;'recettes de poulet';1;0
+e;112538;'centrer';1;100
+e;1748630;'système hédonique';777;0
+e;252046;'victoire par forfait';1;50
+e;222029;'but en argent';1;50
+e;176841;'panenka';1;54
+e;153677;'but en or';1;54
+e;275605;'Klassieker';777;50
+e;275603;'Coupe d'Europe des nations';777;50
+e;270013;'pygostyle';1;50
+e;102878;'carinate';1;50
+e;644511;'Die Taube';777;0
+e;247650;'sonication';1;22
+e;149083;'maurelle';1;56
+e;86974;'héliotrope';1;54
+e;574105;'fratercula arctica';777;50
+e;572376;'Coordonnées colombophiles';777;50
+e;572375;'Coordonnées Andries';777;50
+e;419511;'capucins';1;50
+e;414000;'Épervier';1;50
+e;413716;'Hirondelle';1;50
+e;412614;'Ramier';1;50
+e;382363;'système de récompense';1;52
+e;323197;'ultra son';777;52
+e;92156;'ultrason';1;52
+e;312137;'cuisine algérienne';777;50
+e;247340;'colombarium';1;74
+e;253572;'parade sexuelle';1;50
+e;193012;'ganga cata';1;50
+e;237755;'commensale';1;54
+e;216964;'nid d'hirondelle';1;68
+e;310160;'d'hirondelle';777;50
+e;192987;'founingo hollandais';1;50
+e;309520;'Alectroenas nitidissimus';777;50
+e;183625;'perroquet de mer';1;50
+e;194166;'phasianelle brune';1;50
+e;174930;'commensaux';1;54
+e;193882;'notou';1;50
+e;307315;'Carpophage géant';777;50
+e;273800;'quasi menacé';777;50
+e;193017;'ganga unibande';1;50
+e;193015;'ganga quadribande';1;50
+e;192307;'butor Blongios';1;50
+e;170811;'volailles';1;78
+e;135184;'sansonnet';1;54
+e;121354;'féral';1;50
+e;110663;'étourneau sansonnet';1;68
+e;70716;'blongios nain';1;50
+e;298585;'Ixobrychus minutus';777;50
+e;54702;'épervier';1;66
+e;29867;'pastilla';1;62
+e;293811;'Hirundininae';777;50
+e;26095;'hirondelles';1;50
+e;146220;'Colombine';1;50
+e;108392;'colombine';1;54
+e;194670;'syrrhapte du Tibet';1;50
+e;95230;'Capucins';1;50
+e;130274;'macareux moine';1;50
+e;230153;'caractère sexuel secondaire';1;10
+e;23720;'archéoptérix';1;50
+e;11415;'Parade amoureuse';1;50
+e;217440;'parade amoureuse';1;38
+e;12341;'archéoptéryx';1;50
+e;289521;'archæoptéryx';777;50
+e;289520;'archaeopteryx';777;50
+e;268887;'relation interspécifique';1;50
+e;148495;'histoplasmose';1;54
+e;41199;'boulin';1;50
+e;282919;'trou de boulin';777;50
+e;137436;'Carinates';1;50
+e;282580;'Carinatae';777;50
+e;192613;'colombine wonga';1;50
+e;282211;'Syrrhaptes paradoxus';777;50
+e;18629;'syrrhapte paradoxal';1;50
+e;222665;'caractères sexuels secondaires';1;108
+e;167620;'test de Turing';1;54
+e;8862;'palombière';1;50
+e;944;'chat-huant';1;56
+e;276629;'Strix aluco';777;50
+e;192532;'chouette hulotte';1;12
+e;64409;'mauricien';1;50
+e;274354;'République de Maurice';777;50
+e;80176;'Maurice';1;3521
+e;274353;'l'île';777;1978
+e;30587;'République';1;3846
+e;2009;'Colombe';1;50
+e;71922;'Helianthus annuus';1;50
+e;273602;'grand soleil';777;50
+e;26026;'tournesol';1;248
+e;55393;'Taube';1;50
+e;64116;'nid';1;923
+e;59332;'cognitive';1;66
+e;272183;'motivationnelle';777;50
+e;272182;'affective';777;56
+e;272181;'système de récompense / renforcement';777;50
+e;13292;'hirondelle';1;288
+e;70493;'volaille';1;1206
+e;15781381;'vrai métazoaire';1;0
+e;45931;'manteau';1;890
+e;212776;'Lapin';666;50
+e;238840;'être chocolat';1;50
+e;10862;'moineau';1;330
+e;16974837;'mountain madtom';777;0
+e;151185;'ultra-son';1;60
+e;2570204;'colillano';1;0
+e;2559407;'esdéhef';1;0
+e;2555864;'smerle des Flandres';1;0
+e;2556123;'turbit';1;0
+e;2546000;'tambour de Boukharie';1;0
+e;2544356;'Eichbühler';1;0
+e;2530924;'boulant hana';1;0
+e;2468407;'chatoyement';1;0
+e;2464881;'lynx de Pologne';1;0
+e;2455282;'rouleur oriental';1;0
+e;2445289;'gier religieux';1;0
+e;2434550;'archangel';1;0
+e;178968;'becasse';1;50
+e;51253;'message';1;3088
+e;22222;'sicle';1;50
+e;2619;'taffetas';1;68
+e;1911;'volailler';1;102
+e;1780;'roucoulant';1;50
+e;16073;'Sterne';1;50
+e;1500;'portage';1;76
+e;1230;'resserre';1;52
+e;2473021;'haut-volant français';1;0
+e;2444944;'boulant lillois';1;0
+e;25577;'nicheur';1;50
+e;44923;'Las Vegas';1;66
+e;267635;'intéraction biotique';1;6
+e;249565;'interaction biotique';1;16
+e;267633;'interactions biotiques';1;10
+e;253181;'intéractions biotiques';1;2
+e;194817;'tourterelle à ailes blanches';1;50
+e;122521;'columbaire';1;50
+e;267640;'interactions biologiques';1;10
+e;267634;'interaction biologique';1;18
+e;889;'columbarium';1;50
+e;145553;'crête';1;168
+e;674335;'sauvage>171870';1;0;'sauvage>Nom:'
+e;214878;'manchot>158180';1;22;'manchot>oiseau de mer'
+e;15418185;'en terre battue';1;0
+e;101502;'tondre';1;496
+e;215902;'aile>11353>56865';1;50;'aile>formation>sport'

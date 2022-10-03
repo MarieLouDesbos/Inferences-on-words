@@ -1,0 +1,2901 @@
+e;eid;'name';type;w;'formated name'
+e;128828;'couper';1;3429
+e;107222;'hache-viande';1;54
+e;15771449;'en:strip the bark from something';1;0
+e;14932742;'en:peel';1;0
+e;15313249;'cesser de faire qch';1;0
+e;14927072;'en:cease';1;0
+e;15744509;'cesser de faire [qch]';1;0
+e;15744510;'cesser de faire quelque chose';1;0
+e;14963571;'en:gash';1;0
+e;16574003;'en:slice something finely';1;0
+e;15742971;'en:slice something thinly';1;0
+e;392003;'couper en petits morceaux';1;8
+e;2581325;'::>14:140377>29:128828';8;0;'couper [objet] beurre'
+e;1969834;'couper en tranches assez fines';1;0
+e;143149;'mélangé';1;82
+e;146596;'partagé';1;1734
+e;90029;'retranché';1;68
+e;144780;'rogné';1;50
+e;128532;'rompu';1;78
+e;7571422;'en:guillotine';1;0
+e;79558;'massicoter';1;52
+e;3461;'vent';1;3262
+e;67085;'guérison';1;314
+e;15132750;'en:call off';1;0
+e;589240;'couper en fines lamelles';1;0
+e;198061;'couper en deux';1;50
+e;91829;'serrer';1;798
+e;129264;'creuser';1;1490
+e;112912;'ébrécher';1;66
+e;56231;'mortaiser';1;50
+e;104169;'craqueler';1;56
+e;57405;'guillotiner';1;150
+e;117214;'décapiter';1;176
+e;45321;'débrider';1;58
+e;101502;'tondre';1;496
+e;22715;'hacher';1;140
+e;12636;'déchirer';1;256
+e;99517;'saper';1;70
+e;76083;'détacher';1;244
+e;51624;'bloquer';1;272
+e;120955;'entrecouper';1;50
+e;25099;'ajouter';1;2535
+e;131958;'hongrer';1;52
+e;130654;'ébouter';1;52
+e;49488;'mitiger';1;54
+e;73942;'escarper';1;50
+e;123940;'mincer';1;54
+e;827;'découdre';1;68
+e;96108;'obstruer';1;88
+e;19153;'castrer';1;114
+e;113326;'diminuer';1;2018
+e;16635;'rapetisser';1;112
+e;50877;'prévenir';1;1553
+e;16272;'crevasser';1;50
+e;45513;'gercer';1;50
+e;21989;'briser';1;458
+e;107206;'cesser';1;126
+e;129694;'suspendre';1;272
+e;79549;'segmenter';1;52
+e;84321;'faucher';1;120
+e;105641;'scinder';1;64
+e;109710;'labourer';1;384
+e;3486;'retirer';1;2364
+e;109883;'arracher';1;340
+e;62985;'déchiqueter';1;118
+e;127803;'égorger';1;256
+e;138345;'s'entrecouper';1;50
+e;73613;'essoriller';1;50
+e;65212;'baptiser';1;128
+e;157361;'faire>146882';1;60;'faire>Ver:Inf'
+e;82345;'enlever';1;684
+e;86452;'atténuer';1;88
+e;131091;'fissurer';1;86
+e;25116;'entrouvrir';1;112
+e;127348;'rompre';1;390
+e;84007;'récolter';1;458
+e;79351;'tronçonner';1;172
+e;53335;'dépecer';1;86
+e;28108;'passer';1;3480
+e;17169;'ôter';1;232
+e;8460;'émasculer';1;84
+e;78110;'étraper';1;50
+e;41364;'faucarder';1;50
+e;94045;'grapiller';1;56
+e;45133;'boucher';1;776
+e;160690;'boucher>146882';1;50;'boucher>Ver:Inf'
+e;23442;'écourter';1;138
+e;15905;'écrêter';1;50
+e;124003;'empêcher';1;2268
+e;2666;'coucher';1;446
+e;87785;'cliver';1;54
+e;45351;'supplicier';1;114
+e;128384;'débiter';1;172
+e;5497;'exciser';1;52
+e;222383;'raser>101502';1;12;'raser>tondre'
+e;75872;'cingler';1;68
+e;34859;'rayer';1;172
+e;11237;'effacer';1;438
+e;68900;'extirper';1;82
+e;94693;'aménager';1;174
+e;106826;'chapeler';1;52
+e;2460217;'étailler';1;0
+e;17496554;'::>66:225916>24:14400446';8;0;'personne>être humain [peut] couper [objet] fromage'
+e;230486;'crèmerie';666;30
+e;183500;'paire de ciseaux';1;8
+e;17473456;'::>66:225916>24:17473454';8;0;'personne>être humain [peut] couper [avec] paire de ciseaux'
+e;17496553;'::>66:225916>24:17496551';8;0;'personne>être humain [peut] couper [endroit] crèmerie'
+e;17464191;'::>66:3759796>24:17464183';8;0;'électricien>individu [peut] couper [objet] alimentation électrique'
+e;2708239;'alimentation électrique';1;6
+e;17464185;'::>66:1991494>24:17464183';8;0;'assaillants [peut] couper [objet] alimentation électrique'
+e;3759796;'électricien>68439';1;4;'électricien>individu'
+e;30227;'électricien';1;206
+e;17473457;'::>66:225916>24:14334038';8;0;'personne>être humain [peut] couper [objet] cheveux'
+e;17464188;'::>66:30227>24:17464183';8;0;'électricien [peut] couper [objet] alimentation électrique'
+e;15326596;'en:play a trump';1;0
+e;14921593;'en:trump';1;0
+e;1991494;'assaillants';2;0
+e;145605;'danse';1;2920
+e;81057;'escrime';1;310
+e;11182681;'progresser à travers un fluide';1;0
+e;8957302;'objet matériel';1;4
+e;66372;'texte';1;3570
+e;60361;'loisirs';1;1873
+e;14324559;'::>66:45133>24:14324557';8;0;'boucher [peut] couper [objet] viande'
+e;14324561;'::>66:45133>24:14324560';8;0;'boucher [peut] couper [avec] couteau'
+e;14326158;'::>66:12764>24:14326156';8;0;'bûcheron [peut] couper [avec] hache'
+e;14326161;'::>66:12764>24:14326159';8;0;'bûcheron [peut] couper [objet] arbre'
+e;146632;'forêt';1;4583
+e;14326221;'::>66:12764>24:14326219';8;0;'bûcheron [peut] couper [endroit] forêt'
+e;14334040;'::>66:16217>24:14334038';8;0;'coiffeur [peut] couper [objet] cheveux'
+e;125719;'coiffeuse';1;236
+e;14334043;'::>66:125719>24:14334038';8;0;'coiffeuse [peut] couper [objet] cheveux'
+e;68439;'individu';1;6130
+e;154026;'couteau à viande';1;52
+e;14334482;'::>66:68439>24:14334480';8;0;'individu [peut] couper [avec] couteau à viande'
+e;14334483;'::>66:68439>24:14324557';8;0;'individu [peut] couper [objet] viande'
+e;14347241;'::>66:125719>24:14347239';8;0;'coiffeuse [peut] couper [avec] ciseaux'
+e;144846;'tête';1;5937
+e;14350862;'::>66:41599>24:14350860';8;0;'guillotine [peut] couper [objet] tête'
+e;60337;'bourreau';1;324
+e;14350867;'::>66:60337>24:14350860';8;0;'bourreau [peut] couper [objet] tête'
+e;14350869;'::>66:60337>24:14326156';8;0;'bourreau [peut] couper [avec] hache'
+e;22710;'sabre';1;1714
+e;14350878;'::>66:60337>24:14350876';8;0;'bourreau [peut] couper [avec] sabre'
+e;143042;'pilote';1;3099
+e;332372;'réacteurs';1;54
+e;14356610;'::>66:143042>24:14356608';8;0;'pilote [peut] couper [objet] réacteurs'
+e;14364059;'::>66:12764>24:14364057';8;0;'bûcheron [peut] couper [objet] bois'
+e;14380718;'::>66:16217>24:14380716';8;0;'coiffeur [peut] couper [endroit] coiffeur'
+e;89587;'salon de coiffure';1;222
+e;14380724;'::>66:16217>24:14380722';8;0;'coiffeur [peut] couper [endroit] salon de coiffure'
+e;14380727;'::>66:125719>24:14380722';8;0;'coiffeuse [peut] couper [endroit] salon de coiffure'
+e;216285;'coiffeuse>51126';1;30;'coiffeuse>cheveux'
+e;14380779;'::>66:216285>24:14380722';8;0;'coiffeuse>cheveux [peut] couper [endroit] salon de coiffure'
+e;14380780;'::>66:216285>24:14334038';8;0;'coiffeuse>cheveux [peut] couper [objet] cheveux'
+e;10497993;'coiffeuse>51126>116477';1;2;'coiffeuse>cheveux>personne'
+e;14380784;'::>66:10497993>24:14380722';8;0;'coiffeuse>cheveux>personne [peut] couper [endroit] salon de coiffure'
+e;14380785;'::>66:10497993>24:14334038';8;0;'coiffeuse>cheveux>personne [peut] couper [objet] cheveux'
+e;153863;'couteau à pain';1;72
+e;14389068;'::>66:68439>24:14389066';8;0;'individu [peut] couper [avec] couteau à pain'
+e;14389069;'::>66:68439>24:14389064';8;0;'individu [peut] couper [objet] pain'
+e;141687;'fromage';1;3503
+e;14400449;'::>66:68439>24:14324560';8;0;'individu [peut] couper [avec] couteau'
+e;14400450;'::>66:68439>24:14400446';8;0;'individu [peut] couper [objet] fromage'
+e;14473347;'::>66:39621>24:14473345';8;0;'marin [peut] couper [objet] corde'
+e;8595;'corde';1;2503
+e;39621;'marin';1;1994
+e;197509;'chef de famille';1;68
+e;19636;'rôti';1;364
+e;14435492;'::>66:197509>24:14435490';8;0;'chef de famille [peut] couper [objet] rôti'
+e;2845232;'morceaux de viande';1;0
+e;64437;'boucherie';1;1158
+e;14450957;'::>66:45133>24:14450955';8;0;'boucher [peut] couper [endroit] boucherie'
+e;14450958;'::>66:45133>24:14450953';8;0;'boucher [peut] couper [objet] morceaux de viande'
+e;81934;'main';1;6788
+e;14470086;'::>66:68439>24:14326156';8;0;'individu [peut] couper [avec] hache'
+e;14470087;'::>66:68439>24:14470084';8;0;'individu [peut] couper [objet] main'
+e;14470090;'::>66:68439>24:14350860';8;0;'individu [peut] couper [objet] tête'
+e;141795;'membre';1;3754
+e;14470094;'::>66:68439>24:14470092';8;0;'individu [peut] couper [objet] membre'
+e;225916;'personne>24956';1;720;'personne>être humain'
+e;14485284;'::>66:225916>24:14334480';8;0;'personne>être humain [peut] couper [avec] couteau à viande'
+e;14485285;'::>66:225916>24:14435490';8;0;'personne>être humain [peut] couper [objet] rôti'
+e;75069;'incisive';1;1268
+e;20621;'aliments';1;2130
+e;14501095;'::>66:75069>24:14501093';8;0;'incisive [peut] couper [objet] aliments'
+e;55572;'steak';1;576
+e;14540353;'::>66:225916>24:14540351';8;0;'personne>être humain [peut] couper [objet] steak'
+e;14540363;'::>66:45133>24:14540351';8;0;'boucher [peut] couper [objet] steak'
+e;160927;'morceau de viande';1;150
+e;14540366;'::>66:45133>24:14540364';8;0;'boucher [peut] couper [objet] morceau de viande'
+e;28560;'courge';1;240
+e;14561168;'::>66:225916>24:14324560';8;0;'personne>être humain [peut] couper [avec] couteau'
+e;14561169;'::>66:225916>24:14561166';8;0;'personne>être humain [peut] couper [objet] courge'
+e;116477;'personne';1;10307
+e;94975;'portable';1;1329
+e;14572846;'::>66:116477>24:14572843';8;0;'personne [peut] couper [objet] portable'
+e;16530509;'::>66:225916>24:14326156';8;0;'personne>être humain [peut] couper [avec] hache'
+e;16530510;'::>66:225916>24:16530507';8;0;'personne>être humain [peut] couper [objet] jambe'
+e;142086;'jambe';1;3395
+e;17503253;'::>66:218749>24:17503251';8;0;'boucher>boucherie [peut] couper [avec] couteau de boucherie'
+e;17503247;'::>66:218749>24:14324557';8;0;'boucher>boucherie [peut] couper [objet] viande'
+e;42092;'planche à pain';1;64
+e;14851595;'::>66:225916>24:14851593';8;0;'personne>être humain [peut] couper [endroit] planche à pain'
+e;14851596;'::>66:225916>24:14389064';8;0;'personne>être humain [peut] couper [objet] pain'
+e;65066;'planche à découper';1;82
+e;14880188;'::>66:225916>24:14880186';8;0;'personne>être humain [peut] couper [endroit] planche à découper'
+e;14880189;'::>66:225916>24:14324557';8;0;'personne>être humain [peut] couper [objet] viande'
+e;43427;'cognée';1;60
+e;15660391;'::>66:225916>24:15660389';8;0;'personne>être humain [peut] couper [avec] cognée'
+e;15660392;'::>66:225916>24:14364057';8;0;'personne>être humain [peut] couper [objet] bois'
+e;191721;'filet mignon';1;34
+e;15686371;'::>66:225916>24:15686368';8;0;'personne>être humain [peut] couper [objet] filet mignon'
+e;15295811;'pinces coupantes';1;0
+e;15789592;'::>66:225916>24:15789590';8;0;'personne>être humain [peut] couper [avec] pinces coupantes'
+e;155220;'fil de fer';1;156
+e;15789595;'::>66:225916>24:15789593';8;0;'personne>être humain [peut] couper [objet] fil de fer'
+e;15605788;'en:cut somebody off';1;0
+e;15705595;'en:block somebody off';1;0
+e;15693343;'en:block something off';1;0
+e;15684449;'en:cut something out';1;0
+e;15693279;'en:break something up';1;0
+e;15705594;'en:cut across something';1;0
+e;15705593;'en:cut through something';1;0
+e;15628085;'en:close something off';1;0
+e;15625584;'en:cut something off';1;0
+e;15504720;'en:turn something off';1;0
+e;15705592;'en:slice something up';1;0
+e;15684450;'en:cut something up';1;0
+e;7013657;'en:cut down';1;0
+e;15420425;'en:be cut off';1;0
+e;14932097;'en:cut out';1;0
+e;15420424;'en:play your trump';1;0
+e;14948376;'en:blend';1;0
+e;7333724;'en:dilute';1;0
+e;15236485;'en:go across';1;0
+e;7290942;'en:cross';1;0
+e;14936891;'en:close';1;0
+e;14919572;'en:mute';1;0
+e;14932082;'en:disconnect';1;0
+e;14929379;'en:trim';1;0
+e;14925422;'en:carve';1;0
+e;7010697;'en:clip';1;0
+e;7171644;'en:slice';1;0
+e;14932666;'en:chop up';1;0
+e;14938153;'en:chip away';1;0
+e;14958025;'en:cut off';1;0
+e;14930474;'en:chop';1;0
+e;15200683;'en:chop down';1;0
+e;15200682;'en:slice off';1;0
+e;15200681;'en:scissor out';1;0
+e;15200680;'en:scissor up';1;0
+e;15060134;'en:snip';1;0
+e;15200679;'en:scissor off';1;0
+e;14925032;'en:lop';1;0
+e;15075698;'en:lop off';1;0
+e;15060460;'en:undercut';1;0
+e;15102150;'en:sever';1;0
+e;6805594;'en:cut';1;0
+e;14930666;'en:cut up';1;0
+e;13701;'technique';1;3729
+e;41239;'rondin';1;68
+e;16060139;'::>66:12764>24:16060137';8;0;'bûcheron [peut] couper [objet] rondin'
+e;4216;'menuisier';1;362
+e;120728;'planche';1;1437
+e;16165530;'::>66:4216>24:16165528';8;0;'menuisier [peut] couper [objet] planche'
+e;2392276;'rosbeef';1;0
+e;16311047;'::>66:68439>24:16311045';8;0;'individu [peut] couper [objet] rosbeef'
+e;85167;'pointes';1;62
+e;16324519;'::>66:125719>24:16324517';8;0;'coiffeuse [peut] couper [objet] pointes'
+e;16324520;'pointes de cheveux';1;0
+e;16324523;'::>66:125719>24:16324521';8;0;'coiffeuse [peut] couper [objet] pointes de cheveux'
+e;133151;'élagueur';1;60
+e;16494095;'::>66:133151>24:14326159';8;0;'élagueur [peut] couper [objet] arbre'
+e;235061;'couteau de boucher';1;20
+e;16533683;'::>66:45133>24:16533681';8;0;'boucher [peut] couper [avec] couteau de boucher'
+e;16533691;'::>66:225916>24:14540364';8;0;'personne>être humain [peut] couper [objet] morceau de viande'
+e;123307;'oignon';1;586
+e;16560395;'::>66:225916>24:16560393';8;0;'personne>être humain [peut] couper [objet] oignon'
+e;16560400;'::>66:225916>24:16560398';8;0;'personne>être humain [peut] couper [objet] légume'
+e;16344173;'en:chop away';1;0
+e;15075697;'en:chop off';1;0
+e;15102734;'en:hop up';1;0
+e;8718524;'couteau de boucherie';1;2
+e;17503246;'::>66:218749>24:14540351';8;0;'boucher>boucherie [peut] couper [objet] steak'
+e;45775;'boquillon';1;50
+e;16591877;'::>66:45775>24:14326156';8;0;'boquillon [peut] couper [avec] hache'
+e;16591878;'::>66:45775>24:14326159';8;0;'boquillon [peut] couper [objet] arbre'
+e;16591881;'::>66:225916>24:14326159';8;0;'personne>être humain [peut] couper [objet] arbre'
+e;16589544;'main>146881';1;0;'main>Nom:Fem+SG'
+e;16606981;'::>66:225916>24:16606979';8;0;'personne>être humain [peut] couper [objet] main>Nom:Fem+SG'
+e;152445;'fou furieux';1;110
+e;56280;'oreille';1;1895
+e;16607118;'::>66:152445>24:14324560';8;0;'fou furieux [peut] couper [avec] couteau'
+e;16607119;'::>66:152445>24:16607116';8;0;'fou furieux [peut] couper [objet] oreille'
+e;213823;'bois>29208';1;300;'bois>matière'
+e;16684622;'::>66:12764>24:16684620';8;0;'bûcheron [peut] couper [objet] bois>matière'
+e;1361615;'bûcheron>68439';1;6;'bûcheron>individu'
+e;16684625;'::>66:1361615>24:16684620';8;0;'bûcheron>individu [peut] couper [objet] bois>matière'
+e;164797;'côte de boeuf';1;258
+e;16789293;'::>66:45133>24:16789291';8;0;'boucher [peut] couper [objet] côte de boeuf'
+e;218749;'boucher>64437';1;64;'boucher>boucherie'
+e;16789296;'::>66:218749>24:16789291';8;0;'boucher>boucherie [peut] couper [objet] côte de boeuf'
+e;41894;'brique';1;442
+e;16902996;'::>66:225916>24:16902994';8;0;'personne>être humain [peut] couper [objet] brique'
+e;131523;'journaliste';1;3242
+e;17109798;'::>66:131523>24:17109796';8;0;'journaliste [peut] couper [objet] parole'
+e;132347;'sapin';1;834
+e;17219839;'::>66:225916>24:17219837';8;0;'personne>être humain [peut] couper [objet] sapin'
+e;17398636;'::>66:225916>24:14389066';8;0;'personne>être humain [peut] couper [avec] couteau à pain'
+e;106406;'bombardement';1;1614
+e;125506;'électricité';1;2064
+e;17501110;'::>66:106406>24:17501108';8;0;'bombardement [peut] couper [objet] électricité'
+e;12699523;'guillotine>5425';1;0;'guillotine>machine'
+e;17515509;'::>66:12699523>24:14350860';8;0;'guillotine>machine [peut] couper [objet] tête'
+e;70782;'pompier';1;674
+e;17532179;'::>66:70782>24:15789590';8;0;'pompier [peut] couper [avec] pinces coupantes'
+e;69797;'ouvrier';1;1899
+e;17532182;'::>66:69797>24:15789590';8;0;'ouvrier [peut] couper [avec] pinces coupantes'
+e;85457;'secouriste';1;160
+e;17532185;'::>66:85457>24:15789590';8;0;'secouriste [peut] couper [avec] pinces coupantes'
+e;213839;'couteau>121002';1;106;'couteau>ustensile'
+e;17536078;'::>66:225916>24:17536076';8;0;'personne>être humain [peut] couper [avec] couteau>ustensile'
+e;34624;'chêne';1;1321
+e;17543059;'::>66:12764>24:17543057';8;0;'bûcheron [peut] couper [objet] chêne'
+e;17543069;'::>66:12764>24:17543067';8;0;'bûcheron [peut] couper [avec] tronçonneuse'
+e;98796;'scierie';1;116
+e;17562773;'::>66:225916>24:17562771';8;0;'personne>être humain [peut] couper [endroit] scierie'
+e;159167;'ronces';1;64
+e;17563002;'::>66:33075>24:17563000';8;0;'jardinier [peut] couper [objet] ronces'
+e;116649;'charcutier';1;212
+e;2353714;'tranches de jambon';1;0
+e;17563629;'::>66:116649>24:17563627';8;0;'charcutier [peut] couper [objet] tranches de jambon'
+e;3751952;'tranches de jambon blanc';1;0
+e;17563632;'::>66:116649>24:17563630';8;0;'charcutier [peut] couper [objet] tranches de jambon blanc'
+e;3757833;'tranches de jambon cru';1;0
+e;17563635;'::>66:116649>24:17563633';8;0;'charcutier [peut] couper [objet] tranches de jambon cru'
+e;5808150;'trancheuse à jambon';777;0
+e;17563640;'::>66:116649>24:17563638';8;0;'charcutier [peut] couper [avec] trancheuse à jambon'
+e;17567254;'::>66:1361615>24:14326219';8;0;'bûcheron>individu [peut] couper [endroit] forêt'
+e;17567255;'::>66:1361615>24:14326159';8;0;'bûcheron>individu [peut] couper [objet] arbre'
+e;17567261;'::>66:1361615>24:14326156';8;0;'bûcheron>individu [peut] couper [avec] hache'
+e;109031;'clairière';1;94
+e;17567268;'::>66:1361615>24:17567266';8;0;'bûcheron>individu [peut] couper [endroit] clairière'
+e;217168;'lardons';1;224
+e;17577711;'::>66:225916>24:17577709';8;0;'personne>être humain [peut] couper [objet] lardons'
+e;63936;'tissu';1;2520
+e;17579588;'::>66:130778>24:17579586';8;0;'tailleur [peut] couper [objet] tissu'
+e;155699;'tissus';1;2278
+e;17579591;'::>66:130778>24:17579589';8;0;'tailleur [peut] couper [objet] tissus'
+e;120353;'branches';1;2627
+e;17586514;'::>66:133151>24:17586512';8;0;'élagueur [peut] couper [objet] branches'
+e;103702;'palette';1;156
+e;17588632;'::>66:225916>24:17588629';8;0;'personne>être humain [peut] couper [objet] palette'
+e;21038;'analyser';1;348
+e;34870;'inciser';1;106
+e;50985;'éluder';1;76
+e;105379;'fendiller';1;52
+e;18196;'moissonner';1;178
+e;94851;'échancrer';1;54
+e;39750;'moucher';1;210
+e;34286;'transiger';1;54
+e;100792;'fendre';1;134
+e;103855;'émonder';1;60
+e;48312;'stériliser';1;82
+e;87528;'faire';1;3930
+e;64953;'réséquer';1;50
+e;129086;'chaumer';1;50
+e;44798;'guérir';1;936
+e;20995;'passer au travers';1;56
+e;124771;'parole';1;2658
+e;12764;'bûcheron';1;380
+e;142707;'hache';1;352
+e;96256;'bois';1;5216
+e;61283;'pain';1;3616
+e;120603;'légume';1;2736
+e;107262;'tronçonneuse';1;320
+e;33075;'jardinier';1;536
+e;130778;'tailleur';1;246
+e;20235;'mutiler';1;66
+e;121747;'esquiver';1;80
+e;14549;'conjurer';1;70
+e;86306;'prendre';1;3669
+e;121529;'fêler';1;66
+e;18693;'lézarder';1;72
+e;127627;'décoller';1;264
+e;269601;'cutter>30843';1;50;'cutter>outil'
+e;91572;'narguer';1;80
+e;119483;'diluer';1;82
+e;95448;'charcuter';1;64
+e;16713;'écorcher';1;94
+e;46023;'ciseler';1;120
+e;117557;'piquer';1;1126
+e;131271;'aviver';1;58
+e;51160;'grappiller';1;54
+e;123460;'cicatrice';1;272
+e;41599;'guillotine';1;388
+e;115087;'tronquer';1;206
+e;122353;'partager';1;1575
+e;135582;'disséquer';1;86
+e;16826;'tasser';1;120
+e;105180;'éclaircir';1;116
+e;82567;'condenser';1;58
+e;29690;'fuir';1;1766
+e;44610;'disjoindre';1;88
+e;54271;'ouvrir';1;1702
+e;12137;'terminer';1;1433
+e;213838;'couteau>132542';1;108;'couteau>arme blanche'
+e;2344;'mouiller';1;662
+e;77554;'ébrancher';1;58
+e;88713;'ébarber';1;84
+e;29234;'élaguer';1;80
+e;47845;'détailler';1;192
+e;158341;'::>14:96211>29:54271>16';9;50;'Avec quoi pourrait-on ouvrir un coeur ?'
+e;326600;'::>14:96211>29:54271';8;50;'ouvrir [objet] coeur'
+e;218748;'boucher>96108';1;8;'boucher>obstruer'
+e;16810;'emporter';1;136
+e;119858;'tremper';1;346
+e;9341;'supprimer';1;1544
+e;102563;'additionner';1;114
+e;24145;'émarger';1;50
+e;2473871;'reséquer';1;0
+e;2490476;'chapler';1;0
+e;88663;'retrancher';1;66
+e;68459;'taillader';1;116
+e;19675;'diviser';1;812
+e;120230;'réduire';1;2909
+e;44310;'décomposer';1;68
+e;50781;'résumer';1;66
+e;88315;'émincer';1;172
+e;144217;'cocher';1;106
+e;54555;'haver';1;50
+e;64450;'obvier';1;50
+e;87414;'coupement';1;50
+e;86820;'surcouper';1;50
+e;87633;'abattre';1;332
+e;72449;'déranger';1;106
+e;23246;'expurger';1;52
+e;45711;'fouetter';1;222
+e;123090;'étendre';1;220
+e;116888;'débrancher';1;66
+e;80951;'chantourner';1;52
+e;29105;'opérer';1;474
+e;56726;'écorcer';1;52
+e;3224462;'séparer en deux';1;0
+e;29233;'censurer';1;50
+e;72364;'morceler';1;52
+e;26923;'amoindrir';1;102
+e;85286;'nettoyer';1;2472
+e;88885;'simplifier';1;96
+e;6405;'écorner';1;56
+e;112674;'échapper';1;1554
+e;62786;'exécuter';1;1192
+e;57328;'scarifier';1;54
+e;116753;'finir';1;2073
+e;9822;'amasser';1;84
+e;123430;'jeux';1;3767
+e;61407;'coiffure';1;1084
+e;18412;'élevage';1;992
+e;111740;'menuiserie';1;266
+e;24638;'concision';1;72
+e;126167;'supplice';1;276
+e;79428;'simplicité';1;1230
+e;92168;'hypocrisie';1;268
+e;125150;'annulation';1;190
+e;33645;'obstacle';1;425
+e;61147;'blessure';1;2492
+e;137764;'jeunesse';1;3148
+e;77419;'minéraux';1;2102
+e;140315;'liquide';1;3141
+e;9763;'croix';1;2882
+e;97324;'addition';1;742
+e;14800;'mélange';1;3110
+e;38945;'fraction';1;2531
+e;36673;'dissociation';1;78
+e;135501;'séparation';1;2813
+e;3233;'partie';1;3856
+e;16217;'coiffeur';1;900
+e;2810061;'égrapiller>73117';1;0;'égrapiller>égrapper'
+e;238834;'trancher>128828';1;76;'trancher>couper'
+e;27502;'prélever';1;74
+e;66024;'étêter';1;80
+e;43635;'entamer';1;106
+e;40379;'rogner';1;58
+e;57623;'balafrer';1;66
+e;41790;'abréger';1;78
+e;5193;'désunir';1;94
+e;214275;'cuisine>143757';1;2032;'cuisine>art culinaire'
+e;102206;'médecine';1;7408
+e;152552;'Cuisine';1;156
+e;14957;'écharper';1;52
+e;51683;'lever';1;1983
+e;86717;'mêler';1;92
+e;69801;'tempérer';1;84
+e;109061;'amenuiser';1;58
+e;73117;'égrapper';1;50
+e;2505917;'égrapiller';1;0
+e;157266;'lever>146882';1;50;'lever>Ver:Inf'
+e;31694;'coupage';1;96
+e;89153;'décolleter';1;54
+e;214699;'lame>132542';1;56;'lame>arme blanche'
+e;122929;'écimer';1;56
+e;84431;'atout';1;110
+e;64093;'croiser';1;124
+e;39738;'rafraîchir';1;230
+e;93913;'affaiblir';1;140
+e;62706;'doigt';1;2870
+e;108053;'entailler';1;136
+e;126398;'intercepter';1;64
+e;2810060;'égrapiller>51160';1;0;'égrapiller>grappiller'
+e;24346;'fermer';1;1308
+e;28781;'démonter';1;196
+e;143462;'couture';1;1244
+e;100192;'se croiser';1;74
+e;360079;'jeu de balle';1;54
+e;1776122;'cartes à jouer';1;34
+e;57835;'affect';1;90
+e;241431;'scier>128828';1;180;'scier>couper'
+e;56865;'sport';1;5429
+e;73685;'sports';1;2416
+e;61829;'châtrer';1;94
+e;63129;'séparer';1;2072
+e;39575;'tennis';1;2602
+e;1734533;'prendre un raccourci';1;6
+e;163882;'decouper';1;50
+e;143123;'tranche';1;618
+e;44002;'cisailler';1;80
+e;16414;'scie';1;490
+e;52255;'arbre';1;5528
+e;141705;'ongle';1;1562
+e;94546;'barrer';1;224
+e;395744;'couper en lanières';1;50
+e;140100;'viande';1;5110
+e;132650;'amputer';1;68
+e;102610;'éviter';1;3254
+e;3712;'traverser';1;1872
+e;32931;'raccourcir';1;180
+e;12105;'communication';1;3348
+e;152955;'arreter';1;50
+e;95616;'canif';1;302
+e;29750;'découpe';1;326
+e;313394;'couper à ras';1;50
+e;117947;'cutter';1;196
+e;48797;'raser';1;400
+e;16033;'cuisine';1;11756
+e;128683;'scier';1;388
+e;139377;'lame';1;1453
+e;26846;'coupure';1;539
+e;63509;'casser';1;1148
+e;98781;'ciseau';1;156
+e;112692;'sectionner';1;82
+e;437643;'couper fin';1;50
+e;37151;'mélanger';1;664
+e;87729;'jeu de cartes';1;438
+e;70406;'stopper';1;426
+e;49598;'tailler';1;544
+e;3224446;'être coupant';1;0
+e;15562;'blesser';1;1786
+e;141091;'coupe';1;3138
+e;97010;'fractionner';1;94
+e;118423;'interrompre';1;154
+e;28778;'arrêter';1;1741
+e;51126;'cheveux';1;3421
+e;50104;'ciseaux';1;542
+e;45686;'découper';1;1212
+e;32322;'trancher';1;1052
+e;32610;'couteau';1;4092
+e;239128;'_COM';36;50
+e;11182745;'couper>11182681';1;0;'couper>progresser à travers un fluide'
+e;11182500;'couper>124771';1;0;'couper>parole'
+e;11182775;'couper>81057';1;0;'couper>escrime'
+e;11182778;'couper>145605';1;0;'couper>danse'
+e;3178670;'couper>360079';1;0;'couper>jeu de balle'
+e;3224445;'couper>143462';1;0;'couper>couture'
+e;3224455;'couper>100192';1;0;'couper>se croiser'
+e;244941;'couper>61829';1;50;'couper>châtrer'
+e;3224453;'couper>1734533';1;0;'couper>prendre un raccourci'
+e;11182501;'couper>63129';1;0;'couper>séparer'
+e;244944;'couper>87729';1;62;'couper>jeu de cartes'
+e;244945;'couper>102610';1;52;'couper>éviter'
+e;244939;'couper>132650';1;54;'couper>amputer'
+e;244940;'couper>3712';1;50;'couper>traverser'
+e;11182499;'couper>94546';1;0;'couper>barrer'
+e;244943;'couper>37151';1;50;'couper>mélanger'
+e;244938;'couper>15562';1;50;'couper>blesser'
+e;3224449;'couper>3224446';1;0;'couper>être coupant'
+e;11182756;'couper>32931';1;10;'couper>raccourcir'
+e;244942;'couper>118423';1;64;'couper>interrompre'
+e;3224444;'couper>97010';1;6;'couper>fractionner'
+e;244937;'couper>32322';1;96;'couper>trancher'
+e;3413338;'Jeu de cartes';777;0
+e;12566931;'en:sports';1;2
+e;212235;'Ver:';4;50
+e;146882;'Ver:Inf';4;50
+e;32701;'aménagé';1;56
+e;14941384;'en:mincer';1;0
+e;14931040;'en:heartbreak';1;0
+e;14934832;'en:shredding';1;0
+e;6806583;'en:tearing';1;0
+e;14959348;'en:ripping';1;0
+e;14545;'déchirement';1;58
+e;10968;'cingle';1;50
+e;8190;'bloquant';1;50
+e;264126;'finie';1;1537
+e;160546;'enlevant';1;52
+e;16805;'stérilisant';1;62
+e;245902;'supprimée';1;50
+e;2086684;'tempéra';2;0
+e;156708;'terminant';1;76
+e;136754;'tranches';1;80
+e;43902;'mêlant';1;50
+e;160133;'déchire';1;50
+e;15089906;'en:intersect';1;0
+e;15090572;'en:sunder';1;0
+e;15488725;'en:demerge';1;0
+e;7441026;'en:divide';1;0
+e;8049832;'en:segment';1;0
+e;15420435;'couper [qch] en lamelles';1;0
+e;15742972;'couper quelque chose en lamelles';1;0
+e;34522;'subdiviser';1;68
+e;7234;'cloisonner';1;74
+e;7881;'fragmenter';1;72
+e;140902;'étoffe';1;336
+e;45236;'établir';1;2405
+e;36589;'prolonger';1;66
+e;110978;'rapprocher';1;1837
+e;81924;'rassembler';1;252
+e;9261;'rétablir';1;1158
+e;62519;'connecter';1;100
+e;134189;'panser';1;162
+e;2262;'réunir';1;1285
+e;68391;'souder';1;196
+e;107768;'cicatriser';1;140
+e;98744;'grouper';1;114
+e;15392;'lier';1;580
+e;105111;'bander';1;566
+e;112617;'unir';1;302
+e;105133;'agrandir';1;422
+e;122662;'allonger';1;252
+e;24656;'assembler';1;874
+e;120659;'continuer';1;2360
+e;84096;'éterniser';1;52
+e;102392;'ligaturer';1;50
+e;51947;'maintenir';1;2886
+e;132529;'recoudre';1;340
+e;20342;'suturer';1;120
+e;69384;'installer';1;153
+e;6316563;'conductrice de machine à couper le tabac';1;0
+e;6417295;'couper les ongles du patient';1;0
+e;14159724;'couper du monde';1;0
+e;14159726;'couper le contact';1;0
+e;14159727;'couper les ailes de';1;0
+e;14159725;'couper la ligne';1;0
+e;14547887;'se couper la barbe';1;50
+e;14610051;'couper quelque chose en dés';1;0
+e;14610052;'couper un ingrédient en dés';1;0
+e;15319930;'se faire couper les cheveux au carré';1;0
+e;437331;'pelé et coupé';1;50
+e;14488560;'se couper les ongles de pied';1;14
+e;14530738;'couper l'herbe';1;0
+e;14536145;'couper la climatisation';1;0
+e;14536151;'couper la clim';1;0
+e;14557713;'couper le chauffage';1;16
+e;14566638;'couper menu';1;0
+e;14571104;'couper le cou';1;0
+e;14757667;'couper les fleurs fanées';1;16
+e;2407169;'sous-couper';1;0
+e;6430414;'conducteur de machine à couper et à plier le carton';1;0
+e;10987680;'couper le gaz';1;0
+e;5828480;'céleri à couper';777;0
+e;8012816;'se couper les poils';1;0
+e;9980189;'avoir inventé le fil à couper le beurre';1;0
+e;10913728;'couper une tête';1;0
+e;11826567;'La Main à couper';777;0
+e;15209098;'couper au couteau';1;0
+e;15209106;'couper en deux morceaux';1;0
+e;15209097;'couper en tranche';1;0
+e;15255550;'couper l'herbe sous le pied de qn';1;0
+e;15209101;'couper le courant';1;0
+e;15263495;'couper le sifflet à quelqu'un';1;0
+e;15304786;'couper le souffle de quelqu'un';1;0
+e;15255552;'couper les vivres a qn';1;0
+e;15230750;'couper un cheveu en quatre';1;0
+e;15209108;'couper à travers champs';1;0
+e;15238511;'couper à travers la ville/champs';1;0
+e;15484518;'Ça ne se fait pas de couper la parole.';1;0
+e;15420428;'à vous couper le souffle';1;0
+e;16044628;'épais à couper au couteau';1;0
+e;10789752;'couper ses cheveux';1;0
+e;11932616;'pour trouver la vérité, je dois vous couper les ongles';1;0
+e;15369905;'se faisant couper les cheveux';1;0
+e;15369898;'se fait couper les cheveux';1;0
+e;15212690;'Les panoramas sont littéralement à vous couper le souffle.';1;0
+e;2438481;'inventer le fil à couper le beurre';1;0
+e;17414101;'couper l'eau';1;66
+e;15420039;'planche à couper le pain';1;0
+e;15351903;'plutôt me couper un bras';1;0
+e;15407786;'mettre sa main à couper';1;0
+e;2376023;'en mettre sa tête à couper';1;0
+e;15570229;'le fil à couper le beurre';1;0
+e;15362109;'machine à couper les carreaux';1;0
+e;15570227;'il n'a pas inventé le fil à couper le beurre !';1;0
+e;15351901;'je préfère encore me couper un bras';1;0
+e;17393202;'couper la tête d'une personne';1;0
+e;5898818;'L'Amour à couper le souffle';777;0
+e;3730759;'couper-coller>171870';1;0;'couper-coller>Nom:'
+e;3730760;'couper-coller>146882';1;0;'couper-coller>Ver:Inf'
+e;8718527;'couper de la viande';1;0
+e;8737161;'couper des arbres';1;0
+e;8785959;'se couper le doigt avec une feuille';1;0
+e;8816744;'couper des barreaux';1;0
+e;9042335;'couper-collé>161702';1;0;'couper-collé>Ver:PPas'
+e;9042336;'couper-collé>171869';1;0;'couper-collé>Adj:'
+e;9247656;'se couper les ongles de pieds';1;4
+e;9448206;'couper en moitiés';1;0
+e;9448173;'couper fruit en moitie';1;0
+e;9448202;'couper en moitié';1;0
+e;9507685;'couper en long';1;0
+e;9669141;'couper la viande';1;2
+e;11136575;'couper des têtes';1;0
+e;12625201;'couper le buste à hauteur de la poitrine';1;0
+e;12625200;'couper le buste à hauteur des épaules';1;0
+e;15224630;'C'est impoli de couper la parole aux gens.';1;0
+e;15420458;'couper les vivres à [qqn]';1;0
+e;15420426;'couper à [qch]';1;0
+e;15420433;'couper court à [qch]';1;0
+e;15369895;'Je vais me faire couper les cheveux.';1;0
+e;15978824;'couper les oignons';1;0
+e;15484512;'On peut couper par la forêt.';1;0
+e;15420432;'couper [qch/qqn] au montage';1;0
+e;15420434;'couper [qch] en dégradé';1;0
+e;15420436;'couper [qch] en rondelles';1;0
+e;15420437;'couper [qch] en tranches';1;0
+e;15416330;'couper au plus court';1;0
+e;15560909;'couper avec des ciseaux';1;0
+e;16038024;'couper comme un rasoir';1;0
+e;15625586;'couper court à quelque chose';1;0
+e;15481309;'couper en oblique';1;0
+e;15957712;'couper en tranche fine';1;0
+e;15632275;'couper l'appétit à';1;0
+e;15420438;'couper l'appétit à [qqn]';1;0
+e;15401139;'couper l'appétit à qn';1;0
+e;15519966;'couper l'appétit à quelqu'un';1;0
+e;15684637;'couper l'herbe sous le pied de';1;0
+e;15417682;'couper l'herbe sous le pied de [qqn]';1;0
+e;15684636;'couper l'herbe sous le pied de quelqu'un';1;0
+e;15401136;'couper l'herbe sous les pieds';1;0
+e;15742979;'couper la chique à';1;0
+e;15420440;'couper la chique à [qqn]';1;0
+e;15742978;'couper la chique à quelqu'un';1;0
+e;15420442;'couper la parole à [qqn]';1;0
+e;15484509;'couper la parole à qn';1;0
+e;15605789;'couper la parole à quelqu'un';1;0
+e;15667918;'couper la route à';1;0
+e;15418077;'couper la route à [qqn]';1;0
+e;15667917;'couper la route à quelqu'un';1;0
+e;15333957;'couper le cordon ombilical';1;0
+e;16042521;'couper le cou à';1;0
+e;15420449;'couper le moteur';1;0
+e;16042522;'couper le noeud gordien';1;0
+e;15742980;'couper le sifflet à';1;0
+e;15420452;'couper le sifflet à [qqn]';1;0
+e;16042523;'couper le souffle à';1;0
+e;15573635;'couper les crédits à qc';1;0
+e;15420453;'couper les jambes';1;0
+e;15420454;'couper les pattes';1;0
+e;15742982;'couper les pattes à';1;0
+e;15420455;'couper les pattes à [qqn]';1;0
+e;15742981;'couper les pattes à quelqu'un';1;0
+e;15742987;'couper les ponts avec';1;0
+e;15420456;'couper les ponts avec [qqn]';1;0
+e;15352157;'couper les ponts avec qn';1;0
+e;15742986;'couper les ponts avec quelqu'un';1;0
+e;16042524;'couper les ponts derrière';1;0
+e;16042525;'couper les ponts derrière soi';1;0
+e;15744192;'couper les vivres a quelqu'un';1;0
+e;15742990;'couper les vivres à';1;0
+e;15582897;'couper les vivres à qn';1;0
+e;15742989;'couper les vivres à quelqu'un';1;0
+e;15367393;'couper qch en julienne';1;0
+e;15584769;'couper qch en quatre';1;0
+e;15375381;'couper qch en tranches';1;0
+e;15742969;'couper quelque chose en dégradé';1;0
+e;15664499;'couper quelque chose en julienne';1;0
+e;15742975;'couper quelque chose en rondelles';1;0
+e;15742977;'couper quelque chose en tranches';1;0
+e;15420459;'couper ses liens avec le passé';1;0
+e;15420461;'couper un virage';1;0
+e;15705596;'couper à quelque chose';1;0
+e;16311050;'couper quelque chose';1;0
+e;589217;'couper en trois';1;0
+e;1969835;'couper en tranches fines';1;0
+e;1971180;'couper en quartiers';1;0
+e;5019962;'fil à couper';777;0
+e;5002283;'couper du bois';1;64
+e;5486783;'outil pour couper';1;0
+e;1781267;'couper en dés';1;0
+e;3187943;'couper-collé';1;0
+e;5059368;'couper en cubes';1;0
+e;5162216;'se couper la main>26846';1;0;'se couper la main>coupure'
+e;1747275;'couper en rondelles';1;0
+e;2567913;'couper les coins ronds';1;0
+e;3314833;'couper du pain';1;0
+e;5304878;'couper les couilles';1;0
+e;1781268;'couper en gros morceaux';1;0
+e;2344506;'couper en petits cubes';1;0
+e;2559542;'couper le mal à la racine';1;0
+e;3706013;'se couper en se rasant';1;0
+e;1936237;'couper en mirepoix';1;0
+e;2528062;'couper au gros';1;0
+e;5162215;'se couper la main';1;2
+e;1629628;'couper le souffle>91691';1;0;'couper le souffle>surprise'
+e;1773471;'le souffle couper';1;0
+e;1971985;'couper en tronçons';1;0
+e;2355962;'couper le feu';1;2
+e;5162217;'se couper la main>40219';1;0;'se couper la main>amputation'
+e;2339990;'couper en chiffonnade';1;0
+e;589214;'couper en quatre';1;0
+e;1629627;'couper le souffle>79901';1;0;'couper le souffle>essouflement'
+e;1747273;'couper en tranches';1;0
+e;3298166;'couper la frange';1;0
+e;3706336;'se couper avec un morceau de verre';1;0
+e;1936238;'couper en paysanne';1;0
+e;3753345;'poivrons rouges grillés en bocal à couper en petits dés';1;0
+e;1935091;'couper en lamelles';1;0
+e;1936236;'couper en brunoise';1;0
+e;1936235;'couper en julienne';1;0
+e;2525663;'en donner sa tête à couper';1;0
+e;3707553;'couper le pain';1;0
+e;3997205;'couper au court';1;0
+e;1873663;'action de couper';1;0
+e;338960;'belle à vous couper le souffle';1;50
+e;338953;'belle à couper le souffle';1;50
+e;330945;'couper le son';1;56
+e;174454;'entre-couper';1;50
+e;306027;'couper-coller';777;50
+e;318707;'brouillard à couper au couteau';1;50
+e;316364;'se faire couper la tête';1;50
+e;239151;'se couper les veines';1;50
+e;253669;'se couper les ongles';1;106
+e;254211;'se faire couper les cheveux';1;52
+e;256474;'se couper les cheveux';1;10
+e;256733;'se couper du monde';1;54
+e;261072;'à couper le souffle';1;52
+e;118387;'se couper';1;166
+e;160612;'à couper le beurre';1;50
+e;239957;'accent à couper au couteau';1;52
+e;245403;'avoir un accent à couper au couteau';1;50
+e;249956;'couper en morceaux';1;52
+e;251909;'couper de nouveau';1;4
+e;257962;'couper la communication';1;58
+e;261712;'couper l'appétit';1;50
+e;313388;'couper court>51126';1;50;'couper court>cheveux'
+e;313389;'couper court>93565';1;54;'couper court>mettre fin à'
+e;238512;'couper la route';1;12
+e;242773;'couper la faim';1;2
+e;244181;'couper la tête';1;22
+e;233523;'couper un arbre';1;2
+e;227226;'couper le cordon';1;102
+e;219108;'couper les cheveux';1;76
+e;271745;'aller se faire couper les cheveux';1;50
+e;64206;'couper court';1;60
+e;106271;'couper le sifflet';1;52
+e;107598;'couper la poire en deux';1;58
+e;162907;'couper les ongles';1;94
+e;131573;'donner sa tête à couper';1;50
+e;155818;'fil à couper le beurre';1;60
+e;186000;'en mettre sa main à couper';1;50
+e;186561;'ne pas avoir inventé le fil à couper le beurre';1;50
+e;195373;'à couper au couteau';1;50
+e;270858;'couper les cartes';1;50
+e;85431;'couper les cheveux en quatre';1;76
+e;157893;'couper l'herbe sous le pied';1;54
+e;81096;'couper bras et jambes';1;50
+e;98230;'couper à';1;54
+e;28045;'couper là';1;50
+e;186509;'mettre sa tête à couper';1;50
+e;198852;'donner sa main à couper';1;50
+e;132932;'couper la parole';1;54
+e;185861;'couper les vivres';1;50
+e;185859;'couper la chique';1;50
+e;185860;'couper les oreilles';1;50
+e;185858;'couper dans le vif';1;50
+e;185862;'couper sec';1;50
+e;198065;'couper le souffle';1;52
+e;198063;'couper la gorge à';1;50
+e;198066;'couper les gaz';1;50
+e;198068;'couper net';1;50
+e;198064;'couper la parole à';1;50
+e;198060;'couper court à';1;50
+e;198062;'couper la balle';1;50
+e;198067;'couper les ponts';1;50
+e;14326245;'::>66:14326161>15:146632';8;0;'bûcheron [peut] couper [objet] arbre [lieu] forêt'
+e;17543060;'::>66:17543059>15:146632';8;0;'bûcheron [peut] couper [objet] chêne [lieu] forêt'
+e;17562999;'::>66:33075>24:128828';8;0;'jardinier [peut] couper'
+e;17567269;'::>66:17567255>15:109031';8;0;'bûcheron>individu [peut] couper [objet] arbre [lieu] clairière'
+e;17567256;'::>66:17567255>15:146632';8;0;'bûcheron>individu [peut] couper [objet] arbre [lieu] forêt'
+e;3263355;'cuisinier>20965>116477';1;2;'cuisinier>nourriture>personne'
+e;17562774;'::>66:15660392>15:98796';8;0;'personne>être humain [peut] couper [objet] bois [lieu] scierie'
+e;14380786;'::>66:14380785>15:89587';8;0;'coiffeuse>cheveux>personne [peut] couper [objet] cheveux [lieu] salon de coiffure'
+e;14380781;'::>66:14380780>15:89587';8;0;'coiffeuse>cheveux [peut] couper [objet] cheveux [lieu] salon de coiffure'
+e;14380728;'::>66:14334043>15:89587';8;0;'coiffeuse [peut] couper [objet] cheveux [lieu] salon de coiffure'
+e;14380725;'::>66:14334040>15:89587';8;0;'coiffeur [peut] couper [objet] cheveux [lieu] salon de coiffure'
+e;14380719;'::>66:14334040>15:16217';8;0;'coiffeur [peut] couper [objet] cheveux [lieu] coiffeur'
+e;17563626;'::>66:116649>24:128828';8;0;'charcutier [peut] couper'
+e;17579585;'::>66:130778>24:128828';8;0;'tailleur [peut] couper'
+e;17496555;'::>66:17496554>15:230486';8;0;'personne>être humain [peut] couper [objet] fromage [lieu] crèmerie'
+e;17515508;'::>66:12699523>24:128828';8;0;'guillotine>machine [peut] couper'
+e;17532178;'::>66:70782>24:128828';8;0;'pompier [peut] couper'
+e;17532181;'::>66:69797>24:128828';8;0;'ouvrier [peut] couper'
+e;17532184;'::>66:85457>24:128828';8;0;'secouriste [peut] couper'
+e;15596228;'en:person with dependents';1;0
+e;15418340;'chargée de famille';1;0
+e;197484;'chargé de famille';1;52
+e;15418339;'en:head of the family';1;0
+e;15835720;'en:with family responsibilities';1;0
+e;17501107;'::>66:106406>24:128828';8;0;'bombardement [peut] couper'
+e;14450959;'::>66:14450958>15:64437';8;0;'boucher [peut] couper [objet] morceaux de viande [lieu] boucherie'
+e;17464190;'::>66:3759796>24:128828';8;0;'électricien>individu [peut] couper'
+e;17464182;'::>66:1991494>24:128828';8;0;'assaillants [peut] couper'
+e;17464187;'::>66:30227>24:128828';8;0;'électricien [peut] couper'
+e;269198;'chirurgien>59071';1;22;'chirurgien>médecin'
+e;103082;'chirurgien';1;1095
+e;241396;'appareil agricole';1;50
+e;165295;'katana';1;50
+e;216283;'dent>45311';1;284;'dent>dentaire'
+e;97220;'couturière';1;460
+e;136892;'faucille';1;72
+e;92019;'barbier';1;228
+e;110821;'cannibale';1;140
+e;399063;'surjeteuse';1;50
+e;131424;'diabétique';1;74
+e;253411;'robot>184133';1;44;'robot>robot ménager'
+e;1449;'diamantaire';1;60
+e;118704;'coupeur';1;128
+e;12875;'robot';1;1471
+e;160692;'boucher>146888';1;50;'boucher>Adj:Mas+SG'
+e;60902;'dent';1;3454
+e;160691;'boucher>146885';1;50;'boucher>Nom:Mas+SG'
+e;4388861;'morceau de verre';1;68
+e;9188363;'couteau>121002>64437';1;2;'couteau>ustensile>boucherie'
+e;244790;'couteau>121002>8029';1;54;'couteau>ustensile>arts'
+e;256657;'couteau>121002>16033';1;8;'couteau>ustensile>cuisine'
+e;256658;'couteau>121002>1451';1;54;'couteau>ustensile>couvert'
+e;613178;'boucher>171870';1;0;'boucher>Nom:'
+e;1778693;'dent incisive';1;0
+e;14880190;'::>66:14880189>15:65066';8;0;'personne>être humain [peut] couper [objet] viande [lieu] planche à découper'
+e;14851597;'::>66:14851596>15:42092';8;0;'personne>être humain [peut] couper [objet] pain [lieu] planche à pain'
+e;45202;'ébéniste';1;126
+e;14380778;'::>66:216285>24:128828';8;0;'coiffeuse>cheveux [peut] couper'
+e;613179;'boucher>171869';1;0;'boucher>Adj:'
+e;224906;'scie>30843';1;34;'scie>outil'
+e;14501092;'::>66:75069>24:128828';8;0;'incisive [peut] couper'
+e;16165527;'::>66:4216>24:128828';8;0;'menuisier [peut] couper'
+e;14380783;'::>66:10497993>24:128828';8;0;'coiffeuse>cheveux>personne [peut] couper'
+e;16494094;'::>66:133151>24:128828';8;0;'élagueur [peut] couper'
+e;14334037;'::>66:16217>24:128828';8;0;'coiffeur [peut] couper'
+e;16591876;'::>66:45775>24:128828';8;0;'boquillon [peut] couper'
+e;14435489;'::>66:197509>24:128828';8;0;'chef de famille [peut] couper'
+e;16684624;'::>66:1361615>24:128828';8;0;'bûcheron>individu [peut] couper'
+e;16607115;'::>66:152445>24:128828';8;0;'fou furieux [peut] couper'
+e;14350866;'::>66:60337>24:128828';8;0;'bourreau [peut] couper'
+e;14350859;'::>66:41599>24:128828';8;0;'guillotine [peut] couper'
+e;17109795;'::>66:131523>24:128828';8;0;'journaliste [peut] couper'
+e;14473344;'::>66:39621>24:128828';8;0;'marin [peut] couper'
+e;16789295;'::>66:218749>24:128828';8;0;'boucher>boucherie [peut] couper'
+e;14324556;'::>66:45133>24:128828';8;0;'boucher [peut] couper'
+e;14326155;'::>66:12764>24:128828';8;0;'bûcheron [peut] couper'
+e;14334042;'::>66:125719>24:128828';8;0;'coiffeuse [peut] couper'
+e;14334479;'::>66:68439>24:128828';8;0;'individu [peut] couper'
+e;14356607;'::>66:143042>24:128828';8;0;'pilote [peut] couper'
+e;14485283;'::>66:225916>24:128828';8;0;'personne>être humain [peut] couper'
+e;14572842;'::>66:116477>24:128828';8;0;'personne [peut] couper'
+e;97845;'gazon';1;572
+e;17588630;'::>66:103702>26:128828';8;0;'palette [se faire] couper'
+e;65364;'morceau';1;2342
+e;17586513;'::>66:120353>26:128828';8;0;'branches [se faire] couper'
+e;37993;'feuille';1;2743
+e;17579590;'::>66:155699>26:128828';8;0;'tissus [se faire] couper'
+e;17579587;'::>66:63936>26:128828';8;0;'tissu [se faire] couper'
+e;17577710;'::>66:217168>26:128828';8;0;'lardons [se faire] couper'
+e;17563634;'::>66:3757833>26:128828';8;0;'tranches de jambon cru [se faire] couper'
+e;17563631;'::>66:3751952>26:128828';8;0;'tranches de jambon blanc [se faire] couper'
+e;17563628;'::>66:2353714>26:128828';8;0;'tranches de jambon [se faire] couper'
+e;17563001;'::>66:159167>26:128828';8;0;'ronces [se faire] couper'
+e;17543058;'::>66:34624>26:128828';8;0;'chêne [se faire] couper'
+e;233346;'route>215052';1;206;'route>voie de circulation'
+e;227776;'souffle>132952';1;10;'souffle>respiration'
+e;121678;'route';1;4574
+e;145252;'souffle';1;1857
+e;151922;'ongles';1;402
+e;218741;'pointe>123981';1;26;'pointe>extrémité'
+e;228350;'parole>141880';1;76;'parole>propos'
+e;233140;'tête>145953';1;32;'tête>visage'
+e;48881;'couilles';1;200
+e;152380;'cartes';1;3212
+e;128482;'baguette';1;1932
+e;264651;'mélèze>52255';1;50;'mélèze>arbre'
+e;314136;'buf>140100';1;50;'buf>viande'
+e;215037;'boeuf>140100';1;454;'boeuf>viande'
+e;228987;'légume>113902';1;176;'légume>alimentation'
+e;115155;'foie';1;1393
+e;109785;'peau';1;3979
+e;249571;'espèce végétale';1;46
+e;215937;'plante>3674';1;812;'plante>botanique'
+e;151749;'plante verte';1;128
+e;170651;'peuplier noir';1;2
+e;220528;'patate>132757';1;62;'patate>pomme de terre'
+e;252388;'clim réversible';1;68
+e;109533;'pizza';1;602
+e;265071;'rosacée>145941';1;2;'rosacée>plante'
+e;251436;'viande dure';1;50
+e;251363;'morphine-base';1;50
+e;263044;'plaquette de chocolat';1;2
+e;251177;'viande d'agneau';1;16
+e;261134;'organe>112609>34503';1;50;'organe>anatomie>pénis'
+e;230329;'panettone';1;8
+e;262000;'caille>140100';1;60;'caille>viande'
+e;153902;'viande de boeuf';1;380
+e;213540;'pêche>87286';1;82;'pêche>fruit'
+e;144497;'verre';1;3892
+e;251158;'tranche de viande';1;16
+e;250883;'drap de laine';1;8
+e;228897;'viande bovine';1;160
+e;257883;'aile de poulet';1;52
+e;247071;'tartine>228308';1;112;'tartine>tranche de pain'
+e;227845;'asperge>153580';1;4;'asperge>plante potagère'
+e;241788;'triple crème';1;50
+e;218065;'papier>155546';1;82;'papier>feuille de papier'
+e;15386;'citron';1;1102
+e;76046;'oreilles';1;1663
+e;1277;'coing';1;68
+e;151759;'tarte aux pommes';1;132
+e;214995;'main>157827';1;448;'main>partie du corps'
+e;244270;'poil de barbe';1;4
+e;144697;'comté';1;3760
+e;38257;'poivron';1;256
+e;151599;'tarte au citron';1;136
+e;165965;'poil pubien';1;92
+e;145941;'plante';1;5551
+e;205852;'pomme à couteau';1;50
+e;215004;'pomme>87286';1;344;'pomme>fruit'
+e;156302;'sapin de Noël';1;166
+e;1372780;'oignon>153580>16033';1;10;'oignon>plante potagère>cuisine'
+e;216022;'pied>3674';1;16;'pied>botanique'
+e;101934;'pastèque';1;82
+e;1731944;'noire de Crimée';1;0
+e;237068;'coeur de boeuf';1;52
+e;1731870;'tomate ananas';1;0
+e;383986;'tomate verte';1;50
+e;1731943;'tomate coeur de boeuf';1;0
+e;1754476;'tomate coeur-de-boeuf';1;0
+e;1754475;'tomate Roma';1;0
+e;217700;'cou d'oie farci';1;50
+e;187568;'gousse d'ail';1;26
+e;95708;'oignons';1;252
+e;399614;'artichauts';1;54
+e;147183;'pommes';1;2136
+e;286459;'pavé de saumon';1;52
+e;26979;'ail';1;774
+e;165580;'potimarron';1;64
+e;221412;'branche>52255';1;26;'branche>arbre'
+e;152432;'steack';1;156
+e;117533;'fleurs';1;3402
+e;57980;'jambon';1;1024
+e;575;'tarte';1;1126
+e;2149;'gâteau';1;3674
+e;163027;'pain de campagne';1;104
+e;37201;'pomme';1;2551
+e;400394;'viandes';1;122
+e;1968665;'tranches de pain';1;0
+e;195151;'citrons';1;52
+e;1971256;'escalopes de poulet';1;0
+e;190899;'bleu d'Auvergne';1;60
+e;420592;'cornichons';1;54
+e;127874;'couenne';1;94
+e;437029;'figues séchées';1;52
+e;8485;'champignons';1;2263
+e;75263;'muffin';1;60
+e;220974;'haricots verts';1;68
+e;38340;'roquefort';1;164
+e;11017;'panais';1;68
+e;98184;'endive';1;110
+e;1974102;'bâtonnets de surimi';1;0
+e;104000;'lotte';1;96
+e;195334;'carottes';1;212
+e;1971744;'champignons de Paris';1;0
+e;35798;'vin';1;4620
+e;336466;'arrivée d'air';1;50
+e;417614;'mozza';1;52
+e;214177;'pomme Dauphine';1;50
+e;224623;'pomme dauphine';1;14
+e;17464184;'::>66:2708239>26:128828';8;0;'alimentation électrique [se faire] couper'
+e;3180374;'Triple crème';777;0
+e;3186373;'Noire de Crimée';777;0
+e;25484;'champignon';1;1296
+e;161439;'verre ballon';1;110
+e;237789;'T-bone steack';1;2
+e;279506;'Côte à l'os';777;50
+e;219719;'oignon>153580';1;110;'oignon>plante potagère'
+e;168216;'buf';1;1065
+e;146273;'caille';1;246
+e;26732;'asperge';1;96
+e;5531;'patate';1;480
+e;104789;'avocat';1;2551
+e;150302;'rosacée';1;76
+e;112980;'mélèze';1;56
+e;103389;'papier';1;3174
+e;25337;'tartine';1;676
+e;2549497;'hachich';1;0
+e;97864;'haschisch';1;78
+e;25192;'hachisch';1;50
+e;2558207;'hachish';1;0
+e;2469301;'hashish';1;2
+e;15349123;'en:wine glass';1;0
+e;15340501;'en:tomme cheese';1;0
+e;7030648;'en:beef';1;0
+e;9083861;'en:onions';1;0
+e;148102;'extrémités';1;1651
+e;6912949;'en:hair';1;0
+e;405965;'hair';1;54
+e;8126379;'en:muffin';1;0
+e;8125649;'en:pizza';1;0
+e;7053108;'en:plant';1;4
+e;17501109;'::>66:125506>26:128828';8;0;'électricité [se faire] couper'
+e;6824;'plant';1;194
+e;107499;'bavette';1;102
+e;218941;'poisson>20965';1;336;'poisson>nourriture'
+e;218940;'poisson>17559';1;590;'poisson>animal'
+e;11287397;'morceaux de béton';1;0
+e;6803337;'en:finger';1;0
+e;2324883;'onions';1;0
+e;1780870;'finger';1;0
+e;245011;'::>66:37201>17:166117';8;50;'pomme [carac] talée'
+e;234390;'corne>117095';1;44;'corne>zoologie'
+e;14321733;'tome>141687';1;0;'tome>fromage'
+e;14324558;'::>66:140100>26:128828';8;0;'viande [se faire] couper'
+e;14326160;'::>66:52255>26:128828';8;0;'arbre [se faire] couper'
+e;14334039;'::>66:51126>26:128828';8;0;'cheveux [se faire] couper'
+e;14364058;'::>66:96256>26:128828';8;0;'bois [se faire] couper'
+e;14356609;'::>66:332372>26:128828';8;0;'réacteurs [se faire] couper'
+e;14350861;'::>66:144846>26:128828';8;0;'tête [se faire] couper'
+e;14389065;'::>66:61283>26:128828';8;0;'pain [se faire] couper'
+e;141917;'tome';1;2509
+e;14400447;'::>66:141687>26:128828';8;0;'fromage [se faire] couper'
+e;14435491;'::>66:19636>26:128828';8;0;'rôti [se faire] couper'
+e;14450954;'::>66:2845232>26:128828';8;0;'morceaux de viande [se faire] couper'
+e;14473346;'::>66:8595>26:128828';8;0;'corde [se faire] couper'
+e;14470093;'::>66:141795>26:128828';8;0;'membre [se faire] couper'
+e;14470085;'::>66:81934>26:128828';8;0;'main [se faire] couper'
+e;14501094;'::>66:20621>26:128828';8;0;'aliments [se faire] couper'
+e;14485851;'viande de boeuf grillée';1;0
+e;14540365;'::>66:160927>26:128828';8;0;'morceau de viande [se faire] couper'
+e;14540352;'::>66:55572>26:128828';8;0;'steak [se faire] couper'
+e;1731868;'tomate roma';1;0
+e;14561167;'::>66:28560>26:128828';8;0;'courge [se faire] couper'
+e;14572844;'::>66:94975>26:128828';8;0;'portable [se faire] couper'
+e;142537;'cercle';1;3113
+e;162090;'sapin de noël';1;58
+e;14722653;'drap>140902';1;0;'drap>étoffe'
+e;252527;'fils>128782';1;50;'fils>fil'
+e;15410628;'en:keeled chest';1;0
+e;15082358;'en:wineglass';1;0
+e;15260326;'en:schitzel';1;0
+e;16060138;'::>66:41239>26:128828';8;0;'rondin [se faire] couper'
+e;14941580;'en:hashish';1;0
+e;14935513;'en:ail';1;0
+e;15218069;'en:clove of garlic';1;0
+e;15237240;'en:vanilla pod';1;0
+e;15118584;'en:filet mignon';1;0
+e;14930454;'en:pod';1;0
+e;15290043;'en:white sausage';1;0
+e;15360536;'en:balloon glass';1;0
+e;8055005;'en:lamb';1;0
+e;15132966;'en:apple pie';1;0
+e;14927522;'en:chestnut';1;0
+e;15686370;'::>66:191721>26:128828';8;0;'filet mignon [se faire] couper'
+e;15203200;'en:lemon pie';1;10
+e;15346113;'en:air inlet';1;0
+e;15340416;'en:carrots';1;0
+e;15340415;'en:core samples';1;0
+e;14935866;'en:rib steak';1;0
+e;14930475;'en:cutlet';1;0
+e;15047673;'en:chicken breast';1;0
+e;14936366;'en:escalope';1;0
+e;14922634;'en:French stick';1;0
+e;15789594;'::>66:155220>26:128828';8;0;'fil de fer [se faire] couper'
+e;15220317;'caillé de brebis';1;0
+e;15200403;'en:stemmed glass';1;0
+e;15250120;'en:carinate breast';1;0
+e;15207610;'en:duck breast';1;0
+e;2339404;'tranche de bacon';1;0
+e;15114210;'en:chicken wing';1;0
+e;14922631;'en:baguette';1;0
+e;15195162;'en:farmhouse bread';1;0
+e;15196744;'en:ewe cheese';1;0
+e;15220318;'en:ewe's milk cheese';1;0
+e;15220322;'en:sheep's cheese';1;0
+e;15421342;'en:sheep's milk cheese';1;0
+e;152886;'verre à vin';1;70
+e;1858814;'thorax en bréchet';777;0
+e;15232596;'en:rasher of bacon';1;0
+e;21256;'verre à pied';1;118
+e;15237258;'en:botanical species';1;0
+e;6800256;'en:ear';1;0
+e;15214403;'en:fresh mushroom';1;0
+e;14964890;'en:cherry tomato';1;0
+e;9076467;'manchon de poulet';1;0
+e;15284481;'en:blue cheese from Auvergne';1;0
+e;15202175;'en:Blue cheese from Auvergne';1;0
+e;339285;'blanc de volaille';1;44
+e;12054110;'noix de saint-jacques';1;0
+e;16165529;'::>66:120728>26:128828';8;0;'planche [se faire] couper'
+e;392744;'voies ferrées';777;52
+e;16311046;'::>66:2392276>26:128828';8;0;'rosbeef [se faire] couper'
+e;15199998;'en:table apple';1;0
+e;82414;'drap';1;1276
+e;16324518;'::>66:85167>26:128828';8;0;'pointes [se faire] couper'
+e;16324522;'::>66:16324520>26:128828';8;0;'pointes de cheveux [se faire] couper'
+e;15218077;'en:head of garlic';1;0
+e;15058624;'en:garlic clove';1;0
+e;15218076;'en:bulb of garlic';1;0
+e;16530508;'::>66:142086>26:128828';8;0;'jambe [se faire] couper'
+e;16684621;'::>66:213823>26:128828';8;0;'bois>matière [se faire] couper'
+e;16607117;'::>66:56280>26:128828';8;0;'oreille [se faire] couper'
+e;16606980;'::>66:16589544>26:128828';8;0;'main>Nom:Fem+SG [se faire] couper'
+e;14938479;'en:herbs';1;0
+e;16068394;'en:thick slice of salmon';1;0
+e;16560399;'::>66:120603>26:128828';8;0;'légume [se faire] couper'
+e;16560394;'::>66:123307>26:128828';8;0;'oignon [se faire] couper'
+e;15431699;'en:fillet of duck breast';1;0
+e;15431700;'en:duck breast fillet';1;0
+e;8061337;'en:roast pork';1;0
+e;15103882;'en:mozzarella';1;0
+e;15762968;'tarte à la pomme';1;0
+e;15520959;'en:red kuri squash';1;0
+e;15331515;'tourte à la pomme';1;0
+e;16789292;'::>66:164797>26:128828';8;0;'côte de boeuf [se faire] couper'
+e;233158;'brique>158943';1;16;'brique>matériau de construction'
+e;147055;'clous';1;80
+e;16902995;'::>66:41894>26:128828';8;0;'brique [se faire] couper'
+e;17054655;'tranches de poisson';1;0
+e;17054656;'tranche de poisson';1;0
+e;17109797;'::>66:124771>26:128828';8;0;'parole [se faire] couper'
+e;17219838;'::>66:132347>26:128828';8;0;'sapin [se faire] couper'
+e;15320195;'en:breast of chicken';1;0
+e;28985;'fleur';1;4974
+e;26062;'branche';1;3161
+e;156108;'avocats';1;56
+e;18153;'nougat';1;180
+e;144832;'pain d'épices';1;130
+e;436989;'escalope de poulet';1;76
+e;168167;'saumonette';1;50
+e;267298;'gingembre frais';1;50
+e;3343;'racine';1;2990
+e;2319561;'tomates cerise';1;0
+e;241034;'rôti de porc';1;62
+e;1969989;'feuille de lasagne';1;0
+e;154472;'fruit de la passion';1;116
+e;167850;'boudin blanc';1;80
+e;303010;'mozzarelle';777;50
+e;3179891;'T-bone steak';1;0
+e;2558916;'t-bone';1;0
+e;34898;'pied';1;4548
+e;148459;'haschich';1;80
+e;68467;'poisson';1;7106
+e;159098;'pomme verte';1;86
+e;132961;'béton';1;1896
+e;12905116;'bonne viande';1;0
+e;31080;'melon';1;198
+e;34296;'saucisson';1;444
+e;20883;'herbes';1;158
+e;74897;'première';1;3954
+e;154390;'fromage de brebis';1;140
+e;270851;'cordages';1;50
+e;146333;'fils';1;3908
+e;23411;'fines herbes';1;98
+e;76234;'carotte';1;590
+e;141611;'pointe';1;2847
+e;70209;'tomme';1;92
+e;3754560;'tomate en rondelles';1;0
+e;160334;'saucisses';1;122
+e;44335;'organe';1;1960
+e;218648;'arbre>136507';1;388;'arbre>végétal'
+e;55511;'T-bone';1;162
+e;145624;'pêche';1;2861
+e;47417;'boeuf';1;1470
+e;213354;'sapin>52255';1;36;'sapin>arbre'
+e;224034;'palette>140100';1;50;'palette>viande'
+e;217015;'côte à l'os';1;2
+e;11287398;'morceau de béton';1;0
+e;136076;'plantes';1;3592
+e;213758;'baguette>61283';1;244;'baguette>pain'
+e;106182;'gigot';1;150
+e;220521;'doigt>112609';1;272;'doigt>anatomie'
+e;16783;'radiateur';1;330
+e;240897;'radiateur>230089';1;34;'radiateur>appareil de chauffage'
+e;218827;'magret de canard';1;104
+e;233049;'pain>119014';1;294;'pain>boulangerie'
+e;225770;'organe>112609';1;94;'organe>anatomie'
+e;213560;'melon>87286';1;26;'melon>fruit'
+e;213432;'tissu>94609';1;190;'tissu>textile'
+e;157203;'avocat>87286';1;98;'avocat>fruit'
+e;126363;'blanc de poulet';1;130
+e;1971800;'têtes de champignons';1;0
+e;59496;'tranche de lard';1;56
+e;91026;'chou rouge';1;72
+e;156482;'baguette de pain';1;52
+e;7347;'espadon';1;62
+e;120576;'mozzarella';1;138
+e;46889;'poitrine';1;1672
+e;3473;'potiron';1;176
+e;87937;'brocolis';1;60
+e;141883;'boule';1;2059
+e;223459;'petit pain';1;66
+e;102505;'cailles';1;62
+e;151940;'tomate cerise';1;50
+e;168368;'gousse de vanille';1;12
+e;401316;'bouts';1;52
+e;94536;'ficelle';1;538
+e;130303;'poireau';1;236
+e;14731;'aubergine';1;352
+e;165569;'fruits rouges';1;116
+e;437496;'tomates cerises';1;52
+e;1972576;'pommes de terres';1;0
+e;115827;'ananas';1;318
+e;1975008;'épis de maïs';1;0
+e;146261;'poulet';1;1900
+e;320632;'noix de Saint-Jacques';1;56
+e;7769;'canard';1;1485
+e;436804;'calamars';1;50
+e;267817;'fanes';1;50
+e;408218;'châtaignes';1;78
+e;140377;'beurre';1;2563
+e;436831;'champignon frais';1;50
+e;88759;'escalope';1;270
+e;10788263;'saucisson>6938';1;2;'saucisson>charcuterie'
+e;158591;'pommes de terre';1;400
+e;17532222;'pinces métalliques';1;0
+e;79400;'pinceau';1;914
+e;596837;'rasoir>171870';1;0;'rasoir>Nom:'
+e;154255;'scie circulaire';1;206
+e;14400448;'::>66:32610>25:128828';8;0;'couteau [objet pour] couper'
+e;14389067;'::>66:153863>25:128828';8;0;'couteau à pain [objet pour] couper'
+e;14350877;'::>66:22710>25:128828';8;0;'sabre [objet pour] couper'
+e;14347240;'::>66:50104>25:128828';8;0;'ciseaux [objet pour] couper'
+e;14334481;'::>66:154026>25:128828';8;0;'couteau à viande [objet pour] couper'
+e;14326157;'::>66:142707>25:128828';8;0;'hache [objet pour] couper'
+e;7180470;'en:scalpel';1;0
+e;6684767;'Scie passe-partout';777;0
+e;2510948;'scie passe-partout';1;0
+e;112354;'mandoline';1;72
+e;213841;'fourchette>152067';1;32;'fourchette>ustensile de cuisine'
+e;120900;'taloche';1;84
+e;437974;'ustensile culinaire';1;50
+e;243775;'outil de coupe';1;52
+e;87286;'fruit';1;6285
+e;40635;'sac';1;2235
+e;93589;'claymore';1;50
+e;227431;'sabre cimeterre';1;50
+e;227428;'naginata';1;50
+e;37370;'dague';1;138
+e;259088;'couteau>152067';1;64;'couteau>ustensile de cuisine'
+e;231541;'mandoline>152067';1;56;'mandoline>ustensile de cuisine'
+e;153457;'épilateur';1;174
+e;2710;'silex';1;182
+e;148387;'griffes';1;324
+e;58404;'canine';1;1614
+e;128782;'fil';1;3276
+e;46401;'rasoir';1;582
+e;156682;'lame de rasoir';1;84
+e;244320;'couteau à cran d'arrêt';1;6
+e;261695;'épée>145948';1;16;'épée>arme'
+e;64959;'mouchette';1;54
+e;225089;'rasoir>6605';1;98;'rasoir>instrument'
+e;132542;'arme blanche';1;412
+e;30843;'outil';1;2600
+e;22015;'pince';1;546
+e;145948;'arme';1;3563
+e;134670;'fourchette';1;1504
+e;246889;'couteau de cuisine';1;32
+e;233054;'eau>389797';1;292;'eau>élément naturel'
+e;29123;'roulette';1;876
+e;65012;'eau';1;11222
+e;3178508;'lame>3178507';1;44;'lame>partie tranchante'
+e;102775;'laguiole';1;52
+e;14706;'économe';1;156
+e;124858;'poignard';1;704
+e;59352;'cisaille';1;110
+e;113395;'scalpel';1;218
+e;205583;'pince coupante';1;56
+e;106278;'coutelas';1;248
+e;98703;'opinel';1;138
+e;105938;'sécateur';1;168
+e;226258;'économe>24153';1;10;'économe>épluche-légume'
+e;5910;'épée';1;1531
+e;9024886;'objet coupant';1;2
+e;344982;'couteau électrique';1;50
+e;164643;'couteau à dessert';1;54
+e;22568;'machette';1;104
+e;154254;'scie sauteuse';1;218
+e;162641;'coupe ongle';1;68
+e;244988;'scie électrique';1;72
+e;5046151;'Ver:Groupe1';18;50
+e;14916413;'Langue:français';18;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;172435;'Langage:familier';18;50
+e;2949007;'Ver:Transitif:Direct';18;50
+e;1725443;'Ver:Action';18;50
+e;2589183;'Ver:Transformation';18;0
+e;151866;'Ver:Transitif';18;50
+e;151865;'Ver:Intransitif';18;50
+e;75146;'épiler';1;298
+e;56224;'marquer';1;1861
+e;78020;'égratigner';1;56
+e;41417;'coup';1;3552
+e;52545;'recoupe';1;52
+e;69286;'coupon';1;90
+e;118752;'coupable';1;1669
+e;216448;'coupures';1;64
+e;55899;'soucoupe';1;150
+e;154076;'coupante';1;94
+e;144567;'découpé';1;118
+e;28449;'coupé';1;1304
+e;58792;'coupant';1;182
+e;13077;'coupeuse';1;98
+e;30617;'recouper';1;164
+e;37587;'découpage';1;1427
+e;17563633;'::>14:3757833>29:128828';8;0;'couper [objet] tranches de jambon cru'
+e;17563630;'::>14:3751952>29:128828';8;0;'couper [objet] tranches de jambon blanc'
+e;17563627;'::>14:2353714>29:128828';8;0;'couper [objet] tranches de jambon'
+e;17579586;'::>14:63936>29:128828';8;0;'couper [objet] tissu'
+e;17579584;'::>13:130778>29:128828';8;0;'couper [sujet] tailleur'
+e;17586512;'::>14:120353>29:128828';8;0;'couper [objet] branches'
+e;17563638;'::>16:5808150>29:128828';8;0;'couper [avec] trancheuse à jambon'
+e;17543067;'::>16:107262>29:128828';8;0;'couper [avec] tronçonneuse'
+e;17515507;'::>13:12699523>29:128828';8;0;'couper [sujet] guillotine>machine'
+e;17532177;'::>13:70782>29:128828';8;0;'couper [sujet] pompier'
+e;17536076;'::>16:213839>29:128828';8;0;'couper [avec] couteau>ustensile'
+e;17543057;'::>14:34624>29:128828';8;0;'couper [objet] chêne'
+e;17579589;'::>14:155699>29:128828';8;0;'couper [objet] tissus'
+e;17532180;'::>13:69797>29:128828';8;0;'couper [sujet] ouvrier'
+e;17503251;'::>16:8718524>29:128828';8;0;'couper [avec] couteau de boucherie'
+e;17532183;'::>13:85457>29:128828';8;0;'couper [sujet] secouriste'
+e;17588629;'::>14:103702>29:128828';8;0;'couper [objet] palette'
+e;17501108;'::>14:125506>29:128828';8;0;'couper [objet] électricité'
+e;17501106;'::>13:106406>29:128828';8;0;'couper [sujet] bombardement'
+e;17473454;'::>16:183500>29:128828';8;0;'couper [avec] paire de ciseaux'
+e;17464181;'::>13:1991494>29:128828';8;0;'couper [sujet] assaillants'
+e;17464186;'::>13:30227>29:128828';8;0;'couper [sujet] électricien'
+e;17464183;'::>14:2708239>29:128828';8;0;'couper [objet] alimentation électrique'
+e;17464189;'::>13:3759796>29:128828';8;0;'couper [sujet] électricien>individu'
+e;17496551;'::>31:230486>29:128828';8;0;'couper [endroit] crèmerie'
+e;17219837;'::>14:132347>29:128828';8;0;'couper [objet] sapin'
+e;17109796;'::>14:124771>29:128828';8;0;'couper [objet] parole'
+e;17109794;'::>13:131523>29:128828';8;0;'couper [sujet] journaliste'
+e;16902994;'::>14:41894>29:128828';8;0;'couper [objet] brique'
+e;16789294;'::>13:218749>29:128828';8;0;'couper [sujet] boucher>boucherie'
+e;16789291;'::>14:164797>29:128828';8;0;'couper [objet] côte de boeuf'
+e;16684623;'::>13:1361615>29:128828';8;0;'couper [sujet] bûcheron>individu'
+e;16684620;'::>14:213823>29:128828';8;0;'couper [objet] bois>matière'
+e;16530507;'::>14:142086>29:128828';8;0;'couper [objet] jambe'
+e;16533681;'::>16:235061>29:128828';8;0;'couper [avec] couteau de boucher'
+e;16607116;'::>14:56280>29:128828';8;0;'couper [objet] oreille'
+e;16607114;'::>13:152445>29:128828';8;0;'couper [sujet] fou furieux'
+e;16606979;'::>14:16589544>29:128828';8;0;'couper [objet] main>Nom:Fem+SG'
+e;16591875;'::>13:45775>29:128828';8;0;'couper [sujet] boquillon'
+e;16560398;'::>14:120603>29:128828';8;0;'couper [objet] légume'
+e;16560393;'::>14:123307>29:128828';8;0;'couper [objet] oignon'
+e;16494093;'::>13:133151>29:128828';8;0;'couper [sujet] élagueur'
+e;11558353;'::>14:88759>29:128828';8;0;'couper [objet] escalope'
+e;14324560;'::>16:32610>29:128828';8;0;'couper [avec] couteau'
+e;14324557;'::>14:140100>29:128828';8;0;'couper [objet] viande'
+e;14324555;'::>13:45133>29:128828';8;0;'couper [sujet] boucher'
+e;14326219;'::>31:146632>29:128828';8;0;'couper [endroit] forêt'
+e;14326159;'::>14:52255>29:128828';8;0;'couper [objet] arbre'
+e;14326156;'::>16:142707>29:128828';8;0;'couper [avec] hache'
+e;14326154;'::>13:12764>29:128828';8;0;'couper [sujet] bûcheron'
+e;14334041;'::>13:125719>29:128828';8;0;'couper [sujet] coiffeuse'
+e;14334038;'::>14:51126>29:128828';8;0;'couper [objet] cheveux'
+e;14334036;'::>13:16217>29:128828';8;0;'couper [sujet] coiffeur'
+e;14350876;'::>16:22710>29:128828';8;0;'couper [avec] sabre'
+e;14350865;'::>13:60337>29:128828';8;0;'couper [sujet] bourreau'
+e;14350860;'::>14:144846>29:128828';8;0;'couper [objet] tête'
+e;14350858;'::>13:41599>29:128828';8;0;'couper [sujet] guillotine'
+e;14347239;'::>16:50104>29:128828';8;0;'couper [avec] ciseaux'
+e;14334480;'::>16:154026>29:128828';8;0;'couper [avec] couteau à viande'
+e;14334478;'::>13:68439>29:128828';8;0;'couper [sujet] individu'
+e;14356608;'::>14:332372>29:128828';8;0;'couper [objet] réacteurs'
+e;14356606;'::>13:143042>29:128828';8;0;'couper [sujet] pilote'
+e;14364057;'::>14:96256>29:128828';8;0;'couper [objet] bois'
+e;14380716;'::>31:16217>29:128828';8;0;'couper [endroit] coiffeur'
+e;14380722;'::>31:89587>29:128828';8;0;'couper [endroit] salon de coiffure'
+e;14380777;'::>13:216285>29:128828';8;0;'couper [sujet] coiffeuse>cheveux'
+e;14380782;'::>13:10497993>29:128828';8;0;'couper [sujet] coiffeuse>cheveux>personne'
+e;14389066;'::>16:153863>29:128828';8;0;'couper [avec] couteau à pain'
+e;14389064;'::>14:61283>29:128828';8;0;'couper [objet] pain'
+e;14470084;'::>14:81934>29:128828';8;0;'couper [objet] main'
+e;14470092;'::>14:141795>29:128828';8;0;'couper [objet] membre'
+e;14400446;'::>14:141687>29:128828';8;0;'couper [objet] fromage'
+e;14435490;'::>14:19636>29:128828';8;0;'couper [objet] rôti'
+e;14435488;'::>13:197509>29:128828';8;0;'couper [sujet] chef de famille'
+e;14450955;'::>31:64437>29:128828';8;0;'couper [endroit] boucherie'
+e;14450953;'::>14:2845232>29:128828';8;0;'couper [objet] morceaux de viande'
+e;14473345;'::>14:8595>29:128828';8;0;'couper [objet] corde'
+e;14473343;'::>13:39621>29:128828';8;0;'couper [sujet] marin'
+e;14485281;'::>13:225916>29:128828';8;0;'couper [sujet] personne>être humain'
+e;14501093;'::>14:20621>29:128828';8;0;'couper [objet] aliments'
+e;14501091;'::>13:75069>29:128828';8;0;'couper [sujet] incisive'
+e;14540364;'::>14:160927>29:128828';8;0;'couper [objet] morceau de viande'
+e;14540351;'::>14:55572>29:128828';8;0;'couper [objet] steak'
+e;14561166;'::>14:28560>29:128828';8;0;'couper [objet] courge'
+e;14572843;'::>14:94975>29:128828';8;0;'couper [objet] portable'
+e;14572841;'::>13:116477>29:128828';8;0;'couper [sujet] personne'
+e;15660389;'::>16:43427>29:128828';8;0;'couper [avec] cognée'
+e;14851593;'::>31:42092>29:128828';8;0;'couper [endroit] planche à pain'
+e;14880186;'::>31:65066>29:128828';8;0;'couper [endroit] planche à découper'
+e;15686368;'::>14:191721>29:128828';8;0;'couper [objet] filet mignon'
+e;15789593;'::>14:155220>29:128828';8;0;'couper [objet] fil de fer'
+e;15789590;'::>16:15295811>29:128828';8;0;'couper [avec] pinces coupantes'
+e;16060137;'::>14:41239>29:128828';8;0;'couper [objet] rondin'
+e;16165528;'::>14:120728>29:128828';8;0;'couper [objet] planche'
+e;16165526;'::>13:4216>29:128828';8;0;'couper [sujet] menuisier'
+e;16324521;'::>14:16324520>29:128828';8;0;'couper [objet] pointes de cheveux'
+e;16324517;'::>14:85167>29:128828';8;0;'couper [objet] pointes'
+e;16311045;'::>14:2392276>29:128828';8;0;'couper [objet] rosbeef'
+e;17577709;'::>14:217168>29:128828';8;0;'couper [objet] lardons'
+e;222752;'années 1950';1;82
+e;16704;'docteur';1;2937
+e;74580;'tondeuse';1;360
+e;216042;'table>36899';1;218;'table>meuble'
+e;107233;'supermarché';1;1010
+e;14450956;'::>66:64437>30:128828';8;0;'boucherie [lieu pour] couper'
+e;14380723;'::>66:89587>30:128828';8;0;'salon de coiffure [lieu pour] couper'
+e;14380717;'::>66:16217>30:128828';8;0;'coiffeur [lieu pour] couper'
+e;14326220;'::>66:146632>30:128828';8;0;'forêt [lieu pour] couper'
+e;113093;'jungle';1;828
+e;254100;'forêt>254099';1;140;'forêt>terrain planté d'arbres'
+e;109908;'sous-sol';1;178
+e;122489;'paragraphe';1;238
+e;141206;'morgue';1;196
+e;218746;'boucherie>140100';1;176;'boucherie>viande'
+e;251735;'formation végétale';1;12
+e;22053;'cigare';1;1042
+e;99657;'tannerie';1;126
+e;93304;'abricotier';1;258
+e;141342;'verger';1;544
+e;52587;'fleuriste';1;300
+e;77184;'poirier';1;456
+e;91370;'pommier';1;714
+e;74846;'corps';1;5240
+e;83635;'vigne';1;1716
+e;14851594;'::>66:42092>30:128828';8;0;'planche à pain [lieu pour] couper'
+e;14880187;'::>66:65066>30:128828';8;0;'planche à découper [lieu pour] couper'
+e;213826;'bois>146632';1;142;'bois>forêt'
+e;89591;'table';1;4021
+e;100445;'hôpital';1;3778
+e;13483;'marbrerie';1;50
+e;145900;'bourdon';1;264
+e;226068;'planche>43125';1;50;'planche>gastronomie'
+e;90075;'chambre';1;5318
+e;33217;'cantine';1;1532
+e;214276;'cuisine>96851';1;386;'cuisine>pièce'
+e;150219;'restau';1;176
+e;33353;'casino';1;818
+e;266514;'ananas frais';1;60
+e;52335;'imprimerie';1;475
+e;45179;'maison';1;12578
+e;79954;'restaurant';1;5348
+e;6938;'charcuterie';1;1030
+e;140533;'usine';1;2163
+e;119014;'boulangerie';1;1438
+e;145738;'atelier';1;980
+e;139575;'jardin';1;4775
+e;7040874;'en:generalized anxiety disorder';1;0
+e;139731;'peine';1;3322
+e;115402;'désespoir';1;678
+e;66113;'rejet';1;1403
+e;7029778;'en:frustration';1;2
+e;7029787;'en:hate';1;0
+e;15260040;'s'haïr';1;0
+e;1856173;'trouble anxieux généralisé';777;0
+e;15421811;'faire mal à [qqn]';1;0
+e;15298310;'faire mal à quelqu'un';1;0
+e;15238225;'faire mal à';1;0
+e;15582861;'en:hurt somebody';1;0
+e;15298311;'en:to hurt somebody';1;0
+e;56840;'faire souffrir';1;60
+e;49337;'crainte';1;1530
+e;16786;'souffrance';1;1393
+e;82489;'frustration';1;548
+e;17927;'haine';1;1984
+e;90830;'dégoût';1;854
+e;20202;'tristesse';1;2622
+e;23114;'anxiété';1;836
+e;60835;'terreur';1;1317
+e;120892;'méfiance';1;726
+e;4552;'inquiétude';1;846
+e;144681;'angoisse';1;1858
+e;626;'peur';1;5423
+e;22264;'colère';1;2464
+e;103405;'indifférence';1;612
+e;54186;'fort';1;3532
+e;144718;'fin';1;3889
+e;74311;'violemment';1;528
+e;15241588;'en:cherishingly';1;0
+e;15291461;'en:just like that';1;0
+e;15291462;'en:in one go';1;0
+e;15307392;'en:in part';1;0
+e;14943476;'en:incompletely';1;0
+e;14953275;'en:partially';1;0
+e;139379;'d'une seule traite';1;50
+e;210712;'d'une traite';1;52
+e;15375337;'en un seul coup';1;0
+e;15775365;'en:in one sitting';1;0
+e;140724;'d'un seul jet';1;50
+e;372449;'pour partie';1;50
+e;100839;'en partie';1;128
+e;15330232;'en:in one breath';1;0
+e;15440221;'en:at one sitting';1;0
+e;15146685;'en:partly';1;0
+e;14941343;'en:ably';1;0
+e;14946046;'en:capably';1;0
+e;14946048;'en:skilfully';1;0
+e;266203;'avec adresse';1;38
+e;14918073;'en:adroitly';1;0
+e;14918075;'en:deftly';1;0
+e;15459100;'en:with aplomb';1;0
+e;261715;'avec habileté';1;2
+e;15459116;'avec doigté';1;0
+e;15312829;'avec diligence';1;0
+e;15356192;'en un claquement de doigt';1;0
+e;15378118;'en:in a jiffy';1;0
+e;15202866;'en:in no time at all';1;0
+e;15293721;'en:in the twinkling of an eye';1;0
+e;15213648;'en:adeptly';1;0
+e;14957932;'en:expeditiously';1;0
+e;15419107;'en 2 temps 3 mouvements';1;0
+e;199227;'en deux temps trois mouvements';1;94
+e;15342679;'en:in two shakes of a lamb's tail';1;0
+e;14938510;'en:in a flash';1;0
+e;388127;'à brève échéance';1;50
+e;15304009;'en:very soon';1;0
+e;14923879;'en:shortly';1;0
+e;195354;'à bref délai';1;50
+e;2604311;'en moins de temps qu'il ne faut pour le dire';1;0
+e;15337446;'en:no sooner said than done';1;0
+e;351602;'en un éclair';1;50
+e;55267;'court';1;3311
+e;36857;'en sifflet';1;50
+e;18262;'horizontalement';1;50
+e;36922;'profond';1;2227
+e;144274;'d'un coup';1;134
+e;38188;'menu';1;748
+e;61502;'soigneusement';1;364
+e;217912;'en petits morceaux';1;6
+e;31576;'rapidement';1;4302
+e;55222;'petit';1;4357
+e;7964289;'en chiffonnade';1;0
+e;8659;'lentement';1;3435
+e;7964305;'en julienne';1;16
+e;1349309;'en boule';1;0
+e;26328;'profondément';1;2375
+e;7964288;'en mirepoix';1;0
+e;3171;'net';1;2902
+e;4493;'partiellement';1;2513
+e;7964304;'en macédoine';1;0
+e;217913;'menu>217912';1;4;'menu>en petits morceaux'
+e;7964303;'en émincé';1;0
+e;7964310;'en brunoise';1;26
+e;199337;'en paysanne';1;50
+e;68834;'ras';1;130
+e;49111;'franchement';1;126
+e;1971133;'en cubes';1;44
+e;1971244;'en dés';1;32
+e;7964290;'en tagliatelle';1;0
+e;126092;'habilement';1;630
+e;109043;'vite';1;4250
+e;1971132;'en lamelles';1;46
+e;1971243;'en rondelles';1;40
+e;55264;'sauvagement';1;256
+e;1970737;'en tranches fines';1;0
+e;73254;'obliquement';1;50
+e;237297;'en deux';1;56
+e;190859;'en quatre';1;56
+e;1707642;'en tranches';1;36
+e;199343;'en petit';1;50
+e;53322;'doucement';1;1708
+e;81791;'délicatement';1;352
+e;254876;'_POL-POS_PC';36;50
+e;317326;'_POLIT_5UMP';36;50
+e;317329;'_POLIT_7NOPOL';36;50
+e;254878;'_POL-NEG_PC';36;50
+e;1912917;'_INFO-COUNTABLE-YES';36;0
+e;248198;'_SEX_NO';36;50
+e;223173;'_POL-POS';36;50
+e;214534;'_INFO-MEANING-FIGURED';36;50
+e;269459;'_INFO-SEM-THING';36;50
+e;217817;'_INFO-POLYSEMIC';36;50
+e;276096;'_INFO-WIKI-YES';36;50
+e;2585996;'_INFO-CNRTL-YES';36;50
+e;191741;'_INFO-VOC-COMMON';36;50
+e;163012;'_INFO-NO-MORE-QUESTION';36;6094
+e;254877;'_POL-NEUTRE_PC';36;50
+e;223172;'_POL-NEG';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;51570;'réduction';1;2513
+e;89633;'coiffer';1;248
+e;142267;'taille';1;3641
+e;111795;'exprimer';1;1204
+e;251639;'exprimer>251273';1;50;'exprimer>extraire un liquide'
+e;20379;'transformer';1;2410
+e;158549;'::>16:32610>29:128683>34';9;50;'De quelle manière pourrait-on scier avec un couteau ?'
+e;327344;'::>16:32610>29:128683';8;50;'scier [avec] couteau'
+e;118522;'bistouri';1;136
+e;1971242;':r31770684';10;0
+e;1971245;':r31770721';10;0
+e;1971246;':r31770726';10;0
+e;1971247;':r31770737';10;0
+e;1971248;':r31770759';10;0
+e;1971249;':r31770785';10;0
+e;1971250;':r31770854';10;0
+e;1973522;':r31823936';10;0
+e;1976588;':r32053018';10;0
+e;1976589;':r32053027';10;0
+e;1976590;':r32053032';10;0
+e;1976591;':r32053038';10;0
+e;1976592;':r32053045';10;0
+e;1976593;':r32053055';10;0
+e;1976594;':r32053067';10;0
+e;1976595;':r32053074';10;0
+e;1976596;':r32053079';10;0
+e;1976597;':r32053084';10;0
+e;1976598;':r32053089';10;0
+e;1976599;':r32053094';10;0
+e;1976600;':r32053099';10;0
+e;1976601;':r32053104';10;0
+e;1976602;':r32053109';10;0
+e;1976603;':r32053114';10;0
+e;1976604;':r32053119';10;0
+e;1976605;':r32053126';10;0
+e;1976606;':r32053131';10;0
+e;1976609;':r32053164';10;0
+e;1976610;':r32053169';10;0
+e;1976611;':r32053174';10;0
+e;1976612;':r32053179';10;0
+e;1976613;':r32053185';10;0
+e;1976614;':r32053191';10;0
+e;1976615;':r32053602';10;0
+e;1976616;':r32053613';10;0
+e;1976617;':r32053618';10;0
+e;2339172;':r34292081';10;0
+e;2948839;':r72576657';10;0
+e;9669140;':r2063747';10;0
+e;17496560;':r384745790';10;0
+e;1974598;':r31860411';10;0
+e;1974740;':r31863755';10;0
+e;1974793;':r31865097';10;0
+e;1974811;':r31865196';10;0
+e;1974824;':r31865266';10;0
+e;1974995;':r31870445';10;0
+e;1975004;':r31870552';10;0
+e;1975070;':r31871515';10;0
+e;1975074;':r31871536';10;0
+e;1975111;':r31874168';10;0
+e;1975132;':r31874918';10;0
+e;1975168;':r31876229';10;0
+e;1975518;':r31880027';10;0
+e;1975607;':r31881223';10;0
+e;1975645;':r31882077';10;0
+e;1975685;':r32025344';10;0
+e;1975700;':r32025459';10;0
+e;1975727;':r32025684';10;0
+e;1975875;':r32032216';10;0
+e;1976549;':r32052465';10;0
+e;2315146;':r33100371';10;0
+e;2319565;':r33191837';10;0
+e;2324963;':r33802398';10;0
+e;2325195;':r33824114';10;0
+e;2334450;':r34134901';10;0
+e;2339171;':r34292076';10;0
+e;2350206;':r34713537';10;0
+e;10347935;':r253580036';10;0
+e;10497969;':r260075756';10;0
+e;13982442;':r352040610';10;0
+e;14347316;':r364561818';10;0
+e;14356822;':r364828928';10;0
+e;14474695;':r365210822';10;0
+e;14474708;':r365209603';10;0
+e;16743441;':r437926523';10;0
+e;16768217;':r434723383';10;0
+e;16800044;':r442182685';10;0
+e;16942861;':r296870257';10;0
+e;16950885;':r364668396';10;0
+e;16983331;':r364664388';10;0
+e;17011226;':r366720939';10;0
+e;17014691;':r367251419';10;0
+e;17176332;':r364829047';10;0
+e;17544331;':r478305847';10;0
+e;2339177;':r34292132';10;0
+e;17472774;':r477151078';10;0
+e;3225635;':r31735541';10;0
+e;17468540;':r477151018';10;0
+e;14474697;':r365210909';10;0
+e;14490705;':r2050216';10;0
+e;14599027;':r366720957';10;0
+e;14670781;':r365210883';10;0
+e;14880396;':r385099953';10;0
+e;16774105;':r434016458';10;0
+e;17534727;':r478202140';10;0
+e;17535636;':r478202106';10;0
+e;14474838;':r365209777';10;0
+e;17519886;':r478016672';10;0
+e;17580273;':r478825326';10;0
+e;1322673;':r1920995';10;0
+e;14475018;':r365209584';10;0
+e;14474980;':r365209797';10;0
+e;14475282;':r365210970';10;0
+e;16508039;':r434016467';10;0
+e;17536145;':r478202072';10;0
+e;17564793;':r478605506';10;0
+e;612098;':r3090118';10;0
+e;14474649;':r365209848';10;0
+e;14502823;':r368315359';10;0
+e;17574671;':r478642936';10;0
+e;17454367;':r369388949';10;0
+e;17575308;':r478642764';10;0
+e;267712;'coupées';1;66
+e;267713;'coupés';1;64
+e;89025;'coupée';1;152
+e;3790035;'dbnary:fra:__ws_20_couper__verb__1';444;0
+e;3790995;'dbnary:fra:__ws_8_couper__verb__1';444;0
+e;3795325;'dbnary:fra:__ws_12_couper__verb__1';444;0
+e;3826603;'dbnary:fra:__ws_18_couper__verb__1';444;0
+e;3863861;'dbnary:fra:__ws_4_couper__verb__1';444;0
+e;3868969;'dbnary:fra:__ws_3_couper__verb__1';444;0
+e;3900366;'dbnary:fra:__ws_9_couper__verb__1';444;0
+e;3904637;'dbnary:fra:__ws_13_couper__verb__1';444;0
+e;3935745;'dbnary:fra:__ws_19_couper__verb__1';444;0
+e;3972976;'dbnary:fra:__ws_5_couper__verb__1';444;0
+e;4013416;'dbnary:fra:__ws_14_couper__verb__1';444;0
+e;4081486;'dbnary:fra:__ws_6_couper__verb__1';444;0
+e;4085653;'dbnary:fra:__ws_10_couper__verb__1';444;0
+e;4121395;'dbnary:fra:__ws_15_couper__verb__1';444;0
+e;4158316;'dbnary:fra:__ws_1_couper__verb__1';444;0
+e;4189602;'dbnary:fra:__ws_7_couper__verb__1';444;0
+e;4193852;'dbnary:fra:__ws_11_couper__verb__1';444;0
+e;4225094;'dbnary:fra:__ws_17_couper__verb__1';444;0
+e;4230052;'dbnary:fra:__ws_16_couper__verb__1';444;0
+e;4266960;'dbnary:fra:__ws_2_couper__verb__1';444;0
+e;3228593;'wiki:@';444;0
+e;2983124;'_SW';36;50
+e;181842;'coupe à blanc';1;50
+e;49289;'constellation';1;3474
+e;152507;'Mathématiques';1;156
+e;23255;'mathématiques';1;3622
+e;153322;'Coiffure';1;52
+e;154689;'coupe de cheveux';1;214
+e;257707;'dessin technique';1;50
+e;98596;'dessin';1;3350
+e;69665;'plan';1;3730
+e;144444;'Couture';1;68
+e;122355;'tranchée';1;214
+e;142000;'forme';1;3844
+e;129786;'tournois';1;1158
+e;132338;'couleurs';1;3576
+e;2581481;'couteau>8248';1;0;'couteau>balance romaine'
+e;2581482;'couteau>2581480';1;0;'couteau>symbole de violence'
+e;215852;'son>143989';1;24;'son>timbre'
+e;215853;'son>18283';1;4;'son>céréale'
+e;215851;'son>43106';1;234;'son>bruit'
+e;11181983;'lame>94978';1;0;'lame>ordinateur'
+e;11217165;'lame>23157';1;0;'lame>linguistique'
+e;11217166;'lame>3674';1;0;'lame>botanique'
+e;11217702;'lame>4488';1;0;'lame>lamé'
+e;11222300;'bleu>28524';1;0;'bleu>quark'
+e;11222301;'bleu>63518';1;0;'bleu>amoureux'
+e;11222302;'bleu>36811';1;0;'bleu>billard'
+e;11222303;'bleu>25380';1;0;'bleu>budget'
+e;213837;'couteau>103028';1;8;'couteau>coquillage'
+e;244329;'couteau>243704';1;50;'couteau>ski de randonnée'
+e;222148;'julienne>145941';1;50;'julienne>plante'
+e;222150;'julienne>93138';1;50;'julienne>potage'
+e;222151;'julienne>68467';1;50;'julienne>poisson'
+e;3375381;'julienne>3375379';1;0;'julienne>technique de découpe'
+e;269599;'cutter>30171';1;50;'cutter>navire'
+e;269600;'cutter>54059';1;50;'cutter>gréement'
+e;3298547;'textile>6034';1;0;'textile>nudisme'
+e;2992272;'textile>118876';1;24;'textile>industrie'
+e;215814;'bleu>215808';1;20;'bleu>nouvelle recrue'
+e;2952972;'bleu>28682';1;0;'bleu>télégramme'
+e;2952974;'bleu>133354';1;0;'bleu>ivre'
+e;2952975;'bleu>180300';1;0;'bleu>histoire militaire'
+e;2952985;'bleu>45854';1;0;'bleu>surpris'
+e;2952986;'bleu>101083';1;0;'bleu>policier'
+e;215810;'bleu>140100';1;32;'bleu>viande'
+e;215811;'bleu>80266';1;118;'bleu>ecchymose'
+e;215812;'bleu>120949';1;16;'bleu>vêtement'
+e;215809;'bleu>40056';1;120;'bleu>couleur'
+e;238191;'section>238188';1;50;'section>graphique en coupe'
+e;238190;'section>3233';1;50;'section>partie'
+e;238194;'section>70527';1;50;'section>musique'
+e;238193;'section>10576';1;50;'section>politique'
+e;242201;'tranchée>124828>146050';1;70;'tranchée>excavation>militaire'
+e;242203;'tranchée>124828>102788';1;52;'tranchée>excavation>travaux publics'
+e;242202;'tranchée>102206';1;50;'tranchée>médecine'
+e;214129;'fraise>8769';1;50;'fraise>collerette'
+e;2374024;'fraise>2374109';1;0;'fraise>abat blanc'
+e;214130;'fraise>59918';1;4;'fraise>dentiste'
+e;214131;'fraise>86356';1;50;'fraise>rouge'
+e;214128;'fraise>87286';1;118;'fraise>fruit'
+e;3178515;'lame>21262';1;0;'lame>microscopie'
+e;3178516;'lame>4768';1;0;'lame>tarot'
+e;3178517;'lame>63167';1;0;'lame>pierre tombale'
+e;214700;'lame>145064';1;2;'lame>plaque'
+e;214698;'lame>33136';1;8;'lame>vague'
+e;439032;'lame>102206';1;50;'lame>médecine'
+e;439089;'lame>112609';1;54;'lame>anatomie'
+e;3230114;'diamant>16644';1;0;'diamant>astronomie'
+e;3230115;'diamant>41269';1;0;'diamant>tourne-disque'
+e;223165;'diamant>140176';1;50;'diamant>oiseau'
+e;223168;'diamant>117223';1;50;'diamant>géométrie'
+e;223166;'diamant>118990';1;50;'diamant>pierre précieuse'
+e;238833;'trancher>46006';1;58;'trancher>décider'
+e;3426021;'guitare>9704';1;0;'guitare>rengaine'
+e;3426020;'guitare>142086';1;0;'guitare>jambe'
+e;3426022;'guitare>139869';1;0;'guitare>charpente'
+e;260707;'guitare>68467';1;50;'guitare>poisson'
+e;260706;'guitare>91594';1;20;'guitare>instrument de musique'
+e;216286;'coiffeuse>36899';1;2;'coiffeuse>meuble'
+e;249041;'tailleur>249039';1;50;'tailleur>vêtement de femme'
+e;249040;'tailleur>93017';1;82;'tailleur>couturier'
+e;1885376;'serveur>146050';1;0;'serveur>militaire'
+e;219014;'serveur>56865';1;4;'serveur>sport'
+e;219012;'serveur>104993';1;58;'serveur>informatique'
+e;219011;'serveur>11575';1;144;'serveur>restauration'
+e;3170239;'coupe>35143';1;0;'coupe>biologie'
+e;3170246;'coupe>30397';1;0;'coupe>natation'
+e;3170247;'coupe>80698';1;0;'coupe>division'
+e;261620;'merlan>153902';1;52;'merlan>viande de boeuf'
+e;3179708;'tailler>143462';1;0;'tailler>couture'
+e;240253;'diviser>23255';1;50;'diviser>mathématiques'
+e;240254;'diviser>56011';1;50;'diviser>classifier'
+e;3179706;'tailler>8972';1;0;'tailler>impôt'
+e;3179707;'tailler>127783';1;2;'tailler>arboriculture'
+e;3179705;'tailler>45472';1;2;'tailler>sculpter'
+e;3179709;'tailler>57565';1;0;'tailler>crayon'
+e;2589944;'tailloir>98040';1;0;'tailloir>architecture'
+e;236400;'faucher>71325';1;8;'faucher>renverser'
+e;215753;'hachoir>120728';1;50;'hachoir>planche'
+e;215751;'hachoir>106265';1;62;'hachoir>appareil'
+e;228285;'tondeuse>16217';1;26;'tondeuse>coiffeur'
+e;2614802;'burin>9549';1;0;'burin>chirurgie'
+e;2614803;'burin>50727';1;0;'burin>gravure'
+e;1899589;'coupe-jarret>75466';1;0;'coupe-jarret>brigand'
+e;231542;'mandoline>91594';1;50;'mandoline>instrument de musique'
+e;216616;'coupe>143462';1;64;'coupe>couture'
+e;216617;'coupe>23376';1;50;'coupe>sylviculture'
+e;216618;'coupe>87729';1;50;'coupe>jeu de cartes'
+e;216621;'coupe>98596';1;52;'coupe>dessin'
+e;224156;'coupe>87685';1;72;'coupe>trophée'
+e;1858881;'supprimé>48766';1;0;'supprimé>aboli'
+e;1858879;'supprimé>11641';1;0;'supprimé>tué'
+e;1858882;'supprimé>9341';1;0;'supprimé>supprimer'
+e;1874433;'entamé>146525';1;0;'entamé>entaillé'
+e;1874434;'entamé>266163';1;0;'entamé>débuté'
+e;1874435;'entamé>49666';1;0;'entamé>altéré'
+e;1874436;'entamé>43635';1;0;'entamé>entamer'
+e;12087954;':gRUS';1002;0
+e;71343;'entretailler';1;50
+e;152243;'coupe du monde';1;222
+e;68071;'circoncision';1;72
+e;39409;'peu';1;3936
+e;154027;'scie à métaux';1;172
+e;28462;'Dalila';1;112
+e;156910;'rasoir électrique';1;172
+e;152466;'bucheron';1;76
+e;134599;'massicot';1;50
+e;13238;'mettre en panne';1;50
+e;228228;'yubitsume';666;50
+e;130832;'serpe';1;68
+e;141406;'lime';1;160
+e;49809;'déboisement';1;50
+e;34650;'déforestation';1;68
+e;242395;'machete';666;50
+e;145005;'guillaume';1;52
+e;216615;'coupe>128828';1;26;'coupe>couper'
+e;4455;'chien';1;5715
+e;78746;'mouillette';1;166
+e;38498;'cisailles';1;60
+e;236392;'coupe>128828>61407';1;50;'coupe>couper>coiffure'
+e;216619;'coupe>144497';1;62;'coupe>verre'
+e;56872;'hachoir';1;96
+e;126543;'manucure';1;342
+e;40219;'amputation';1;170
+e;84986;'troncature';1;90
+e;124696;'tondeur';1;62
+e;239706;'dégradé>154689';1;50;'dégradé>coupe de cheveux'
+e;248299;'art de la coupe';1;50
+e;23134;'hampe';1;68
+e;249695;'cheveux en brosse';1;20
+e;243660;'couteau d'office';1;50
+e;144950;'revolver';1;588
+e;240075;'minou>150';1;24;'minou>chat'
+e;217014;'sashimi';1;76
+e;125252;'prépuce';1;180
+e;62938;'décapitation';1;136
+e;65994;'Parques';1;60
+e;145873;'mortier';1;164
+e;135190;'lieu';1;3861
+e;156014;'haricot vert';1;164
+e;145864;'palot';1;140
+e;239048;'aiguchi';666;50
+e;117993;'peuplier';1;66
+e;14469;'graine';1;1690
+e;102819;'merisier';1;58
+e;47323;'priver';1;86
+e;257805;'cuisine équipée';1;58
+e;42188;'filet';1;708
+e;251397;'oeuf à repriser';1;20
+e;123771;'aubépine';1;60
+e;130680;'trident';1;86
+e;108045;'poing';1;462
+e;114867;'caisson';1;74
+e;116275;'cerisier';1;370
+e;135938;'hallebarde';1;60
+e;110740;'prunier';1;266
+e;127629;'farine';1;2130
+e;26972;'arbousier';1;54
+e;77077;'lis';1;58
+e;214677;'bouton>143613>36899';1;4;'bouton>porte>meuble'
+e;240697;'crayon>4898719';1;6;'crayon>instrument d'écriture'
+e;3723;'épaule';1;348
+e;171804;'ognon';1;14
+e;117584;'garrot';1;72
+e;243455;'poire à couteau';1;2
+e;127211;'statuette';1;88
+e;145382;'orange';1;2231
+e;239798;'fleur coupée';1;50
+e;255438;'coupe en dégradé';1;50
+e;56199;'foucaultage';1;50
+e;392000;'chapuser';1;50
+e;109692;'hosto';1;66
+e;48972;'égobler';1;50
+e;264357;'shashimi';1;50
+e;214022;'agneau>140100';1;68;'agneau>viande'
+e;256972;'souffler les bougies';1;108
+e;222149;'julienne>120603';1;52;'julienne>légume'
+e;161118;'coup de poignard';1;74
+e;27513;'peler';1;226
+e;108834;'détériorer';1;104
+e;392139;'ne tenir qu'à un cheveu';1;50
+e;245112;'::>66:142086>50:96256';8;50;'jambe [matière] bois'
+e;164388;'pelotte de laine';1;50
+e;57565;'crayon';1;1924
+e;214272;'soupe au chou';1;4
+e;215813;'bleu>141687';1;4;'bleu>fromage'
+e;1732013;'prendre à travers champs';1;0
+e;126990;'taraud';1;50
+e;181844;'coupe de bois';1;50
+e;214132;'fraise>30843';1;4;'fraise>outil'
+e;157275;'mauvaise herbe';1;118
+e;215854;'son>33800';1;50;'son>sciure'
+e;181847;'coupe réglée';1;50
+e;233526;'abattre>233523';1;6;'abattre>couper un arbre'
+e;236397;'faucher>128828';1;50;'faucher>couper'
+e;165902;'chemin de traverse';1;58
+e;238189;'section>128828';1;52;'section>couper'
+e;240255;'diviser>128828';1;4;'diviser>couper'
+e;223167;'diamant>30843';1;50;'diamant>outil'
+e;242200;'tranchée>89025';1;52;'tranchée>coupée'
+e;215752;'hachoir>32610';1;16;'hachoir>couteau'
+e;55160;'bisaiguë';1;50
+e;46258;'carrelette';1;50
+e;243776;'cisaille guillotine';1;50
+e;243777;'ciseau d'électricien';1;50
+e;243778;'ciseau de tailleur de pierre';1;50
+e;243779;'ciseau à bois';1;6
+e;243780;'ciseaux de coiffure';1;50
+e;243781;'coticule';1;50
+e;126447;'doloire';1;54
+e;243783;'dénude câble';1;50
+e;100222;'faux';1;2827
+e;33326;'fendoir';1;50
+e;81090;'fusil';1;1968
+e;243784;'gouge de bottier';1;50
+e;243785;'gouzotte';1;50
+e;118735;'gradine';1;50
+e;48966;'hachette';1;72
+e;81377;'herminette';1;56
+e;243787;'lance thermique';1;50
+e;243788;'outil de tour';1;50
+e;205550;'pierre à aiguiser';1;66
+e;243790;'pince à avoyer';1;50
+e;243791;'pince à dénuder';1;50
+e;30525;'riflard';1;62
+e;40745;'tarabiscot';1;50
+e;44397;'pantalon';1;1632
+e;313427;'raccourcir>128828';1;52;'raccourcir>couper'
+e;313422;'rafraîchir>154689';1;50;'rafraîchir>coupe de cheveux'
+e;1764997;'retranché>79245';1;0;'retranché>soustrait'
+e;1765003;'retrancher>82345';1;2;'retrancher>enlever'
+e;11670;'retondre';1;50
+e;106057;'se transpercer';1;50
+e;143401;'barbe';1;1164
+e;41642;'échalote';1;88
+e;45545;'bûche';1;262
+e;141737;'entrecoupe';1;50
+e;1055;'quartier';1;3469
+e;89261;'débroussailler';1;70
+e;124049;'couic';1;50
+e;159636;'::>16:145948>29:15562>34';9;50;'De quelle manière pourrait-on blesser avec une arme ?'
+e;147516;'besaiguë';1;50
+e;120123;'beaucoup';1;3787
+e;93319;'électroménager';1;404
+e;219540;'scalpation';1;50
+e;227986;'corvée de bois';1;2
+e;36899;'meuble';1;1783
+e;94210;'sectionnement';1;52
+e;1114;'couteaux';1;78
+e;327554;'::>16:145948>29:15562';8;50;'blesser [avec] arme'
+e;179691;'électro-ménager';1;44
+e;6657;'bouchée';1;188
+e;127253;'baptisé';1;1980
+e;44125;'barré';1;132
+e;7781;'blessé';1;2674
+e;144416;'bloqué';1;102
+e;74259;'cassé';1;308
+e;142815;'cinglé';1;152
+e;122548;'croisé';1;80
+e;44006;'décollé';1;56
+e;132593;'détaché';1;100
+e;40012;'emporté';1;80
+e;145964;'entamé';1;56
+e;40543;'labouré';1;72
+e;143786;'levé';1;106
+e;81670;'mitigé';1;74
+e;104606;'stérilisé';1;54
+e;153870;'supprimé';1;893
+e;90483;'suspendu';1;784
+e;30952;'séparé';1;2010
+e;52508;'tranché';1;80
+e;154909;'traversé';1;1648
+e;8;'traversée';1;2478
+e;11790;'trempé';1;80
+e;105154;'étendue';1;2294
+e;104281;'dérangeant';1;60
+e;2410721;'Castrais';1;0
+e;2547754;'erminette';1;0
+e;2536395;'mêlange';1;6
+e;2391913;'rapetissir';1;0
+e;2441862;'biseigle';1;0
+e;218130;'tondre l'herbe';1;50
+e;114395;'éjointer';1;50
+e;3157237;'an:?:105938:89633:146017';12;50
+e;151695;'tondeuse à gazon';1;86
+e;3157134;'an:145285:3038:45133:?';12;50
+e;255443;'patron de coupe';1;50
+e;2992271;'textile>97739';1;60;'textile>matériau'
+e;2614801;'burin>30843';1;10;'burin>outil'
+e;164642;'prolongée';1;60
+e;155854;'assemblés';1;68
+e;258950;'divisée';1;2753
+e;322208;'censurée';1;50
+e;164929;'blessée';1;66
+e;3226033;'poils auriculaires';1;0
+e;279324;'tonte des cheveux';777;50
+e;228286;'tondeuse>30843';1;4;'tondeuse>outil'
+e;82402;'emporte-pièce';1;50
+e;243786;'griffe de zingueur';1;50
+e;145603;'merlin';1;58
+e;243789;'parang';1;50
+e;241234;'merlan>16217';1;60;'merlan>coiffeur'
+e;249042;'tailleur>76496';1;52;'tailleur>matériaux'
+e;159702;'robe longue';1;146
+e;1858880;'supprimé>122610';1;0;'supprimé>enlevé'
+e;1874432;'entamé>153585';1;0;'entamé>écorné'
+e;1899588;'coupe-jarret>180300';1;0;'coupe-jarret>histoire militaire'
+e;3154690;'an:50104:?:4007:12562';12;50
+e;60406;'sécant';1;52
+e;3179704;'tailler>128828';1;0;'tailler>couper'
+e;2411680;'tourner les coins ronds';1;0
+e;219013;'serveur>87729';1;2;'serveur>jeu de cartes'
+e;38234;'croissant';1;1464
+e;8231;'rabot';1;122
+e;2589945;'tailloir>2589943';1;0;'tailloir>assiette de bois'
+e;1898046;'tranchée>161702';1;0;'tranchée>Ver:PPas'
+e;94609;'textile';1;1482
+e;1805246;'entamé>161702';1;0;'entamé>Ver:PPas'
+e;1805247;'entamé>171869';1;0;'entamé>Adj:'
+e;604061;'tranchée>171869';1;0;'tranchée>Adj:'
+e;131323;'merlan';1;94
+e;60;'bleu';1;3449
+e;139629;'julienne';1;56
+e;3565007;'partie de légume';1;0
+e;62373;'Samson';1;72
+e;12942;'gratin';1;266
+e;2540015;'coupé-collé';1;0
+e;128646;'agneau';1;804
+e;2340552;'retranché>161702';1;0;'retranché>Ver:PPas'
+e;2340553;'retranché>171869';1;0;'retranché>Adj:'
+e;95957;'tailloir';1;50
+e;46006;'décider';1;1543
+e;103148;'extraire';1;312
+e;127777;'imposer';1;1141
+e;80010;'saisir';1;435
+e;114629;'soustraire';1;178
+e;142065;'plane';1;432
+e;58367;'altérer';1;104
+e;4616;'burin';1;112
+e;1797790;'supprimé>161702';1;0;'supprimé>Ver:PPas'
+e;130669;'coupe-jarret';1;50
+e;50733;'serveur';1;2869
+e;1797791;'supprimé>171869';1;0;'supprimé>Adj:'
+e;51528;'son';1;3927
+e;134295;'exiger';1;332
+e;59879;'éplucher';1;406
+e;119741;'détoner';1;54
+e;436889;'coupé en rondelles';1;50
+e;26311;'détonner';1;60
+e;3157266;'an:44554:82900:60406:?';12;50
+e;71106;'rondelle';1;98
+e;3729690;'::>13:2949983>29:102633';8;0;'soldat [sujet] perdre une jambe'
+e;1649890;'::>16:32610>29:59879';8;0;'éplucher [avec] couteau'
+e;5486746;'guitare>30843';1;0;'guitare>outil'
+e;39204;'guitare';1;3283
+e;78723;'se raser';1;296
+e;100629;'bonzaï';1;70
+e;257792;'beurre de cacahuètes';1;58
+e;3753502;'échalottes émincées finement';1;0
+e;258447;'arroser>113547';1;54;'arroser>boisson'
+e;11157468;'arroser>113547>128828';1;0;'arroser>boisson>couper'
+e;3170238;'coupe>61407';1;46;'coupe>coiffure'
+e;9245466;'avoir des noeuds dans les cheveux';1;0
+e;67803;'arroser';1;624
+e;230584;'trafiquant de drogue';1;100
+e;113818;'section';1;3360
+e;7492537;'en:syndesmotome';1;0
+e;243792;'syndesmotome';1;22
+e;6843499;'en:dissociation';1;0
+e;157041;'bleu>146885';1;50;'bleu>Nom:Mas+SG'
+e;14015347;'Ciseau de tailleur de pierre';777;0
+e;14292344;'coupons>2946892';1;0;'coupons>Ver:Conjug'
+e;14296872;'coupe>2946892';1;0;'coupe>Ver:Conjug'
+e;14297893;'coupes>2946892';1;0;'coupes>Ver:Conjug'
+e;14334484;'::>66:14334483>155:154026';8;0;'individu [peut] couper [objet] viande [utilisant] couteau à viande'
+e;14350879;'::>66:14350867>155:22710';8;0;'bourreau [peut] couper [objet] tête [utilisant] sabre'
+e;14350870;'::>66:14350867>155:142707';8;0;'bourreau [peut] couper [objet] tête [utilisant] hache'
+e;14364060;'::>66:14364059>155:142707';8;0;'bûcheron [peut] couper [objet] bois [utilisant] hache'
+e;14389070;'::>66:14389069>155:153863';8;0;'individu [peut] couper [objet] pain [utilisant] couteau à pain'
+e;14400451;'::>66:14400450>155:32610';8;0;'individu [peut] couper [objet] fromage [utilisant] couteau'
+e;14347242;'::>66:14334043>155:50104';8;0;'coiffeuse [peut] couper [objet] cheveux [utilisant] ciseaux'
+e;14450961;'::>66:14450958>155:32610';8;0;'boucher [peut] couper [objet] morceaux de viande [utilisant] couteau'
+e;14470088;'::>66:14470087>155:142707';8;0;'individu [peut] couper [objet] main [utilisant] hache'
+e;14470091;'::>66:14470090>155:142707';8;0;'individu [peut] couper [objet] tête [utilisant] hache'
+e;14470095;'::>66:14470094>155:142707';8;0;'individu [peut] couper [objet] membre [utilisant] hache'
+e;14380721;'::>31:16217>29:14334038';8;0;'couper [objet] cheveux [endroit] coiffeur'
+e;14380726;'::>31:89587>29:14334038';8;0;'couper [objet] cheveux [endroit] salon de coiffure'
+e;1747272;'découper en tranches';1;0
+e;14485286;'::>66:14485285>155:154026';8;0;'personne>être humain [peut] couper [objet] rôti [utilisant] couteau à viande'
+e;3310015;'Salon de coiffure';777;0
+e;16040;'fruit de la Passion';1;50
+e;370978;'plante tuberculeuse';1;50
+e;14561170;'::>66:14561169>155:32610';8;0;'personne>être humain [peut] couper [objet] courge [utilisant] couteau'
+e;14572845;'::>119:156134>29:14572843';8;0;'couper [objet] portable [afin de] avoir la paix'
+e;49844;'émasculation';1;68
+e;14450960;'::>31:64437>29:14450953';8;0;'couper [objet] morceaux de viande [endroit] boucherie'
+e;1730933;'qui coupe';1;0
+e;9824738;'cheveux coupés';1;0
+e;14679338;'bien aiguisé';1;0
+e;251056;'cheveux plats';1;50
+e;14730188;'éclaircissement>63069';1;0;'éclaircissement>densité'
+e;14727904;'coupe-tifs';1;4
+e;139331;'voile';1;2676
+e;14727961;'coupe rasoir';1;0
+e;14753124;'détaillant>47845';1;0;'détaillant>détailler'
+e;14753180;'détaillant>47845>128828';1;0;'détaillant>détailler>couper'
+e;3154665;'an:142936:40924:32610:?';12;50
+e;14754558;'interrompre sa lecture';1;0
+e;3936685;'menu contextuel';1;0
+e;14885066;'combinaison de touches';1;4
+e;14928916;'en:quince';1;0
+e;14928917;'en:axe';1;2
+e;14928918;'en:hatchet';1;0
+e;14939348;'en:passion fruit';1;0
+e;14885065;'bouton droit';1;4
+e;120949;'vêtement';1;3652
+e;15472236;'en:to split the difference';1;0
+e;15503257;'en:mowing';1;0
+e;14941346;'en:attire';1;0
+e;15245377;'en:unbark';1;0
+e;15066086;'en:comminute';1;0
+e;15197560;'en:tidily';1;0
+e;14961756;'en:neatly';1;0
+e;15059407;'en:fragmentize';1;0
+e;15052922;'en:desexualize';1;0
+e;15052927;'en:unsex';1;0
+e;15090933;'en:spay';1;0
+e;15364558;'en:sliced bread';1;0
+e;15570230;'en:not to be the sharpest tool in the shed';1;0
+e;15389289;'belle comme le jour';1;0
+e;12363809;'en:peanut butter';1;0
+e;15138172;'en:black poplar';1;0
+e;15062788;'en:switchblade knife';1;0
+e;97494;'avoir en horreur';1;68
+e;15062790;'en:flick-knife';1;0
+e;15062787;'en:flick knife';1;0
+e;15062789;'en:switchblade';1;0
+e;136926;'cran d'arrêt';1;68
+e;206949;'renoncer à';1;56
+e;15660390;'::>66:43427>25:128828';8;0;'cognée [objet pour] couper'
+e;15660393;'::>66:15660392>155:43427';8;0;'personne>être humain [peut] couper [objet] bois [utilisant] cognée'
+e;15660401;'cognée>30843';1;0;'cognée>outil'
+e;7728778;'en:razor blade';1;0
+e;15078165;'en:rabbet plane';1;0
+e;2198794;'exècre';2;0
+e;127766;'se scinder';1;50
+e;15103201;'en:bring to';1;0
+e;15369076;'en:to bring to';1;0
+e;15379690;'en:play cards';1;0
+e;14930659;'en:cut short';1;0
+e;14932793;'en:interrupt';1;0
+e;15571076;'en:cut one's nails';1;0
+e;15571373;'en:pare one's nails';1;0
+e;15291789;'en:to pare one's nails';1;0
+e;141996;'répartir';1;126
+e;15237731;'ôter les crocs';1;0
+e;15079991;'en:defang';1;0
+e;144941;'s'en tirer';1;60
+e;15424620;'en:come out of';1;0
+e;15054551;'en:chopping board';1;0
+e;207675;'se dégager de';1;50
+e;15770770;'déchirement intérieur';1;0
+e;15420444;'en:meet halfway';1;0
+e;140572;'d'un seul coup';1;74
+e;14932764;'en:slowly';1;0
+e;15197732;'en:haired';1;0
+e;15197733;'en:capilli';1;0
+e;15197734;'en:scalp hair';1;0
+e;15513221;'en une seule prise';1;0
+e;14961982;'en:suddenly';1;0
+e;15375340;'en:at one go';1;0
+e;15375350;'en:in one shot';1;0
+e;7992106;'en:factory';1;0
+e;15780057;'détester faire quelque chose';1;0
+e;15450974;'détester [qch/qqn]';1;0
+e;15450975;'détester faire [qch]';1;0
+e;15340296;'retirer/supprimer le financement';1;0
+e;15313244;'cesser de financer';1;0
+e;15313245;'en:defund';1;0
+e;7378065;'en:supermarket';1;0
+e;15277334;'en:silex';1;0
+e;15050482;'en:tanning';1;0
+e;15140042;'en:tannery';1;0
+e;15229812;'en:to mow the lawn';1;0
+e;15225321;'en:to cut the grass';1;0
+e;15564177;'en:cut the grass';1;0
+e;15789591;'::>66:15295811>25:128828';8;0;'pinces coupantes [objet pour] couper'
+e;15789596;'::>66:15789595>155:15295811';8;0;'personne>être humain [peut] couper [objet] fil de fer [utilisant] pinces coupantes'
+e;34710;'sortir de';1;50
+e;15193511;'en:crew-cut';1;0
+e;15246857;'avec lenteur';1;0
+e;136624;'alligator';1;92
+e;15358618;'lame de ressort';1;0
+e;15138984;'en:paper knife';1;0
+e;14930656;'en:letter opener';1;0
+e;14930657;'en:paperknife';1;0
+e;15054552;'en:cutting board';1;0
+e;15571070;'en:go out of';1;0
+e;15318308;'en:to go out of';1;0
+e;15284660;'en:to come out of';1;0
+e;15318309;'en:to be outside';1;0
+e;15420427;'en:breathtakingly';1;0
+e;15138080;'en:stunningly';1;0
+e;14941185;'en:healing';1;0
+e;15137824;'en:skillfully';1;0
+e;14960557;'en:circular saw';1;0
+e;15273400;'en:rotary saw';1;0
+e;15273401;'en:buzzsaw';1;0
+e;2356772;'touches de fonction';1;0
+e;253680;'lime à ongles';1;56
+e;61182;'tranchant';1;232
+e;116874;'trancheur';1;50
+e;26207;'croiseur';1;158
+e;113344;'abattage';1;80
+e;7167;'aphérèse';1;58
+e;69386;'bénitier';1;156
+e;147545;'blanc-estoc';1;50
+e;104116;'blanc-étoc';1;50
+e;16032148;'bressant';1;0
+e;112802;'césure';1;72
+e;1001;'chanfrein';1;56
+e;11850;'compotier';1;54
+e;134535;'coupelle';1;68
+e;9509;'cyathe';1;54
+e;16042834;'cymbe';1;0
+e;2308579;'éminçage';1;0
+e;131923;'émondage';1;52
+e;24136;'émonde';1;50
+e;2191067;'enjambage';1;0
+e;83600;'log';1;50
+e;56455;'patère';1;132
+e;107589;'phiale';1;50
+e;16055602;'précoupe';1;0
+e;99835;'recepée';1;50
+e;150073;'recépée';1;50
+e;31838;'rogne';1;144
+e;8393;'saleron';1;50
+e;116927;'salière';1;222
+e;106601;'salve';1;84
+e;5835506;'skyphos';777;0
+e;320339;'stratotype';1;50
+e;114752;'surcoupe';1;50
+e;99036;'taste-vin';1;50
+e;43623;'tâte-vin';1;54
+e;2364194;'tranchis';1;0
+e;176085;'autotomiser';1;50
+e;16036641;'avivation';1;0
+e;143909;'bec-d'âne';1;50
+e;106075;'biseautage';1;50
+e;2366554;'bisegmenter';1;0
+e;34728;'bistoquet';1;50
+e;16051;'bûcheronner';1;50
+e;2486684;'chlasse';1;0
+e;35966;'choper';1;108
+e;15365619;'chronorupteur';1;0
+e;16041925;'cionotome';1;0
+e;2394583;'coupe-cigares';1;0
+e;235519;'coupe-cors';1;50
+e;2376212;'coupe-foin';1;0
+e;5619704;'coupe-frites';777;0
+e;2431960;'coupe-jambon';1;0
+e;69168;'coupe-légumes';1;58
+e;14772434;'coupe-oeuf';1;0
+e;39154;'coupe-papier';1;108
+e;214608;'coupe-queue';1;50
+e;16042518;'coupe-rembord';1;0
+e;16042519;'coupe-tranche';1;0
+e;16042520;'coupe-tranches';1;0
+e;77994;'coupoir';1;50
+e;16042527;'coupoir-biseautier';1;0
+e;27106;'courtauder';1;50
+e;2536393;'décailler';1;0
+e;96440;'dédoublage';1;50
+e;3037406;'déflaquer';1;0
+e;6273328;'défrénation';1;0
+e;2364051;'déglutiner';1;0
+e;167454;'détroncation';1;50
+e;16043536;'détronquer';1;0
+e;85794;'diamant';1;596
+e;130189;'disjoncter';1;124
+e;5946;'dop';1;50
+e;14223;'échardonnette';1;50
+e;1832891;'embryotome';1;0
+e;36833;'empenoir';1;50
+e;176740;'étrape';1;50
+e;16036913;'étrapoire';1;0
+e;90534;'fauchage';1;58
+e;73223;'fauchet';1;50
+e;54790;'fauchette';1;50
+e;23675;'fauchon';1;50
+e;228053;'fauciller';1;50
+e;117525;'faucillon';1;50
+e;1773155;'FAUX';1;0
+e;58072;'fissionner';1;50
+e;93105;'forces';1;3581
+e;2497345;'forcettes';1;0
+e;16242;'fraise';1;1394
+e;16046203;'guide-tranches';1;0
+e;91466;'halbrener';1;50
+e;2528061;'hephthémimère';1;0
+e;331777;'intersecter';1;50
+e;2454530;'lamette';1;0
+e;14098;'lingue';1;54
+e;29242;'marmenteau';1;50
+e;1840526;'ostéotome';1;0
+e;2563958;'ovoir';1;2
+e;2450208;'oxycouper';1;0
+e;2460832;'penthémimère';1;0
+e;150050;'raseuse';1;52
+e;1880993;'recoupage';1;0
+e;2389041;'réémonder';1;0
+e;1138;'rhizotome';1;50
+e;16056819;'ridelage';1;0
+e;331930;'rideler';1;50
+e;64042;'saucissonnage';1;52
+e;69145;'scion';1;68
+e;11870;'slicer';1;50
+e;125852;'taille-haie';1;80
+e;6455;'tranchelard';1;50
+e;2298142;'tranchement';1;0
+e;21040;'tranchet';1;50
+e;36266;'trancheuse';1;50
+e;2427154;'trihémimère';1;0
+e;119194;'amassette';1;50
+e;167447;'amygdalotome';1;50
+e;2126062;'anglaisage';1;0
+e;120441;'anglaiser';1;60
+e;16036018;'apoltroner';1;0
+e;2548516;'apoltronner';1;0
+e;185260;'apoltronnir';1;50
+e;88074;'artelle';1;50
+e;2363316;'autoamputer';1;0
+e;8518;'hachard';1;50
+e;14948941;'en:grinder';1;0
+e;15416830;'en:meat mincer';1;0
+e;1350;'Kabylie';1;52
+e;16038008;'chalumeau-coupeur';1;0
+e;1654348;'charpi';1;0
+e;16041578;'charpu';1;0
+e;2008;'hune';1;58
+e;4300;'refendre';1;50
+e;6592;'canaque';1;50
+e;6952;'puanteur';1;376
+e;7692;'Anderlecht';1;50
+e;8824;'roussir';1;58
+e;9223;'contondant';1;50
+e;9145;'bouture';1;98
+e;11925;'coupailler';1;50
+e;18133;'ressouder';1;50
+e;19355;'cordelette';1;88
+e;16166589;'::>66:14880189>155:32610';8;0;'personne>être humain [peut] couper [objet] viande [utilisant] couteau'
+e;15482995;'::>66:14880189>155:154026';8;0;'personne>être humain [peut] couper [objet] viande [utilisant] couteau à viande'
+e;31040;'serpette';1;56
+e;33907;'Macaroni';1;50
+e;34318;'tringler';1;54
+e;37450;'futaie';1;56
+e;40553;'autodrome';1;50
+e;56476;'marnage';1;50
+e;15422426;'en:hairstyling salon';1;0
+e;14928938;'en:hairdresser's';1;0
+e;15201581;'en:hairdressing salon';1;0
+e;207964;'se sortir de';1;50
+e;15318307;'en:to leave';1;0
+e;16239103;'en:scarify';1;0
+e;15065630;'en:abrade';1;0
+e;15705878;'faire souffrir quelqu'un';1;0
+e;15232177;'faire souffrir qn';1;0
+e;14925352;'en:woodcutter';1;0
+e;14930507;'en:cutter';1;0
+e;14916771;'en:harvester';1;0
+e;66668;'sagittal';1;50
+e;69696;'nipper';1;50
+e;74268;'rognure';1;54
+e;75722;'coupe-racine';1;52
+e;89166;'barlong';1;50
+e;80627;'scalper';1;74
+e;98070;'filin';1;66
+e;111630;'éjointage';1;54
+e;16311048;'::>66:16311047>155:154026';8;0;'individu [peut] couper [objet] rosbeef [utilisant] couteau à viande'
+e;121162;'longitudinalement';1;50
+e;136152;'courtepointière';1;50
+e;14584111;'en fines tranches';1;18
+e;148570;'hyperboliquement';1;50
+e;7997626;'en:industrial plant';1;0
+e;15206605;'en:production plant';1;0
+e;15206604;'en:factory unit';1;0
+e;12080490;'peine d'amour';1;0
+e;1723933;'menu>171870';1;0;'menu>Nom:'
+e;62527;'détaillant';1;76
+e;119222;'éclaircissement';1;66
+e;15583771;'en:be outside';1;0
+e;15318306;'en:to get over';1;0
+e;8957235;'en:power saw';1;0
+e;7571513;'en:wire cutter';1;0
+e;15226982;'en:cutting clamp';1;0
+e;15144089;'en:bolt cutter';1;0
+e;15340787;'en:wire nippers';1;0
+e;15340786;'en:bolt cutters';1;0
+e;15267617;'en:ginger cake';1;0
+e;8085264;'en:gingerbread';1;0
+e;15281207;'mettre votre main au feu';1;0
+e;15205612;'sportif, sportive';1;0
+e;15197904;'en:sorrow of love';1;0
+e;54180;'couteau-scie';1;56
+e;14930801;'en:bread knife';1;0
+e;15413452;'en:sharp knife';1;0
+e;15413451;'en:kitchen knife';1;0
+e;203803;'mettre son grain de sel';1;90
+e;15339548;'appareil hachoir';1;0
+e;385909;'usine de production';1;50
+e;16326751;'en:skiving-knife';1;0
+e;15419731;'en:clothing item';1;0
+e;14966797;'en:item of clothing';1;0
+e;15705879;'en:make somebody suffer';1;0
+e;15320417;'en:lumber mill';1;0
+e;15444729;'en:electric shaver';1;0
+e;15420464;'en:butter slicer';1;0
+e;15197906;'en:lost love';1;0
+e;15197905;'en:love pain';1;0
+e;14927119;'en:heartache';1;0
+e;15138200;'en:broken heart';1;0
+e;227834;'chagrin d'amour';1;104
+e;8049418;'en:white pudding';1;0
+e;14928429;'en:pair of scissors';1;0
+e;15434863;'en:ballgown';1;0
+e;15504723;'mettre quelque chose hors tension';1;0
+e;15447901;'mettre [qch] hors tension';1;0
+e;15052406;'en:crew cut';1;0
+e;368375;'paquet de cartes';1;50
+e;15102298;'en:pack of cards';1;0
+e;15571372;'en:get one's hair cut';1;0
+e;15571371;'en:have one's hair cut';1;0
+e;15291783;'en:to get one's hair cut';1;0
+e;15291780;'en:to have one's hair cut';1;0
+e;15291781;'en:have/get the/one's hair cut';1;0
+e;15291782;'en:get a haircut';1;0
+e;16530511;'::>66:16530510>155:142707';8;0;'personne>être humain [peut] couper [objet] jambe [utilisant] hache'
+e;16533682;'::>66:235061>25:128828';8;0;'couteau de boucher [objet pour] couper'
+e;16533684;'::>66:14540366>155:235061';8;0;'boucher [peut] couper [objet] morceau de viande [utilisant] couteau de boucher'
+e;16533692;'::>66:16533691>155:32610';8;0;'personne>être humain [peut] couper [objet] morceau de viande [utilisant] couteau'
+e;14326162;'::>66:14326161>155:142707';8;0;'bûcheron [peut] couper [objet] arbre [utilisant] hache'
+e;16560396;'::>66:16560395>155:32610';8;0;'personne>être humain [peut] couper [objet] oignon [utilisant] couteau'
+e;16560401;'::>66:16560400>155:32610';8;0;'personne>être humain [peut] couper [objet] légume [utilisant] couteau'
+e;15199995;'en:butcher knife';1;0
+e;14941364;'en:garment';1;0
+e;15102299;'en:deck of cards';1;0
+e;15570222;'en:thick accent';1;0
+e;15570223;'en:thick fog';1;0
+e;15209105;'en:to cut one's nails';1;0
+e;15209093;'en:to get out of';1;0
+e;15424621;'en:get out of';1;0
+e;2358150;'bûcherie';1;0
+e;2376158;'échardonnet';1;0
+e;15573861;'en:navel-cord';1;0
+e;15573860;'en:abdominal stalk';1;0
+e;15573859;'en:navel-string';1;0
+e;15573858;'en:belly stalk';1;0
+e;15408827;'en:chorda umbilicalis';1;0
+e;15353604;'en:garden centre';1;0
+e;15261885;'en:superstore';1;0
+e;156055;'grand magasin';1;124
+e;14940683;'en:department store';1;0
+e;15200675;'en:leave someone speechless';1;0
+e;15200676;'en:shut someone up';1;0
+e;15293663;'en:be one fry short of a Happy Meal';1;0
+e;15489454;'en:not be a genius';1;0
+e;15489453;'en:not be the sharpest crayon in the box';1;0
+e;15489452;'en:not be the brightest blub in the set';1;0
+e;15333956;'en:cheesewire';1;0
+e;15263496;'en:render someone speechless';1;0
+e;15297779;'planche à hacher';1;0
+e;15449274;'diviser [qch] en [qch]';1;0
+e;15348340;'en:slice thinly';1;0
+e;15209104;'en:to slice thinly';1;0
+e;15209094;'en:to dice';1;0
+e;15081125;'en:scoop out';1;0
+e;15746734;'en:get chapped';1;0
+e;15746733;'en:become chapped';1;0
+e;258859;'robe de bal';1;4
+e;77493;'apaisement';1;238
+e;16591879;'::>66:16591878>155:142707';8;0;'boquillon [peut] couper [objet] arbre [utilisant] hache'
+e;16591882;'::>66:16591881>155:142707';8;0;'personne>être humain [peut] couper [objet] arbre [utilisant] hache'
+e;16599497;'::>66:116477>24:14326159';8;0;'personne [peut] couper [objet] arbre'
+e;16599719;'::>66:116477>24:16560398';8;0;'personne [peut] couper [objet] légume'
+e;16599720;'::>66:116477>24:16560393';8;0;'personne [peut] couper [objet] oignon'
+e;16599783;'::>66:116477>24:14540364';8;0;'personne [peut] couper [objet] morceau de viande'
+e;16599803;'::>66:116477>24:16530507';8;0;'personne [peut] couper [objet] jambe'
+e;16599804;'::>66:116477>24:14326156';8;0;'personne [peut] couper [avec] hache'
+e;16600280;'::>66:116477>24:15789593';8;0;'personne [peut] couper [objet] fil de fer'
+e;16600281;'::>66:116477>24:15789590';8;0;'personne [peut] couper [avec] pinces coupantes'
+e;16600318;'::>66:116477>24:15686368';8;0;'personne [peut] couper [objet] filet mignon'
+e;16600358;'::>66:116477>24:14364057';8;0;'personne [peut] couper [objet] bois'
+e;16600359;'::>66:116477>24:15660389';8;0;'personne [peut] couper [avec] cognée'
+e;16600612;'::>66:116477>24:14324557';8;0;'personne [peut] couper [objet] viande'
+e;16600613;'::>66:116477>24:14880186';8;0;'personne [peut] couper [endroit] planche à découper'
+e;16600658;'::>66:116477>24:14389064';8;0;'personne [peut] couper [objet] pain'
+e;16600659;'::>66:116477>24:14851593';8;0;'personne [peut] couper [endroit] planche à pain'
+e;16601277;'::>66:116477>24:14561166';8;0;'personne [peut] couper [objet] courge'
+e;16601278;'::>66:116477>24:14324560';8;0;'personne [peut] couper [avec] couteau'
+e;16601317;'::>66:116477>24:14540351';8;0;'personne [peut] couper [objet] steak'
+e;16601677;'::>66:116477>24:14435490';8;0;'personne [peut] couper [objet] rôti'
+e;16601678;'::>66:116477>24:14334480';8;0;'personne [peut] couper [avec] couteau à viande'
+e;16607120;'::>66:16607119>155:32610';8;0;'fou furieux [peut] couper [objet] oreille [utilisant] couteau'
+e;2429274;'paddé';1;0
+e;16607510;'::>66:116477>24:16606979';8;0;'personne [peut] couper [objet] main>Nom:Fem+SG'
+e;2473226;'chepteil';1;0
+e;2485292;'brillolette';1;0
+e;15209095;'en:to cut short';1;0
+e;2559315;'tenaille à la russe';1;0
+e;2566269;'bézoche';1;0
+e;2528971;'coupe-légume';1;0
+e;2377869;'albrener';1;0
+e;14959025;'en:restaurant';1;0
+e;166262;'resto';1;198
+e;15684619;'en:fresh pineapple';1;0
+e;7223565;'en:pumpkin';1;0
+e;2352201;'côte de buf';1;0
+e;15283966;'en:green beans';1;0
+e;14880191;'::>31:65066>29:14324557';8;0;'couper [objet] viande [endroit] planche à découper'
+e;1840983;'pectus carinatum';1;0
+e;16827626;'en:osteotom';1;0
+e;16837974;'en:embryotome';1;0
+e;16835786;'en:dens incisivus';1;0
+e;15537016;'en:to cut the umbilical cord';1;0
+e;181789;'cordon ombilical';1;52
+e;6905673;'en:umbilical cord';1;0
+e;9509500;'moyenne surface';1;32
+e;14935125;'en:emasculation';1;0
+e;14851598;'::>31:42092>29:14389064';8;0;'couper [objet] pain [endroit] planche à pain'
+e;15240275;'en:card deck';1;0
+e;15240273;'lot de cartes';1;0
+e;15117569;'en:clockwork';1;0
+e;108136;'bigorne';1;50
+e;2413656;'en avoir le coeur net';1;0
+e;227453;'coeur brisé';1;12
+e;15742991;'en:cut your nails';1;0
+e;15420466;'en:clip your nails';1;0
+e;15420467;'en:trim your nails';1;0
+e;15366726;'en:be no Einstein';1;0
+e;15366730;'en:not be the sharpest knife in the drawer';1;0
+e;15420465;'en:will never set the world on fire';1;0
+e;15742988;'en:cut somebody off completely';1;0
+e;15519990;'en:leave somebody speechless';1;0
+e;15650780;'en:shut somebody up';1;0
+e;15420446;'en:cut the cord';1;0
+e;15420447;'en:cut the apron strings';1;0
+e;14930661;'en:cut the umbilical cord';1;0
+e;14943867;'en:butt in';1;0
+e;15742970;'en:cut something into dice';1;0
+e;15625585;'en:shut something down';1;0
+e;96948;'coupe-ongles';1;96
+e;15239367;'en:nail clippers';1;0
+e;15401138;'en:pull the rug from under the feet';1;0
+e;15702574;'en:take the wind out of one's sails';1;0
+e;15401137;'en:to take the wind out of one's sails';1;0
+e;199431;'en tenir une couche';1;82
+e;436892;'coupez';1;50
+e;267711;'coupons';1;66
+e;260556;'coupes';1;837
+e;2161822;'coupiez';2;0
+e;2161823;'coupions';2;0
+e;2161748;'coupa';2;0
+e;2161751;'coupai';2;0
+e;2161752;'coupaient';2;0
+e;2161791;'coupais';2;0
+e;2161792;'coupait';2;0
+e;2161861;'coupâmes';2;0
+e;2161795;'coupas';2;0
+e;2161796;'coupasse';2;0
+e;2161797;'coupassent';2;0
+e;2161798;'coupasses';2;0
+e;2161799;'coupassiez';2;0
+e;2161800;'coupassions';2;0
+e;2161862;'coupât';2;0
+e;2161863;'coupâtes';2;0
+e;2161803;'coupent';2;0
+e;2161804;'coupera';2;0
+e;2161805;'couperai';2;0
+e;2161806;'couperaient';2;0
+e;2161807;'couperais';2;0
+e;2161808;'couperait';2;0
+e;2161809;'couperas';2;0
+e;2161864;'coupèrent';2;0
+e;2161811;'couperez';2;0
+e;2161812;'couperiez';2;0
+e;2161813;'couperions';2;0
+e;2161814;'couperons';2;0
+e;2161815;'couperont';2;0
+e;15438352;'en:not be playing with a full deck';1;0
+e;15438351;'en:be a dumb ass';1;0
+e;15438350;'en:be a total dumbbell';1;0
+e;15438349;'en:be as thick as two short planks';1;0
+e;17110707;'::>66:116477>24:16902994';8;0;'personne [peut] couper [objet] brique'
+e;262537;'être long à la détente';1;52
+e;261585;'peine de coeur';1;78
+e;197669;'clouer le bec à';1;50
+e;15650781;'clouer le bec à quelqu'un';1;0
+e;15425533;'clouer le bec à [qqn]';1;0
+e;15234433;'en:peasouper';1;0
+e;15418652;'en:fog so thick you could cut it with a knife';1;0
+e;15420558;'avoir un wagon de retard';1;0
+e;2571012;'avoir un train de retard';1;0
+e;196722;'avoir un métro de retard';1;50
+e;15420557;'en:be running really late';1;0
+e;15420556;'en:be running very late';1;0
+e;7743223;'en:electric razor';1;0
+e;136813;'tout à l'heure';1;90
+e;15564553;'en:mince finely';1;0
+e;15445679;'en:chop finely';1;0
+e;15564552;'en:grind finely';1;0
+e;166645;'hacher menu';1;66
+e;15218029;'en:to chop finely';1;0
+e;15297776;'en:to grind finely';1;0
+e;15218028;'en:to mince finely';1;0
+e;15519991;'laisser quelqu'un sans voix';1;0
+e;15432479;'laisser [qqn] sans voix';1;0
+e;7420612;'en:lawnmower';1;0
+e;14964925;'en:shearer';1;0
+e;15451387;'en:be behind the times';1;0
+e;186001;'en mettre sa main au feu';1;50
+e;15281208;'en:stake your life on it';1;0
+e;15414811;'en:bet your bottom dollar on it';1;0
+e;15414812;'en:be sure of it';1;0
+e;15414813;'en:put money on it';1;0
+e;15414810;'en:bet your life on it';1;0
+e;95084;'gros bras';1;72
+e;15423747;'en:not be the brightest';1;0
+e;2422347;'ne pas être une lumière';1;0
+e;15366725;'en:be a bit dim';1;0
+e;15293670;'en:be slow on the uptake';1;0
+e;3989576;'ne pas être une flèche';1;0
+e;145165;'d'un moment à l'autre';1;50
+e;54621;'en un tour de main';1;50
+e;320652;'ne pas pouvoir en placer une';1;50
+e;275424;'fétichisme des cheveux';777;50
+e;17347720;'::>66:116477>24:17219837';8;0;'personne [peut] couper [objet] sapin'
+e;143636;'bouvet';1;52
+e;5731;'receper';1;50
+e;108912;'bec-de-corbeau';1;54
+e;76378;'couperet';1;58
+e;23831;'affouage';1;50
+e;86616;'schlass';1;50
+e;26702;'doleau';1;50
+e;143121;'recéper';1;50
+e;155251;'tondre le gazon';1;64
+e;17398637;'::>66:14851596>155:153863';8;0;'personne>être humain [peut] couper [objet] pain [utilisant] couteau à pain'
+e;7147664;'en:flint substance';1;0
+e;14941362;'en:evening dress';1;0
+e;159703;'robe du soir';1;76
+e;15582620;'en:cut wood';1;0
+e;15200673;'en:to cut wood';1;0
+e;14934114;'en:dramatic';1;0
+e;14916730;'en:stunning';1;0
+e;15361273;'en:jaw-dropping';1;0
+e;14917749;'en:breathtaking';1;0
+e;15200677;'en:cut the hair';1;0
+e;15200678;'en:cut your hair';1;0
+e;357377;'habit de gala';1;50
+e;15420443;'en:split the difference';1;0
+e;15424880;'c'est comme si c'était fait';1;2
+e;259089;'couteau de table';1;50
+e;15067208;'en:table knife';1;0
+e;15420451;'en:stop the engine';1;0
+e;15420450;'en:cut the engine';1;0
+e;15584955;'en:be unable to get a word in edgeways';1;0
+e;251243;'tenue de soirée';1;56
+e;249402;'robe de soirée';1;120
+e;15433322;'en:formal outfit';1;0
+e;15433321;'en:formal clothing';1;0
+e;15206552;'en:formal dress';1;0
+e;15433320;'en:formal wear';1;0
+e;15433319;'en:evening wear';1;0
+e;155034;'habit de soirée';1;72
+e;6904604;'en:heavy';1;0
+e;160856;'tondre la pelouse';1;92
+e;15222741;'en:mow the lawn';1;0
+e;15531036;'en:cross-cut chisel';1;0
+e;15531035;'en:crosscut chisel';1;0
+e;8828;'bédane';1;56
+e;12403234;'en:nail file';1;0
+e;16324668;'aussitôt fait';1;0
+e;16324667;'aussitôt dit';1;0
+e;5622021;'melanzane a barchetta';777;0
+e;2360156;'incoupable';1;0
+e;15280684;'gâteau d'anniv';1;0
+e;17402984;'::>66:116477>24:14389066';8;0;'personne [peut] couper [avec] couteau à pain'
+e;17456194;'dents de la chance';777;0
+e;63177;'jouer aux cartes';1;132
+e;77999;'denteler';1;50
+e;133921;'dentition';1;430
+e;17473455;'::>66:183500>25:128828';8;0;'paire de ciseaux [objet pour] couper'
+e;17473458;'::>66:17473457>155:183500';8;0;'personne>être humain [peut] couper [objet] cheveux [utilisant] paire de ciseaux'
+e;17478174;'::>66:116477>24:14334038';8;0;'personne [peut] couper [objet] cheveux'
+e;17478175;'::>66:116477>24:17473454';8;0;'personne [peut] couper [avec] paire de ciseaux'
+e;17496552;'::>66:230486>30:128828';8;0;'crèmerie [lieu pour] couper'
+e;17496556;'::>31:230486>29:14400446';8;0;'couper [objet] fromage [endroit] crèmerie'
+e;17496557;'::>66:116477>24:14400446';8;0;'personne [peut] couper [objet] fromage'
+e;17496558;'::>66:116477>24:17496551';8;0;'personne [peut] couper [endroit] crèmerie'
+e;17503252;'::>66:8718524>25:128828';8;0;'couteau de boucherie [objet pour] couper'
+e;17503254;'::>66:17503247>155:8718524';8;0;'boucher>boucherie [peut] couper [objet] viande [utilisant] couteau de boucherie'
+e;243782;'couteau à lame rétractable';1;50
+e;10989086;'Couteau à lame rétractable';777;0
+e;17536077;'::>66:213839>25:128828';8;0;'couteau>ustensile [objet pour] couper'
+e;17536080;'::>66:14880189>155:213839';8;0;'personne>être humain [peut] couper [objet] viande [utilisant] couteau>ustensile'
+e;17536085;'::>66:116477>24:17536076';8;0;'personne [peut] couper [avec] couteau>ustensile'
+e;17543061;'::>31:146632>29:17543057';8;0;'couper [objet] chêne [endroit] forêt'
+e;17543064;'::>31:146632>29:14326159';8;0;'couper [objet] arbre [endroit] forêt'
+e;17543068;'::>66:107262>25:128828';8;0;'tronçonneuse [objet pour] couper'
+e;17543073;'::>66:14326161>155:107262';8;0;'bûcheron [peut] couper [objet] arbre [utilisant] tronçonneuse'
+e;140039;'corne';1;450
+e;1723935;'menu>146889';1;0;'menu>Adv:'
+e;17562771;'::>31:98796>29:128828';8;0;'couper [endroit] scierie'
+e;17562772;'::>66:98796>30:128828';8;0;'scierie [lieu pour] couper'
+e;17562775;'::>31:98796>29:14364057';8;0;'couper [objet] bois [endroit] scierie'
+e;17562998;'::>13:33075>29:128828';8;0;'couper [sujet] jardinier'
+e;17563000;'::>14:159167>29:128828';8;0;'couper [objet] ronces'
+e;17563625;'::>13:116649>29:128828';8;0;'couper [sujet] charcutier'
+e;17563639;'::>66:5808150>25:128828';8;0;'trancheuse à jambon [objet pour] couper'
+e;17563642;'::>66:17563635>155:5808150';8;0;'charcutier [peut] couper [objet] tranches de jambon cru [utilisant] trancheuse à jambon'
+e;17563644;'::>66:17563632>155:5808150';8;0;'charcutier [peut] couper [objet] tranches de jambon blanc [utilisant] trancheuse à jambon'
+e;17563646;'::>66:17563629>155:5808150';8;0;'charcutier [peut] couper [objet] tranches de jambon [utilisant] trancheuse à jambon'
+e;17567262;'::>66:17567255>155:142707';8;0;'bûcheron>individu [peut] couper [objet] arbre [utilisant] hache'
+e;17567266;'::>31:109031>29:128828';8;0;'couper [endroit] clairière'
+e;17567267;'::>66:109031>30:128828';8;0;'clairière [lieu pour] couper'
+e;17567270;'::>31:109031>29:14326159';8;0;'couper [objet] arbre [endroit] clairière'
+e;17577716;'::>66:116477>24:17577709';8;0;'personne [peut] couper [objet] lardons'
+e;17588633;'::>66:17588632>155:154026';8;0;'personne>être humain [peut] couper [objet] palette [utilisant] couteau à viande'
+e;17588634;'::>66:116477>24:17588629';8;0;'personne [peut] couper [objet] palette'

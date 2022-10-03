@@ -1,0 +1,1754 @@
+e;137333;'tigre';1;1484
+e;140715;'jambes';1;1549
+e;142086;'jambe';1;3395
+e;16747;'adn';1;164
+e;144846;'tête';1;5937
+e;26363;'bras';1;4155
+e;34898;'pied';1;4548
+e;19356;'sexe';1;5768
+e;95422;'cou';1;1944
+e;114327;'acide désoxyribonucléique';1;140
+e;107477;'nez';1;2903
+e;139779;'ADN';1;1254
+e;116980;'squelette';1;1226
+e;77424;'oeil';1;3276
+e;225934;'oeil>330323';1;224;'oeil>organe de la vue'
+e;74846;'corps';1;5240
+e;246329;'gros chat';1;24
+e;436570;'entité biologique';1;50
+e;14049831;'organisme vivant pluricellulaire hétérotrophe';1;6
+e;14049819;'néphrozoaire';1;0
+e;12694633;'Panthère nébuleuse';777;0
+e;145382;'orange';1;2231
+e;48510;'dangereux';1;2359
+e;14940408;'en:gnathostome';1;0
+e;111366;'descente de lit';1;72
+e;247483;'lion>116032';1;104;'lion>félin'
+e;77008;'yeux';1;4537
+e;8955777;'prédateur crépusculaire';1;0
+e;390927;'tête>112609';1;72;'tête>anatomie'
+e;233138;'tête>390963';1;72;'tête>extrémité supérieure du corps'
+e;47319;'colonne vertébrale';1;362
+e;286791;'tigre de';777;50
+e;126285;'dos';1;2898
+e;32735;'poumons';1;395
+e;383747;'tigre de papier';1;50
+e;383748;'tigre de poirier';1;50
+e;383749;'tigre royal';1;50
+e;240720;'squelette>112609';1;152;'squelette>anatomie'
+e;109785;'peau';1;3979
+e;36886;'faune';1;2225
+e;39031;'cerveau';1;2776
+e;213792;'coeur>213791';1;186;'coeur>organe musculaire'
+e;2556720;'tigre du platane';1;0
+e;261961;'grand félin';1;50
+e;8969274;'animal à rayures';1;0
+e;391009;'célomate';1;50
+e;87789;'coelomate';1;52
+e;391010;'coelomé';1;50
+e;267642;'organisme animal';1;4
+e;187620;'patte postérieure';1;6
+e;120157;'règne animal';1;102
+e;96211;'coeur';1;2342
+e;8990;'patte';1;1766
+e;219363;'corps>112609';1;190;'corps>anatomie'
+e;187622;'patte antérieure';1;8
+e;114420;'artère';1;578
+e;123933;'entité';1;1439
+e;102651;'platane';1;76
+e;159407;'danse classique';1;254
+e;14338;'attaquer';1;1286
+e;78768;'chasser';1;1086
+e;183280;'moelle spinale';1;52
+e;8788318;'tuer une personne';1;0
+e;241352;'ventre>112609';1;100;'ventre>anatomie'
+e;126388;'articulation';1;730
+e;58768;'organisme';1;2509
+e;103311;'système nerveux';1;276
+e;83944;'nerf';1;858
+e;57875;'tube digestif';1;118
+e;316850;'entité physique';1;50
+e;4333487;'être humain de sexe féminin';1;0
+e;231132;'tigre de Java';1;50
+e;152844;'sang chaud';1;88
+e;95256;'queue';1;3266
+e;81934;'main';1;6788
+e;103416;'euthérien';1;60
+e;108062;'placentaire';1;58
+e;138092;'pelage';1;324
+e;164433;'canines';1;150
+e;175842;'panthériné';1;50
+e;218086;'organe sexuel';1;90
+e;265226;'thérien';1;4
+e;265633;'animal terrestre';1;4
+e;4891735;'animal dangereux';1;0
+e;39101;'bête';1;1430
+e;212184;'Shere Khan';1;6
+e;243696;'vibrisse>117789';1;50;'vibrisse>moustache'
+e;16110;'bouche';1;4340
+e;216283;'dent>45311';1;284;'dent>dentaire'
+e;77938;'flair';1;74
+e;152125;'Zoologie';1;210
+e;221019;'bouche>112609';1;214;'bouche>anatomie'
+e;58404;'canine';1;1612
+e;264598;'prédateur>117095';1;74;'prédateur>zoologie'
+e;6737046;'fauve>17559';1;50;'fauve>animal'
+e;452536;'fauve>171870';1;50;'fauve>Nom:'
+e;135190;'lieu';1;3861
+e;213644;'os>116980';1;404;'os>squelette'
+e;93927;'fesses';1;624
+e;45738;'vibrisse';1;62
+e;3344053;'tigré>171870';1;0;'tigré>Nom:'
+e;13752856;'panthera tigris';1;0
+e;2442;'vivre';1;3276
+e;14446671;'::>66:137333>24:14446669';8;0;'tigre [peut] vivre [endroit] jungle'
+e;222843;'solitaire>25090';1;82;'solitaire>seul'
+e;130164;'manger';1;10304
+e;14510602;'::>66:137333>24:327614';8;0;'tigre [peut] manger [objet] viande'
+e;14510607;'::>66:137333>24:14510605';8;0;'tigre [peut] manger [objet] viandes'
+e;14531443;'::>66:137333>24:14531441';8;0;'tigre [peut] manger [endroit] jungle'
+e;14531444;'::>66:137333>24:14531439';8;0;'tigre [peut] manger [objet] proie'
+e;131593;'méchant';1;1170
+e;9158160;'en:tiger';1;0
+e;101548;'se jeter';1;68
+e;16574733;'::>66:137333>24:16574731';8;0;'tigre [peut] se jeter [endroit] proie'
+e;318416;'se jeter sur';1;100
+e;16574738;'::>66:137333>24:16574736';8;0;'tigre [peut] se jeter sur [objet] proie'
+e;130299;'feuler';1;58
+e;7943;'tuer';1;4408
+e;16777417;'::>66:137333>24:16777415';8;0;'tigre [peut] tuer [objet] touriste'
+e;16599288;'::>66:137333>24:14771670';8;0;'tigre [peut] attaquer [objet] personne'
+e;247964;'panthère>82231';1;74;'panthère>félidé'
+e;64313;'abdomen';1;518
+e;326147;'système nerveux en position ventrale';1;52
+e;247024;'félin>17559';1;64;'félin>animal'
+e;218465;'pupille>77424';1;64;'pupille>oeil'
+e;1636805;'oeil>44335';1;50;'oeil>organe'
+e;115155;'foie';1;1393
+e;214602;'queue>214624';1;74;'queue>queue d'animal'
+e;1687053;'félin>171870';1;0;'félin>Nom:'
+e;51077;'Bengale';1;196
+e;218471;'tigre de Sibérie';1;2
+e;231134;'tigre de l'Amour';1;50
+e;331030;'féliforme';1;56
+e;237445;'être>68439';1;32;'être>individu'
+e;109638;'fourrure';1;478
+e;145953;'visage';1;3047
+e;77727;'gueule';1;706
+e;6948720;'en:tigers';1;0
+e;113583;'panthère';1;958
+e;74514;'féroce';1;146
+e;326146;'système nerveux en position dorsale';1;56
+e;260820;'entité vivante';1;64
+e;214988;'langue>213791';1;244;'langue>organe musculaire'
+e;121301;'tigrer';1;70
+e;118539;'poils';1;1359
+e;7430;'sein';1;3594
+e;1169187;'pupille>146881';1;0;'pupille>Nom:Fem+SG'
+e;151867;'pattes';1;2265
+e;139151;'Tigre';1;1400
+e;228289;'sexe>218086';1;282;'sexe>organe sexuel'
+e;396247;'individu>24956';1;134;'individu>être humain'
+e;58705;'chacal';1;194
+e;89977;'moelle épinière';1;112
+e;154022;'système vasculaire';1;56
+e;77184;'poirier';1;456
+e;145605;'danse';1;2920
+e;181801;'corps de ballet';1;34
+e;95884;'polychromie';1;52
+e;32851;'mammifères';1;2107
+e;96256;'bois';1;5216
+e;81027;'félidés';1;128
+e;108463;'ventre';1;2056
+e;65081;'organisme vivant';1;146
+e;225847;'organisme>71624';1;98;'organisme>être vivant'
+e;56280;'oreille';1;1895
+e;71539;'animaux';1;3421
+e;101938;'estomac';1;852
+e;103791;'poumon';1;1042
+e;248747;'membres inférieurs';1;78
+e;213466;'chat>63235';1;646;'chat>mammifère'
+e;151966;'mangeur d'homme';1;66
+e;247057;'symétrie bilatérale';1;10
+e;225916;'personne>24956';1;720;'personne>être humain'
+e;68439;'individu';1;6128
+e;97634;'croc';1;396
+e;215758;'gueule>215755';1;14;'gueule>bouche animale'
+e;86640;'vertébré';1;904
+e;331034;'féloïdé';1;52
+e;142235;'Félidés';1;50
+e;1009;'Tigré';1;50
+e;1483990;'être vivant non humain';1;4
+e;148125;'fauves';1;74
+e;147161;'crocs';1;170
+e;72905;'insectes';1;2542
+e;51126;'cheveux';1;3421
+e;71624;'être vivant';1;1888
+e;89513;'rayé';1;90
+e;87221;'griffer';1;326
+e;147184;'dents';1;2390
+e;151637;'tigre d'Amérique';1;50
+e;175721;'mandibulé';1;4
+e;244620;'être humain>74860';1;146;'être humain>homme'
+e;115879;'ballet';1;484
+e;216888;'rayure>216887';1;50;'rayure>bande de couleur'
+e;215135;'griffe>141705';1;56;'griffe>ongle'
+e;60902;'dent';1;3454
+e;330964;'cordé>117095';1;36;'cordé>zoologie'
+e;101018;'gnathostome';1;84
+e;329657;'choano-organisme';1;62
+e;24956;'être humain';1;818
+e;405979;'tigris';1;50
+e;290903;'Panthera tigris';777;50
+e;158514;'tigres';1;76
+e;35143;'biologie';1;3428
+e;32714;'léopard';1;346
+e;91794;'tétrapode';1;96
+e;46164;'carnivores';1;56
+e;52119;'langue';1;4914
+e;26801;'moucheté';1;54
+e;110773;'amniote';1;82
+e;116477;'personne';1;10305
+e;317214;'carnivore>24679';1;24;'carnivore>taxon'
+e;231129;'tigresse>137333';1;4;'tigresse>tigre'
+e;52499;'entomologie';1;318
+e;233133;'animal>117095';1;836;'animal>zoologie'
+e;117095;'zoologie';1;2392
+e;143669;'vertébrés';1;80
+e;2358414;'tigreau';1;0
+e;148387;'griffes';1;324
+e;128439;'superprédateur';1;56
+e;164531;'mammifère carnivore';1;56
+e;244349;'tigre de Bali';1;50
+e;235793;'tigre à dents de sabre';1;50
+e;44584;'dompteur';1;274
+e;164697;'grand fauve';1;110
+e;45393;'bête sauvage';1;68
+e;244891;'::>66:229001>15:164130';8;50;'tigre>félidé [lieu] musée d'histoire naturelle'
+e;215800;'bête>17559';1;98;'bête>animal'
+e;156160;'tigre du Bengale';1;56
+e;175174;'hémiptère';1;36
+e;4920;'savane';1;848
+e;112511;'quadrupède';1;386
+e;248081;'chordé';1;226
+e;244885;'::>66:229001>15:113093';8;50;'tigre>félidé [lieu] jungle'
+e;19646;'protostomien';1;84
+e;318464;'ecdysozoaire';1;10
+e;326289;'panarthropode';1;16
+e;329634;'euarthropode';1;14
+e;329635;'mandibulate';1;12
+e;329636;'pancrustacé';1;14
+e;323467;'jungle>146632';1;52;'jungle>forêt'
+e;77587;'invertébré';1;380
+e;106270;'arthropode';1;304
+e;25019;'prédateur';1;584
+e;12107;'danseuse';1;652
+e;137391;'Afrique';1;3638
+e;251764;'insecte>17559';1;384;'insecte>animal'
+e;115304;'deutérostomien';1;114
+e;234036;'être vivant>123933';1;258;'être vivant>entité'
+e;264880;'bilatérien';1;80
+e;264881;'crânié';1;56
+e;265839;'synapside';1;30
+e;142602;'cordé';1;112
+e;317929;'olfactorien';1;40
+e;264908;'eumétazoaire';1;80
+e;265277;'crâniate';1;58
+e;54794;'eucaryote';1;194
+e;325741;'choanobionte';1;76
+e;55823;'métazoaire';1;174
+e;325738;'filozoaire';1;84
+e;67440;'hexapode';1;124
+e;325736;'holozoaire';1;60
+e;86756;'lion';1;3040
+e;325731;'opisthoconte';1;76
+e;165400;'rayures';1;58
+e;220343;'fauve>17559>152973';1;20;'fauve>animal>animal sauvage'
+e;325728;'uniconte';1;42
+e;265220;'épineurien';1;20
+e;134253;'hyponeurien';1;62
+e;48496;'sauvage';1;2444
+e;220342;'fauve>17559>116032';1;28;'fauve>animal>félin'
+e;112502;'rayure';1;148
+e;71926;'insecte';1;3750
+e;162052;'mangeur d'hommes';1;50
+e;332216;'personne cruelle';1;50
+e;22262;'solitaire';1;1763
+e;171006;'requin tigre';1;32
+e;11379;'ocelot';1;162
+e;155694;'tigrou';1;120
+e;52611;'zoo';1;1318
+e;21149;'dévorer';1;768
+e;36548;'rugir';1;312
+e;61525;'tigron';1;164
+e;150;'chat';1;5437
+e;113093;'jungle';1;828
+e;63235;'mammifère';1;3621
+e;82231;'félidé';1;824
+e;31424;'fauve';1;916
+e;115352;'griffe';1;1090
+e;52413;'carnassier';1;402
+e;152973;'animal sauvage';1;946
+e;48855;'carnivore';1;1566
+e;143206;'tigré';1;222
+e;17559;'animal';1;14017
+e;93920;'tigresse';1;324
+e;116032;'félin';1;2304
+e;2983124;'_SW';36;50
+e;239128;'_COM';36;50
+e;229004;'tigre>12107';1;50;'tigre>danseuse'
+e;229003;'tigre>71926';1;14;'tigre>insecte'
+e;229002;'tigre>332216';1;50;'tigre>personne cruelle'
+e;229001;'tigre>82231';1;84;'tigre>félidé'
+e;14291737;'tigre>2946892';1;0;'tigre>Ver:Conjug'
+e;14291738;'tigre>171870';1;0;'tigre>Nom:'
+e;6947917;'en:vertebrata';1;0
+e;6948258;'en:mammalia';1;0
+e;175720;'Mammalia';1;50
+e;14270798;'VerbalMode:Impératif';4;0
+e;14270847;'Ver:ImPre+SG+P2';4;0
+e;14270944;'VerbalPers:P3';4;0
+e;14270943;'VerbalPers:P2';4;0
+e;14270942;'VerbalPers:P1';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;150120;'Ver:SPre+SG+P3';4;50
+e;150119;'Ver:SPre+SG+P1';4;50
+e;150118;'Ver:IPre+SG+P3';4;50
+e;150117;'Ver:IPre+SG+P1';4;50
+e;2586627;'Gender:Mas';4;0
+e;2586629;'Number:Sing';4;0
+e;2935005;'VerbalTime:Present';4;0
+e;2946892;'Ver:Conjug';4;0
+e;3093591;'VerbalMode:Subjonctif';4;0
+e;3093590;'VerbalMode:Indicatif';4;0
+e;212235;'Ver:';4;50
+e;146885;'Nom:Mas+SG';4;50
+e;161698;'Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2';4;50
+e;171870;'Nom:';4;50
+e;396146;'thérapside';1;54
+e;157284;'lieu>68467';1;58;'lieu>poisson'
+e;47200;'serval';1;56
+e;58646;'lynx';1;332
+e;98919;'jaguar';1;236
+e;244011;'jaguar>17559';1;30;'jaguar>animal'
+e;290611;'panthère nébuleuse';777;72
+e;1916038;'panthère nébuleuse de Bornéo';1;16
+e;218940;'poisson>17559';1;590;'poisson>animal'
+e;157007;'être>146885';1;50;'être>Nom:Mas+SG'
+e;1196397;'::>66:17559>17:81997';8;0;'animal [carac] tacheté'
+e;30459;'chasseur';1;1788
+e;13369;'être';1;3929
+e;175539;'Felidae';1;50
+e;6913330;'en:felidae';1;0
+e;101689;'être animé';1;50
+e;14049840;'organisme vivant pluricellulaire';1;0
+e;14049844;'organisme vivant hétérotrophe';1;0
+e;3263171;'protostome';1;0
+e;9160330;'en:family felidae';1;0
+e;12321907;'en:eukaryote';1;0
+e;221983;'homme>24956';1;218;'homme>être humain'
+e;1395235;'être>171870';1;0;'être>Nom:'
+e;2461482;'métazoaire supérieur';1;0
+e;396042;'tétrapode>86640';1;50;'tétrapode>vertébré'
+e;220013;'femme>4333487';1;776;'femme>être humain de sexe féminin'
+e;438159;'danseuse>145605';1;60;'danseuse>danse'
+e;264176;'animal de cirque';1;8
+e;61490;'femme';1;30614
+e;3378472;'animal mâle';1;0
+e;396149;'cynodonte';1;62
+e;2464206;'quadripède';1;0
+e;65257;'croupe';1;98
+e;213774;'iris>28985';1;50;'iris>fleur'
+e;152711;'nageoires';1;88
+e;9928893;'nibards';1;22
+e;16167062;'Partie inférieure';777;0
+e;405965;'hair';1;54
+e;15359480;'en:hooters';1;0
+e;14918011;'en:DNA';1;0
+e;15047666;'en:alimentary canal';1;0
+e;79894;'nénés';1;76
+e;15083341;'en:sex organ';1;0
+e;15415241;'en:sexual organ';1;0
+e;126613;'nichons';1;92
+e;74558;'os';1;3037
+e;15204740;'en:hind paw';1;0
+e;2680;'sang';1;3868
+e;12684;'pupille';1;192
+e;197982;'cordon médullaire';1;50
+e;14950244;'en:muscular';1;0
+e;15205594;'tout en muscle';1;0
+e;242310;'croc>60902';1;14;'croc>dent'
+e;8535677;'en:spinal cord';1;0
+e;11008328;'ADN>30051';1;8;'ADN>code génétique'
+e;6797233;'en:vertebra';1;0
+e;6912949;'en:hair';1;0
+e;225127;'fourrure>109785';1;176;'fourrure>peau'
+e;9671708;'en:genital organ';1;0
+e;7275092;'en:vasculature';1;0
+e;6798394;'en:neck';1;0
+e;6767;'musculaire';1;1549
+e;165310;'organe génital';1;66
+e;6835284;'en:vascular system';1;0
+e;10962813;'corps segmenté';1;0
+e;10962816;'paire d'antennes';1;0
+e;10962826;'pièces buccales externes';1;0
+e;10844654;'matrice utérine';1;0
+e;154607;'antennes';1;126
+e;221034;'bras>112609';1;186;'bras>anatomie'
+e;411005;'lung';1;50
+e;213977;'bassin>112609';1;20;'bassin>anatomie'
+e;7609067;'en:bottom';1;2
+e;94431;'neck';1;52
+e;12791689;'acide désoxyribo-nucléique';1;0
+e;6800176;'en:heart';1;0
+e;11405719;'heart';1;0
+e;14928588;'en:flair';1;0
+e;247661;'gros seins';1;228
+e;86657;'lolos';1;80
+e;155256;'poumon vert';1;54
+e;15266770;'en:fun bags';1;0
+e;398564;'mâchoires';1;50
+e;15443889;'réseau vasculaire';1;0
+e;15205595;'en:very muscular';1;0
+e;139578;'muscle';1;2147
+e;106562;'thorax';1;320
+e;237765;'patte>141795';1;56;'patte>membre'
+e;141814;'vertèbre';1;392
+e;6825673;'en:blood';1;0
+e;6807211;'en:lung';1;0
+e;50869;'seins';1;658
+e;6880460;'en:muscle';1;8
+e;228513;'sang>86501';1;298;'sang>hémoglobine'
+e;146331;'ruche';1;380
+e;14944748;'en:zoo';1;0
+e;15080161;'en:animal kingdom';1;0
+e;15043901;'en:Felidae';1;0
+e;15043900;'en:family Felidae';1;0
+e;364788;'monde animal';1;50
+e;15230585;'troupe de ballet';1;0
+e;15072452;'en:ballet company';1;0
+e;6320514;'gobie tigre';1;0
+e;6374041;'badèche tigre';1;0
+e;12986033;'baume du tigre';777;2
+e;12986031;'tigre de Tipu';777;0
+e;12986030;'tigre de Tippu';777;0
+e;12986025;'réserve de tigre de Dampa';777;0
+e;12986016;'tigre de Champawat';777;0
+e;14656020;'tigre del río';777;0
+e;14668563;'peau de tigre';777;0
+e;14743807;'moustique tigre d'Asie';777;0
+e;14780957;'année du tigre de feu';777;0
+e;12986028;'tigre dans la culture';777;0
+e;15028751;'amphiboles oeil de tigre';1;0
+e;10618626;'tigre celtique';777;0
+e;2378059;'ambystome-tigre';1;0
+e;14511115;'Jaloux comme un tigre';777;0
+e;5634538;'attaque de tigre';777;0
+e;5631085;'tigre qui pleure';777;0
+e;10584765;'Bébé tigre';777;0
+e;2471483;'oeils-de-tigre';1;0
+e;5634539;'attaque du tigre';777;0
+e;11808602;'Les Pas du tigre';777;0
+e;10831030;'Forces du tigre';777;0
+e;15206834;'de tigre';1;0
+e;5892478;'tigre de la Caspienne';777;0
+e;10558890;'L'Âme du tigre';777;0
+e;10868024;'La Chasse au tigre';777;0
+e;10929805;'Hodori le tigre';777;0
+e;12077738;'chaise du tigre';1;0
+e;5892559;'conservation du tigre';777;0
+e;5892520;'sous-espèce du tigre';777;0
+e;10314499;'tigre blanc de l'ouest';777;0
+e;15206837;'bébé tigre';1;0
+e;15430212;'être jaloux comme un tigre';1;0
+e;5892338;'tigre blanc royal';777;0
+e;16746621;'tigre de feu';777;0
+e;13748441;'sébaste-tigre';1;0
+e;16592836;'tactique du tigre';777;0
+e;17391733;'serpent-tigre';1;0
+e;5625016;'source du rêve du tigre';777;0
+e;11503962;'sauterelle tigre';777;0
+e;5900819;'poisson tigre goliath';777;0
+e;11553308;'tigre du poirier';777;0
+e;11956260;'À cheval sur le tigre';777;0
+e;2417725;'mettre un tigre dans son moteur';1;0
+e;6011290;'python tigre';1;0
+e;11382844;'pagode de la colline du tigre';777;0
+e;5892519;'cycle de vie du tigre';777;0
+e;5892506;'tigre de Malaisie';777;2
+e;5892484;'tigre d'Indochine';777;0
+e;6700525;'tigre royal>69587';1;0;'tigre royal>tank'
+e;9951457;'Les Larmes du tigre noir';777;0
+e;10510165;'Sauvez le tigre';777;0
+e;16055278;'poisson-tigre';1;0
+e;5892404;'tigre de Chine méridionale';777;0
+e;5892513;'tigre doré';777;0
+e;5892337;'tigre blanc';777;0
+e;6700535;'tigre royal>116032';1;0;'tigre royal>félin'
+e;16608889;'mois du tigre de terre';777;0
+e;12268036;'La Nuit du tigre';777;0
+e;11774141;'poisson-ange tigre';1;0
+e;5901097;'torche tigre';777;0
+e;5897930;'Crevette pistolet tigre';777;0
+e;12727880;'tigre noir';1;0
+e;16032145;'bondir comme un tigre';1;0
+e;16493047;'attaque de tigre sur l'homme';1;0
+e;16784384;'Joe le tigre';1;0
+e;2539051;'salamandre-tigre';1;0
+e;3366983;'plat du tigre, salade chinoise à base de concombres';1;0
+e;3368557;'rouleaux du tigre';1;0
+e;1252446;'tigre de Sumatra';1;0
+e;1655526;'chat-tigre d'Afrique';1;0
+e;3227904;'aspect en oeil de tigre';1;0
+e;586982;'tigre de l';777;0
+e;6013136;'rayures de tigre';777;0
+e;2510069;'crochet du tigre';1;0
+e;5333696;'tigre albinos';1;0
+e;5334014;'tigre birman';1;0
+e;335139;'amphibole oeil de tigre';1;50
+e;16639;'oeil-de-tigre';1;50
+e;280135;'il-de-tigre';777;50
+e;220759;'tigre-garou';1;50
+e;204600;'il-de-tigre';1;50
+e;126068;'chat-tigre';1;100
+e;305971;'moustique-tigre';777;52
+e;305560;'requin-tigre';777;50
+e;325272;'Les Dents du tigre';1;50
+e;166718;'Les brigades du tigre';1;50
+e;167168;'oeil de tigre';1;54
+e;168321;'tigre de Tasmanie';1;50
+e;225778;'petit tigre';1;56
+e;254775;'tigre en peluche';1;14
+e;48573;'Le Chevalier à la peau de tigre';1;50
+e;280739;'L'Homme à la peau de tigre';777;50
+e;175319;'chat tigre';1;50
+e;179981;'moustique tigre';1;64
+e;202267;'jaloux comme un tigre';1;50
+e;186231;'faire le tigre';1;50
+e;163178;'oeil du tigre';1;50
+e;158897;'dent de tigre';1;50
+e;240367;'savane>251735';1;48;'savane>formation végétale'
+e;240368;'savane>16567';1;52;'savane>marécage'
+e;146632;'forêt';1;4583
+e;37993;'feuille';1;2743
+e;1764945;'poirier>136755';1;2;'poirier>arbre fruitier'
+e;17023;'cage';1;958
+e;254100;'forêt>254099';1;140;'forêt>terrain planté d'arbres'
+e;214526;'cirque>11080943';1;102;'cirque>spectacle itinérant'
+e;5955;'parc';1;3400
+e;52255;'arbre';1;5528
+e;218648;'arbre>136507';1;388;'arbre>végétal'
+e;4311738;'feuille>3674';1;34;'feuille>botanique'
+e;121687;'feuilles';1;3485
+e;61280;'parc zoologique';1;66
+e;83208;'cirque';1;1824
+e;42313;'Asie';1;3225
+e;138879;'Inde';1;3301
+e;88899;'patient';1;2612
+e;322969;'fixé>77396';1;50;'fixé>assujetti'
+e;42059;'scorpion';1;434
+e;15196;'blanc';1;4729
+e;1795712;'rayé>171869';1;0;'rayé>Adj:'
+e;229619;'éteint>89314';1;56;'éteint>disparu'
+e;10314012;'en:heterotroph';1;0
+e;264592;'prêt à bondir';1;50
+e;23178;'grand';1;3852
+e;4652;'agressif';1;226
+e;674336;'sauvage>171869';1;0;'sauvage>Adj:'
+e;144229;'bon';1;3572
+e;2198097;'exterminé';2;0
+e;19197;'chassé';1;84
+e;8847555;'en:cruel';1;0
+e;105621;'vivipare';1;64
+e;270354;'rayé>124455';1;50;'rayé>motif'
+e;99220;'hétérotrophe';1;68
+e;15806;'empaillé';1;86
+e;122439;'nouveau';1;3783
+e;330215;'bilatéralement symétrique';1;22
+e;599254;'carnassier>171869';1;0;'carnassier>Adj:'
+e;317213;'carnivore>178691';1;44;'carnivore>régime alimentaire'
+e;122864;'mort';1;7245
+e;133424;'endotherme';1;50
+e;1384;'vivant';1;3307
+e;28466;'jeune';1;3734
+e;436343;'carnassier>48855';1;60;'carnassier>carnivore'
+e;11254520;'dangereux pour l'homme';1;0
+e;60448;'mâle';1;2485
+e;3676046;'nocturne>155825>117095';1;0;'nocturne>de nuit>zoologie'
+e;237773;'sauvage>74514';1;22;'sauvage>féroce'
+e;42706;'cruel';1;190
+e;88096;'gros';1;3306
+e;154501;'dangeureux';1;54
+e;110732;'rapide';1;3402
+e;14916413;'Langue:français';18;50
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+e;23784;'chat sauvage';1;264
+e;1125;'loup';1;2125
+e;229005;'rat>145605';1;2;'rat>danse'
+e;63309;'rat';1;1422
+e;155116;'chat tigré';1;54
+e;113325;'minou';1;346
+e;57444;'chaton';1;732
+e;229271;'tigrons';1;50
+e;155822;'Tigrou';1;60
+e;169443;'tigrées';1;50
+e;151004;'tiglon';1;54
+e;163577;'tigresses';1;54
+e;153290;'tigrée';1;82
+e;16599290;'::>13:137333>29:14338';8;0;'attaquer [sujet] tigre'
+e;16599280;'::>13:137333>29:78768';8;0;'chasser [sujet] tigre'
+e;16599284;'::>13:137333>29:8788318';8;0;'tuer une personne [sujet] tigre'
+e;105814;'regarder';1;3656
+e;43601;'se reproduire';1;502
+e;124600;'mourir';1;2755
+e;251694;'mourir>126720';1;238;'mourir>cesser de vivre'
+e;259820;'vivre>160251';1;78;'vivre>être en vie'
+e;163297;'faire ses griffes';1;56
+e;47918;'boire';1;4566
+e;327122;'::>16:147184>29:130164';8;50;'manger [avec] dents'
+e;157899;'::>16:147184>29:130164>13';9;50;'Qui pourrait manger avec des dents ?'
+e;328988;'::>13:137333>29:36548';8;50;'rugir [sujet] tigre'
+e;327581;'::>14:116477>29:87221';8;50;'griffer [objet] personne'
+e;327574;'::>14:74860>29:87221';8;50;'griffer [objet] homme'
+e;326697;'::>14:8994>29:101484';8;50;'renifler [objet] piste'
+e;326588;'::>13:137333>29:21149';8;50;'dévorer [sujet] tigre'
+e;233839;'ronronner>150';1;28;'ronronner>chat'
+e;224422;'manger>113902>119570';1;206;'manger>alimentation>absorber'
+e;62985;'déchiqueter';1;118
+e;156803;'::>14:8994>29:101484>13';9;50;'Qui pourrait renifler une piste ?'
+e;159755;'::>14:74860>29:87221>13';9;50;'Qui pourrait griffer un homme ?'
+e;160098;'::>14:116477>29:87221>13';9;50;'Qui pourrait griffer une personne ?'
+e;106132;'se lécher';1;78
+e;54764;'grogner';1;230
+e;239950;'mordre>135544';1;72;'mordre>morsure'
+e;33882;'se nourrir';1;436
+e;2045;'uriner';1;438
+e;35427;'se prélasser';1;92
+e;53455;'déféquer';1;144
+e;64513;'mordre';1;604
+e;139304;'s'accoupler';1;164
+e;79364;'sauter';1;1030
+e;225252;'marcher>59303';1;182;'marcher>se déplacer'
+e;16964;'marcher';1;2562
+e;130782;'bouffer';1;248
+e;6681658;'manger>113902';1;138;'manger>alimentation'
+e;14446667;'::>13:137333>29:2442';8;0;'vivre [sujet] tigre'
+e;14510599;'::>13:137333>29:130164';8;0;'manger [sujet] tigre'
+e;14531446;'::>31:113093>29:14531439';8;0;'manger [objet] proie [endroit] jungle'
+e;15192291;'en:see God';1;0
+e;15083771;'en:copulate';1;0
+e;14922684;'en:have sex';1;0
+e;15048432;'en:loll';1;0
+e;15348167;'en:loll back';1;0
+e;15045620;'en:luxuriate';1;0
+e;14939060;'en:lounge';1;0
+e;15047967;'en:yowl';1;0
+e;15196095;'en:bump uglies';1;0
+e;15196094;'en:do the nasty';1;0
+e;15196093;'en:do the horizontal mambo jambo';1;0
+e;15196092;'en:do the hanky panky';1;0
+e;15196091;'en:rub nasties';1;0
+e;15196090;'frotter le lard ensemble';1;0
+e;15192290;'sacrifier à Vénus';1;0
+e;98365;'salle de séjour';1;60
+e;14960089;'en:living room';1;0
+e;15049272;'en:sitting room';1;0
+e;15192292;'en:pray with the knees upward';1;0
+e;232422;'pièce à vivre';1;50
+e;16574729;'::>13:137333>29:101548';8;0;'se jeter [sujet] tigre'
+e;16574734;'::>13:137333>29:318416';8;0;'se jeter sur [sujet] tigre'
+e;16595167;'::>13:137333>29:130299';8;0;'feuler [sujet] tigre'
+e;16599287;'::>13:137333>29:7943';8;0;'tuer [sujet] tigre'
+e;140318;'parler';1;4469
+e;20911;'nager';1;1388
+e;55001;'ronronner';1;396
+e;258953;'être chassé';1;52
+e;318500;'grogner>17559';1;8;'grogner>animal'
+e;61952;'gronder';1;208
+e;233198;'boire>86872';1;100;'boire>se désaltérer'
+e;14771670;'::>14:116477>29:14338';8;0;'attaquer [objet] personne'
+e;14446083;'::>14:116477>29:7943';8;0;'tuer [objet] personne'
+e;16595179;'::>31:113093>29:7943';8;0;'tuer [endroit] jungle'
+e;16595184;'::>31:113093>29:8788318';8;0;'tuer une personne [endroit] jungle'
+e;16595189;'::>31:113093>29:78768';8;0;'chasser [endroit] jungle'
+e;30822;'danser';1;884
+e;240789;'tuer>240788';1;182;'tuer>ôter la vie'
+e;43253;'dormir';1;6576
+e;62933;'bondir';1;156
+e;14446669;'::>31:113093>29:2442';8;0;'vivre [endroit] jungle'
+e;327614;'::>14:140100>29:130164';8;50;'manger [objet] viande'
+e;14510605;'::>14:400394>29:130164';8;0;'manger [objet] viandes'
+e;14531439;'::>14:86046>29:130164';8;0;'manger [objet] proie'
+e;14531441;'::>31:113093>29:130164';8;0;'manger [endroit] jungle'
+e;16574731;'::>31:86046>29:101548';8;0;'se jeter [endroit] proie'
+e;16574736;'::>14:86046>29:318416';8;0;'se jeter sur [objet] proie'
+e;16777415;'::>14:83053>29:7943';8;0;'tuer [objet] touriste'
+e;327219;'::>16:81090>29:102042';8;50;'viser [avec] fusil'
+e;240863;'chasser>140429';1;56;'chasser>chasse'
+e;113792;'empailler';1;146
+e;97785;'exterminer';1;90
+e;49337;'crainte';1;1530
+e;28453;'bonheur';1;2804
+e;91691;'surprise';1;2392
+e;146357;'envie';1;1666
+e;14330;'satisfaction';1;624
+e;103405;'indifférence';1;612
+e;626;'peur';1;5423
+e;248197;'_SEX_YES';36;50
+e;254878;'_POL-NEG_PC';36;50
+e;317329;'_POLIT_7NOPOL';36;50
+e;248198;'_SEX_NO';36;50
+e;254876;'_POL-POS_PC';36;50
+e;276096;'_INFO-WIKI-YES';36;50
+e;15991431;'_ANIME-YES';36;50
+e;1912917;'_INFO-COUNTABLE-YES';36;0
+e;162763;'_INFO-SEM-THING-CONCRETE';36;1238
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;251717;'_INFO-MEANING-LITERAL';36;50
+e;250117;'_INFO-SEM-PERS-FEM';36;50
+e;162759;'_INFO-SEM-PLACE';36;504
+e;214534;'_INFO-MEANING-FIGURED';36;50
+e;394107;'_INFO-MEANING-PREFERED';36;50
+e;191741;'_INFO-VOC-COMMON';36;50
+e;162761;'_INFO-SEM-PERS';36;732
+e;217817;'_INFO-POLYSEMIC';36;50
+e;191669;'_INFO-SEM-LIVING-BEING';36;160
+e;2585996;'_INFO-CNRTL-YES';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;223172;'_POL-NEG';36;50
+e;223173;'_POL-POS';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;12655;'danger';1;2869
+e;235164;'évolution>35143';1;70;'évolution>biologie'
+e;145044;'évolution';1;2816
+e;153111;'::>13:137333>29:21149>14';9;50;'Qu'est-ce qu'un tigre pourrait dévorer ?'
+e;222507;'::>13:137333>29:36548>15';9;50;'Où un tigre pourrait rugir ?'
+e;11254519;'feuilles des arbres';1;0
+e;11254518;'poiriers en espaliers';1;0
+e;231128;'tigresse>61490';1;50;'tigresse>femme'
+e;16601947;'::>66:137333>15:113093';8;0;'tigre [lieu] jungle'
+e;16601946;'::>66:137333>15:164130';8;0;'tigre [lieu] musée d'histoire naturelle'
+e;16599289;'::>66:137333>24:14338';8;0;'tigre [peut] attaquer'
+e;16599286;'::>66:137333>24:7943';8;0;'tigre [peut] tuer'
+e;16599285;'::>66:137333>24:14446083';8;0;'tigre [peut] tuer [objet] personne'
+e;16599283;'::>66:137333>24:8788318';8;0;'tigre [peut] tuer une personne'
+e;16599282;'::>66:137333>24:16595179';8;0;'tigre [peut] tuer [endroit] jungle'
+e;16599281;'::>66:137333>24:16595184';8;0;'tigre [peut] tuer une personne [endroit] jungle'
+e;16599279;'::>66:137333>24:78768';8;0;'tigre [peut] chasser'
+e;16599278;'::>66:137333>24:16595189';8;0;'tigre [peut] chasser [endroit] jungle'
+e;16595168;'::>66:137333>24:130299';8;0;'tigre [peut] feuler'
+e;16574735;'::>66:137333>24:318416';8;0;'tigre [peut] se jeter sur'
+e;16574730;'::>66:137333>24:101548';8;0;'tigre [peut] se jeter'
+e;14446668;'::>66:137333>24:2442';8;0;'tigre [peut] vivre'
+e;14510600;'::>66:137333>24:130164';8;0;'tigre [peut] manger'
+e;398474;'sangliers';1;50
+e;57512;'sanglier';1;320
+e;74860;'homme';1;28856
+e;72813;'cerf';1;172
+e;400468;'cerfs';1;50
+e;140100;'viande';1;5108
+e;64238;'noir';1;4408
+e;132479;'marron';1;706
+e;270077;'brun jaune';1;50
+e;75869;'roux';1;734
+e;86711;'jaune';1;3502
+e;8955771;':r3138639';10;0
+e;8955778;':r193646331';10;0
+e;9484652;':r213925125';10;0
+e;2591776;':r2095973';10;0
+e;2591777;':r12172540';10;0
+e;8569134;':r149320014';10;0
+e;8759162;':r177334471';10;0
+e;15959333;':r97322360';10;0
+e;15871307;':r413691847';10;0
+e;16896957;':r447124117';10;0
+e;8747616;':r2984883';10;0
+e;8955781;':r193646425';10;0
+e;9608767;':r195740739';10;0
+e;11220448;':r287601691';10;0
+e;13990822;':r177388791';10;0
+e;15764462;':r404608559';10;0
+e;11314616;':r97582152';10;0
+e;14976353;':r391326349';10;0
+e;14976357;':r97055564';10;0
+e;9472606;':r213913439';10;0
+e;13035851;':r97055604';10;0
+e;16414162;':r15869514';10;0
+e;16473392;':r414100754';10;0
+e;11126792;':r2955536';10;0
+e;8955896;':r193650363';10;0
+e;8971943;':r2242888';10;0
+e;10851364;':r1706552';10;0
+e;10851365;':r162684';10;0
+e;15909850;':r414250618';10;0
+e;4456246;':r2242889';10;0
+e;16375451;':r432546073';10;0
+e;10830542;':r244155';10;0
+e;10830543;':r3043898';10;0
+e;4365492;':r97055552';10;0
+e;17262256;':r468247102';10;0
+e;17263347;':r468248323';10;0
+e;5045594;':r162682';10;0
+e;10686403;':r1760757';10;0
+e;10686404;':r111675';10;0
+e;10686405;':r2275853';10;0
+e;10686406;':r1746258';10;0
+e;10686407;':r2934409';10;0
+e;10686408;':r15756715';10;0
+e;16054328;':r416889253';10;0
+e;8968220;':r114281';10;0
+e;9455687;':r97055597';10;0
+e;8968216;':r24808440';10;0
+e;16006707;':r411575958';10;0
+e;14596596;':r370035198';10;0
+e;15984722;':r411572980';10;0
+e;15838230;':r2711711';10;0
+e;15900897;':r414013886';10;0
+e;4409385;':r97322365';10;0
+e;15851876;':r413360495';10;0
+e;7924370;':r125751224';10;0
+e;16277941;':r426440188';10;0
+e;16272146;':r426580180';10;0
+e;11334570;':r13656399';10;0
+e;5892907;':r114626804';10;0
+e;9524366;':r213732165';10;0
+e;11997898;':r292761249';10;0
+e;16924498;':r210451200';10;0
+e;14596525;':r216479465';10;0
+e;16272148;':r426580182';10;0
+e;9524361;':r213732134';10;0
+e;4365029;':r97322364';10;0
+e;8538365;':r145791567';10;0
+e;394838;':r13749430';10;50
+e;17117915;':r457340072';10;0
+e;9197040;':r207152871';10;0
+e;3328866;':r108739';10;0
+e;3262930;':r2129213';10;0
+e;3307065;':r1809667';10;0
+e;10761010;':r252669809';10;0
+e;10973161;':r276731583';10;0
+e;10975583;':r276734174';10;0
+e;10978074;':r276736738';10;0
+e;14978716;':r149051736';10;0
+e;446094;':r186857';10;50
+e;14659725;':r372513447';10;0
+e;4566156;':r10217665';10;0
+e;655577;':r15756272';10;0
+e;16497780;':r409565756';10;0
+e;4516636;':r98098088';10;0
+e;4400639;':r97752750';10;0
+e;14600598;':r332800550';10;0
+e;14600666;':r148723019';10;0
+e;16113044;':r407469316';10;0
+e;4370856;':r2198282';10;0
+e;4371969;':r15756224';10;0
+e;4371970;':r2208478';10;0
+e;4370315;':r97755420';10;0
+e;4369022;':r97755422';10;0
+e;4369021;':r97755418';10;0
+e;4369020;':r194146';10;0
+e;4367495;':r9056734';10;0
+e;4367494;':r97755409';10;0
+e;4367493;':r423428';10;0
+e;4367207;':r97339060';10;0
+e;4370420;':r96734811';10;0
+e;4370419;':r230941';10;0
+e;4370397;':r96708752';10;0
+e;4369998;':r97755414';10;0
+e;4369997;':r97755410';10;0
+e;4369996;':r97755421';10;0
+e;4369995;':r97755419';10;0
+e;4369291;':r97755413';10;0
+e;4369290;':r97755417';10;0
+e;4370993;':r10113562';10;0
+e;4370988;':r15756242';10;0
+e;4370987;':r15756246';10;0
+e;4370994;':r3089986';10;0
+e;4366935;':r97755411';10;0
+e;4366934;':r97755408';10;0
+e;9517778;':r125209076';10;0
+e;9517794;':r213690986';10;0
+e;4482278;':r97453133';10;0
+e;4475287;':r97339515';10;0
+e;4363117;':r97752752';10;0
+e;11220659;':r276729078';10;0
+e;4357667;':r97755412';10;0
+e;4408418;':r97752753';10;0
+e;4408352;':r97752751';10;0
+e;4370314;':r10480811';10;0
+e;9246611;':r205966674';10;0
+e;11350405;':r134683488';10;0
+e;16276972;':r400282483';10;0
+e;10961838;':r1579564';10;0
+e;15981053;':r406367158';10;0
+e;15993665;':r406363535';10;0
+e;5892908;':r114626809';10;0
+e;16273426;':r407839563';10;0
+e;16273428;':r400341638';10;0
+e;7903807;':r125655103';10;0
+e;16061333;':r406065403';10;0
+e;4371968;':r9999640';10;0
+e;17159851;':r450041768';10;0
+e;3899806;'dbnary:fra:__ws_1_tigre__nom__1';444;0
+e;4031496;'dbnary:fra:__ws_4_tigre__nom__1';444;0
+e;4074951;'dbnary:fra:__ws_2_tigre__nom__1';444;0
+e;4249234;'dbnary:fra:__ws_3_tigre__nom__1';444;0
+e;3381429;'bn:04858466n';444;0
+e;3228593;'wiki:@';444;0
+e;3381419;'bn:02459425n';444;0
+e;3381417;'bn:00060436n';444;0
+e;3381421;'bn:00033514n';444;0
+e;3381425;'bn:01709530n';444;0
+e;3381427;'bn:02410915n';444;0
+e;3381424;'bn:00198299n';444;0
+e;3381426;'bn:01525894n';444;0
+e;3381428;'bn:15404113n';444;0
+e;6188349;'umls:C0325115';444;0
+e;3381423;'bn:03410050n';444;0
+e;3381418;'bn:00077236n';444;0
+e;3381420;'bn:02131162n';444;0
+e;3381422;'bn:03214356n';444;0
+e;274762;'Union internationale pour la conservation de la nature';777;54
+e;20981;'UICN';1;74
+e;175284;'Carnivora';1;50
+e;143853;'Famille';1;2693
+e;98300;'famille';1;4936
+e;113247;'Panthera';1;50
+e;162392;'femelles';1;2138
+e;83989;'éducation';1;2396
+e;155747;'Chasse';1;50
+e;142501;'Durga';1;50
+e;155238;'Peinture';1;54
+e;154605;'dépeint';1;60
+e;152349;'Musique';1;3582
+e;269158;'Le Livre de la jungle';1;50
+e;25545;'Livre de la jungle';1;72
+e;59068;'Rudyard Kipling';1;74
+e;242947;'Calvin et Hobbes';1;50
+e;142791;'Lion';1;2156
+e;76046;'oreilles';1;1663
+e;143103;'Iris';1;58
+e;90273;'iris';1;218
+e;285548;'vibrisses';777;54
+e;46889;'poitrine';1;1672
+e;145569;'gorge';1;1934
+e;122853;'joues';1;92
+e;75068;'hiver';1;2944
+e;175315;'Chat domestique';1;50
+e;152708;'chat domestique';1;154
+e;212776;'Lapin';666;50
+e;20164;'lapin';1;1322
+e;42178;'albinisme';1;64
+e;71038;'Pantherinae';1;50
+e;175781;'Neofelis';1;50
+e;81714;'fossiles';1;1823
+e;146396;'Japon';1;3724
+e;144037;'Sumatra';1;76
+e;220462;'NCBI';1;56
+e;160715;'recherches';1;3242
+e;5815;'Mandchourie';1;50
+e;143291;'Chine';1;3775
+e;113669;'Russie';1;3633
+e;83035;'nuisible';1;108
+e;126520;'Mao Zedong';1;54
+e;94530;'Bali';1;68
+e;12952;'Cambodge';1;1636
+e;3069;'Birmanie';1;1105
+e;43634;'Laos';1;637
+e;105453;'Malaisie';1;2160
+e;75629;'teck';1;66
+e;133972;'Bangladesh';1;788
+e;4662;'Bhoutan';1;50
+e;93698;'Afghanistan';1;1797
+e;134169;'Iran';1;2102
+e;100171;'Turquie';1;3193
+e;6399;'Mongolie';1;1365
+e;129938;'urine';1;412
+e;44427;'écorce';1;346
+e;75089;'fratrie';1;250
+e;277984;'Territoire';777;2363
+e;39543;'territoire';1;3754
+e;77980;'sambar';1;50
+e;169908;'Jaguar';1;56
+e;52146;'Felinae';1;50
+e;122904;'étouffer';1;276
+e;84666;'gaur';1;52
+e;94164;'buffle';1;90
+e;73893;'singe';1;872
+e;137909;'Ours';1;50
+e;17206;'ours';1;970
+e;223031;'éléphants';1;52
+e;267540;'crocodiles';1;6
+e;121664;'opportuniste';1;96
+e;110821;'cannibale';1;140
+e;2225;'Brahmapoutre';1;50
+e;139292;'masque';1;1846
+e;70631;'éjaculation';1;498
+e;31920;'accouplement';1;202
+e;51617;'gestation';1;146
+e;181789;'cordon ombilical';1;52
+e;14612;'amnios';1;64
+e;29724;'placenta';1;134
+e;71266;'sevrage';1;188
+e;152801;'lions';1;74
+e;251326;'cercle familial';1;8
+e;58259;'inondation';1;472
+e;1530;'incendie';1;2128
+e;6441;'infanticide';1;72
+e;131101;'Sundarbans';1;50
+e;152688;'Photographie';1;2141
+e;26003;'Himalaya';1;120
+e;114935;'Indochine';1;102
+e;236431;'péninsule indochinoise';1;50
+e;151872;'peaux';1;56
+e;81046;'tapis';1;540
+e;144838;'souvenirs';1;1685
+e;166528;'touristes';1;1948
+e;26815;'braconnage';1;64
+e;99532;'pollution';1;2044
+e;127016;'poison';1;968
+e;188722;'Indira Gandhi';1;52
+e;23448;'parcs nationaux';1;50
+e;73068;'Gandhi';1;88
+e;116885;'New Delhi';1;54
+e;1709;'chiru';1;50
+e;22166;'Exxon';1;50
+e;152512;'Vladimir Poutine';1;74
+e;213173;'Banque mondiale';1;50
+e;152253;'Commerce';1;2191
+e;49615;'commerce';1;3957
+e;291850;'mythologie hindoue';777;50
+e;136501;'code-barres';1;56
+e;428944;'Sanglier';1;50
+e;403702;'Éducation';1;50
+e;398389;'musicales';1;1936
+e;402203;'Oreille';1;50
+e;1655654;'leucique';1;0
+e;431563;'Griffe';1;50
+e;413400;'Gorge';1;50
+e;401701;'Hiver';1;50
+e;418235;'Queue';1;50
+e;409974;'Clade';1;50
+e;75173;'clade';1;54
+e;3600;'Gansu';1;54
+e;157634;'mandibules';1;114
+e;572821;'îles de la Sonde';1;50
+e;311123;'National Center for Biotechnology Information';777;52
+e;428102;'Teck';1;50
+e;1854074;'maxillaires';1;0
+e;2139258;'buffles';2;0
+e;2258321;'pupilles';2;0
+e;2602542;'Cerf';1;0
+e;2501029;'Buffle';1;0
+e;2487361;'ours kodiak';1;0
+e;160502;'ours polaire';1;114
+e;2500321;'Calabrien';1;0
+e;2591262;'Panthera leo';1;0
+e;2927640;'Tigre de Java';777;0
+e;2481238;'ligre';1;0
+e;3172814;'Tigron';777;0
+e;3313809;'Joue';1;0
+e;6260357;'Squelette';1;0
+e;8856497;'Canine';1;0
+e;5892600;'Panthera zdanskyi';777;0
+e;5892564;'Panthera palaeosinensis';777;0
+e;9657195;'Statut de conservation';777;2
+e;10871680;'Tigre blanc';777;0
+e;11286178;'Fossile';1;0
+e;12727873;'signe zodiacal chinois';1;0
+e;12727879;'tigres noirs';1;0
+e;12727881;'analyse cladistique';1;0
+e;11837092;'TIGR';1;0
+e;427692;'Latin';1;8
+e;102382;'latin';1;3604
+e;12153;'Argentine';1;2755
+e;145930;'argentine';1;62
+e;78448;'Buenos Aires';1;62
+e;1921;'Honduras';1;58
+e;54742;'Euphrate';1;72
+e;216908;'Chatt-el-Arab';1;50
+e;143294;'Amazone';1;76
+e;13001;'Mexique';1;3467
+e;216371;'mexicaine';1;50
+e;11382;'Georges Clemenceau';1;50
+e;27322;'argentin';1;100
+e;9991810;'Petit format';777;0
+e;256026;'petit format';1;6
+e;2447669;'manhwa';1;0
+e;31388;'États-Unis';1;3907
+e;11467;'américain';1;3814
+e;22484;'mexicain';1;146
+e;88776;'arts martiaux';1;120
+e;2549981;'Tamoul';1;0
+e;414943;'tamoule';1;50
+e;19569;'Sri Lanka';1;94
+e;9247725;'arme traditionnelle';1;0
+e;153757;'chinoise';1;3120
+e;180145;'char de combat';1;10
+e;66745;'Seconde Guerre mondiale';1;108
+e;588446;'Airbus Helicopters';777;0
+e;15909;'Airbus';1;1286
+e;57369;'Normandie';1;3191
+e;5943285;'Marine de guerre';777;0
+e;39698;'marine de guerre';1;68
+e;87987;'France';1;4525
+e;146821;'française';1;3976
+e;8131;'vaisseau';1;2587
+e;63618;'Dunkerque';1;1507
+e;93734;'Corsaire';1;50
+e;142497;'corsaire';1;234
+e;169876;'vaisseau de 74 canons';1;50
+e;146001;'juin';1;3865
+e;225277;'Corvette';666;50
+e;28858;'corvette';1;94
+e;39179;'Saint-Malo';1;94
+e;21862;'Rochefort';1;1333
+e;9765;'dragueur';1;232
+e;123081;'Nemours';1;50
+e;51485;'contre-torpilleur';1;50
+e;28636;'janvier';1;3950
+e;318734;'Marine nationale';1;50
+e;259472;'Marine nationale française';1;50
+e;2549918;'zodiaque chinois';1;0
+e;152074;'Kronenbourg';1;60
+e;5807835;'Brasseries Kronenbourg';777;0
+e;230211;'Tiger';1;50
+e;310965;'Les Tigres volants';777;50
+e;12986034;'Le Tigre';777;0
+e;12989277;'classe Jaguar';777;0
+e;14171898;'Juin 1795';777;0
+e;14743808;'LeTigre';777;0
+e;15167103;'Wushu';1;0
+e;15684248;'Arts martiaux';777;0
+e;2315949;'Panzerkampfwagen VI Tiger';1;0
+e;392430;'Eurocopter EC665 Tigre';1;50
+e;16512481;'Dragueur';1;0
+e;274898;'Marine royale';1;50
+e;425846;'Destroyer';1;50
+e;6744;'destroyer';1;100
+e;61921;'Italie';1;3676
+e;103658;'italien';1;3532
+e;11107801;'Îles Kerguelen';777;0
+e;244621;'être humain>23559';1;52;'être humain>bonté'
+e;234035;'être vivant>2442';1;4;'être vivant>vivre'
+e;396249;'individu>64226';1;54;'individu>administration'
+e;396250;'individu>35143';1;56;'individu>biologie'
+e;214991;'langue>142000';1;50;'langue>forme'
+e;214990;'langue>214989';1;50;'langue>langue de terre'
+e;1364346;'langue>68467';1;0;'langue>poisson'
+e;326583;'langue>43125';1;50;'langue>gastronomie'
+e;1486092;'langue>18216';1;0;'langue>glaciologie'
+e;214987;'langue>75266';1;392;'langue>langage'
+e;316437;'chat>93068';1;50;'chat>enrouement'
+e;2667666;'chat>143712';1;0;'chat>marine'
+e;2667669;'chat>109899';1;0;'chat>artillerie'
+e;330571;'chat>68467';1;62;'chat>poisson'
+e;258956;'chat>258955';1;50;'chat>machine de siège'
+e;2667668;'chat>149496';1;0;'chat>palatine'
+e;330570;'chat>215126';1;4;'chat>sexe de la femme'
+e;213468;'chat>53314';1;2;'chat>jeu'
+e;213467;'chat>234460';1;86;'chat>communication textuelle'
+e;225846;'organisme>332175';1;54;'organisme>ensemble des organes'
+e;225849;'organisme>86627';1;50;'organisme>organisation'
+e;3170279;'individu>25345';1;8;'individu>quidam'
+e;396248;'individu>69012';1;50;'individu>statistique'
+e;221085;'dent>83213';1;50;'dent>animosité'
+e;221084;'dent>12831';1;50;'dent>montagne'
+e;216284;'dent>141611';1;6;'dent>pointe'
+e;221083;'dent>67368';1;62;'dent>mécanique'
+e;247248;'os>29208';1;10;'os>matière'
+e;213645;'os>106738';1;2;'os>difficulté'
+e;247023;'félin>80897';1;50;'félin>apparence'
+e;225848;'organisme>118203';1;52;'organisme>corps humain'
+e;237441;'être>85728';1;12;'être>exister'
+e;237443;'être>37229';1;66;'être>se trouver'
+e;330963;'cordé>3674';1;50;'cordé>botanique'
+e;5326409;'fauve>48496';1;0;'fauve>sauvage'
+e;435688;'pupille>7780';1;50;'pupille>sportif'
+e;218464;'pupille>35991';1;52;'pupille>orphelin'
+e;220896;'glouton>88575';1;20;'glouton>goinfre'
+e;220897;'glouton>71721';1;50;'glouton>avide'
+e;220898;'glouton>13458';1;50;'glouton>algorithme'
+e;237444;'être>94160';1;62;'être>existence'
+e;317283;'omnivore>178691';1;52;'omnivore>régime alimentaire'
+e;220341;'fauve>146628';1;52;'fauve>ocre'
+e;220344;'fauve>35841';1;50;'fauve>peinture'
+e;11136749;':gLeandro';1002;0
+e;244881;'::>66:86756>15:240367';8;50;'lion [lieu] savane>formation végétale'
+e;25570;'Persique';1;50
+e;80193;'dynamite';1;184
+e;5004;'Jade';1;52
+e;5720;'contremarquer';1;50
+e;7031;'décrépitude';1;68
+e;16944;'vermillon';1;94
+e;26368;'strapontin';1;88
+e;26436;'Rictus';1;50
+e;16156521;'FELIN';777;0
+e;123425;'paddy';1;50
+e;592624;'CLAN';1;0
+e;1842717;'PZ';1;0
+e;2358363;'leche';1;0
+e;2431357;'Tigre de Bois';1;0
+e;16896207;'Tiger's Eye';777;0
+e;143540;'bison';1;84
+e;217622;'SINGE';1;50
+e;273828;'felin';777;50
+e;105872;'éléphant';1;880
+e;73126;'requin';1;654
+e;274277;'Parent femelle de l'hybridation';777;50
+e;5892565;'Felis palaeosinensis';777;0
+e;274276;'parent mâle de l'hybridation';777;50
+e;15781381;'vrai métazoaire';1;0
+e;2645947;'Platanus';1;0
+e;223014;'Bassorah';666;50
+e;117057;'ahimsa';1;62
+e;212676;'Diego Maradona';666;50
+e;213303;'Safari';666;50
+e;2673;'bringé';1;50
+e;594099;'blood';1;0
+e;261269;'cordon nerveux';1;2
+e;15215247;'en:Jungle Book';1;0
+e;15080160;'en:animalia';1;0
+e;15197732;'en:haired';1;0
+e;15197733;'en:capilli';1;0
+e;15197734;'en:scalp hair';1;0
+e;15770121;'du bas';1;0
+e;15046662;'en:nates';1;0
+e;8847289;'en:buttocks';1;0
+e;15223900;'en:hunkers';1;0
+e;15223901;'en:tushy, tush';1;0
+e;14925472;'en:booty';1;0
+e;15044327;'en:corps de ballet';1;0
+e;15214359;'en:big cats';1;0
+e;15068370;'en:medulla spinalis';1;0
+e;7053316;'en:metazoa';1;0
+e;14952204;'en:genitals';1;0
+e;14171748;'arène>144565';1;0;'arène>sable'
+e;65932;'bête féroce';1;58
+e;202281;'jardin zoologique';1;52
+e;129610;'rauquement';1;50
+e;78298;'rauquer';1;50
+e;2546242;'kouffa';1;0
+e;1374086;'na'vi';666;0
+e;16042495;'couffa';1;0
+e;138923;'râler';1;370
+e;15099972;'en:ringmaster';1;0
+e;9938548;'en:breasts';1;0
+e;15216906;'en:dentes canini';1;0
+e;15216907;'en:canine teeth';1;0
+e;229276;'rhinoceros';666;50
+e;149243;'musculeuse';1;50
+e;15526700;'en:muscular coat';1;0
+e;15396164;'en:shells';1;0
+e;79322;'rugissement';1;100
+e;154858;'monsieur Loyal';1;60
+e;14446670;'::>66:113093>30:2442';8;0;'jungle [lieu pour] vivre'
+e;14510601;'::>66:140100>26:130164';8;0;'viande [se faire] manger'
+e;14510606;'::>66:400394>26:130164';8;0;'viandes [se faire] manger'
+e;14531440;'::>66:86046>26:130164';8;0;'proie [se faire] manger'
+e;14531442;'::>66:113093>30:130164';8;0;'jungle [lieu pour] manger'
+e;14531445;'::>66:14531444>15:113093';8;0;'tigre [peut] manger [objet] proie [lieu] jungle'
+e;155709;'monsieur loyal';1;52
+e;13798371;'tigre de tasmanie';1;0
+e;14171758;'arène>144565>34654';1;0;'arène>sable>amphithéâtre'
+e;16574732;'::>66:86046>30:101548';8;0;'proie [lieu pour] se jeter'
+e;16574737;'::>66:86046>26:318416';8;0;'proie [se faire] se jeter sur'
+e;16777416;'::>66:83053>26:7943';8;0;'touriste [se faire] tuer'
+e;14771671;'::>66:116477>26:14338';8;0;'personne [se faire] attaquer'
+e;231133;'rampokan macan';1;2
+e;151534;'grands félins';1;50
+e;143334;'Mammifères';1;52
+e;7256380;'en:zoology';1;0
+e;35301;'feulement';1;70
+e;164463;'Mowgli';1;84
+e;324672;'L'Histoire de Pi';777;50
+e;15206831;'en:sabre-toothed tiger';1;0
+e;10936;'glouton';1;102
+e;4407;'omnivore';1;104
+e;3245053;'os de la langue';1;0
+e;140429;'chasse';1;3199
+e;405978;'harimau';1;50
+e;17336397;'râler>117095';1;0;'râler>zoologie'
+e;309072;'Panthera tigris balica';777;50
+e;15106514;'en:Bengal tiger';1;0
+e;214005;'partie inférieure';1;54
+e;15301138;'en:bomb-shell';1;0
+e;15297477;'en:Ringmaster';1;0
+e;15101325;'en:os hyoideum';1;0
+e;252342;'animaux de cirque';1;4
+e;317284;'omnivore>17559';1;52;'omnivore>animal'
+e;268150;'en captivité';1;50
+e;3156314;'an:120487:144172:74488:?';12;50
+e;13730808;'bêtes fauves';1;0
+e;14593925;'espèce carnivore';1;2
+e;14326267;'::>66:14326266>15:4920';8;0;'lion [peut] attaquer [objet] zèbre [lieu] savane'
+e;14637107;'régime>178691>113902';1;0;'régime>régime alimentaire>alimentation'
+e;14721399;'avoir le goût du sang';1;42
+e;133844;'zoologue';1;68
+e;220899;'glouton>63235';1;4;'glouton>mammifère'
+e;385;'carcajou';1;52
+e;2586041;'gulo gulo';1;0
+e;309073;'harimau Bali';777;50
+e;14926288;'en:carcajou';1;0
+e;195328;'::>13:113583>29:36548>15';9;50;'Où une panthère pourrait rugir ?'
+e;328830;'::>13:113583>29:36548';8;50;'rugir [sujet] panthère'
+e;162197;'les animaux';1;50
+e;203996;'Monsieur Loyal';1;58
+e;236886;'Tigres volants';1;50
+e;175316;'Chat sauvage';1;50
+e;384137;'tour de jongleur';1;50
+e;235792;'smilodon';1;50
+e;15101674;'en:safari park';1;0
+e;64292;'ménagerie';1;146
+e;260485;'tué par balles';1;50
+e;213553;'livre de la jungle';1;50
+e;8991744;'en:ocelot';1;0
+e;14964710;'en:paper tiger';1;0
+e;15026319;'airbags';1;0
+e;158389;'ballons';1;56
+e;159715;'::>16:81090>29:102042>14';9;50;'Que pourrait-on viser avec un fusil ?'
+e;2849067;'régime carnivore';1;42
+e;15265770;'en:with zebra stripes';1;0
+e;119584;'obus';1;136
+e;15877;'zébré';1;74
+e;15206830;'en:tiger mosquito';1;0
+e;116698;'bête fauve';1;50
+e;14917526;'en:deoxyribonucleic acid';1;0
+e;14958918;'en:tiger shark';1;0
+e;172636;'wolvérène';1;50
+e;15266771;'en:funbags';1;0
+e;15192359;'en:tabby cat';1;0
+e;9157254;'en:leopard';1;0
+e;176043;'wolverène';1;50
+e;152662;'leopard';1;50
+e;232580;'animal errant';1;10
+e;15413427;'en:wild beast';1;0
+e;318456;'Tigre royal';777;50
+e;14721398;'être alléché';1;24
+e;15324405;'en:animal park';1;0
+e;14721397;'être attiré par l'odeur du sang';1;18
+e;15221537;'en:wildlife park';1;0
+e;269927;'loup de Tasmanie';1;50
+e;282917;'loup marsupial';777;50
+e;112087;'thylacine';1;50
+e;8866880;'en:thylacine';1;0
+e;15201337;'en:lingual bone';1;0
+e;234908;'os hyoïde';1;50
+e;14919905;'en:wild animal';1;0
+e;15413415;'animal en liberté';1;0
+e;15413421;'en:feral animal';1;0
+e;15413422;'en:free animal';1;0
+e;15413416;'en:unrestrained animal';1;0
+e;15413417;'en:free-range animal';1;0
+e;15413418;'en:free-ranging animal';1;0
+e;15413419;'en:animal that is free to roam';1;0
+e;15413420;'en:stray animal';1;0
+e;16769761;'Tigre de Bali';777;0
+e;320312;'Tigre à dents de sabre';666;50
+e;15687951;'Parc animalier';777;0
+e;105554;'parc animalier';1;80
+e;14170065;'tigre blanc de l'Ouest';777;0
+e;2388767;'schackal';1;0
+e;4388608;'Tigre royal>116032';1;0;'Tigre royal>félin'
+e;15430214;'en:white tiger';1;0
+e;17249813;'Tigre de Malaisie';777;0
+e;71864;'museau';1;356
+e;390958;'patte arrière';1;50
+e;15088586;'en:systema nervosum';1;0
+e;6800353;'en:nervous system';1;0
+e;15291978;'en:give a spring';1;0
+e;15291979;'en:pounce at';1;0
+e;14938813;'en:pounce';1;0
+e;14159777;'avoir des rapports sexuels';1;0
+e;255697;'avoir des relations sexuelles';1;50
+e;137831;'faire l'amour';1;1962
+e;15639757;'en:wipe somebody out';1;0
+e;15052871;'en:depopulate';1;0
+e;215136;'griffe>30843';1;4;'griffe>outil'
+e;674335;'sauvage>171870';1;0;'sauvage>Nom:'
+e;18687;'nocturne';1;919
+e;14606397;'organisme hétérotrophe';1;2
+e;3675966;'nocturne>155825';1;28;'nocturne>de nuit'
+e;15417050;'en:zoological gardens';1;0
+e;164813;'Tiger Woods';1;50
+e;103370;'Hobbes';1;66
+e;324671;'L'Odyssée de Pi';666;50
+e;118369;'jaïnisme';1;56
+e;97194;'jaïn';1;50
+e;147816;'djaïn';1;50
+e;124822;'djaïnisme';1;50
+e;100625;'vulnérable';1;106
+e;38599;'lionne';1;558
+e;272463;'jinisme';777;50
+e;157132;'félins';1;68
+e;241002;'cheval ailé';1;50
+e;234918;'os lingual';1;50
+e;176106;'classification classique';1;50
+e;165399;'Jurassic Park';1;80
+e;278593;'Le Parc jurassique';777;50
+e;278846;'Bubalina';777;50
+e;38759;'Bubalus bubalus';1;50
+e;10300;'créodontes';1;50
+e;164521;'Shiva';1;52
+e;272186;'En danger';777;50
+e;280229;'buffle d'Asie';777;50
+e;235593;'buffle d'eau';1;50
+e;21306;'Bubalus bubalis';1;50
+e;280348;'carnivorie';777;50
+e;280738;'le chevalier à la peau de panthère';777;50
+e;280744;'prédateur alpha';777;50
+e;280745;'apex prédateur';777;50
+e;280746;'alpha prédateur';777;50
+e;273800;'quasi menacé';777;50
+e;281714;'panthera onca';777;50
+e;60285;'lycanthrope';1;60
+e;42275;'loup-garou';1;398
+e;284964;'platanus';777;50
+e;284965;'platanes';777;50
+e;52218;'bufflonne';1;92
+e;69643;'Corée du Sud';1;68
+e;286729;'République de Corée';777;50
+e;222208;'loup garou';1;66
+e;288269;'plan de restauration';777;50
+e;148796;'kérabau';1;50
+e;290214;'boxe thaïe';777;52
+e;290215;'muay-thaï';777;50
+e;251987;'boxe thaïlandaise';1;50
+e;91599;'strider';1;50
+e;290612;'Panthère longibande';777;50
+e;175783;'Neofelis nebulosa';1;50
+e;290804;'Nouvel an du calendrier chinois';777;50
+e;230900;'nouvel an lunaire';1;4
+e;290805;'fête du printemps';777;50
+e;230899;'nouvel an chinois';1;6
+e;175782;'Neofelis diardi';1;50
+e;291410;'chat Diard';777;50
+e;291411;'diard';777;50
+e;30026;'biographe';1;56
+e;22023;'Sirius';1;50
+e;294521;'Alpha Canis Majoris';777;50
+e;65996;'jaïna';1;52
+e;70322;'Oslo';1;52
+e;276923;'Kristiania';777;50
+e;298838;'Felis irbis';777;50
+e;298839;'Uncia uncia';777;50
+e;125767;'once';1;68
+e;78463;'camouflage';1;102
+e;90462;'hyoïde';1;50
+e;97744;'bufflesse';1;50
+e;111632;'karbau';1;52
+e;114311;'sud-coréen';1;60
+e;10756;'personnage';1;3654
+e;123774;'lionceau';1;296
+e;303889;'Panthera uncia';777;50
+e;175786;'Neofelis nebulosa nebulosa';1;50
+e;190964;'Corée-du-Sud';1;50
+e;197619;'classification linnéenne';1;50
+e;222258;'boxe thaï';1;54
+e;230901;'calendrier chinois';1;2
+e;263888;'shiva';1;50
+e;313962;'flehmen';1;50
+e;284742;'plans de restauration';777;50
+e;411824;'Diard';1;50
+e;73794;'Uncia';1;50
+e;408280;'uncia';1;50
+e;427387;'Ménagerie';1;50
+e;429260;'Panthères';1;50
+e;572542;'dragon oriental';777;50
+e;430662;'Yong';1;50
+e;139752;'Blanc';1;2656
+e;590811;'bête dévorante';777;0
+e;590812;'bête monstrueuse';777;0
+e;590813;'bête fantastique';777;0
+e;130161;'panthère des neiges';1;54
+e;175688;'léopard des neiges';1;50
+e;69570;'siva';1;50
+e;274822;'en danger critique d'extinction';777;50
+e;1252447;'Panthera tigris sumatrae';777;0
+e;54237;'Çiva';1;50
+e;427573;'Once';1;50
+e;272185;'Rodentiens';777;50
+e;44561;'Rongeurs';1;50
+e;138801;'rongeurs';1;78
+e;1538429;'La Jungle en folie';1;6
+e;2358;'christiania';1;50
+e;429606;'Personnage';1;50
+e;577739;'Tigre Dingo';777;0
+e;1636973;'rodentia';777;2
+e;1681550;'forêt hercynienne';1;0
+e;1681551;'forêt d'Orcynie';777;0
+e;1681552;'Orcynie';1;0
+e;578425;'Herbe-aux-chats';777;0
+e;221812;'herbe aux chats';1;52
+e;158935;'herbe à chat';1;78
+e;1874700;'rodentien';1;0
+e;1909488;'buffle des marais';777;0
+e;1916037;'léopard tacheté de Bornéo';1;0
+e;298009;'Panthérinés';777;50
+e;1761298;'boxe chinoise';1;10
+e;273853;'boxes chinoises';777;50
+e;2073990;'panthères';2;0
+e;401087;'irbis';1;50
+e;2413342;'classification traditionnelle';1;0
+e;2477198;'chuba';1;0
+e;2511778;'blesbok';1;0
+e;2847761;'Damaliscus pygargus';777;0
+e;2469519;'damalisque à front blanc';1;0
+e;2608106;'En danger critique d'extinction';777;0
+e;2950446;'panthérinés';777;4
+e;2935045;'panthère longibande';777;0
+e;17081;'wushu';1;50
+e;2955300;'Chat Diard';777;0
+e;2603558;'oni';1;0
+e;2601675;'Quasi menacé';777;0
+e;3223217;'ménagerie du jardin des Plantes';1;0
+e;3223743;'Bigorne et Chicheface';777;0
+e;2439843;'Bigorne';1;0
+e;2579217;'Mouk';1;0
+e;3227065;'espèce parapluie';777;0
+e;3227067;'espèce paravent';777;0
+e;3304579;'Nouvel an chinois';777;2
+e;2472643;'Christiania';1;0
+e;3443084;'Patrice Franceschi';1;0
+e;2872080;'Préoccupation mineure';777;0
+e;3596796;'Rodentia';1;0
+e;6525986;'ordre rodentia - rongeurs';1;0
+e;2119611;'rodent';2;0
+e;302582;'culture de Yangshao';777;50
+e;6948531;'en:rodentia';1;0
+e;5635603;'PATSY Award';777;0
+e;5619738;'Frosties';777;0
+e;5619739;'Frosted Flakes';777;0
+e;5534856;'Découvrez comment faire';777;0
+e;5634599;'l'évolution des stratégies de prédation';777;0
+e;5635034;'faune d'Oman';777;0
+e;5635429;'Parc zoologique de Paignton';777;0
+e;5636026;'Zoo African Safari';777;0
+e;5636027;'Parc zoologique de Plaisance-du-Touch';777;0
+e;5679398;'apophyse sus-épitrochléenne';777;0
+e;5809251;'toyger';777;0
+e;5809365;'chapalu';777;0
+e;5809366;'Capalu';777;0
+e;5809367;'Capalus';777;0
+e;5809368;'Cath Paluc';777;0
+e;5809369;'Cath Palug';777;0
+e;5809370;'Cath Balug';777;0
+e;5818467;'Amblyomma testudinarium';777;0
+e;5812893;'Félins';1;0
+e;5892382;'Panthera leo ×tigris';777;0
+e;2886328;'Parent mâle de l'hybridation';777;0
+e;5892401;'Panthera tigris amoyensis';777;0
+e;5892402;'PEW';777;0
+e;5892403;'Certainement éteint à l'état sauvage';777;0
+e;5892413;'Panthera gombaszoegensis';777;0
+e;5892414;'jaguar européen';777;0
+e;5892483;'Panthera tigris corbetti';777;0
+e;5892501;'Panthera tigris altaica';777;0
+e;5892503;'Panthera pardus delacouri';777;0
+e;5892504;'Léopard d'Indochine';777;0
+e;5892505;'Panthera tigris jacksoni';777;0
+e;5892517;'Panthera pardus fusca';777;0
+e;5892518;'léopard indien';777;0
+e;5892566;'Panthera tigris palaeosinensis';777;0
+e;5892588;'Panthera blytheae';777;0
+e;5892602;'Panthera tigris trinilensis';777;0
+e;5892603;'Tigre de Trinil';777;0
+e;5892604;'Panthera tigris oxygnatha';777;0
+e;5892605;'Panthera tigris soloensis';777;0
+e;5893760;'Macha et l'ours';777;0
+e;5893761;'Masha et Michka';777;0
+e;5922577;'Kung Fu Panda';777;0
+e;5939827;'rampog macan';777;0
+e;5963541;'Benoît Leborgne';777;0
+e;5963542;'Benoît de Boigne';777;0
+e;5963543;'comte de Boigne';777;0
+e;5963544;'général-comte de Boigne';777;0
+e;5971402;'Josephoartigasia monesi';777;0
+e;5983273;'parc national de Ranthambore';777;0
+e;5983274;'Fort de Ranthambore';777;0
+e;5995675;'La Mort de Polydoros';777;0
+e;9944332;'chameau sauvage de Tartarie';777;0
+e;9944331;'Camelus bactrianus ferus';777;0
+e;4328207;'arts martiaux chinois';1;0
+e;61059;'kung-fu';1;78
+e;2565714;'buffle domestique';1;0
+e;8873211;'plan national d'action';777;0
+e;8571113;'Vulnérable';777;0
+e;8958749;'Sara la noire';777;0
+e;9595373;'Sher Shah Suri';777;0
+e;9595374;'Fahrid Khan';777;0
+e;9595372;'Sher Khan';777;0
+e;9740410;'Nouvel An chinois';777;2
+e;9740411;'Nouvel An du calendrier chinois';777;0
+e;9740412;'Nouvel An lunaire';777;0
+e;9958045;'zone coréenne démilitarisée';777;0
+e;2557379;'DMZ';1;0
+e;10963088;'Pedro le Coati';777;0
+e;10314617;'Bête de l'Auxerrois';777;0
+e;10314618;'bête de Trucy';777;0
+e;10316803;'Patrick Grainville';777;0
+e;10334728;'palais Longchamp';777;0
+e;290440;'Louise Eugénie Alexandrine Marie David';777;50
+e;290441;'Alexandra David-Néel';777;50
+e;10157348;'Roar';1;0
+e;10596667;'rodentiens';777;0
+e;2933594;'liste des personnages';777;0
+e;10863923;'Digimon Tamers';777;0
+e;10862680;'Gangneung';1;0
+e;10879568;'tellos';777;0
+e;10908394;'Dead Moon Circus';777;0
+e;11002849;'lévrier Rampur';777;0
+e;11061543;'Tigers de LSU';777;0
+e;11079394;'col du Chat';777;0
+e;433113;'Dolorès';1;50
+e;11129324;'ancien palais d'été';777;0
+e;11129325;'parc Yuanming';777;0
+e;11151661;'environnement en Inde';777;0
+e;11151665;'déforestation en Inde';777;0
+e;11151719;'tourisme en Inde';777;0
+e;6310920;'axis axis';1;0
+e;11152156;'Cerf axis';777;0
+e;11152157;'chital';777;0
+e;11159076;'échecs mongols';777;0
+e;11159077;'shatar';777;0
+e;11159078;'Hiashatar';777;0
+e;2100287;'recyclée';2;0
+e;11553451;'Georges de Grèce';777;0
+e;11753457;'république de Corée';777;0
+e;11755558;'champignon coprophile';777;0
+e;1704114;'infrasons';777;0
+e;175841;'Panthère';1;50
+e;12694635;'sanctuaire faunique de Phu Khieo';777;0
+e;12694636;'prusten';777;0
+e;12694637;'zoo de Nashville';777;0
+e;12694650;'Tachileik';777;0
+e;12694651;'Tachilek';777;0
+e;12694665;'ménagerie du jardin des plantes';777;0
+e;12863886;'Damien Steven Hirst';777;0
+e;249004;'nom vernaculaire';1;10
+e;67719;'Thylacinus cynocephalus';1;50
+e;12986029;'waghoba';777;0
+e;12986041;'Cat Specialist Group';777;0
+e;12988303;'taotie';777;0
+e;12992057;'Les Contes de Masha';777;0
+e;13441191;'Ansloye';777;0
+e;13441192;'Anslo';777;0
+e;13642218;'parc national de Bali occidental';777;0
+e;13854842;'muay lao';777;0
+e;13854843;'muay lai lao';777;0
+e;14048356;'ancien Palais d'Été';777;0
+e;14049962;'Toyger';1;0
+e;3439290;'Camouflage';777;0
+e;14095274;'Bringé';777;0
+e;14128959;'ménagerie du Jardin des plantes';777;0
+e;5983290;'parc national de Nokrek';777;0
+e;305844;'Camelus bactrianus';777;50
+e;175310;'chameau de Bactriane';1;56
+e;6361227;'chameau à deux bosses';1;0
+e;45320;'chameau';1;254
+e;76125;'chamelle';1;80
+e;14163159;'Roshi Ensei';777;0
+e;14163160;'irezumi';777;0
+e;14250592;'Damien Hirst';777;0
+e;5892601;'Tigre de Longdan';777;0
+e;13855189;'Ahimsa';777;0
+e;97660;'infrason';1;50
+e;14476896;'Tokyo Jungle';777;0
+e;5968589;'Formule dentaire';777;0
+e;1364376;'patte de velours';1;0
+e;5536212;'Cette section ne cite pas suffisamment ses sources';777;0
+e;14488734;'Translation 1';777;0
+e;14488735;'Translation 2';777;0
+e;14488736;'Translation 3';777;0
+e;403759;'Sources';1;3006
+e;301148;'Source et légende';777;50
+e;412735;'Historique';1;3357
+e;5808209;'Hollywood Pictures';777;0
+e;5808210;'Miramax Films';777;0
+e;5808211;'Touchstone Pictures';777;0
+e;281020;'Pixar Animation Studios';777;50
+e;14541097;'les techniques';777;0
+e;1858449;'Projection';1;0
+e;90534;'fauchage';1;58
+e;40466;'blocage';1;162
+e;118027;'hybride';1;130
+e;14584401;'hybrides de première génération';777;0
+e;11055814;'Voguéo';777;0
+e;14529214;'Neytiri Dis'kahan Mo'at'itey';777;0
+e;14529215;'Mo'at';777;0
+e;14529216;'Tsu'tey te Rongloa Ateyitan';777;0
+e;14529217;'Eytukan';777;0
+e;22184;'chignon';1;130
+e;156421;'croissant de lune';1;134
+e;14143384;'troisième oeil';1;0
+e;37264;'cobra';1;140
+e;130680;'trident';1;86
+e;226587;'Pays';1;3759
+e;14427855;'Box-office';1;0
+e;15780623;'Arbre phylogénétique de la sous-famille Pantherinae';777;0
+e;14668812;'dragon chinois';777;0
+e;14668813;'dragon coréen';777;0
+e;14668814;'dragon japonais';777;0
+e;11544057;'province de Sayaboury';777;0
+e;5580611;'Cette section ne respecte pas la neutralité de point de vue';777;0
+e;10583793;'Bhimbetka';777;0
+e;28462;'Dalila';1;112
+e;188133;'Aïcha';1;50
+e;82476;'Chaco';1;56
+e;16154048;'Les Wallabies';777;0
+e;161409;'Nina';1;54
+e;3673477;'Platane';1;0
+e;16154828;'jour du Platane';777;0
+e;405947;'Saisie';1;50
+e;103389;'papier';1;3174
+e;16260129;'jardin de la clarté parfaite';777;0
+e;16260130;'jardin du printemps éternel';777;0
+e;16260131;'jardin élégant de l'été';777;0
+e;14113;'prunelle';1;66
+e;23469;'férocité';1;164
+e;2955977;'Papier';1;0
+e;9963576;'Les Aventures de Tigrou';777;0
+e;14416355;'Le film de Tigrou';777;0
+e;145695;'Phaéton';1;50
+e;9267656;'Contenus de qualité';777;0
+e;9267657;'Bons contenus';777;0
+e;5951228;'Sélection';1;0
+e;411314;'Programme';1;1431
+e;146874;'élection présidentielle';1;170
+e;14777953;'AU delà de certains seuils de puissance';777;0
+e;14777954;'À forte puissance';777;0
+e;10911492;'Éléphants';1;0
+e;143271;'Cétacés';1;50
+e;14777955;'Okapis et girafes';777;0
+e;16763031;'patte douce';777;0
+e;295639;'Panthera pardus';777;50
+e;2321605;'Léopard';1;0
+e;16769770;'Panthère nébuleuse de Bornéo';777;0
+e;16769859;'PATSY Awards';777;0
+e;11155175;'Conor Anthony McGregor';777;0
+e;16780019;'Conor McGregor';777;0
+e;568688;'viande de brousse';1;52
+e;16887611;'pré-Yangshao';777;0
+e;16887612;'Laoguantai';777;0
+e;11129310;'Cishan-Peiligang';777;0
+e;16887613;'Yangshao ancien';777;0
+e;40650;'Banpo';1;50
+e;16887614;'Hongang I';777;0
+e;16896203;'Queen Nehelennia';777;0
+e;16896204;'Zirconia';777;0
+e;16896205;'Amazon Trio';777;0
+e;16896206;'Fish Eye';777;0
+e;16896208;'Hawk's Eye';777;0
+e;567166;'Very Bad Trip';777;50
+e;3312027;'Lendemain de veille';777;0
+e;14599217;'Autres chansons';777;0
+e;16794626;'Le dit de la Chicheface';777;0
+e;16794627;'Chickou';777;0
+e;14323718;'Sarbecovirus';1;0
+e;3561222;'Éteint à l'état sauvage';777;0
+e;11129665;'Elephas maximus';777;0
+e;154807;'éléphant d'Asie';1;64
+e;6825823;'en:carnivora';1;0
+e;7170514;'en:carnivore';1;0
+e;14922761;'en:Bali';1;0

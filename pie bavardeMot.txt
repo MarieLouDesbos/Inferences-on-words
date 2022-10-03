@@ -1,0 +1,518 @@
+e;113314;'pie bavarde';1;50
+e;239128;'_COM';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;142894;'pie';1;338
+e;116552;'corvidé';1;52
+e;218224;'pie>140176';1;48;'pie>oiseau'
+e;143277;'passeriforme';1;50
+e;72025;'passereau';1;316
+e;140176;'oiseau';1;7456
+e;220337;'oiseau>17559';1;836;'oiseau>animal'
+e;55488;'passériforme';1;58
+e;40733;'diapside';1;74
+e;1140776;':r13977989';10;0
+e;1140774;':r14027124';10;0
+e;326373;'sauropsidien';1;52
+e;265837;'sauropsidé';1;6
+e;283634;'sauropside';777;30
+e;1140777;':r2088146';10;0
+e;1140773;':r13865219';10;0
+e;1140775;':r13724668';10;0
+e;1140772;':r13861109';10;0
+e;110773;'amniote';1;82
+e;91794;'tétrapode';1;96
+e;101018;'gnathostome';1;84
+e;86640;'vertébré';1;904
+e;264881;'crânié';1;56
+e;1140771;':r10928831';10;0
+e;1140768;':r11150290';10;0
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;265277;'crâniate';1;58
+e;317929;'olfactorien';1;40
+e;1140769;':r11143669';10;0
+e;142602;'cordé';1;112
+e;3218;'bavarde';1;116
+e;248081;'chordé';1;226
+e;1140770;':r11137051';10;0
+e;265220;'épineurien';1;20
+e;1140767;':r11130348';10;0
+e;330964;'cordé>117095';1;36;'cordé>zoologie'
+e;115304;'deutérostomien';1;114
+e;264880;'bilatérien';1;80
+e;223173;'_POL-POS';36;50
+e;1140766;':r14415960';10;0
+e;1140765;':r11120877';10;0
+e;264908;'eumétazoaire';1;80
+e;233133;'animal>117095';1;836;'animal>zoologie'
+e;1140764;':r9613120';10;0
+e;55823;'métazoaire';1;174
+e;17559;'animal';1;14019
+e;1140779;':r2083351';10;0
+e;1140763;':r10780772';10;0
+e;325741;'choanobionte';1;76
+e;1140780;':r2133782';10;0
+e;1140762;':r10756927';10;0
+e;329657;'choano-organisme';1;62
+e;325736;'holozoaire';1;60
+e;1140761;':r10751641';10;0
+e;325738;'filozoaire';1;84
+e;1140760;':r11255541';10;0
+e;325731;'opisthoconte';1;76
+e;325728;'uniconte';1;42
+e;1140759;':r10923396';10;0
+e;1140758;':r2915687';10;0
+e;1140757;':r12047068';10;0
+e;54794;'eucaryote';1;194
+e;1140756;':r10786043';10;0
+e;331036;'néognathe';1;50
+e;246198;'petit oiseau';1;110
+e;262332;'petit oiseau>140176';1;18;'petit oiseau>oiseau'
+e;1140849;':r2672875';10;0
+e;1140755;':r10768579';10;0
+e;1140754;':r10863675';10;0
+e;396042;'tétrapode>86640';1;50;'tétrapode>vertébré'
+e;1140778;':r2897374';10;0
+e;1140753;':r11433685';10;0
+e;254877;'_POL-NEUTRE_PC';36;50
+e;265838;'archosaurien';1;52
+e;87789;'coelomate';1;52
+e;1483990;'être vivant non humain';1;4
+e;1140752;':r11429510';10;0
+e;267642;'organisme animal';1;4
+e;230197;'agasse';1;50
+e;13132;'margot';1;50
+e;1140751;':r11425032';10;0
+e;225847;'organisme>71624';1;98;'organisme>être vivant'
+e;391010;'coelomé';1;50
+e;391009;'célomate';1;50
+e;9120;'jacasse';1;50
+e;65081;'organisme vivant';1;146
+e;64238;'noir';1;4408
+e;237445;'être>68439';1;32;'être>individu'
+e;53816;'caquet';1;52
+e;234036;'être vivant>123933';1;258;'être vivant>entité'
+e;139791;'agace';1;50
+e;218648;'arbre>136507';1;388;'arbre>végétal'
+e;71624;'être vivant';1;1888
+e;260820;'entité vivante';1;64
+e;2373008;'ajaça';1;0
+e;436570;'entité biologique';1;50
+e;2586629;'Number:Sing';4;0
+e;2586628;'Gender:Fem';4;0
+e;146881;'Nom:Fem+SG';4;50
+e;15901141;':r414014130';10;0
+e;143669;'vertébrés';1;80
+e;1140747;':r13513496';10;0
+e;114327;'acide désoxyribonucléique';1;140
+e;191669;'_INFO-SEM-LIVING-BEING';36;160
+e;1140750;':r13925718';10;0
+e;1140749;':r11420932';10;0
+e;36482;'ornithologie';1;276
+e;148105;'ailes';1;2750
+e;171870;'Nom:';4;50
+e;215896;'aile>117095>140176';1;90;'aile>zoologie>oiseau'
+e;162763;'_INFO-SEM-THING-CONCRETE';36;1238
+e;28453;'bonheur';1;2804
+e;233138;'tête>390963';1;72;'tête>extrémité supérieure du corps'
+e;3572686;'bn:00031919n';444;0
+e;2360676;'pie commune';1;0
+e;144846;'tête';1;5937
+e;1140748;':r10764129';10;0
+e;46057;'oiseaux';1;3001
+e;330215;'bilatéralement symétrique';1;22
+e;276096;'_INFO-WIKI-YES';36;50
+e;96211;'coeur';1;2342
+e;3508;'plumage';1;190
+e;5871533;'pica pica';777;0
+e;1636805;'oeil>44335';1;50;'oeil>organe'
+e;120157;'règne animal';1;102
+e;233008;'bec>140176';1;52;'bec>oiseau'
+e;3228593;'wiki:@';444;0
+e;2501304;'ageasse';1;0
+e;122864;'mort';1;7245
+e;95256;'queue';1;3266
+e;36886;'faune';1;2225
+e;144083;'Proche-Orient';1;2263
+e;3575927;'Morpho:min';18;50
+e;224422;'manger>113902>119570';1;206;'manger>alimentation>absorber'
+e;247057;'symétrie bilatérale';1;10
+e;105814;'regarder';1;3658
+e;6681658;'manger>113902';1;138;'manger>alimentation'
+e;6148925;'umls:C0326398';444;0
+e;251716;'_INFO-MONOSEMIC';36;50
+e;33882;'se nourrir';1;436
+e;99220;'hétérotrophe';1;68
+e;254876;'_POL-POS_PC';36;50
+e;117095;'zoologie';1;2392
+e;73827;'voler';1;3095
+e;112239;'pondre';1;232
+e;47918;'boire';1;4568
+e;139709;'s'envoler';1;186
+e;259820;'vivre>160251';1;78;'vivre>être en vie'
+e;213857;'voler>167847';1;278;'voler>déplacement aérien'
+e;43253;'dormir';1;6578
+e;251694;'mourir>126720';1;238;'mourir>cesser de vivre'
+e;115440;'couver';1;172
+e;124600;'mourir';1;2755
+e;2442;'vivre';1;3276
+e;43601;'se reproduire';1;502
+e;130164;'manger';1;10304
+e;316850;'entité physique';1;50
+e;152125;'Zoologie';1;210
+e;95422;'cou';1;1944
+e;214603;'queue>214624>140176';1;52;'queue>queue d'animal>oiseau'
+e;151867;'pattes';1;2265
+e;77008;'yeux';1;4539
+e;124919;'bec';1;2505
+e;35143;'biologie';1;3428
+e;103405;'indifférence';1;612
+e;108463;'ventre';1;2056
+e;77424;'oeil';1;3278
+e;62726;'plume';1;2676
+e;1140786;':r1364356';10;0
+e;390927;'tête>112609';1;72;'tête>anatomie'
+e;213792;'coeur>213791';1;186;'coeur>organe musculaire'
+e;326146;'système nerveux en position dorsale';1;56
+e;241352;'ventre>112609';1;100;'ventre>anatomie'
+e;141814;'vertèbre';1;392
+e;74846;'corps';1;5240
+e;1384;'vivant';1;3307
+e;43853;'aile';1;2172
+e;8990;'patte';1;1766
+e;213545;'plume>140176';1;78;'plume>oiseau'
+e;3224813;'animal volant';1;0
+e;16747;'adn';1;164
+e;102934;'ovipare';1;150
+e;213644;'os>116980';1;404;'os>squelette'
+e;74558;'os';1;3037
+e;57875;'tube digestif';1;118
+e;126388;'articulation';1;730
+e;152844;'sang chaud';1;88
+e;83944;'nerf';1;858
+e;103311;'système nerveux';1;276
+e;240720;'squelette>112609';1;152;'squelette>anatomie'
+e;219363;'corps>112609';1;190;'corps>anatomie'
+e;109785;'peau';1;3979
+e;47319;'colonne vertébrale';1;362
+e;126285;'dos';1;2898
+e;139779;'ADN';1;1254
+e;116980;'squelette';1;1226
+e;92955;'plumes';1;717
+e;225934;'oeil>330323';1;224;'oeil>organe de la vue'
+e;237765;'patte>141795';1;56;'patte>membre'
+e;11008328;'ADN>30051';1;8;'ADN>code génétique'
+e;398564;'mâchoires';1;50
+e;14954664;'en:Eurasian magpie';1;0
+e;364788;'monde animal';1;50
+e;7256380;'en:zoology';1;0
+e;14940408;'en:gnathostome';1;0
+e;14916413;'Langue:français';18;50
+e;11456112;'en:common magpie';1;0
+e;6825581;'en:aves';1;0
+e;273420;'aves';777;52
+e;6947917;'en:vertebrata';1;0
+e;2461482;'métazoaire supérieur';1;0
+e;1655534;'clomate';1;0
+e;12791689;'acide désoxyribo-nucléique';1;0
+e;12321907;'en:eukaryote';1;0
+e;14049844;'organisme vivant hétérotrophe';1;0
+e;14049840;'organisme vivant pluricellulaire';1;0
+e;14049831;'organisme vivant pluricellulaire hétérotrophe';1;6
+e;101689;'être animé';1;50
+e;1140847;':r15870684';10;0
+e;15080161;'en:animal kingdom';1;0
+e;6797233;'en:vertebra';1;0
+e;115013;'Qinghai';1;50
+e;64408;'Pakistan';1;2614
+e;134169;'Iran';1;2102
+e;14265;'Irak';1;2643
+e;139109;'Caucase';1;1228
+e;143291;'Chine';1;3775
+e;5808214;'Mathurin Jacques Brisson';777;0
+e;431843;'impacts';1;50
+e;10791578;'évaluation environnementale';777;0
+e;5722523;'Apprentissage';1;0
+e;311875;'sciences participatives';777;50
+e;119663;'La Pie voleuse';1;50
+e;93731;'Rossini';1;74
+e;2435253;'cleptoparasitisme';1;0
+e;31029;'Guyenne';1;68
+e;114278;'Gascogne';1;84
+e;145;'wallon';1;74
+e;142118;'Wallon';1;56
+e;2378581;'poitevin-saintongeais';1;0
+e;302937;'La gazza ladra';777;50
+e;306431;'Francisco de Goya';777;50
+e;2891487;'écopaysager';1;0
+e;401701;'Hiver';1;50
+e;5669738;'Clamator glandarius';777;0
+e;593901;'chimpanzé pygmée';777;0
+e;5933493;'Orang-outan';1;0
+e;425378;'Gorille';1;50
+e;22714;'chimpanzé';1;186
+e;2582900;'Pan troglodytes';777;0
+e;398613;'intelligents';1;50
+e;400463;'hectares';1;3245
+e;6016030;'Hectare';1;0
+e;418951;'Rapace';1;50
+e;415222;'Chardonneret';1;50
+e;414634;'Gobemouche';1;50
+e;405691;'Fauvettes';1;50
+e;2572931;'Haies';1;0
+e;133246;'pica';1;50
+e;5879638;'Pica';1;0
+e;283684;'Corvus cornix';777;50
+e;2002997;'campagnols';2;0
+e;3396801;'Campagnol';1;0
+e;2027238;'charognes';2;0
+e;420513;'Charogne';1;50
+e;431214;'Graine';1;50
+e;3303689;'Fruit';777;0
+e;324089;'anatomie des oiseaux';777;50
+e;5872341;'identification des oiseaux';777;0
+e;4901156;'Étourneau sansonnet';1;0
+e;3596554;'Laridae';1;0
+e;1971177;'artificialisation';1;0
+e;2110547;'remembrements';2;0
+e;5996233;'Remembrement';1;0
+e;9657195;'Statut de conservation';777;2
+e;113669;'Russie';1;3633
+e;126576;'Brisson';1;50
+e;234871;'sciences humaines et sociales';1;52
+e;299594;'écoéthologie';777;50
+e;219798;'scientifiques';1;3327
+e;142229;'Science';1;3226
+e;34659;'gestion';1;3426
+e;123732;'apprentissage';1;574
+e;77982;'juillet';1;3902
+e;83522;'Belgique';1;3729
+e;33926;'nid-de-pie';1;50
+e;180083;'Les Bijoux de la Castafiore';1;180
+e;272711;'Gioachino Rossini';777;50
+e;49612;'Goya';1;52
+e;4187;'bocage';1;70
+e;142481;'Bocage';1;50
+e;50862;'Caen';1;1949
+e;3145;'Corse';1;2751
+e;75068;'hiver';1;2944
+e;137391;'Afrique';1;3638
+e;42313;'Asie';1;3225
+e;77735;'Europe';1;3809
+e;59598;'holarctique';1;50
+e;92415;'éclosion';1;72
+e;139391;'Ponte';1;50
+e;47004;'gui';1;70
+e;142019;'Gui';1;50
+e;30183;'URSS';1;2441
+e;194257;'pigeon ramier';1;28
+e;91870;'corneille noire';1;50
+e;78325;'Trappes';1;50
+e;39253;'empathie';1;206
+e;32193;'orang-outan';1;80
+e;34410;'gorille';1;340
+e;224994;'conscience de soi';1;6
+e;224993;'test du miroir';1;2
+e;51000;'rapaces';1;56
+e;143945;'Homme';1;1947
+e;74037;'Madrid';1;2811
+e;64817;'bouvreuil pivoine';1;50
+e;63264;'rouge-queue noir';1;50
+e;105925;'chardonneret';1;52
+e;108243;'gobe-mouches';1;52
+e;116686;'fauvettes';1;50
+e;1197;'passereaux';1;52
+e;140767;'Passereaux';1;50
+e;84023;'prunellier';1;52
+e;230769;'haies';1;2105
+e;129181;'campagnol';1;188
+e;138801;'rongeurs';1;78
+e;148362;'graines';1;2689
+e;89760;'fruits';1;3148
+e;72905;'insectes';1;2542
+e;141474;'Insecte';1;50
+e;4407;'omnivore';1;104
+e;20164;'lapin';1;1322
+e;212776;'Lapin';666;50
+e;115444;'éthologique';1;50
+e;78127;'dimorphisme sexuel';1;60
+e;7589;'femelle';1;2423
+e;90273;'iris';1;218
+e;143103;'Iris';1;58
+e;77046;'iridescence';1;50
+e;273164;'écologie urbaine';777;50
+e;155081;'urbaine';1;2669
+e;152214;'Urbanisme';1;146
+e;262512;'dynamique des populations';1;50
+e;16718;'comportement';1;3120
+e;110663;'étourneau sansonnet';1;68
+e;279005;'laridés';777;50
+e;126989;'pesticides';1;74
+e;125402;'morphologie';1;162
+e;133003;'Provence';1;2918
+e;87987;'France';1;4535
+e;142495;'limousin';1;52
+e;90974;'Limousin';1;74
+e;41817;'occitan';1;78
+e;179360;'Occitan';1;50
+e;139476;'picard';1;52
+e;8691;'Picard';1;68
+e;78847;'poitevin';1;74
+e;62780;'Poitou';1;96
+e;20981;'UICN';1;74
+e;274762;'Union internationale pour la conservation de la nature';777;54
+e;56609;'Pie';1;1895
+e;237444;'être>94160';1;62;'être>existence'
+e;8535678;'en:spine';1;0
+e;1140802;':r2986800';10;0
+e;14917526;'en:deoxyribonucleic acid';1;0
+e;52255;'arbre';1;5528
+e;14330;'satisfaction';1;626
+e;12896403;':r330831585';10;0
+e;8753401;':r177326511';10;0
+e;6797262;'en:vertebral column';1;0
+e;330963;'cordé>3674';1;50;'cordé>botanique'
+e;1140843;':r2716227';10;0
+e;1140821;':r2707838';10;0
+e;1816244;'colonne rachidienne';1;0
+e;237443;'être>37229';1;66;'être>se trouver'
+e;237441;'être>85728';1;12;'être>exister'
+e;225848;'organisme>118203';1;52;'organisme>corps humain'
+e;218223;'pie>138092';1;4;'pie>pelage'
+e;230196;'pie>99340';1;50;'pie>assolement'
+e;257991;'pie>242270';1;50;'pie>pieuse'
+e;258257;'pie>2149';1;50;'pie>gâteau'
+e;218225;'pie>43384';1;4;'pie>bavard'
+e;15871724;':r413692262';10;0
+e;15047666;'en:alimentary canal';1;0
+e;174176;'spine';1;50
+e;10314012;'en:heterotroph';1;0
+e;3184658;'pie>269839';1;0;'pie>blanc et noir'
+e;4649303;':r10016877';10;0
+e;4646966;':r10082556';10;0
+e;4645634;':r10125291';10;0
+e;58768;'organisme';1;2509
+e;4624296;':r15828936';10;0
+e;1140851;':r2602592';10;0
+e;1140850;':r2642337';10;0
+e;1140848;':r2637481';10;0
+e;1140846;':r14712045';10;0
+e;1140845;':r13022787';10;0
+e;1140844;':r12999037';10;0
+e;1140842;':r2653307';10;0
+e;1140841;':r2758426';10;0
+e;1140840;':r2771183';10;0
+e;1140839;':r2850513';10;0
+e;1140838;':r2886339';10;0
+e;1140837;':r2631075';10;0
+e;1140836;':r2659330';10;0
+e;1140835;':r2702172';10;0
+e;1140834;':r2880513';10;0
+e;1140833;':r2539015';10;0
+e;1140832;':r2542837';10;0
+e;1140831;':r2546662';10;0
+e;1140830;':r2550496';10;0
+e;1140829;':r2598364';10;0
+e;1140828;':r2779713';10;0
+e;1140827;':r2606042';10;0
+e;1140826;':r2610216';10;0
+e;1140825;':r2619762';10;0
+e;1140824;':r2623621';10;0
+e;1140823;':r2627477';10;0
+e;1140822;':r11829139';10;0
+e;1140820;':r2669325';10;0
+e;1140819;':r2905511';10;0
+e;1140818;':r2871573';10;0
+e;1140817;':r2909506';10;0
+e;1140816;':r11806128';10;0
+e;1140815;':r2930957';10;0
+e;1140814;':r2936312';10;0
+e;1140813;':r2901525';10;0
+e;1140812;':r13732726';10;0
+e;1140811;':r3011467';10;0
+e;1140810;':r11798400';10;0
+e;1140809;':r10774334';10;0
+e;1140808;':r3040106';10;0
+e;1140807;':r2972814';10;0
+e;1140806;':r2967775';10;0
+e;1140805;':r11810092';10;0
+e;1140804;':r11261400';10;0
+e;1140803;':r2993322';10;0
+e;1140801;':r2614988';10;0
+e;1140800;':r2834786';10;0
+e;1140799;':r11802192';10;0
+e;1140798;':r3005430';10;0
+e;1140797;':r2956158';10;0
+e;1140796;':r2942641';10;0
+e;1140795;':r2921431';10;0
+e;1140794;':r2864005';10;0
+e;1140793;':r2802464';10;0
+e;1140792;':r2722864';10;0
+e;1140791;':r2688612';10;0
+e;1140790;':r2664539';10;0
+e;1140789;':r2647163';10;0
+e;1140788;':r15796469';10;0
+e;1140787;':r2693097';10;0
+e;1140785;':r1670129';10;0
+e;1140784;':r2378636';10;0
+e;1140783;':r2378635';10;0
+e;1140782;':r13515267';10;0
+e;1140781;':r2378637';10;0
+e;4565866;':r10267682';10;0
+e;14918011;'en:DNA';1;0
+e;157007;'être>146885';1;50;'être>Nom:Mas+SG'
+e;13369;'être';1;3929
+e;225849;'organisme>86627';1;50;'organisme>organisation'
+e;225846;'organisme>332175';1;54;'organisme>ensemble des organes'
+e;3960758;'dbnary:fra:__ws_1_pie_bavarde__nom__1';444;0
+e;234035;'être vivant>2442';1;4;'être vivant>vivre'
+e;1757727;':r25781064';10;0
+e;1757726;':r24544783';10;0
+e;57221;'joie';1;3928
+e;37298;'amour';1;7157
+e;102345;'plaisir';1;3741
+e;6800353;'en:nervous system';1;0
+e;1395235;'être>171870';1;0;'être>Nom:'
+e;15088586;'en:systema nervosum';1;0
+e;15080160;'en:animalia';1;0
+e;7053316;'en:metazoa';1;0
+e;14606397;'organisme hétérotrophe';1;2
+e;141804;'Bacchus';1;80
+e;96190;'incubation';1;82
+e;71259;'couvaison';1;66
+e;61869;'geai des chênes';1;50
+e;299660;'organisme nuisible';777;50
+e;36544;'vermine';1;96
+e;83035;'nuisible';1;108
+e;113409;'accouveur';1;50
+e;192482;'cassican flûteur';1;50
+e;192732;'coucou geai';1;50
+e;194222;'pie bleue';1;50
+e;308711;'Cyanopica cyanus';777;50
+e;309999;'Pie d'Amérique';777;50
+e;194225;'pie à bec noir d'Amérique';1;50
+e;125181;'malfaisant';1;102
+e;57037;'ravageur';1;74
+e;67946;'peste';1;1906
+e;374153;'préoccupation mineure';1;50
+e;42365;'Caprimulgus europaeus';1;50
+e;194221;'pie australienne';1;50
+e;1741997;'Pie-bleue à calotte noire';777;0
+e;2872080;'Préoccupation mineure';777;0
+e;295777;'corvidae';777;50
+e;34103;'Corvidés';1;50
+e;138199;'corvidés';1;52
+e;5673598;'pica hudsonia';777;0
+e;90804;'déprédateur';1;50
+e;5854150;'Corvidae';1;0
+e;5873872;'Gymnorhina';777;0
+e;5873873;'Gymnorhina tibicen';777;0
+e;9986815;'mortier de terre';777;0
+e;10959156;'parc naturel régional du Gâtinais français';777;0
+e;10839060;'oiseau national';777;0
+e;4220082;'Elsterwerda';1;0
+e;6057;'nuisibilité';1;50
+e;16494061;'Salins-d'Hyères';777;0
+e;15775608;'oiseaux émettent des sons vocalisés';777;0
+e;15775609;'vocalisation des oiseaux';777;0
+e;15781381;'vrai métazoaire';1;0
+e;76211;'bacchus';1;50

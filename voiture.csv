@@ -1,0 +1,181 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+<html>
+ <head>
+    <title>Le Rézo sous forme DUMP</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"/>
+
+<link rel="stylesheet" type="text/css" href="CSS/jdm.css"/>
+<link rel="stylesheet" type="text/css" href="CSS/smoothbox.css"/>
+<link rel="stylesheet" type="text/css" href="CSS/Roar.css"/>
+<link rel="stylesheet" type="text/css" href="jsscripts/humanejs/themes/libnotifybottom.css"/>
+<meta name="robots" content="nofollow, notranslate" />
+<meta name="googlebot" content="nofollow, notranslate" />
+
+<meta name="description" content="Jeu d'associations de termes, trés sympa et amusant. Mots à collectionner, capturer. Trouver les associations les plus pertinentes."/>
+<meta name="keywords" lang="fr" content="jeu, mots, mot, expression, collection, associations, fonctions lexicales, jeuxdemots, amusant, fonction lexicale, réseau, réseau lexical, TAL, TALN, langue, langage, lexique, dictionnaire"/>
+<META HTTP-EQUIV="Content-Language" content="fr"/>
+<meta name="reply-to" content="jeuxdemeaux@gmail.com"/>
+<meta name="category" content="Jeux"/>
+<meta name="distribution" content="global"/>
+<meta name="revisit-after" content="7 days"/><meta name="author" lang="fr" content="LIRMM, Mathieu Lafourcade"/>
+<meta name="copyright" content="LIRMM, Mathieu Lafourcade"/>
+<meta name="generator" content=""/>
+<meta name="identifier-url" content="http://www.lirmm.fr/jeuxdemots"/>
+<meta name="expires" content="never"/>
+<meta name="Date-Creation-yyyymmdd" content="mai 2006"/>
+<meta name="Date-Revision-yyyymmdd" content="septembre 2010"/>
+<meta name="google-site-verification" content="FJvgiMAOHMfdRtqEbU1H23AG_fLYRdz7fIioDc_oOxE" /><meta property="og:image" content="logo-jdm/logo1.jpg"/>
+<meta property="og:image" content="logo-jdm/Logo_JDMrect_fond noir.png"/>
+<meta property="og:image" content="logo-jdm/Logo_JDMrect_fond_blanc.png"/>
+<meta property="og:image" content="logo-jdm/Logo_JDMrect_fond_transp.png"/>
+<meta property="og:image" content="pics/logoJDMcarrevarianteFondNoir.png"/>
+<meta 
+	property="og:image" content="pics/logoJDMcarreFondBlanc.png"/>
+<meta property="og:image" content="pics/favicon-Je-32-bis.ico"/>
+
+<style>
+    @font-face {
+		font-family: "fontcandid";
+		src: url("fonts/TEMPSITC.TTF");
+	}
+</style>
+	
+<noscript>
+
+	<div style="position:absolute;z-index:10000;font-size:32pt;">
+
+	<CENTER>Javascript doit fonctionner ! Activez-le et rechargez cette page.
+
+	<br>
+
+	<IMG src="pics/error.png">
+
+	</CENTER>
+
+	<div>
+
+	<meta HTTP-EQUIV="Refresh" content="1;URL=http://jeuxdemots.org/"> 
+
+</noscript>
+
+
+<script type="text/javascript" src="jsscripts/mootools.js"></script>
+<script type="text/javascript" src="jsscripts/mootoolsmore.js"></script>
+<script type="text/javascript" src="jsscripts/jdm_twik_script.js"></script>
+<script type="text/javascript" src="jsscripts/jdm_duel_script.js"></script>
+<script type="text/javascript" src="jsscripts/jdm_shake_script.js"></script>
+<script type="text/javascript" src="jsscripts/jdm_beat_script.js"></script>
+<script type="text/javascript" src="jsscripts/jdm_nbrel_script.js"></script>
+<script type="text/javascript" src="jsscripts/jdm_playerstats_script.js"></script>
+<script type="text/javascript" src="jsscripts/shortcuts.js"></script>
+<script type="text/javascript" src="jsscripts/smoothbox.js"></script>
+<script type="text/javascript" src="jsscripts/overlay.js"></script>
+<script type="text/javascript" src="jsscripts/shake.js"></script>
+<script type="text/javascript" src="jsscripts/Roar.js"></script>
+<script type="text/javascript" src="jsscripts/humanejs/humane.js"></script>
+<link rel="shortcut icon" href="pics/favicon-Je-32-bis.ico" type="image/x-icon" />
+
+   	<link href='http://fonts.googleapis.com/css?family=Schoolbell' rel='stylesheet' type='text/css'>
+   	  </head>
+<body STYLE="overflow:auto;
+overflow-x:auto;
+overflow-y:visible;overflow-x:hidden;
+padding: 0px; margin: 0px; border: 0px;">
+
+<div class="jdm-level1-block">
+
+	<div class="jdm-prompt-block">
+    <div class="jdm-prompt">
+    Le Rézo format DUMP    </div>
+	</div>
+
+</div>
+
+<div class="jdm-level2-block">
+    <div id="rezoform" style="position:relative;top:-43px;left:100px;">
+    
+
+    Lien de cette page: <URL>?gotermsubmit=Chercher&gotermrel=voiture&rel=&relout=norelout&relin=norelin%3Fgotermsubmit%3DChercher</URL>
+    <br>
+    <br>
+
+     <form id="gotermrel" name="gotermrel" method="get" action="rezo-dump.php" >
+	    <input id="gotermsubmit" type="submit" name="gotermsubmit" value="Chercher">
+	    le terme
+	    <input id="gotermrel" type="text" name="gotermrel" value="voiture" size=100>
+	    <br><fieldset>
+  <legend> Options </legend>
+	Numéro de relation
+	<input id="rel" type="text" name="rel" value="" size=10>
+  <div>
+    <input type="checkbox" id="relout" name="relout" value="norelout" >
+    <label for="relout">Pas de relations sortantes</label>
+  </div>
+  <div>
+    <input type="checkbox" id="relin" name="relin" value="norelin" >
+    <label for="relin">Pas de relations entrantes</label>
+  </div>
+</fieldset></form>
+<br>
+REQUEST['relin'] = norelin?gotermsubmit=ChercherREQUEST['relout'] = norelout<br>FROM CACHE [6890_O-I-.txt] : size=4002 - date=May 01 2022 15:32:29. - 234 secondes ago - 0.0027083333333333 days ago <br>
+
+<br>
+
+Code DUMP (cf source)<br>
+
+
+<CODE>
+// DUMP pour le terme 'voiture' (eid=6890)
+
+<def>
+<br />
+1. Véhicule consistant en une caisse montée sur des roues.<br /> 
+ Rencontré Artaud [?] qui s'est pris le pied dans la roue de sa voiture, a cogné la tête dans le marchepied, et est retombé sur une botte de paille ; il aurait voulu le faire qu'il n'y serait jamais arrivé.    
+ (Jean Giraudoux, Retour d'Alsace - Août 1914, 1916)  <br /> 
+ Quelquefois, lorsque j'arrive, je préviens qu'on envoie une voiture me chercher à la gare ; souvent je ne préviens pas.    
+ (Octave Mirbeau, Le Colporteur)  <br /> 
+ Le goût de l'équitation, autrefois si prononcé en France, est aujourd'hui en partie perdu où tout le monde préfère monter en voiture ; aussi le cheval de selle est-il presque délaissé.    
+ (Jean Déhès, Essai sur l'amélioration des races chevalines de la France, École impériale vétérinaire de Toulouse, Thèse de médecine vétérinaire, 1868)  <br /> 
+ Le 9 décembre 1776, sur les sept heures du soir, une voiture d'assez belle apparence, mais dans laquelle un observateur attentif pouvait reconnaître un carrosse de louage, traversa la cour de l'hôtel des finances.    
+ (Julie de Querangal, Philippe de Morvelle, Revue des Deux Mondes, tome 2, 4, 1833)  <br />
+2. Le terme populaire automobile (simplification historique de l'expression « voiture automobile ») désigne un véhicule à roues, motorisé et destiné au transport terrestre de personnes et de biens. L'abréviation populaire « voiture » est assez courante, bien que ce terme désigne de nombreux types de véhicules qui ne sont pas tous motorisés.<br />
+3. Le terme populaire automobile (simplification historique de l'expression « voiture légère automobile ») désigne un véhicule à roues, motorisé et destiné au transport terrestre de quelques personnes et de leurs bagages. L'abréviation populaire « voiture » est assez courante, bien que ce terme désigne de nombreux types de véhicules qui ne sont pas tous motorisés.<br />
+4. Une automobile (simplification historique de l'expression « voiture légère automobile ») est un véhicule à roues, motorisé et destiné au transport terrestre de quelques personnes et de leurs bagages. L'abréviation populaire « voiture » est assez courante, bien que ce terme désigne de nombreux types de véhicules qui ne sont pas tous motorisés.<br />
+5. Une voiture dite sans permis ou « voiturette » ou parfois micro-voiture ou rarement voiture-oeuf est un véhicule carrossé à moteur dont la réglementation est similaire ou dérivée de celle de la catégorie des cyclomoteurs notamment en ce qui concerne le permis de conduire. En fonction de la législation nationale, la conduite peut ne pas nécessiter de permis de conduire automobile obligatoire. Les caractéristiques techniques ne répondent pas au standard européen d'une voiture de tourisme ; en particulier pour les normes de sécurité : absence d'obligation d'ABS, d'airbag, d'ESP, de TPMS ou d'AEB ou de protection contre les chocs. Il s'agit le plus souvent d'un quadricycle à moteur, mais une voiturette peut être aussi un tricycle à moteur ou véhicule à trois roues.<br />
+6. Une voiture hippomobile (parfois appelée simplement hippomobile, parfois désigné avec l'hyperonyme voiture) est un véhicule muni de deux ou quatre roues, dont la traction est assurée par un ou plusieurs chevaux, ou encore par d'autres équidés : poneys, ânes, mules et mulets. On peut ajouter les voitures qui peuvent être tirées par des bovins, ou tout autre animal. La voiture hippomobile est destinée à transporter des personnes ou des marchandises sur des distances plus ou moins longues. La voiture hippomobile existe depuis la Préhistoire et a énormément varié dans sa construction, ses formes et ses fonctions, selon le temps et les lieux.
+</def>
+
+
+
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+
+nt;1;'n_term'
+
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+
+e;6890;'voiture';1;11678
+
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+
+
+// END
+</CODE>
+
+
+</div>
+</div>
+</body>
+</html>

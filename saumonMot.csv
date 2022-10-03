@@ -1,0 +1,2481 @@
+e;eid;'name';type;w;'formated name'
+e;3361;'saumon';1;432
+e;239128;'_COM';36;50
+e;2983124;'_SW';36;50
+e;223173;'_POL-POS';36;50
+e;17117920;':r457340077';10;0
+e;68467;'poisson';1;7106
+e;213387;'saumon>68467';1;68;'saumon>poisson'
+e;241794;'_POL-NEUTRE';36;50
+e;150367;'salmonidé';1;60
+e;264067;'saumon d'élevage';1;8
+e;177298;'saumon fumé';1;38
+e;269614;'rose saumon';1;4
+e;392519;'salmoniforme';1;50
+e;218940;'poisson>17559';1;590;'poisson>animal'
+e;156430;'poisson de rivière';1;78
+e;222542;'poisson gras';1;10
+e;311461;'gravelax de saumon';777;50
+e;269722;'saumon rose';1;50
+e;264621;'oeufs de saumon';1;52
+e;264619;'oeuf de saumon';1;50
+e;191612;'saumon de fontaine';1;50
+e;191294;'requin saumon';1;50
+e;286473;'pêche au saumon';1;50
+e;286472;'darne de saumon';1;74
+e;286468;'pages saumon';1;50
+e;286466;'saumon argenté';1;50
+e;286463;'saumon à l'oseille';1;50
+e;286461;'saumon sauvage';1;54
+e;286459;'pavé de saumon';1;52
+e;286456;'carpaccio de saumon';1;2
+e;284528;'saumon rose à bosse';777;50
+e;264070;'rillettes de saumon';1;50
+e;264056;'saumon frais';1;50
+e;213260;'saumon du Pacifique';1;50
+e;307539;'lactaire couleur de saumon';777;50
+e;249228;'saumon mariné';1;4
+e;222553;'saumon atlantique';1;2
+e;213259;'saumon de l'Atlantique';1;50
+e;207513;'saumon de fonte';1;50
+e;170440;'lactaire couleur saumon';1;50
+e;9461150;':r213729797';10;0
+e;154719;'animal aquatique';1;84
+e;152629;'animal marin';1;244
+e;17159759;':r450041201';10;0
+e;225291;'couleur>17226';1;284;'couleur>teinte'
+e;40056;'couleur';1;5193
+e;9735336;':r24842109';10;0
+e;55823;'métazoaire';1;174
+e;233133;'animal>117095';1;836;'animal>zoologie'
+e;171870;'Nom:';4;50
+e;145583;'rose';1;2789
+e;49154;'rivière';1;3775
+e;325741;'choanobionte';1;76
+e;17559;'animal';1;14019
+e;6947697;'en:salmon';1;0
+e;109533;'pizza';1;602
+e;123418;'ingrédient';1;142
+e;392679;'pou du saumon';1;50
+e;348649;'dé de saumon';1;50
+e;352309;'escalope de saumon';1;50
+e;23335;'fumé';1;150
+e;3762435;'ingrédient de recette de cuisine';1;2
+e;2319712;':r1577330';10;0
+e;365264;'mousse de saumon';1;50
+e;378766;'saumon norvégien';1;54
+e;378767;'saumon écossais';1;50
+e;2319699;':r13983049';10;0
+e;2319697;':r13921469';10;0
+e;7903986;':r125655295';10;0
+e;28453;'bonheur';1;2804
+e;355569;'fumerie de saumon';1;50
+e;329657;'choano-organisme';1;62
+e;325736;'holozoaire';1;60
+e;2319700;':r13885723';10;0
+e;2319698;':r14030266';10;0
+e;2319696;':r13727827';10;0
+e;15014186;'::>66:3361>26:30536';8;0;'saumon [se faire] faire cuire'
+e;14334457;'::>66:3361>24:18699';8;0;'saumon [peut] remonter'
+e;14334460;'::>66:3361>24:14334458';8;0;'saumon [peut] remonter [objet] rivière'
+e;2319695;':r2231514';10;0
+e;325738;'filozoaire';1;84
+e;21031;'saumoné';1;54
+e;114637;'aliment';1;1578
+e;265277;'crâniate';1;58
+e;86754;'thon';1;586
+e;248081;'chordé';1;226
+e;7924172;':r125751032';10;0
+e;317929;'olfactorien';1;40
+e;325731;'opisthoconte';1;76
+e;106404;'ichtyologie';1;128
+e;330964;'cordé>117095';1;36;'cordé>zoologie'
+e;325728;'uniconte';1;42
+e;11334543;':r96691898';10;0
+e;264881;'crânié';1;56
+e;86640;'vertébré';1;904
+e;264880;'bilatérien';1;80
+e;265220;'épineurien';1;20
+e;115304;'deutérostomien';1;114
+e;14330;'satisfaction';1;626
+e;54794;'eucaryote';1;194
+e;213389;'saumon>40056';1;50;'saumon>couleur'
+e;142602;'cordé';1;112
+e;101018;'gnathostome';1;84
+e;264908;'eumétazoaire';1;80
+e;146885;'Nom:Mas+SG';4;50
+e;254876;'_POL-POS_PC';36;50
+e;1483990;'être vivant non humain';1;4
+e;21639;'darne';1;190
+e;2447;'truite';1;424
+e;267642;'organisme animal';1;4
+e;91691;'surprise';1;2394
+e;2769081;'saumon chinook';777;0
+e;130912;'smolt';1;50
+e;15014185;'::>14:3361>29:30536';8;0;'faire cuire [objet] saumon'
+e;30536;'faire cuire';1;180
+e;260820;'entité vivante';1;64
+e;14334458;'::>14:49154>29:18699';8;0;'remonter [objet] rivière'
+e;18699;'remonter';1;1950
+e;3751691;'saumon frais coupé en petits morceaux';1;0
+e;3751946;'tranches de saumon fumé coupées en lanière';1;0
+e;3752471;'saumon fumé coupé en dés';1;0
+e;3752620;'saumon fumé haché';1;0
+e;3754258;'filets de saumon frais d'environ chacun';1;0
+e;3756129;'pavés de saumon coupés en dés';1;0
+e;3756149;'saumon fumé coupé grossièrement';1;0
+e;3756950;'filet ou de darnes de saumon';1;0
+e;3758652;'filets de saumon sans peau';1;0
+e;3758798;'grande boîte de thon saumon ou saumon en cubes';1;0
+e;3759008;'saumon fumé coupé en fines et petites lanières';1;0
+e;3751169;'tranches de saumon cru';1;0
+e;3745323;'flan au saumon et à la ciboulette';1;0
+e;3745392;'millefeuille de mousse de saumon';1;0
+e;3745543;'crudités et ufs mayonnaise au saumon fumé';1;0
+e;3746097;'saumon au citron et à la menthe';1;0
+e;3746151;'tagliatelles au saumon fumé et au brocoli';1;0
+e;3746257;'saumon poché à l'aneth facile';1;0
+e;3746267;'pizza au saumon';1;0
+e;3746282;'quiche au saumon aux oignons et au raifort';1;0
+e;3746395;'verrines de saumon et ufs';1;0
+e;3746690;'pavé de saumon grillé à la poêle';1;0
+e;3745108;'petits choux à la mousse de saumon fumé';1;0
+e;3745089;'roulés de saumon fumé à la crème fraîche';1;0
+e;3744714;'tagliatelles aux tomates et saumon fumé';1;0
+e;3744650;'cake au pesto et au saumon';1;0
+e;3744485;'verrines avocat saumon';1;0
+e;3744079;'cake au saumon fumé';1;0
+e;3744294;'cake au saumon';1;0
+e;3744061;'tagliatelles au saumon fumé';1;0
+e;3744002;'saumon au barbecue au beurre de citron vert pimenté';1;0
+e;3743937;'papillotes de saumon au four';1;0
+e;3743712;'terrine de saumon sauce à l'estragon';1;0
+e;3743686;'carpaccio d'avocat et de saumon crème à la vodka';1;0
+e;3743677;'rillettes de saumon frais';1;0
+e;3360110;'cannellonis de saumon';1;0
+e;3360056;'calin d'aubergine grillée au saumon fumé';1;0
+e;3359655;'briquettes saumon et poireaux';1;0
+e;3372222;'saumon-échalotes';1;0
+e;3362359;'flan de saumon aux poireaux';1;0
+e;3363623;'gratin de saumon fumé';1;0
+e;3364049;'lasagnes saumon fumé épinard';1;0
+e;3364506;'mille-feuilles de saumon';1;0
+e;3365395;'cur de filet de saumon fumé, salade de courgettes crues';1;0
+e;3365802;'lasagne au saumon, aux poireaux et à la mozzarella';1;0
+e;3366243;'papillotes de saumon';1;10
+e;3366247;'papillotes de saumon aux épinards et à la banane';1;0
+e;3366253;'papillotes fraîches de saumon au crabe';1;0
+e;3366622;'pavé de saumon frais en papillotte';1;0
+e;3366632;'pavés de saumon à la fondue de poireaux et graines d'anis';1;0
+e;3366640;'pavés de saumon en croûte parmentière';1;0
+e;3368138;'raviolis maison au saumon et champignons';1;0
+e;3368530;'roulade de saumon mi-figue mi-raisin';1;0
+e;3368573;'roulés au saumon';1;0
+e;3368698;'salade chaud-froid au saumon mariné';1;0
+e;3368860;'salade de lentilles au saumon';1;0
+e;3369001;'salade de saumon sauce vodka';1;0
+e;3369267;'saumon à l'alsacienne';1;0
+e;3369271;'saumon asiatique';1;0
+e;3369285;'saumon au miel et à l'estragon';1;0
+e;3369294;'saumon avec crevettes sauce soja';1;0
+e;3369295;'saumon chavignol';1;0
+e;3369303;'saumon entier farci aux fruits de mer';1;0
+e;3369305;'saumon et pétoncles sur lit d'épinards';1;0
+e;3369318;'saumon parmesan laurier';1;0
+e;3369325;'saumon sur lit d'oignons';1;0
+e;3369933;'steack de saumon rapide';1;0
+e;3370142;'tajine de saumon';1;0
+e;3370176;'tartare de saumon à la thaï';1;0
+e;3370513;'tarte aux endives et saumon frais';1;0
+e;3371018;'tarte saumon et épinards';1;0
+e;3371027;'tarte soufflée au saumon';1;0
+e;3371173;'tatin de saumon et légumes du soleil';1;0
+e;3371301;'terrine de saumon au homard';1;0
+e;3371307;'terrine de saumon';1;0
+e;3371871;'velouté de chou fleur à la moutarde et ses canapés de saumon fumé';1;0
+e;3372037;'verrines avocat saumon tomates';1;0
+e;3359171;'ballottines de saumon fumé au cabillaud';1;0
+e;3358987;'aiguillettes de saumon au gingembre';1;0
+e;3318834;'blanquette de saumon aux moules';1;0
+e;2934411;'gravlax de saumon';1;0
+e;2359490;'saumon quinat';1;0
+e;2324888;'tartare de saumon mariné';1;0
+e;36886;'faune';1;2225
+e;3752689;'saumon fumé coupé en morceaux';1;0
+e;3754845;'filets de saumon de chacun';1;0
+e;3755152;'saumon fumé coupé en morceaux ou en lanières';1;0
+e;3756449;'saumon fumé découpé en petits morceaux';1;0
+e;3756514;'grandes tranches de saumon fumé';1;0
+e;3756652;'saumon fumé coupé en fins rubans';1;0
+e;3757494;'pavés de saumon sans la peau';1;0
+e;3751063;'tranches de saumon fumé découpée en morceaux';1;0
+e;3746621;'saumon et tagliatelles à la crème';1;0
+e;3745256;'oeufs cocotte au saumon fumé';1;0
+e;3745074;'gratin d'endives au saumon';1;0
+e;3744870;'saumon mariné au barbecue';1;0
+e;3744439;'lasagnes au saumon fumé';1;0
+e;3743950;'cuillères d'Isa au saumon fumé avec sauce raifort';1;0
+e;3743831;'spaghetti crémeux au saumon';1;0
+e;3361581;'darnes de saumon colombo';1;0
+e;3360519;'cigares de saumon fumé aux crevettes et raifort';1;0
+e;3360357;'charlottes de pomme de terre au saumon fumé';1;0
+e;3360097;'cannelloni à la brousse et saumon fumé';1;0
+e;3359895;'cake au saumon fumé et à la ciboulette';1;0
+e;3361911;'escalopes de saumon au saint-moret';1;0
+e;3363621;'gratin de saumon et poireaux';1;0
+e;3364493;'mille feuilles aubergines - saumon';1;0
+e;3364752;'mousse de saumon en terrine';1;0
+e;3365361;'chicon, endive sauce au saumon fumé';1;0
+e;3365805;'lasagnes au saumon, courgettes et mascarpone';1;0
+e;3366054;'pain de poisson, lieu jaune et saumon';1;0
+e;3366214;'papillote de saumon sauce crevettes-ciboulette';1;0
+e;3366399;'pâté de saumon au paprika';1;0
+e;3366638;'pavés de saumon aux épinards et au boursin, ultra simple';1;0
+e;3366746;'petit rouleau de pâte au saumon';1;0
+e;3367160;'pommes au four au saumon';1;0
+e;3368176;'rillettes de saumon au cognac';1;0
+e;3368388;'rosace pamplemousse et saumon fumé';1;0
+e;3368552;'rouleaux de printemps au saumon';1;0
+e;3368567;'roulé de saumon aux 3 fromages';1;0
+e;3369266;'saumon à la crème d'oseille';1;0
+e;3369269;'saumon à l'aneth et son gratin';1;0
+e;3369301;'saumon en feuille de brick';1;0
+e;3369308;'saumon fumé sur galettes de pommes de terre';1;0
+e;3369313;'saumon mi-cuit à l'aneth et à l'huile de pistache';1;0
+e;3369322;'saumon simplement authentique';1;0
+e;3370310;'tarte aubergines, saumon, chèvre';1;0
+e;3370423;'tarte au saumon en gelée';1;0
+e;3370431;'tarte au saumon fumé, feta et chicons';1;0
+e;3370860;'tarte kiwi saumon';1;0
+e;3371125;'tartines au saumon fondant';1;0
+e;3371268;'terrine de poisson et saumon fumé';1;0
+e;3371302;'terrine de saumon au riz';1;0
+e;3371303;'terrine de saumon aux asperges';1;0
+e;3371309;'terrine de saumon fumé aux asperges vertes et son coulis rouge';1;0
+e;3371613;'tourte au saumon, thon et poireaux';1;0
+e;3372005;'verrine fraîcheur au saumon';1;0
+e;3359220;'bâtonnets de saumon panés';1;0
+e;3359080;'aubergine farçie au saumon';1;0
+e;3359103;'aubergines farcies au saumon fumé';1;0
+e;3359024;'ananas farci au saumon';1;0
+e;3318642;'roulé au saumon';1;0
+e;3318855;'saumon poêlé à la vanille';1;0
+e;3318592;'verrine coquillettes, avocat, saumon fumé';1;0
+e;142917;'dés';1;1426
+e;1764250;'saumon des dieux';777;0
+e;437445;'saumon égoutté';1;50
+e;225847;'organisme>71624';1;98;'organisme>être vivant'
+e;217817;'_INFO-POLYSEMIC';36;50
+e;146891;'Adj:InvGen+SG:InvGen+PL';4;50
+e;3751981;'filets ou steaks de saumon';1;0
+e;3753213;'filet de saumon sans la peau';1;0
+e;3753668;'saumon en morceaux';1;0
+e;3754403;'saumon coupé en petits morceaux';1;0
+e;3755041;'tranches de saumon fumé d'Écosse';1;0
+e;3755046;'saumon en conserve égoutté';1;0
+e;3755375;'filets de saumon coupés en dés';1;0
+e;3755477;'filets de saumon de chacun sans la peau';1;0
+e;3755689;'saumon frais coupé en fines lamelles';1;0
+e;3755825;'petite tranche de saumon fumé coupée en lanières';1;0
+e;3757545;'tranches de saumon fumé coupé en lanières';1;0
+e;3757780;'saumon cuit';1;0
+e;3751137;'saumon frais sans peau ni arête';1;0
+e;3746135;'saumon minute à la marmelade d'orange';1;0
+e;3746363;'tagliatelles au saumon fumé et aux asperges';1;0
+e;3746385;'verrine saumon fumé et avocat';1;0
+e;3746531;'pavés de saumon à la sauce hollandaise';1;0
+e;3745062;'quiche saumon et figues';1;0
+e;3745065;'saumon en papillote à l'aneth';1;0
+e;3744953;'cuillères de saumon au gingembre';1;0
+e;3745064;'pavés de saumon à l'aigre-douce';1;0
+e;3745007;'sushi au saumon fumé';1;0
+e;3745019;'tian méditerranéen au saumon';1;0
+e;3744843;'chowder de saumon';1;0
+e;3744717;'tagliatelles au saumon fumé et au champagne';1;0
+e;3744737;'lasagnes au saumon fumé et à la crème fraiche';1;0
+e;3743986;'tartare de saumon frais au citron vert';1;0
+e;3743839;'pierrade de saumon';1;0
+e;3362049;'feuilleté de saumon à la grecque';1;0
+e;3362050;'feuilleté de saumon cru au poireau';1;0
+e;3360302;'charlotte à tomber saumon asperge';1;0
+e;3359943;'cake aux olives et au saumon';1;0
+e;3372364;'saumon-crevette';1;0
+e;3362360;'flan de saumon fumé';1;0
+e;3362361;'flan de saumon sauce aux épinards';1;0
+e;3363016;'gâteau de saumon fumé à la brousse';1;0
+e;3363326;'gnocchis au saumon fumée et épinard';1;0
+e;3363433;'gratin de courgettes au saumon fumé';1;0
+e;3363615;'gratin de riz et saumon';1;0
+e;3363622;'gratin de saumon fumé au fromage de chèvre';1;0
+e;3364050;'lasagnes saumon poireaux mascarpone';1;0
+e;3364328;'makis chèvre-tomates séchées / saumon fumé-concombre';1;0
+e;3365544;'faux risotto saumon, thon, fenouil express';1;0
+e;3366472;'pâtes au saumon fumé et chicons à la crème';1;0
+e;3366473;'pâtes au saumon fumé et oeufs de lompe';1;0
+e;3366614;'pavé de saumon à l'orientale';1;0
+e;3366617;'pavé de saumon aux asperges';1;0
+e;3367904;'quiche au saumon et au cantal';1;0
+e;3367931;'quiche aux épinards, chèvre et saumon';1;0
+e;3368021;'quiche saumon crevette';1;0
+e;3368665;'salade au fromage frais et au saumon fumé agrémenté de noix';1;0
+e;3368907;'salade de pâtes aux bulots et saumon fumé';1;0
+e;3369010;'salade d'été au saumon fumé, feta, pommes et carottes';1;0
+e;3369278;'saumon au four à la méditerranéenne';1;0
+e;3369309;'saumon laqué, coriandre et sésame';1;0
+e;3369312;'saumon mariné au miel';1;0
+e;3369314;'saumon mi cuit sur fondue de poireaux- échalotes';1;0
+e;3370407;'tarte au pesto et saumon fumé';1;0
+e;3370518;'tarte aux épinards, poireaux et saumon fumé';1;0
+e;3370605;'tarte aux poireaux, saumon fumé et chèvre';1;0
+e;3371013;'tarte salée saumon courgettes mascarpone';1;0
+e;3372003;'verrine de saumon fumé, concassée de tomate et fromage blanc';1;0
+e;2425918;'saumon de Sibérie';1;0
+e;460883;'saumon bossu';777;50
+e;234036;'être vivant>123933';1;258;'être vivant>entité'
+e;3752372;'filets de saumon de environ';1;0
+e;3752943;'tranches de saumon fumé détaillées en lanières';1;0
+e;3753312;'filet de saumon frais';1;0
+e;3754094;'tranches de saumon fumé coupées en morceaux';1;0
+e;3754659;'saumon entier';1;0
+e;3755856;'filets de saumon de chacun sans arête et très frais';1;0
+e;3756148;'saumon entier sans l'arête centrale';1;0
+e;3758740;'pavés de saumon sans peau';1;0
+e;3745449;'saumon poché au vin blanc';1;0
+e;3745696;'cake au saumon et à la courgette';1;2
+e;3745869;'terrine de saumon aux petits pois';1;0
+e;3746213;'salade de pâtes surimi et saumon';1;0
+e;3746771;'tarte saumon et aux poireaux';1;0
+e;3746846;'tiramisu de saumon fumé et à l'avocat';1;0
+e;3745369;'filets de saumon au vinaigre balsamique';1;0
+e;3745271;'papillotes de saumon teriyaki';1;0
+e;3744995;'lasagnes au saumon et aux épinards';1;0
+e;3744193;'frittata au saumon fumé';1;0
+e;3743683;'tarte épicée croustillante au saumon';1;0
+e;3361725;'duo de saumon et d'endive en robe d'été';1;0
+e;3361580;'darnes de saumon au vin blanc';1;0
+e;3361651;'délicieux cornets de saumon à l'avocat';1;0
+e;3361643;'délicieuses timbales de saumon aux herbes';1;0
+e;3361319;'croquettes rapides au saumon';1;0
+e;3361123;'crêpe aux miettes de saumon';1;0
+e;3359699;'brochettes de saumon et de thon japonaises';1;0
+e;3359569;'brick au saumon';1;0
+e;3361292;'croque-monsieur léger au saumon';1;0
+e;3364045;'lasagnes rapides saumon et courgettes';1;0
+e;3364723;'mousse d'avocat au citron et saumon fumé';1;0
+e;3364724;'mousse d'avocats au saumon fumé';1;0
+e;3364729;'mousse de concombre en habit de saumon';1;0
+e;3365256;'bricks au saumon fumé, pomme de terre et petits oignons caramélisés';1;0
+e;3360176;'carpaccio de saumon à la pomme';1;0
+e;3365552;'feuilleté de saumon et de poireau, sauce aux crevettes';1;0
+e;3365739;'gratins de saumon, courgette et chèvre';1;0
+e;3365808;'lasagnes ravioles, saumon et épinards';1;0
+e;3366047;'pain de poisson au saumon et surimi';1;0
+e;3366245;'papillotes de saumon aux clémentines';1;0
+e;3366248;'papillotes de saumon aux petits légumes';1;0
+e;3366623;'pavé de saumon sauce chocolat blanc';1;0
+e;3366635;'pavés de saumon au pistou';1;0
+e;3366637;'pavés de saumon aux agrumes et grand marnier';1;0
+e;3366645;'pavés de saumon sauce soja';1;0
+e;3366668;'penne au saumon fumé et à la crème fraiche';1;0
+e;3367018;'poêlée de pomme de terres au saumon fumé et au citron';1;0
+e;3367862;'quiche à la choucroute et au saumon fumé';1;0
+e;3368812;'salade de farfalles au saumon';1;0
+e;3369000;'salade de saumon et colin cru au citron';1;0
+e;3369091;'salade légère saumon crevettes';1;0
+e;3369179;'salade wafu au saumon';1;0
+e;3369270;'saumon à la sauce soja et purée de patate douce';1;0
+e;3369286;'saumon au miel et au soja';1;0
+e;3369290;'saumon aux épinards et crème fraîche';1;0
+e;3369316;'saumon pané sauce au chèvre';1;0
+e;3369881;'spaghetti au saumon';1;0
+e;3369896;'spaghetti de concombres au saumon et aux écrevisses';1;0
+e;3369898;'spaghettini au saumon fumé et truffe';1;0
+e;3370047;'tagliatelles au saumon et à la coriandre';1;0
+e;3370178;'tartare de saumon au gingembre';1;0
+e;3370429;'tarte au saumon fumé-et-aux-poireaux';1;0
+e;3371021;'tarte saumon surimi';1;0
+e;3371101;'tartinade de saumon fumé';1;0
+e;3371207;'terrine de brochet et saumon';1;0
+e;3371267;'terrine de poisson blanc et saumon fumé';1;0
+e;3371306;'terrine de saumon et ricotta';1;0
+e;3371669;'tourte de saumon aux endives';1;0
+e;3371681;'tourte gourmande au saumon et petits légumes';1;0
+e;3359375;'blanquette de saumon';1;0
+e;3318595;'ravioles de saumon à l'aneth';1;0
+e;3318525;'spaghettis au saumon fumé';1;0
+e;3223089;'escalope de saumon à l'oseille';1;0
+e;2491227;'saumon à bosse';1;0
+e;2324892;'saumon mariné au citron';1;0
+e;136754;'tranches';1;80
+e;24979;'miettes';1;98
+e;1906688;'tartare de loup et saumon';1;0
+e;465057;'saumon chien';777;50
+e;460510;'saumon rose>171870';1;50;'saumon rose>Nom:'
+e;436823;'caviar de saumon';1;50
+e;15229;'aéronautique';1;3021
+e;3754787;'filets de saumon sans la peau';1;0
+e;3756065;'filet de saumon frais sans peau et coupé en dés';1;0
+e;3758560;'saumon au naturel égoutté et émietté';1;0
+e;3759108;'tranches de saumon fumé découpées en morceaux';1;0
+e;3751246;'tranches de saumon fumé sauvage';1;0
+e;3745717;'petites pizzas au saumon fumé';1;0
+e;3745957;'salade verte au saumon fumé';1;0
+e;3746426;'chouquettes au saumon fumé et à l'aneth';1;0
+e;3746862;'salade verte au saumon fumé et aux ufs de caille';1;0
+e;3745434;'saumon Gravlax';1;0
+e;3745114;'petites tartines au saumon fumé et concombre';1;0
+e;3745006;'samoussas au saumon et aux poireaux';1;0
+e;3744574;'gondoles d'endives au saumon fumé';1;0
+e;3744545;'tarte au saumon sans pâte';1;0
+e;3744344;'tarte aux épinards et au saumon';1;0
+e;3744078;'saumon poché à la sauce hollandaise';1;0
+e;3743709;'bouchées au saumon fumé avocat et pamplemousse';1;0
+e;3360224;'cassolettes aux saumon et cabillaud';1;0
+e;3359597;'bricks au saumon et au chou-fleur';1;0
+e;3362567;'fricassée de saumon et de turbot';1;0
+e;3363862;'koulibiac de saumon et épinards';1;0
+e;3363863;'koulibiac de saumon';1;0
+e;3364521;'mini bouchées au saumon';1;0
+e;3364754;'mousse de saumon fumé aux oeufs de saumon';1;0
+e;3364757;'mousse de thon et saumon';1;0
+e;3359582;'brick de saumon mozzarella tomate';1;0
+e;3365975;'paëlla au saumon, poulet et fruits de mer';1;0
+e;3366061;'pain de saumon aux crevettes';1;0
+e;3366164;'panequets de saumon fumé au fenouil';1;0
+e;3366215;'papillote de saumon super fondant aux poireaux';1;0
+e;3366470;'pâtes au saumon express';1;0
+e;3366615;'pavé de saumon au chèvre chaud et miel en papillote';1;0
+e;3366822;'petits muffins au saumon';1;0
+e;3366857;'petits soufflés au saumon';1;0
+e;3366939;'pizza au saumon, champignons et mozzarella';1;0
+e;3366940;'pizza au saumon fumé';1;0
+e;3367903;'quiche au saumon, à l'oseille et aux tomates';1;0
+e;3368533;'roulades de chicons au saumon et à la mozzarella';1;0
+e;3368659;'salade aromatique au saumon';1;0
+e;3368898;'salade de pâte pomme - concombre - saumon';1;0
+e;3368996;'salade de saint-jacques au saumon fumé et à la sauce cognac';1;0
+e;3369068;'salade fraîche de saumon à l'orange';1;0
+e;3369273;'saumon au beurre de saumon fumé et sa sauce au citron vert';1;0
+e;3369280;'saumon au four au champagne';1;0
+e;3369299;'saumon émietté et saint-jacques';1;0
+e;3369300;'saumon en croûte d'épices et sa crème miellée';1;0
+e;3369304;'saumon et panais express';1;0
+e;3369315;'saumon pané aux cacahuètes et sa sauce curry';1;0
+e;3370179;'tartare de saumon aux asperges';1;0
+e;3370191;'tartare saumon fumé et truite';1;0
+e;3371020;'tarte saumon légumes';1;0
+e;3371612;'tourte au saumon frais et au riz';1;0
+e;3372002;'verrine de saumon';1;0
+e;3359166;'ballotin de saumon fumé à l'avocat et aux herbes';1;0
+e;3318599;'chicon, endive, sauce au saumon fumé';1;0
+e;3318469;'verrine avocat, mangue, saumon';1;0
+e;2604130;'saumon d'Europe';1;0
+e;2324891;'tartare de saumon mariné au citron';1;0
+e;1973298;'tartare de saumon';1;0
+e;65081;'organisme vivant';1;146
+e;25658;'lingot';1;198
+e;3751559;'tranches de saumon fumé coupé en morceaux';1;0
+e;3751743;'filets de saumon frais';1;0
+e;3752502;'saumon frais sans peau coupé en gros dés';1;0
+e;3752858;'saumon fumé coupé en lamelles';1;0
+e;3755902;'belles darnes de saumon';1;0
+e;3758545;'saumon frais sans peau et sans arête';1;0
+e;3758959;'saumon frais sans peau';1;0
+e;3745467;'darnes de saumon à la poêle';1;0
+e;3745566;'saumon frais farci';1;0
+e;3745583;'duo d'avocat et de saumon fumé';1;0
+e;3745684;'saumon à l'aneth au four';1;0
+e;3745864;'risotto de quinoa aux asperges et au saumon fumé';1;0
+e;3746005;'salade de pennes au saumon fumé';1;0
+e;3746034;'blinis au sarrasin et saumon fumé';1;0
+e;3746139;'papillotes de saumon aux poireaux';1;0
+e;3746630;'saumon au four et légumes d'hiver';1;0
+e;3746814;'mini cakes au saumon fumé et à l'aneth';1;0
+e;3746863;'verrines au cottage cheese et saumon fumé';1;0
+e;3745203;'lasagnes au saumon fumé et à la tomate';1;0
+e;3745205;'saumon cru mariné au citron et à l'aneth';1;0
+e;3745240;'aumônières de saumon aux épinards';1;0
+e;3744782;'filets de saumon au four';1;0
+e;3744365;'cake au saumon et aux poireaux';1;0
+e;3744232;'saumon aux haricots verts et aux graines de lin';1;0
+e;3744149;'frittata gratinée au brocoli et au saumon';1;0
+e;3744258;'salade de concombre et saumon fumé à l'asiatique';1;0
+e;3743850;'saumon sauce au chocolat blanc';1;0
+e;3743794;'verrines de lentilles au saumon fumé';1;0
+e;3743749;'quiche légère au saumon';1;0
+e;3362081;'feuilletés saumon fumé et julienne';1;0
+e;3361809;'entrée de saumon frais et de saumon fumé';1;0
+e;3361583;'darnes de saumon façon mamie brelier';1;0
+e;3360957;'couronne de saumon fumé';1;0
+e;3360220;'cassolette de saumon à l'érable';1;0
+e;3359977;'cake de brocolis au saumon fumé';1;0
+e;3362306;'flan au saumon et à la courgette';1;0
+e;3363619;'gratin de saumon aux milles saveurs';1;0
+e;3363624;'gratin de saumon / pommes de terre';1;0
+e;3365810;'tarte soleil aux courgettes, tomates et saumon';1;0
+e;3366244;'papillotes de saumon au gingembre';1;0
+e;3366257;'papillote de saumon du soleil';1;0
+e;3366258;'papillotes de saumon aux fruits de mer et aux légumes';1;0
+e;3366294;'parmentier de poisson, truite et saumon fumé';1;0
+e;3366471;'pâtes au saumon fumé';1;0
+e;3366618;'pavé de saumon, coriandre et moutarde';1;0
+e;3366621;'pavé de saumon en papillotte au nolly pratt';1;0
+e;3366633;'pavés de saumon à l'orange et aux amandes';1;0
+e;3366636;'pavés de saumon au thé vert';1;0
+e;3367902;'quiche au saumon à l'oseille';1;0
+e;3368647;'saint-jacques sur son lit de saumon aux champignons';1;0
+e;3369268;'saumon à l'aneth et au citron';1;0
+e;3369274;'saumon au caramel epicé';1;0
+e;3369281;'saumon au four facile et léger';1;0
+e;3369291;'saumon aux poireaux';1;0
+e;3369293;'saumon aux trois poivrons';1;0
+e;3369297;'saumon croustillant au pamplemousse et sa fondue de poireaux';1;0
+e;3369307;'saumon fumé à l'aneth';1;0
+e;3369320;'saumon poêlé et sa sauce citronnée à l'aneth';1;0
+e;3369323;'saumon sur filets exotiques et baies sauvages nordiques';1;0
+e;3369324;'saumon sur lit de tomates-poivrons';1;0
+e;3370000;'sushi rouget, maquereaux, thon, saumon';1;0
+e;3370026;'tagliatelles à la mousse de saumon fumé';1;0
+e;3370177;'tartare de saumon au chèvre pimenté';1;0
+e;3370181;'tartare de saumon frais et fumé, variante';1;0
+e;3370430;'tarte au saumon fumé et cébette';1;0
+e;3371304;'terrine de saumon aux blancs de poireaux';1;0
+e;3371609;'tourte au saumon et au thon';1;0
+e;3371687;'tourte moelleuse au saumon et champignons';1;0
+e;3359169;'ballotins de saumon fumé aux oeufs mollets';1;0
+e;3359010;'amour de saumon en papillote';1;0
+e;3359069;'assiette de saumon aux blinis';1;0
+e;3318867;'salade Wafu au saumon';1;0
+e;2492103;'saumon rose du Pacifique';1;0
+e;2319694;':r10932012';10;0
+e;465056;'saumon kéta';777;50
+e;16033;'cuisine';1;11756
+e;223048;'darne>143123';1;86;'darne>tranche'
+e;20965;'nourriture';1;3820
+e;3752013;'tranches de saumon fumé';1;0
+e;3752042;'filet de saumon frais cru sur la peau';1;0
+e;3752145;'saumon fumé coupé en petits morceaux';1;0
+e;3753024;'saumon en boîte non égoutté';1;0
+e;3753927;'saumon frais cuit';1;0
+e;3754564;'tranches de saumon gravlax coupées en lanières';1;0
+e;3755435;'tranche de saumon fumé';1;0
+e;3755939;'darnes de saumon frais';1;0
+e;3756431;'filet de saumon d'kg';1;0
+e;3756512;'saumon gravlax';1;0
+e;3756523;'saumon fumé coupé finement';1;0
+e;3757249;'pavé de saumon frais';1;0
+e;3757897;'saumon coupé en tranches fines';1;0
+e;3759335;'Pierrade de saumon';1;0
+e;3745667;'quiche saumon fumé';1;0
+e;3745729;'saumon fumé et concombre au vinaigre';1;0
+e;3746146;'saumon et coriandre au barbecue';1;0
+e;3746796;'tarte au saumon à la sauge et au comté';1;0
+e;3745105;'blinis et saumon fumé à l'aneth';1;0
+e;3744973;'muffins salés à la crème de saumon fumé';1;0
+e;3744510;'petits choux au tartare de saumon fumé';1;0
+e;3744159;'saumon en papillote';1;22
+e;3743959;'saumon mariné au sel et au sucre';1;0
+e;3743657;'salade au saumon fumé dans son avocat';1;0
+e;3743651;'saumon au barbecue a la plancha';1;0
+e;3362034;'feuilleté au saumon en julienne';1;0
+e;3361803;'endives surprises au saumon fumé et crevettes';1;0
+e;3361786;'endives à l'avocat et au saumon';1;0
+e;3361577;'darne de saumon en papillotte';1;0
+e;3361584;'darnes de saumon sauce citron et échalotes';1;0
+e;3360940;'courgettes rondes et tomates au saumon fumé';1;0
+e;3360922;'courgettes farcies au saumon';1;0
+e;3360190;'carré frais et son melon au saumon fumé';1;0
+e;3359570;'brick au saumon fumé et poireaux';1;0
+e;3363395;'gratin de brocolis au saumon';1;0
+e;3363520;'gratin de pâtes au saumon fumé';1;0
+e;3363724;'hamburger au saumon de ludovic';1;0
+e;3364048;'lasagnes saumon brocolis légères';1;0
+e;3364874;'nage de saumon au fenouil';1;0
+e;3364981;'oeuf au saumon';1;0
+e;3365045;'oeufs durs farcis au saumon fumé';1;0
+e;3365765;'involtini, roulés crevettes saumon fumé et courgettes';1;0
+e;3366060;'pain de saumon';1;0
+e;3366090;'pain perdu au saumon fumé';1;0
+e;3366209;'papillote de saumon au boursin et légumes';1;0
+e;3366210;'papillote de saumon au curry';1;0
+e;3366400;'pâté de saumon et courgettes';1;0
+e;3366469;'pâtes au saumon au miel et à l'amaretto';1;0
+e;3366497;'pâtes aux endives et au saumon';1;0
+e;3366716;'petite marmite de saumon';1;0
+e;3366717;'petite mousse de saumon d'ecosse';1;0
+e;3367905;'quiche au saumon et champignons';1;0
+e;3368175;'rillettes de saumon au chablis';1;0
+e;3368861;'salade de lentilles au saumon fumé';1;0
+e;3369142;'salade saumon / mâche';1;0
+e;3369265;'saumon à la crème d'aneth et d'agrumes';1;0
+e;3369275;'saumon au champagne';1;0
+e;3369292;'saumon aux pommes de terre de ma marraine';1;0
+e;3369306;'saumon façon daube';1;0
+e;3370053;'tagliatelles aux dés de saumon';1;0
+e;3370084;'tagliatelles tomatées au saumon fumé';1;0
+e;3370143;'tajine de saumon flambé à l'armagnac';1;0
+e;3370180;'tartare de saumon et lotte';1;0
+e;3370182;'tartare de saumon sur lit d'aubergines';1;0
+e;3370425;'tarte au saumon et aux poireaux';1;0
+e;3370478;'tarte aux brocolis, au saumon fumé et à la ricotta';1;0
+e;3370758;'tarte crémeuse saumon brocolis poireaux';1;0
+e;3370776;'tarte de courgettes au saumon';1;0
+e;3371198;'terrine bicolore épinard saumon';1;0
+e;3371299;'terrine de saint-jacques et saumon';1;0
+e;3371308;'terrine de saumon façon scandinave';1;0
+e;3371705;'tourte tricolore au saumon laqué, épinards et abricots';1;0
+e;3359143;'avocats au saumon fumé';1;0
+e;3318742;'oeufs cocotte au saumon fumé gratinés';1;0
+e;3318442;'brochettes de saumon et truite fumée';1;0
+e;2536685;'saumon quinnat';1;0
+e;1906695;'tarte au saumon et aux épinards';1;0
+e;437034;'filet de saumon';1;50
+e;71624;'être vivant';1;1888
+e;105441;'pavé';1;470
+e;3753114;'saumon fumé en tranches fines';1;0
+e;3753388;'saumon fumé finement haché';1;0
+e;3754333;'tranches de saumon fumé coupé en fines et petites lanières';1;0
+e;3754674;'tranche de saumon fumé coupée en dés';1;0
+e;3754811;'pavés de saumon frais ou surgelés';1;0
+e;3756338;'saumon fumé en dés';1;0
+e;3757774;'saumon fumé émietté';1;0
+e;3745529;'quiche saumon poireaux';1;0
+e;3745641;'soupe de lentilles au saumon fumé';1;0
+e;3745673;'saumon poêlé aux câpres';1;0
+e;3745745;'quiche au saumon fumé';1;0
+e;3745948;'tarte feuilletée au saumon fumé';1;0
+e;3746029;'saumon frais en papillote';1;0
+e;3746281;'avocats mousse de saumon fumé';1;0
+e;3746537;'mousse de saumon fumé au citron vert';1;0
+e;3746638;'petites bouchées aux oeufs de saumon';1;0
+e;3746847;'crumble de saumon à la noix de coco';1;0
+e;3746878;'tarte au saumon fumé et aux pointes d'asperges';1;0
+e;3745263;'saumon à l'ail et à l'aneth';1;0
+e;3744817;'cake saumon fumé citron et chèvre';1;0
+e;3744929;'lasagnes au saumon fumé et whisky';1;0
+e;3744331;'bouchées au saumon fumé';1;0
+e;3744178;'soupe de pommes de terre au saumon fumé';1;0
+e;3744152;'salade de pâtes au concombre et au saumon fumé';1;0
+e;3361462;'crumble saumon aubergine chèvre';1;0
+e;3361463;'crumble saumon champignons';1;0
+e;3361354;'croustilles de saumon';1;0
+e;3361759;'émincé de saumon au cidre et au safran';1;0
+e;3359754;'bûche au saumon fumé';1;0
+e;3372192;'saumon-pomme';1;0
+e;3364481;'millefeuille brioché au saumon';1;0
+e;3364913;'nems de saumon sauce mangue';1;0
+e;3365090;'omelette au saumon et au chèvre d'alex';1;0
+e;3365289;'cake au saumon, fromage et herbes';1;0
+e;3365804;'lasagnes au saumon, chèvre et épinards';1;0
+e;3365963;'oeufs mimosa au saumon : c'est bon !';1;0
+e;3366189;'papillote de daurade et saumon, mirepoix de légumes';1;0
+e;3366207;'papillote de saumon à la mozzarella';1;0
+e;3366208;'papillote de saumon au boursin';1;0
+e;3366211;'papillote de saumon aux épices douces';1;0
+e;3366620;'pavé de saumon en croûte d'herbes, sauce raifort';1;0
+e;3366634;'pavés de saumon au curry';1;0
+e;3366642;'pavés de saumon grillés sauce aux épinards';1;0
+e;3366643;'pavés de saumon sauce crevettes';1;0
+e;3367911;'quiche aux asperges et au saumon';1;0
+e;3368542;'roulé au saumon et épinards';1;0
+e;3369138;'salade russe au saumon';1;0
+e;3369272;'saumon au basilic et courgettes';1;0
+e;3369277;'saumon au curry et épinards... au micro-ondes!';1;0
+e;3369283;'saumon au four, tomates et courgettes';1;0
+e;3369310;'saumon mariné à l'aneth';1;0
+e;3369311;'saumon mariné à l'indienne';1;0
+e;3369592;'soupe au saumon, salmon chowder';1;0
+e;3369993;'suprême de saumon à la tomate';1;0
+e;3371019;'tarte saumon frais et asperges';1;0
+e;3371607;'tourte au saumon';1;0
+e;3372059;'verrines de saumon frais et au lait de coco';1;0
+e;3372060;'verrines de saumon fumé au mascarpone';1;0
+e;3359070;'assiette de saumon fumée à l'oeuf';1;0
+e;3318419;'verrines lentilles, saumon, chèvre';1;0
+e;2499664;'saumon royal';1;0
+e;143123;'tranche';1;618
+e;460511;'saumon rose>171869';1;50;'saumon rose>Adj:'
+e;437037;'filets de saumon';1;50
+e;437446;'saumon et lotte';1;50
+e;65012;'eau';1;11222
+e;231316;'rivière>137865';1;124;'rivière>cours d'eau'
+e;74082;'nageoire';1;316
+e;215897;'aile>97756';1;22;'aile>avion'
+e;13065;'salmonidés';1;60
+e;3751867;'boîtes de saumon';1;0
+e;3752121;'filet de saumon surgelé décongelé';1;0
+e;3754469;'filet de saumon de environ avec la peau';1;0
+e;3755600;'petites tranches de saumon fumé';1;0
+e;3756128;'belles tranches de saumon fumé coupées en dés';1;0
+e;3757757;'tranches de saumon';1;0
+e;3758171;'saumon très frais';1;0
+e;3758175;'tranches de saumon fumé déchirées en petits morceaux';1;0
+e;3759057;'saumon en filets';1;0
+e;3759444;'saumon mariné à l'aneth (gravlax)';1;0
+e;3751404;'boîte de saumon';1;0
+e;3746225;'pâte à tartiner de saumon fumé';1;0
+e;3746579;'saumon grillé sauce soja et gingembre';1;0
+e;3746843;'saumon au four pané aux noix de Pecan';1;0
+e;3745364;'salade de pâtes au tartare de saumon';1;0
+e;3744597;'curry de saumon au chutney de fruit';1;0
+e;3361704;'dôme de saumon';1;0
+e;3360914;'courgettes farcies au boulgour et saumon';1;0
+e;3360689;'concombre au saumon fumé';1;0
+e;3360478;'choucroute au saumon à la purée d'ail';1;0
+e;3359712;'brouillade d'oeuf au saumon fumé';1;0
+e;3362048;'feuilleté de saint-jacques au saumon';1;0
+e;3362305;'flan au saumon et à la bisque de homard';1;0
+e;3362327;'flan aux poivrons et au saumon';1;0
+e;3362345;'flan de courgettes au saumon frais';1;0
+e;3363406;'gratin de chicons au saumon fumé';1;0
+e;3363861;'koulibiac au saumon';1;0
+e;3364047;'lasagnes saumon asperges et chèvre';1;0
+e;3364494;'mille feuilles au saumon fumé';1;0
+e;3364507;'millefeuilles de saumon';1;0
+e;3364508;'mille-feuilles de saumon fumé sur lit de crabe';1;0
+e;3364753;'mousse de saumon frais cuit au court-bouillon';1;0
+e;3364986;'oeuf cocotte au saumon fumé et tombée de poireaux poivrée';1;0
+e;3365513;'dôme de carré frais au saumon fumé, poireaux et poivrons grillés';1;0
+e;3366213;'papillote de saumon et sa compotée de petits légumes';1;0
+e;3366246;'papillotes de saumon aux courgettes';1;0
+e;3366530;'pâtes farcies au saumon';1;0
+e;3366616;'pavé de saumon aux amandes déglacé à la bière';1;0
+e;3366641;'pavés de saumon forestiers';1;0
+e;3366942;'pizza aux courgettes, saumon et crevettes';1;0
+e;3367906;'quiche au saumon frais et à la courgette';1;0
+e;3368001;'quiche mascarpone au saumon fumé';1;0
+e;3368020;'quiche saumon champignons';1;0
+e;3368022;'quiche saumon féta';1;0
+e;3368023;'quiche saumon, feta, tomates cerises et olives noires';1;0
+e;3368586;'roulés de saumon au thon';1;0
+e;3368587;'roulés de saumon fumé, avocat et pomme';1;0
+e;3368906;'salade de pâtes au saumon fumé tout simplement';1;0
+e;3368957;'salade de pommes de terre au saumon fumé';1;0
+e;3369302;'saumon entier au court bouillon aromatique';1;0
+e;3369317;'saumon papillote sauce curry, de julie';1;0
+e;3369321;'saumon roulé';1;0
+e;3369930;'spirale de saumon a l'italienne';1;0
+e;3370030;'tagliatelles au champagne et saumon';1;0
+e;3370052;'tagliatelles aux délices de saumon et tomates cerise';1;0
+e;3370072;'tagliatelles de mon coeur, saumon fumé et rocamadour';1;0
+e;3370163;'tartare au saumon fumé sauce yaourt ciboulette';1;0
+e;3370422;'tarte au saumon';1;0
+e;3370689;'tarte aux tomates et au saumon';1;0
+e;3370950;'tarte poireaux saumon philadelphia';1;0
+e;3371100;'tartiflette saumon';1;0
+e;3371208;'terrine de brocolis au saumon';1;0
+e;3371305;'terrine de saumon aux parfums d'agrumes';1;0
+e;3371519;'tomates farcies au saumon fumé oeufs et pâtes';1;0
+e;3371610;'tourte au saumon et aux légumes';1;0
+e;3359064;'aspic de saumon rapide';1;0
+e;3359172;'baluchon saumon crevette';1;0
+e;3318593;'galette de blé noir au saumon et graines de sésame';1;0
+e;3318801;'feuilleté rapide au saumon fumé';1;0
+e;3318775;'saumon mariné sauce soja, gingembre avocat';1;0
+e;3318659;'tortellini courgette saumon et basilic';1;0
+e;2585996;'_INFO-CNRTL-YES';36;50
+e;2490524;'ténia du saumon';1;0
+e;437359;'poêlée de saumon';1;50
+e;237445;'être>68439';1;32;'être>individu'
+e;105678;'carpaccio';1;212
+e;3751805;'saumon frais cuit ou saumon fumé';1;0
+e;3751922;'saumon fumé thon ou crabe en petits morceaux';1;0
+e;3752531;'tranches de saumon fumé hachées';1;0
+e;3752604;'boîtes de saumon au naturel égoutté et émietté';1;0
+e;3752866;'darnes de saumon';1;0
+e;3753505;'tranche de saumon fumé coupée en languettes';1;0
+e;3753567;'tranches de saumon fumé coupées en petits morceaux';1;0
+e;3754105;'tranches de saumon fumé coupé en fines lanières';1;0
+e;3754320;'dos de saumon grillés ou pochés';1;0
+e;3754817;'saumon fumé coupé en lanières';1;0
+e;3754942;'pavés de saumon';1;0
+e;3755597;'chutes de saumon ou belle tranche';1;0
+e;3755754;'saumon fumé de tranches';1;0
+e;3756097;'saumon fumé en tranches';1;0
+e;3756201;'saumon fumé découpé en morceaux';1;0
+e;3756817;'lamelles de saumon fumé';1;0
+e;3757398;'filets de saumon avec la peau';1;0
+e;3758055;'tranches de saumon fumé coupées en lamelles';1;0
+e;3759143;'tranches de saumon fumé coupé en petits morceaux';1;0
+e;3759353;'tartare de saumon aux agrumes sur lit de poireau en vinaigrette acidulée';1;0
+e;3745488;'tagliatelles au saumon et aux épinards frais';1;0
+e;3745774;'salade de pâtes au saumon fumé';1;0
+e;3745902;'rillettes de saumon minute';1;0
+e;3746164;'verrines de saumon fumé à la crème de raifort';1;0
+e;3746330;'tagliatelles au saumon';1;0
+e;3746461;'quiche au saumon fumé et à la fondue de poireaux';1;0
+e;3745423;'mini quiches renversées au saumon fumé';1;0
+e;3745044;'lasagnes au saumon et aux asperges vertes';1;0
+e;3744904;'verrine saumon fumé et concombre';1;0
+e;3744944;'saumon en croûte de sel';1;0
+e;3744252;'pâtes au Pesto et saumon fumé';1;0
+e;3744128;'tartelettes au saumon fumé';1;0
+e;3744105;'salade hawaïenne au saumon fumé';1;0
+e;3743698;'crème au saumon fumé à tartiner';1;0
+e;3743992;'salade de pâtes aux asperges et au saumon fumé';1;0
+e;3743917;'quiche au saumon et à la tomate';1;0
+e;3743875;'cake aux épinards frais et au saumon';1;0
+e;3727515;':r83923432';10;0
+e;3362051;'feuilleté de saumon fumé au pélardon';1;0
+e;3361582;'darnes de saumon en papillote de pac';1;0
+e;3359894;'cake au saumon et à l'oseille';1;0
+e;3372558;'saumon-crevettes';1;0
+e;3362649;'galettes aux champignons frais et saumon';1;0
+e;3363158;'gâteau saumon et brocoli';1;0
+e;3363620;'gratin de saumon et courgettes';1;0
+e;3363991;'lasagnes au saumon';1;0
+e;3364985;'oeuf cocotte au saumon';1;0
+e;3365722;'gratin de céleri rave, pommes de terre et saumon fumé';1;0
+e;3365807;'lasagnes de saumon, poireaux et feta';1;0
+e;3366206;'papillote de saumon';1;0
+e;3366212;'papillote de saumon et gambas';1;0
+e;3366249;'papillotes de saumon sur lit d'oseille';1;0
+e;3366299;'parmentier de saumon';1;0
+e;3366619;'pavé de saumon en croute d'amandes';1;0
+e;3366639;'pavés de saumon cannelle - gingembre';1;0
+e;3366644;'pavés de saumon sauce facile en papillote';1;0
+e;3367948;'quiche aux poireaux et saumon frais';1;0
+e;3368585;'roulés de saumon à la mousse de saumon';1;0
+e;3368791;'salade de concombre et saumon fumé,sauce au petit suisse';1;0
+e;3369276;'saumon au chou';1;0
+e;3369279;'saumon au four au caramel balsamique';1;0
+e;3369282;'saumon au four sur légumes râpés';1;0
+e;3369284;'saumon au maroilles et au thym, sauce moutarde';1;0
+e;3369287;'saumon au thé noir et au miel';1;0
+e;3369288;'saumon aux carottes caramélisées';1;0
+e;3369289;'saumon aux épices en barbecue';1;0
+e;3369298;'saumon de norvège en écailles de pommes de terre';1;0
+e;3369319;'saumon poché en gelée';1;0
+e;3369907;'spaghettis au saumon fumé et aux pistaches';1;0
+e;3370424;'tarte au saumon et aux endives d'hélène';1;0
+e;3370426;'tarte au saumon et aux pommes de terre';1;0
+e;3370427;'tarte au saumon et tartare';1;0
+e;3370746;'tarte courgette saumon chèvre';1;0
+e;3371335;'terrine lentilles saumon';1;0
+e;3371608;'tourte au saumon à la sébastien';1;0
+e;3371611;'tourte au saumon frais';1;0
+e;3371700;'tourte saumon champignons';1;0
+e;3371970;'verrine 3 couleurs : avocat, saumon, cream cheese';1;0
+e;3371989;'verrine de faisselle au saumon';1;0
+e;3372001;'verrine de saumon en cheese cake';1;0
+e;3372026;'verrines asperges et saumon';1;0
+e;3318430;'duo frais de saumon';1;0
+e;2581422;'couteau à saumon';1;0
+e;2517767;'guinée saumon';1;0
+e;2354778;'saumon transgénique';1;0
+e;2319693;':r11153471';10;0
+e;16614;'poissonnerie';1;224
+e;17132650;'Ouverture de la pêche commerciale au saumon';777;0
+e;16793888;'Organisation pour la conservation du saumon de l'Atlantique nord';777;0
+e;16260068;'Couleur saumon';777;0
+e;15490315;'Laissez mariner les tranches de saumon 24 h.';1;0
+e;15236992;'Il fait un saumon méchamment bon.';1;0
+e;15521245;'Jeune saumon venant de s'adapter physiologiquement au passage dans l'eau de mer lors de sa migration';1;0
+e;14585958;'chaud-froid de saumon';1;26
+e;12255498;'saumon d'Europe>171870';1;0;'saumon d'Europe>Nom:'
+e;12255499;'saumon d'Europe>171869';1;0;'saumon d'Europe>Adj:'
+e;9101971;'pâte oseille cresson et saumon fumé';1;0
+e;9102115;'makis chèvre-tomates séchées et saumon fumé-concombre';1;0
+e;9101897;'saumon au four pané aux noix de pecan';1;0
+e;9102041;'pierrade de saumon';1;0
+e;9101916;'cuillères d'isa au saumon fumé avec sauce raifort';1;0
+e;9101823;'pâtes au pesto et saumon fumé';1;0
+e;332343;'saumon>15229';1;50;'saumon>aéronautique'
+e;4365741;':r96691973';10;0
+e;17132791;'guerre du saumon';777;0
+e;68925;'chambre froide';1;222
+e;107150;'bateau';1;5823
+e;607835;'saumon>171870';1;0;'saumon>Nom:'
+e;16166017;'papillotes de saumon aux légumes du sud';1;0
+e;16166015;'papillotes de saumon, sucrines braisées et crème aux baies roses';1;16
+e;16166000;'papillote de saumon au butternut et romarin';1;0
+e;257893;'faire mariner';1;48
+e;233638;'mer>218698';1;244;'mer>étendue d'eau'
+e;146105;'mer';1;9338
+e;6341943;'requin-taupe saumon';1;0
+e;2368353;'saumon nerka';777;0
+e;2368351;'saumon rouge';1;0
+e;16166016;'saumon en papillotes et petits légumes';1;0
+e;164324;'rose pâle';1;54
+e;38188;'menu';1;748
+e;436570;'entité biologique';1;50
+e;2586629;'Number:Sing';4;0
+e;2586627;'Gender:Mas';4;0
+e;113902;'alimentation';1;1961
+e;15465322;'rivière à saumon';1;0
+e;16793897;'saumon d'eau douce';777;0
+e;2442938;'saumon coho';1;0
+e;607836;'saumon>171869';1;0;'saumon>Adj:'
+e;16793874;'saumon masou';777;0
+e;16793875;'saumon du Japon';777;0
+e;16793896;'saumon atlantique d'eau douce';777;0
+e;15901230;':r414014219';10;0
+e;5901056;'saumon du Burnett';777;0
+e;227955;'port>123977';1;26;'port>maritime'
+e;143669;'vertébrés';1;80
+e;2319692;':r11146850';10;0
+e;91657;'nutrition';1;466
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;120157;'règne animal';1;102
+e;213388;'saumon>25658';1;50;'saumon>lingot'
+e;146872;'eau douce';1;198
+e;13624;'pêcherie';1;58
+e;316850;'entité physique';1;50
+e;12876;'allergène';1;194
+e;191669;'_INFO-SEM-LIVING-BEING';36;160
+e;75350;'bécard';1;52
+e;45212;'conserverie';1;64
+e;60152;'bassin';1;2996
+e;215833;'carte>79954';1;76;'carte>restaurant'
+e;215971;'fleuve>137865';1;130;'fleuve>cours d'eau'
+e;2389101;'saumon chum';1;0
+e;274768;'saumon de Llyn Llyn';777;50
+e;84432;'long';1;3802
+e;152711;'nageoires';1;88
+e;15212240;'Le saumon était en réclame au supermarché.';1;0
+e;263322;'pâtes fraîches';1;56
+e;43853;'aile';1;2172
+e;143607;'nature';1;3628
+e;189981;'ingrédient de cuisine';1;66
+e;43125;'gastronomie';1;2682
+e;191741;'_INFO-VOC-COMMON';36;50
+e;46141;'congélateur';1;776
+e;35801;'poissonnier';1;154
+e;143608;'pièce d'eau';1;76
+e;225908;'boîte>42731';1;74;'boîte>contenant'
+e;257264;'rayon frais';1;48
+e;3747509;'saumon-poireaux';1;0
+e;3727516;':r83904709';10;0
+e;162763;'_INFO-SEM-THING-CONCRETE';36;1238
+e;2319691;':r11140232';10;0
+e;240590;'arête>68467';1;18;'arête>poisson'
+e;139467;'cale';1;146
+e;92142;'toast';1;230
+e;228309;'toast>65846';1;40;'toast>pain grillé'
+e;137865;'cours d'eau';1;508
+e;146491;'Marne';1;3607
+e;128721;'réfrigérateur';1;666
+e;216598;'assiette>60109';1;158;'assiette>pièce de vaisselle'
+e;219326;'bateau>127671';1;338;'bateau>embarcation'
+e;128626;'criée';1;72
+e;2417315;'saumon du Danube';1;0
+e;143757;'art culinaire';1;848
+e;58675;'poêlée';1;86
+e;46367;'griller';1;396
+e;15238420;'brochette de saumon';1;0
+e;12081264;'saumon du Mackenzie';1;0
+e;18475;'vivier';1;62
+e;62735;'assiette';1;1688
+e;131196;'carte';1;3403
+e;87789;'coelomate';1;52
+e;391010;'coelomé';1;50
+e;226027;'marché>135190';1;52;'marché>lieu'
+e;9664;'océan';1;3202
+e;17263602;':r468248577';10;0
+e;17262447;':r468247290';10;0
+e;3973676;'madeleineau';1;0
+e;2587823;'aliment>2587820';1;122;'aliment>ce qui se mange'
+e;130164;'manger';1;10304
+e;439411;'pêcher>146882';1;50;'pêcher>Ver:Inf'
+e;17226;'teinte';1;454
+e;113743;'port';1;3594
+e;60902;'dent';1;3454
+e;3575927;'Morpho:min';18;50
+e;247057;'symétrie bilatérale';1;10
+e;326146;'système nerveux en position dorsale';1;56
+e;2319690;':r11133529';10;0
+e;132338;'couleurs';1;3576
+e;214275;'cuisine>143757';1;2032;'cuisine>art culinaire'
+e;269965;'_INFO-SEM-COLOR-RELATED';36;50
+e;133921;'dentition';1;430
+e;16110;'bouche';1;4340
+e;48496;'sauvage';1;2444
+e;216283;'dent>45311';1;284;'dent>dentaire'
+e;214601;'queue>214624>68467';1;18;'queue>queue d'animal>poisson'
+e;491;'papillote';1;140
+e;213386;'rose>40056';1;136;'rose>couleur'
+e;108750;'poissons';1;2816
+e;5994;'rosâtre';1;56
+e;15284575;'des darnes de saumon';1;0
+e;16068393;'en:wingtip';1;0
+e;6948438;'en:pig';1;0
+e;12032851;'saumon quinat>171870';1;0;'saumon quinat>Nom:'
+e;12032852;'saumon quinat>171869';1;0;'saumon quinat>Adj:'
+e;8125649;'en:pizza';1;0
+e;6126158;'umls:C0205941';444;0
+e;6153023;'umls:C0205943';444;0
+e;19653;'frigidaire';1;390
+e;258622;'nageoire pectorale';1;52
+e;225786;'nageoire dorsale';1;14
+e;224422;'manger>113902>119570';1;206;'manger>alimentation>absorber'
+e;1384;'vivant';1;3307
+e;141480;'écaille';1;412
+e;152946;'arêtes';1;114
+e;32791;'arête';1;162
+e;232082;'ouïe>68467';1;6;'ouïe>poisson'
+e;61835;'chair';1;2253
+e;145624;'pêche';1;2861
+e;15427203;'en:salmon-pink';1;0
+e;15301409;'du saumon à l'aneth';1;0
+e;15238412;'du saumon fumé';1;0
+e;11136749;':gLeandro';1002;0
+e;10870787;'Flabelline saumon';777;0
+e;284529;'Oncorhynchus gorbuscha';777;50
+e;138622;'Atlantique';1;2459
+e;241907;'étal>64437';1;20;'étal>boucherie'
+e;56676;'étal';1;236
+e;249227;'gravlax';1;26
+e;391009;'célomate';1;50
+e;213544;'pêcher>78768';1;46;'pêcher>chasser'
+e;221019;'bouche>112609';1;214;'bouche>anatomie'
+e;57875;'tube digestif';1;118
+e;213644;'os>116980';1;404;'os>squelette'
+e;71539;'animaux';1;3421
+e;113628;'ouananiche';1;50
+e;101938;'estomac';1;852
+e;109785;'peau';1;3979
+e;50751;'ouïe';1;418
+e;48855;'carnivore';1;1566
+e;114984;'branchies';1;94
+e;9944214;'remonter une rivière';1;0
+e;13031861;'chair du saumon';1;0
+e;9544739;':r211999864';10;0
+e;9107126;'en:oncorhynchus tshawytscha (fish)';1;0
+e;129788;'saumons';1;50
+e;5828571;'pâté au saumon';777;0
+e;69943;'fleuve';1;3454
+e;42188;'filet';1;708
+e;218941;'poisson>20965';1;336;'poisson>nourriture'
+e;166492;'filet de poisson';1;162
+e;7575;'boîte';1;2361
+e;156119;'boîte de conserve';1;154
+e;247171;'fumé>43125';1;20;'fumé>gastronomie'
+e;229957;'truite saumonée';1;76
+e;146274;'marché';1;3560
+e;149413;'organes';1;2688
+e;3423852;'bn:00068969n';444;0
+e;17477788;'::>14:3361>29:257893';8;0;'faire mariner [objet] saumon'
+e;1747273;'couper en tranches';1;0
+e;2319706;':r2230859';10;0
+e;118227;'désarêter';1;50
+e;1636805;'oeil>44335';1;50;'oeil>organe'
+e;108463;'ventre';1;2056
+e;17526006;'::>31:9190>29:17526002';8;0;'griller [objet] saumon [endroit] four'
+e;17542457;'::>13:59151>29:46367';8;0;'griller [sujet] cuisinière'
+e;17526002;'::>14:3361>29:46367';8;0;'griller [objet] saumon'
+e;14474322;'::>13:225916>29:46367';8;0;'griller [sujet] personne>être humain'
+e;15742972;'couper quelque chose en lamelles';1;0
+e;15420435;'couper [qch] en lamelles';1;0
+e;15742971;'en:slice something thinly';1;0
+e;16574003;'en:slice something finely';1;0
+e;16601796;'::>13:116477>29:30536';8;0;'faire cuire [sujet] personne'
+e;15014192;'::>31:149733>29:15014185';8;0;'faire cuire [objet] saumon [endroit] poële'
+e;15014194;'::>31:119686>29:15014185';8;0;'faire cuire [objet] saumon [endroit] poêle'
+e;14472584;'::>13:225916>29:30536';8;0;'faire cuire [sujet] personne>être humain'
+e;6681658;'manger>113902';1;138;'manger>alimentation'
+e;14334456;'::>13:3361>29:18699';8;0;'remonter [sujet] saumon'
+e;105814;'regarder';1;3658
+e;36246;'préparer';1;2268
+e;5115;'cuire';1;1713
+e;88315;'émincer';1;172
+e;257879;'faire frire';1;66
+e;238029;'garder au frais';1;4
+e;250822;'cuire au four';1;16
+e;260032;'cuire>16033';1;138;'cuire>cuisine'
+e;1803925;'saumoné>171869';1;0;'saumoné>Adj:'
+e;140986;'rosé';1;298
+e;35143;'biologie';1;3428
+e;6438983;'virus de l'anémie infectieuse du saumon';1;0
+e;6184657;'umls:C0036109';444;0
+e;74783;'orangé';1;93
+e;77727;'gueule';1;706
+e;78768;'chasser';1;1086
+e;84059;'ouïes';1;54
+e;213792;'coeur>213791';1;186;'coeur>organe musculaire'
+e;234188;'écaille>117095';1;8;'écaille>zoologie'
+e;258618;'nageoire pelvienne';1;4
+e;4474067;':r97365144';10;0
+e;47918;'boire';1;4568
+e;33882;'se nourrir';1;436
+e;80010;'saisir';1;435
+e;28105;'cuit';1;358
+e;20621;'aliments';1;2130
+e;1920730;'ingrédients de cuisine';1;0
+e;1920538;'domaine alimentaire';1;0
+e;97571;'consommer';1;208
+e;129073;'polyhalite';1;50
+e;117095;'zoologie';1;2392
+e;35999;'fumer';1;1238
+e;166115;'::>13:74860>29:26507>14';9;50;'Qu'est-ce qu'un homme pourrait pêcher ?'
+e;212426;'::>13:143187>29:26507>14';9;50;'Qu'est-ce qu'un pêcheur pourrait pêcher ?'
+e;165651;'::>13:142124>29:26507>14';9;50;'Qu'est-ce qu'un garçon pourrait pêcher ?'
+e;258940;'ne pas fumer';1;102
+e;328038;'::>13:142124>29:26507';8;50;'pêcher [sujet] garçon'
+e;328670;'::>13:74860>29:26507';8;50;'pêcher [sujet] homme'
+e;327472;'::>13:143187>29:26507';8;50;'pêcher [sujet] pêcheur'
+e;158245;'::>16:16110>29:41971>13';9;50;'Qui pourrait avaler avec une bouche ?'
+e;327277;'::>16:16110>29:41971';8;50;'avaler [avec] bouche'
+e;16747;'adn';1;164
+e;14581505;'::>13:225916>29:257893';8;0;'faire mariner [sujet] personne>être humain'
+e;259820;'vivre>160251';1;78;'vivre>être en vie'
+e;43253;'dormir';1;6578
+e;251694;'mourir>126720';1;238;'mourir>cesser de vivre'
+e;242894;'nager>11057832';1;34;'nager>se déplacer dans un liquide'
+e;124600;'mourir';1;2755
+e;79364;'sauter';1;1030
+e;2442;'vivre';1;3276
+e;43601;'se reproduire';1;502
+e;24646;'attraper';1;838
+e;26507;'pêcher';1;772
+e;20911;'nager';1;1388
+e;93099;'plomb';1;2012
+e;12241342;'mesure de saumon ac ige | technique indéterminée | sérum | ponctuel | résultat numérique | arbitraire/volume';1;0
+e;12241343;'mesure de saumon ac ige | technique indéterminée | sérum | ponctuel | résultat numérique | ratio';1;0
+e;12241344;'mesure de saumon ac igg | technique indéterminée | sérum | ponctuel | résultat numérique | arbitraire/volume';1;0
+e;12241345;'mesure de saumon ac igg | technique indéterminée | sérum | ponctuel | résultat numérique | masse/volume';1;0
+e;12110481;'saumon oeuf ag';1;0
+e;12110480;'saumon du pacifique ag';1;0
+e;12110479;'saumon ag';1;0
+e;6880460;'en:muscle';1;8
+e;2769082;'Oncorhynchus tshawytscha';777;0
+e;6104474;'umls:C0205942';444;0
+e;107073;'Art culinaire';1;52
+e;111235;'métallurgie';1;138
+e;88096;'gros';1;3306
+e;139578;'muscle';1;2147
+e;47319;'colonne vertébrale';1;362
+e;2319774;':r2705352';10;0
+e;13115;'mâchoire';1;510
+e;233138;'tête>390963';1;72;'tête>extrémité supérieure du corps'
+e;43827;'écailles';1;228
+e;77008;'yeux';1;4539
+e;77424;'oeil';1;3278
+e;82844;'comestible';1;280
+e;254877;'_POL-NEUTRE_PC';36;50
+e;376950;'rose orangé';1;50
+e;12105599;'saumon ac ige';1;0
+e;12105600;'saumon ac ige classification rast';1;0
+e;12105601;'saumon ac igg';1;0
+e;12105602;'saumon ac igg classification rast';1;0
+e;12105603;'saumon ac igg4';1;0
+e;12105604;'saumon du pacifique ac ige';1;0
+e;12105605;'saumon du pacifique ac ige classification rast';1;0
+e;12105606;'saumon oeuf ac ige';1;0
+e;9162565;'en:salmo salmo';1;0
+e;9107106;'en:salmon, pink';1;0
+e;6297517;'saumon sockeye';1;0
+e;2538325;'bronchies';1;0
+e;52119;'langue';1;4914
+e;215758;'gueule>215755';1;14;'gueule>bouche animale'
+e;99220;'hétérotrophe';1;68
+e;3228593;'wiki:@';444;0
+e;143712;'marine';1;3155
+e;15196;'blanc';1;4731
+e;225934;'oeil>330323';1;224;'oeil>organe de la vue'
+e;15612879;':r307068525';10;0
+e;3372522;'salmon';1;0
+e;214276;'cuisine>96851';1;386;'cuisine>pièce'
+e;23178;'grand';1;3856
+e;3576104;'Morpho:nospace';18;50
+e;3423853;'bn:16420902n';444;0
+e;330215;'bilatéralement symétrique';1;22
+e;241352;'ventre>112609';1;100;'ventre>anatomie'
+e;116980;'squelette';1;1226
+e;126285;'dos';1;2898
+e;126388;'articulation';1;730
+e;2319688;':r11124058';10;0
+e;39901;'cru';1;1869
+e;390927;'tête>112609';1;72;'tête>anatomie'
+e;122864;'mort';1;7245
+e;147184;'dents';1;2390
+e;144846;'tête';1;5937
+e;171869;'Adj:';4;50
+e;30458;'brochet';1;156
+e;141899;'grillé';1;142
+e;14960400;'en:salmon pink';1;0
+e;112671;'basilic';1;250
+e;14668644;'alphavirus du saumon';1;2
+e;12201543;'saumon oeuf';1;0
+e;12196930;'saumon ac';1;0
+e;9107107;'en:sockeye salmon';1;0
+e;2368352;'oncorhynchus nerka';777;0
+e;6184656;'umls:C0036110';444;0
+e;5787856;'saumon de l'Adour';777;0
+e;5787857;'saumon des gaves';777;0
+e;145464;'délicieux';1;474
+e;3423851;'bn:00068966n';444;0
+e;103041;'émincé';1;110
+e;114327;'acide désoxyribonucléique';1;140
+e;16746;'alimentaire';1;2563
+e;416318;'Saumon';1;50
+e;258619;'ligne latérale';1;54
+e;103311;'système nerveux';1;276
+e;83944;'nerf';1;858
+e;240720;'squelette>112609';1;152;'squelette>anatomie'
+e;154845;'sang froid';1;102
+e;219363;'corps>112609';1;190;'corps>anatomie'
+e;74846;'corps';1;5240
+e;113963;'mangeable';1;130
+e;139779;'ADN';1;1254
+e;96211;'coeur';1;2342
+e;44160;'branchie';1;172
+e;236940;'estomac>112609';1;108;'estomac>anatomie'
+e;95256;'queue';1;3266
+e;11008328;'ADN>30051';1;8;'ADN>code génétique'
+e;17542460;'::>66:59151>24:17526002';8;0;'cuisinière [peut] griller [objet] saumon'
+e;17542458;'::>66:59151>24:46367';8;0;'cuisinière [peut] griller'
+e;17526004;'::>66:225916>24:17526002';8;0;'personne>être humain [peut] griller [objet] saumon'
+e;14474323;'::>66:225916>24:46367';8;0;'personne>être humain [peut] griller'
+e;15205595;'en:very muscular';1;0
+e;398564;'mâchoires';1;50
+e;15991431;'_ANIME-YES';36;50
+e;14925190;'en:ingot';1;0
+e;364788;'monde animal';1;50
+e;15014187;'::>66:225916>24:15014185';8;0;'personne>être humain [peut] faire cuire [objet] saumon'
+e;14472585;'::>66:225916>24:30536';8;0;'personne>être humain [peut] faire cuire'
+e;14940408;'en:gnathostome';1;0
+e;11405719;'heart';1;0
+e;14916413;'Langue:français';18;50
+e;6947917;'en:vertebrata';1;0
+e;14731178;'détaillé>263977';1;0;'détaillé>vente au détail'
+e;2461482;'métazoaire supérieur';1;0
+e;12791689;'acide désoxyribo-nucléique';1;0
+e;12321907;'en:eukaryote';1;0
+e;1655534;'clomate';1;0
+e;7012843;'en:allergen';1;0
+e;86356;'rouge';1;5574
+e;153478;'poisson de mer';1;88
+e;406521;'Épinard';1;50
+e;14049844;'organisme vivant hétérotrophe';1;0
+e;14049840;'organisme vivant pluricellulaire';1;0
+e;14049831;'organisme vivant pluricellulaire hétérotrophe';1;6
+e;52413;'carnassier';1;402
+e;1342544;'comestible>113963';1;10;'comestible>mangeable'
+e;3260867;'récipient de cuisson';1;2
+e;89628;'récipient';1;1160
+e;9190;'four';1;2415
+e;12185920;'mesure de saumon ac ige';1;0
+e;12185923;'détermination de la présence de saumon ac ige classification rast';1;0
+e;12185925;'mesure de saumon ac igg';1;0
+e;12185928;'détermination de la présence de saumon ac igg classification rast';1;0
+e;12185930;'mesure de saumon ac igg4';1;0
+e;12185932;'mesure de saumon du pacifique ac ige';1;0
+e;12185934;'détermination de la présence de saumon du pacifique ac ige classification rast';1;0
+e;12185936;'mesure de saumon oeuf ac ige';1;0
+e;12201679;'saumon du pacifique';1;0
+e;101689;'être animé';1;50
+e;6948544;'en:salmonidae';1;0
+e;6364597;'entolome couleur saumon';1;0
+e;6347874;'poux du saumon';1;0
+e;162232;'mangé';1;66
+e;276096;'_INFO-WIKI-YES';36;50
+e;68977;'saisi';1;74
+e;38519;'préparé';1;683
+e;14287029;'cuit>2946892';1;0;'cuit>Ver:Conjug'
+e;3030;'consommé';1;110
+e;153061;'pêché';1;54
+e;12643;'attrapé';1;66
+e;17477790;'::>66:225916>24:17477788';8;0;'personne>être humain [peut] faire mariner [objet] saumon'
+e;3187217;'désarêté';1;0
+e;14581506;'::>66:225916>24:257893';8;0;'personne>être humain [peut] faire mariner'
+e;189998;'poisson fumé';1;16
+e;265176;'ichthyologie';1;52
+e;152125;'Zoologie';1;210
+e;2319702;':r1466940';10;0
+e;239506;'mi-cuit';1;6
+e;181184;'boite de conserve';1;8
+e;175647;'Ichthyologie';1;50
+e;191611;'omble de fontaine';1;52
+e;173529;'beccard';1;50
+e;191613;'truite mouchetée';1;50
+e;15624042;':r305821030';10;0
+e;114867;'caisson';1;74
+e;53495;'frais';1;2884
+e;2319762;':r2505855';10;0
+e;152552;'Cuisine';1;156
+e;214149;'cru>214148';1;142;'cru>pas cuit'
+e;13249423;':r218839';10;0
+e;103405;'indifférence';1;612
+e;6767;'musculaire';1;1549
+e;4408505;':r97416962';10;0
+e;12208748;':r316525187';10;0
+e;17477789;'::>66:3361>26:257893';8;0;'saumon [se faire] faire mariner'
+e;3172362;'verrine>43125>177321';1;6;'verrine>gastronomie>préparation culinaire'
+e;317329;'_POLIT_7NOPOL';36;50
+e;7096384;'en:refrigerator';1;0
+e;7096349;'en:freezer';1;4
+e;214661;'oseille>153580';1;18;'oseille>plante potagère'
+e;79889;'aneth';1;134
+e;47549;'oseille';1;216
+e;144229;'bon';1;3574
+e;58835;'goûteux';1;142
+e;119625;'mauvais';1;2971
+e;8958213;':r193691390';10;0
+e;1969939;'fumé>161702';1;0;'fumé>Ver:PPas'
+e;38048;'blinis';1;66
+e;45624;'frigo';1;1024
+e;152553;'Gastronomie';1;72
+e;141814;'vertèbre';1;392
+e;2319689;':r14419139';10;0
+e;15047666;'en:alimentary canal';1;0
+e;11328611;':r96691896';10;0
+e;4361822;':r97416952';10;0
+e;4357416;':r97416956';10;0
+e;4522787;':r97365145';10;0
+e;4361918;':r97419330';10;0
+e;6800176;'en:heart';1;0
+e;237444;'être>94160';1;62;'être>existence'
+e;15676831;':r402630778';10;0
+e;13248001;':r155845';10;0
+e;2319687;':r2232582';10;0
+e;15429478;'en:tinned food';1;0
+e;15076828;'en:fish filet';1;0
+e;15076829;'en:fish fillet';1;0
+e;2218403;'linotypes';2;0
+e;146420;'Linotype';1;50
+e;6528438;'plomb typographique';777;0
+e;10553407;'Lac-au-Saumon';777;0
+e;274766;'Saumon de la sagesse';777;50
+e;154971;'roses';1;1110
+e;471;'Rose';1;2494
+e;15080161;'en:animal kingdom';1;0
+e;139185;'fade';1;140
+e;6797233;'en:vertebra';1;0
+e;144688;'Pale';1;50
+e;2403974;'Penne';1;0
+e;200941;'feux de position';1;64
+e;153463;'avions';1;3156
+e;214281;'rotor principal';1;50
+e;19887;'tournante';1;100
+e;97756;'avion';1;5821
+e;429768;'Avion';1;50
+e;324068;'Max-Holste MH-1521 Broussard';1;50
+e;9864;'désir';1;2782
+e;4501460;':r97419332';10;0
+e;14918011;'en:DNA';1;0
+e;11334884;':r290380366';10;0
+e;300439;'Nematoda';777;50
+e;290364;'alevins';777;52
+e;286467;'Oncorhynchus kisutch';777;50
+e;56298;'accusatif';1;70
+e;283591;'Salmonidae';777;50
+e;275203;'CNRTL';1;50
+e;275204;'Centre national de ressources textuelles et lexicales';777;50
+e;272791;'maladies cardio-vasculaires';777;36
+e;274746;'migration des poissons';777;50
+e;272360;'Espèce';777;50
+e;150156;'réintroduction';1;52
+e;223465;'koulibiak';666;50
+e;122344;'France 3';1;80
+e;38330;'décembre';1;3879
+e;152359;'Le Figaro';1;64
+e;113669;'Russie';1;3633
+e;73588;'Amérique du Nord';1;134
+e;77735;'Europe';1;3809
+e;146396;'Japon';1;3724
+e;16476;'Danemark';1;3181
+e;87987;'France';1;4535
+e;119419;'écologique';1;1034
+e;37610;'norvégien';1;1637
+e;162254;'Norvégien';1;50
+e;136766;'Royaume-Uni';1;3580
+e;123960;'fjords';1;50
+e;53696;'fjord';1;64
+e;145091;'Peau';1;52
+e;43409;'Canada';1;3769
+e;96342;'Washington';1;3282
+e;94208;'Alaska';1;64
+e;99862;'caviar';1;174
+e;142694;'Chair';1;50
+e;113005;'toxique';1;1020
+e;265243;'polluants';1;58
+e;100814;'polluant';1;214
+e;262155;'métaux lourds';1;82
+e;136107;'gélule';1;114
+e;94470;'infarctus';1;258
+e;180220;'hypertension artérielle';1;130
+e;41254;'artériosclérose';1;50
+e;20189;'athérome';1;70
+e;65219;'lipoprotéine';1;52
+e;223461;'oméga-3';666;52
+e;222130;'maladie cardio-vasculaire';1;50
+e;76817;'cholestérol';1;320
+e;141971;'huile';1;2224
+e;201931;'huile de poisson';1;50
+e;86706;'nématode';1;132
+e;109653;'girelle';1;56
+e;88245;'pou';1;354
+e;19444;'alevin';1;98
+e;32994;'Chili';1;2784
+e;87520;'Maine';1;2645
+e;220221;'indice de consommation';1;50
+e;122320;'polluer';1;296
+e;166480;'pou de mer';1;54
+e;106607;'crevette';1;748
+e;86808;'aquaculture';1;74
+e;107275;'Norvège';1;3169
+e;142143;'Écosse';1;2463
+e;130188;'Québec';1;3749
+e;132717;'Scandinavie';1;88
+e;122628;'glaciation';1;88
+e;153712;'noires';1;2158
+e;140927;'Noir';1;2530
+e;60;'bleu';1;3449
+e;174803;'Bleu';1;1570
+e;145113;'Rouge';1;2846
+e;19307;'phéromones';1;106
+e;34881;'magnétisme';1;168
+e;109155;'sélection naturelle';1;118
+e;127687;'montaison';1;50
+e;122865;'sperme';1;490
+e;10789;'frayère';1;50
+e;37303;'Mer';1;2675
+e;116323;'anadrome';1;50
+e;127368;'pêche sportive';1;50
+e;183409;'Océan Atlantique';1;6
+e;183412;'Océan Pacifique';1;52
+e;102382;'latin';1;3604
+e;142323;'Truite';1;50
+e;141205;'Poisson';1;74
+e;135538;'espèces';1;3773
+e;38788;'espèce';1;3485
+e;144991;'français';1;3914
+e;113464;'Français';1;3583
+e;249004;'nom vernaculaire';1;10
+e;15281195;'en:branchiae';1;0
+e;14925035;'en:gills';1;0
+e;8535678;'en:spine';1;0
+e;4485998;':r97419333';10;0
+e;4484340;':r97419331';10;0
+e;17526003;'::>66:3361>26:46367';8;0;'saumon [se faire] griller'
+e;15205594;'tout en muscle';1;0
+e;14950244;'en:muscular';1;0
+e;269578;'tacon>269576';1;50;'tacon>pièce de tissu'
+e;4505973;':r97419329';10;0
+e;4505974;':r97419336';10;0
+e;2350957;':r34722089';10;0
+e;2319729;':r2505514';10;0
+e;446747;':r11654939';10;50
+e;223047;'darne>51688';1;50;'darne>étourdi'
+e;229681;'verrine>43125';1;16;'verrine>gastronomie'
+e;4508425;':r97419334';10;0
+e;4507845;':r97950069';10;0
+e;14917526;'en:deoxyribonucleic acid';1;0
+e;15764634;':r404608818';10;0
+e;15558205;':r398357224';10;0
+e;15555243;':r398354116';10;0
+e;14981157;':r391314588';10;0
+e;4565429;':r207616';10;0
+e;14338;'attaquer';1;1286
+e;159193;'océan Atlantique';1;142
+e;20797;'tartare';1;106
+e;5912654;':r115339529';10;0
+e;606876;'cru>171869';1;0;'cru>Adj:'
+e;599339;'fumé>171869';1;0;'fumé>Adj:'
+e;237443;'être>37229';1;66;'être>se trouver'
+e;237441;'être>85728';1;12;'être>exister'
+e;225848;'organisme>118203';1;52;'organisme>corps humain'
+e;109803;'épinard';1;120
+e;22253;'fromage frais';1;110
+e;10314012;'en:heterotroph';1;0
+e;1816244;'colonne rachidienne';1;0
+e;157007;'être>146885';1;50;'être>Nom:Mas+SG'
+e;74558;'os';1;3037
+e;2353035;':r34768016';10;0
+e;2319775;':r11654471';10;0
+e;2319773;':r2505852';10;0
+e;2319772;':r2505525';10;0
+e;2319771;':r2505505';10;0
+e;2319770;':r2928341';10;0
+e;2319769;':r2874763';10;0
+e;2319768;':r2941017';10;0
+e;2319767;':r3018008';10;0
+e;2319766;':r15874847';10;0
+e;2319765;':r3070732';10;0
+e;2319764;':r2919339';10;0
+e;2319763;':r9618146';10;0
+e;2319761;':r9619393';10;0
+e;2319760;':r2505526';10;0
+e;2319759;':r2505506';10;0
+e;2319758;':r11795233';10;0
+e;2319757;':r13002226';10;0
+e;2319756;':r2505511';10;0
+e;2319755;':r2883705';10;0
+e;2319754;':r2505508';10;0
+e;2319753;':r2505512';10;0
+e;2319752;':r2505850';10;0
+e;2319751;':r2505513';10;0
+e;2319750;':r2734886';10;0
+e;2319749;':r2712006';10;0
+e;2319748;':r14714834';10;0
+e;2319747;':r2691798';10;0
+e;2319746;':r2924619';10;0
+e;2319745;':r2805651';10;0
+e;2319744;':r2722233';10;0
+e;2319743;':r2505516';10;0
+e;2319742;':r2505519';10;0
+e;2319741;':r2505522';10;0
+e;2319740;':r2505523';10;0
+e;2319739;':r2618155';10;0
+e;2319738;':r2837956';10;0
+e;2319737;':r2505857';10;0
+e;2319736;':r25303561';10;0
+e;2319735;':r25784254';10;0
+e;2319734;':r2505858';10;0
+e;2319733;':r2505853';10;0
+e;2319732;':r2505856';10;0
+e;2319731;':r2505501';10;0
+e;2319730;':r2505510';10;0
+e;2319728;':r2505527';10;0
+e;2319727;':r2505502';10;0
+e;2319726;':r2505524';10;0
+e;2319725;':r2505503';10;0
+e;2319724;':r2505507';10;0
+e;2319723;':r2505500';10;0
+e;2319722;':r2505849';10;0
+e;2319721;':r2505528';10;0
+e;2319720;':r2505499';10;0
+e;2319719;':r2505538';10;0
+e;2319718;':r2505848';10;0
+e;2319717;':r2505509';10;0
+e;2319716;':r2505504';10;0
+e;2319715;':r11357048';10;0
+e;2319714;':r11352093';10;0
+e;2319713;':r11655385';10;0
+e;2319711;':r208486';10;0
+e;2319710;':r3048659';10;0
+e;2319709;':r2745188';10;0
+e;2319708;':r2505515';10;0
+e;2319707;':r24546472';10;0
+e;2319705;':r9616301';10;0
+e;2319704;':r2505529';10;0
+e;2319703;':r11650249';10;0
+e;2319701;':r1657032';10;0
+e;1510293;':r24842114';10;0
+e;4566577;':r1942147';10;0
+e;4649477;':r10010292';10;0
+e;15150534;'en:dorsal fin';1;0
+e;240591;'arête>98040';1;50;'arête>architecture'
+e;240593;'arête>12831';1;50;'arête>montagne'
+e;266024;'arête>81148';1;50;'arête>graphe'
+e;240592;'arête>107477';1;50;'arête>nez'
+e;240594;'arête>3674';1;50;'arête>botanique'
+e;6797262;'en:vertebral column';1;0
+e;58768;'organisme';1;2509
+e;13369;'être';1;3929
+e;225849;'organisme>86627';1;50;'organisme>organisation'
+e;225846;'organisme>332175';1;54;'organisme>ensemble des organes'
+e;7305916;'en:fromage frais';1;0
+e;15873666;':r413694201';10;0
+e;14978217;':r390188410';10;0
+e;174176;'spine';1;50
+e;395094;'viande>118203';1;52;'viande>corps humain'
+e;213793;'coeur>31970';1;14;'coeur>centre'
+e;213794;'coeur>37298';1;28;'coeur>amour'
+e;2707481;'coeur>142000';1;4;'coeur>forme'
+e;213790;'coeur>153664';1;6;'coeur>jeu de carte'
+e;1700075;'coeur>105800';1;0;'coeur>abats'
+e;2707366;'coeur>40113';1;0;'coeur>microprocesseur'
+e;213797;'coeur>71267';1;54;'coeur>courage'
+e;2707364;'coeur>101938';1;0;'coeur>estomac'
+e;2707557;'coeur>29270';1;0;'coeur>bigarreau'
+e;2707553;'coeur>105649';1;2;'coeur>horlogerie'
+e;2707552;'coeur>1816';1;0;'coeur>héraldique'
+e;2707442;'coeur>25800';1;0;'coeur>chemin de fer'
+e;9626027;':r216477550';10;0
+e;4164194;'dbnary:fra:__ws_2_saumon__nom__1';444;0
+e;4140784;'dbnary:fra:__ws_1_saumon__nom__1';444;0
+e;3906419;'dbnary:fra:__ws_3_saumon__adj__1';444;0
+e;3727546;':r14804961';10;0
+e;3727545;':r31861164';10;0
+e;3727544;':r83504973';10;0
+e;3727543;':r83482701';10;0
+e;3727542;':r83486921';10;0
+e;3727541;':r83493098';10;0
+e;3727540;':r83494070';10;0
+e;3727539;':r83507848';10;0
+e;3727538;':r83490756';10;0
+e;3727537;':r83496839';10;0
+e;3727536;':r83542278';10;0
+e;3727535;':r78258467';10;0
+e;3727534;':r33209134';10;0
+e;3727533;':r83483656';10;0
+e;3727532;':r83491709';10;0
+e;3727531;':r34306369';10;0
+e;3727530;':r83543230';10;0
+e;3727529;':r83501100';10;0
+e;3727528;':r83503014';10;0
+e;3727527;':r83505929';10;0
+e;3727526;':r83502057';10;0
+e;3727525;':r80356285';10;0
+e;3727524;':r83480345';10;0
+e;3727523;':r83489796';10;0
+e;3727522;':r83487877';10;0
+e;3727521;':r83504008';10;0
+e;3727520;':r83485028';10;0
+e;3727519;':r83475935';10;0
+e;3727518;':r83488835';10;0
+e;3727517;':r24842104';10;0
+e;3178868;'Cours d'eau';777;0
+e;3174012;':r76412495';10;0
+e;234035;'être vivant>2442';1;4;'être vivant>vivre'
+e;1974765;':r31864773';10;0
+e;1974619;':r31860863';10;0
+e;1974111;':r31839751';10;0
+e;1477418;':r9973641';10;0
+e;35676;'canapé';1;1244
+e;8995;'fêtes';1;2208
+e;237771;'sauvage>129068';1;22;'sauvage>indompté'
+e;145382;'orange';1;2231
+e;142183;'noël';1;332
+e;37298;'amour';1;7157
+e;57221;'joie';1;3928
+e;251716;'_INFO-MONOSEMIC';36;50
+e;99786;'venin';1;616
+e;62726;'plume';1;2676
+e;47540;'miauler';1;430
+e;102345;'plaisir';1;3741
+e;53086;'dévalaison';1;50
+e;15238417;'en:salmon tartar';1;0
+e;15204635;'rose saumoné';1;0
+e;217014;'sashimi';1;76
+e;11957799;'Oncorhynchus nerka';777;0
+e;264357;'shashimi';1;50
+e;15220148;'en:fresh pasta';1;0
+e;15238415;'en:salmon filet';1;0
+e;15083686;'en:sea animal';1;0
+e;15203199;'en:salmon tart';1;0
+e;15284576;'en:salmon steaks';1;0
+e;15083684;'en:marine animal';1;0
+e;16779;'zakouski';1;56
+e;6752145;'miettes de crabe';1;0
+e;15225855;'en:flaked crab';1;0
+e;6912844;'en:fresh water';1;0
+e;15238411;'en:farmed salmon';1;0
+e;15100594;'en:culinary art';1;6
+e;156064;'art de la table';1;82
+e;15238416;'en:salmon pie';1;0
+e;182207;'échelle à poissons';1;50
+e;258998;'plat de poisson';1;92
+e;14934498;'en:fish ladder';1;0
+e;15064181;'en:Salvelinus fontinalis';1;0
+e;258954;'poisson comestible';1;50
+e;126343;'pisciculture';1;156
+e;9980133;'aimer le poisson';1;0
+e;286457;'élevage de saumons';1;50
+e;269215;'prendre du poisson';1;50
+e;183577;'passe à poissons';1;50
+e;25421;'saumonelle';1;50
+e;171025;'truite de rivière';1;2
+e;6948373;'en:oncorhynchus keta';1;0
+e;15438841;'en:fishway';1;0
+e;15427204;'en:Oncorhynchus gorbuscha';1;0
+e;14960404;'en:pink salmon';1;0
+e;396055;'mucine';1;4
+e;7066020;'en:mucin';1;0
+e;2348416;'::>66:68467>17:39901';8;0;'poisson [carac] cru'
+e;2397510;'coulibiac';1;0
+e;38931;'éperlan';1;52
+e;154611;'poisson cru';1;168
+e;258992;'poisson d'élevage';1;58
+e;264208;'manger du poisson';1;60
+e;165262;'::>13:18067>29:130164>14';9;50;'Qu'est-ce qu'un invité pourrait manger ?'
+e;327247;'::>13:18067>29:130164';8;50;'manger [sujet] invité'
+e;9745691;'ne pas aimer le poisson';1;26
+e;5334011;'attraper un poisson';1;0
+e;9448020;'à l'unilatéral';1;0
+e;3112725;'loup grillé au fenouil';1;0
+e;5370111;'pavé de poisson au four';1;2
+e;5370112;'pavé de lieu jaune façon hongroise';1;0
+e;5370155;'pavé de truite';1;0
+e;9446810;'habiller un poisson';1;0
+e;14585967;'cuisson à l'unilatérale';1;10
+e;14668641;'poux de mer';1;2
+e;14874935;'bar à sushis';1;0
+e;16160646;'filets de maquereau';1;8
+e;16160651;'dessaler la morue';1;6
+e;16165999;'papillote de bar aux petits légumes';1;0
+e;4114;'tacon';1;50
+e;15046741;'en:red salmon';1;0
+e;16068394;'en:thick slice of salmon';1;0
+e;16165997;'lotte en papillote';1;0
+e;260926;'conserve de poisson';1;102
+e;257821;'sardine grillée';1;50
+e;15046739;'en:Oncorhynchus nerka';1;0
+e;9264356;'en:stream';1;0
+e;3176225;'Saumon de Llyn Llyn';777;0
+e;15083400;'en:freshwater fish';1;0
+e;153477;'poisson d'eau douce';1;146
+e;15414683;'en:oily fish';1;0
+e;15490316;'en:Leave the slices of salmon to marinade for 24 hours.';1;0
+e;2346186;'poissonnier>65750';1;4;'poissonnier>commerçant'
+e;310326;'Oncorhynchus keta';777;50
+e;1086913;'stroganina';1;0
+e;15490317;'en:Marinade the slices of salmon for 24 hours.';1;0
+e;5949273;'Oncorhynchus gilae';777;0
+e;5903021;'régime sans poisson';1;0
+e;176220;'vitamine B6';1;54
+e;250695;'carpaccio de poisson';1;6
+e;261738;'viande>20965';1;408;'viande>nourriture'
+e;159613;'pêche en rivière';1;50
+e;265785;'élevage de poissons';1;50
+e;269577;'tacon>3361';1;50;'tacon>saumon'
+e;3744408;'gravlax de Saumon';1;0
+e;15247742;'en:art of cooking';1;4
+e;217397;'Chinook';666;50
+e;12503940;'en:river';1;0
+e;250997;'thon en boîte';1;116
+e;1395235;'être>171870';1;0;'être>Nom:'
+e;7256380;'en:zoology';1;0
+e;13799537;'oncorhynchus tshawytscha';1;0
+e;13782846;'oncorhynchus keta';1;0
+e;2499187;'anet';1;0
+e;140100;'viande';1;5110
+e;3744086;'pâte Oseille Cresson et Saumon Fumé';1;0
+e;17478116;'::>66:116477>24:17477788';8;0;'personne [peut] faire mariner [objet] saumon'
+e;14334459;'::>66:49154>26:18699';8;0;'rivière [se faire] remonter'
+e;13777887;'oncorhynchus gorbuscha';1;0
+e;15014191;'::>66:15014187>15:149733';8;0;'personne>être humain [peut] faire cuire [objet] saumon [lieu] poële'
+e;15014193;'::>66:15014187>15:119686';8;0;'personne>être humain [peut] faire cuire [objet] saumon [lieu] poêle'
+e;37752;'veau-marin';1;50
+e;16600454;'::>66:116477>24:15014185';8;0;'personne [peut] faire cuire [objet] saumon'
+e;16601795;'::>66:116477>24:30536';8;0;'personne [peut] faire cuire'
+e;15212241;'en:Salmon was on special offer at the supermarket.';1;0
+e;17526005;'::>66:17526004>15:9190';8;0;'personne>être humain [peut] griller [objet] saumon [lieu] four'
+e;17542461;'::>66:17542460>15:9190';8;0;'cuisinière [peut] griller [objet] saumon [lieu] four'
+e;73126;'requin';1;654
+e;3318579;'makis Chèvre-Tomates séchées et Saumon fumé-concombre';1;0
+e;6800353;'en:nervous system';1;0
+e;13785044;'vitamine b6';1;0
+e;15397290;'en:fish dish';1;0
+e;30942;'omble';1;60
+e;14951878;'en:brook trout';1;0
+e;9107311;'en:salvelinus fontinalis';1;0
+e;15078190;'en:vitamin B6';1;0
+e;15335832;'en:salmon tartare';1;0
+e;15328042;'en:organa';1;0
+e;15238421;'en:salmon brochette';1;0
+e;149243;'musculeuse';1;50
+e;15526700;'en:muscular coat';1;0
+e;15202063;'en:fine dining';1;0
+e;15088586;'en:systema nervosum';1;0
+e;15446416;'en:mi-cuit';1;0
+e;15446417;'en:semi-cooked';1;0
+e;15446418;'en:partially cooked';1;0
+e;80755;'polyphagie';1;50
+e;216142;'Friskies';666;12
+e;145960;'détaillé';1;3442
+e;145930;'argentine';1;62
+e;1709894;'rose>171869';1;0;'rose>Adj:'
+e;17526007;'::>66:116477>24:17526002';8;0;'personne [peut] griller [objet] saumon'
+e;212746;'choucroute garnie';666;30
+e;60807;'parr';1;50
+e;16637;'salmoniculteur';1;50
+e;16034830;'salmine';1;0
+e;112398;'saumoneau';1;50
+e;2081634;'taquon';1;0
+e;16053385;'oncorhynque';1;0
+e;50469;'petit-suisse';1;54
+e;16601119;'::>66:116477>24:257893';8;0;'personne [peut] faire mariner'
+e;14959530;'en:pinkish';1;0
+e;14959531;'en:rosy';1;0
+e;9168582;'en:smoked salmon';1;0
+e;15056381;'en:lox';1;0
+e;15491154;'en:metal industry';1;0
+e;15289319;'en:fishculture';1;0
+e;15289320;'en:pisciculture';1;0
+e;15289321;'en:fish-culture';1;0
+e;15289322;'en:fishfarming';1;0
+e;15299674;'en:metalbashing';1;0
+e;15299675;'en:metal bashing';1;0
+e;8525077;'en:metallurgy';1;0
+e;15094630;'en:pectoral fin';1;0
+e;15563864;'en:catch fish';1;0
+e;15237480;'en:to catch fish';1;0
+e;173609;'umble';1;50
+e;15088064;'en:omega-3';1;0
+e;7053316;'en:metazoa';1;0
+e;15199018;'en:river fish';1;0
+e;15080160;'en:animalia';1;0
+e;16601120;'::>13:116477>29:257893';8;0;'faire mariner [sujet] personne'
+e;86916;'fromage blanc';1;264
+e;14606397;'organisme hétérotrophe';1;2
+e;65083;'torrent';1;268
+e;66842;'verrine';1;108
+e;272327;'halieuculture';777;50
+e;127699;'aquiculture';1;52
+e;34415;'Iroquois';1;50
+e;135068;'apéritif';1;1038
+e;110915;'apéro';1;508
+e;273707;'animal transgénique';777;50
+e;90912;'animaux transgéniques';1;50
+e;166471;'vitamine D';1;68
+e;273949;'vitamine d';777;50
+e;114696;'Durance';1;52
+e;213167;'Recul des glaciers depuis 1850';1;50
+e;274517;'requin-taupe du Pacifique';777;50
+e;274518;'Lamna ditropis';777;50
+e;274550;'poisson transgénique';777;50
+e;138960;'Écaille';1;50
+e;75436;'surpêche';1;58
+e;2060;'tilapia';1;64
+e;274767;'Saumon du savoir';777;50
+e;261916;'Salmo trutta';1;50
+e;176028;'truite fario';1;10
+e;274753;'esturgeons';777;50
+e;274754;'Acipenseridae';777;50
+e;274742;'anatomie des poissons';777;50
+e;274965;'mer de Norvège';1;50
+e;275304;'phoque commun';1;50
+e;64938;'veau marin';1;50
+e;114202;'pesticide';1;448
+e;55572;'steak';1;576
+e;21940;'beefsteak';1;58
+e;18094;'bifteck';1;94
+e;123340;'voilure';1;346
+e;275861;'l'aile';777;1668
+e;61796;'salmoniculture';1;54
+e;1400;'croque-monsieur';1;102
+e;276723;'croquemonsieur';777;50
+e;20101;'croque';1;56
+e;3176832;'Wye';777;0
+e;228251;'Purina';1;50
+e;88585;'bouchot';1;52
+e;6139;'bouchoteur';1;50
+e;279658;'méthylmercure';777;50
+e;255569;'méthyl-mercure';1;50
+e;213240;'flétan du Groenland';1;50
+e;279681;'Reinhardtius hippoglossoides';777;50
+e;213242;'turbot américain';1;50
+e;20877;'civelle';1;62
+e;27962;'pibale';1;50
+e;52773;'bicyclette';1;728
+e;28421;'bicycle';1;60
+e;180189;'anisakiase';1;50
+e;214171;'fish and chips';1;86
+e;281147;'fish supper';777;50
+e;177474;'cacheroute';1;18
+e;281335;'kashrout';777;58
+e;34174;'casherout';1;50
+e;77858;'kipper';1;52
+e;212545;'potamodrome';1;50
+e;114510;'Oussouri';1;50
+e;282935;'pôchouse';777;50
+e;149580;'pauchouse';1;50
+e;106511;'pochouse';1;50
+e;36389;'poux';1;157
+e;52219;'Chinooks';1;50
+e;30316;'cacher';1;1197
+e;50531;'fumage';1;66
+e;33985;'koulibiac';1;52
+e;242690;'cténophores';1;50
+e;285160;'ctenophora';777;50
+e;51882;'cténaires';1;50
+e;171027;'turbot de Terre-Neuve';1;50
+e;286898;'22 août';777;50
+e;60328;'Nature';1;2265
+e;225852;'vieux clou';1;50
+e;62657;'Jack London';1;56
+e;289505;'John Griffith Chaney';777;50
+e;191256;'chat marin';1;50
+e;165864;'velo';1;52
+e;83469;'bichique';1;50
+e;68572;'Bornholm';1;50
+e;232359;'Gaspésie';666;50
+e;106958;'Irlande';1;3004
+e;158679;'irlandaise';1;1554
+e;130322;'cténaire';1;50
+e;76800;'pisciculteur';1;80
+e;108586;'maquereau';1;486
+e;224197;'maquereau bleu';1;50
+e;224198;'maquereau commun';1;50
+e;10954;'sénescence';1;68
+e;11742;'vieillissement';1;336
+e;13017;'appâter';1;126
+e;142545;'Appât';1;50
+e;14912;'fumaison';1;52
+e;19066;'gué';1;76
+e;120470;'caroténoïdes';1;54
+e;23432;'caroténoïde';1;56
+e;26579;'catadrome';1;50
+e;39650;'sushi';1;282
+e;296271;'shari';777;50
+e;296272;'neta';777;50
+e;41205;'Navarrenx';1;50
+e;47685;'Aberdeen';1;50
+e;55334;'civelles';1;50
+e;57738;'lac des Settons';1;50
+e;58678;'Brioude';1;50
+e;59587;'Sioule';1;50
+e;64554;'naturellement';1;2548
+e;66942;'lac Champlain';1;50
+e;67631;'Micmacs';1;50
+e;298307;'Mi'kmaq';777;50
+e;68089;'Petsamo';1;50
+e;298365;'Petchenga';777;50
+e;298756;'sami';777;50
+e;72598;'Lapons';1;52
+e;73510;'aquaculteur';1;52
+e;299524;'Bølling';777;50
+e;81922;'Bölling';1;50
+e;95283;'calcitonine';1;52
+e;300670;'flottage du bois';777;50
+e;82002;'drave';1;50
+e;95677;'flottage';1;52
+e;100825;'astaxanthine';1;50
+e;115021;'Haïdas';1;50
+e;115547;'Kamtchatka';1;50
+e;63348;'marronnage';1;54
+e;121354;'féral';1;50
+e;121530;'Salmon';1;52
+e;122257;'boucholeur';1;50
+e;160411;'salade russe';1;50
+e;169495;'régime hydrologique';1;50
+e;305681;'régime hydrologique naturel';777;50
+e;306056;'acides gras essentiels';777;50
+e;306057;'indispensables';777;50
+e;177121;'acide gras essentiel';1;50
+e;273800;'quasi menacé';777;50
+e;183106;'manchot papou';1;50
+e;306135;'Pygoscelis papua';777;50
+e;168159;'aiguillat commun';1;2
+e;306875;'aiguillat tacheté';777;50
+e;26469;'aiguillat';1;52
+e;177190;'balyk';1;50
+e;209276;'train de bois';1;50
+e;220978;'cacherouth';1;60
+e;222487;'Haudenosaunee';1;50
+e;170944;'grande alose';1;50
+e;237012;'diadrome';1;50
+e;309321;'État de Washington';1;50
+e;213241;'flétan noir';1;50
+e;221045;'furikake';1;8
+e;311456;'gravlaks';777;50
+e;311457;'gravad laks';777;50
+e;311458;'graavilohi';777;50
+e;311459;'graflax';777;50
+e;311460;'gravelax';777;50
+e;237011;'océanodrome';1;50
+e;265171;'écaille placoïde';1;6
+e;312137;'cuisine algérienne';777;50
+e;312787;'mer du Groenland';1;50
+e;330074;'espace naturel';1;50
+e;329647;'cténophore';1;50
+e;392680;'Lepeophtheirus salmonis';777;50
+e;393829;'cuisine russe';1;70
+e;437824;'sauce beurre rouge';1;50
+e;380648;'souris transgénique';1;50
+e;293810;'méandre de Queuille';777;50
+e;389159;'écaille cycloïde';1;50
+e;399313;'vélos';1;64
+e;407303;'Acipenser';1;50
+e;410631;'micmaque';1;50
+e;416329;'Nageoire';1;50
+e;418120;'Caviar';1;50
+e;419462;'pizzas';1;54
+e;433843;'Pou';1;50
+e;461764;'Tilapia';1;50
+e;462132;'Salmo salar';777;50
+e;128439;'superprédateur';1;56
+e;280744;'prédateur alpha';777;50
+e;280745;'apex prédateur';777;50
+e;280746;'alpha prédateur';777;50
+e;581989;'Samis';777;0
+e;111887;'cobalamine';1;50
+e;166472;'vitamine B';1;60
+e;95983;'niacine';1;62
+e;176225;'vitamine PP';1;12
+e;242575;'pâte à pizza';1;28
+e;599594;'Lutin';1;0
+e;22471;'aquacole';1;50
+e;48784;'Villard-de-Lans';1;50
+e;816846;'salade Olivier';1;0
+e;308547;'naturels';777;2885
+e;381718;'sulfate de protamine';1;50
+e;404919;'iroquoise';1;50
+e;152432;'steack';1;156
+e;53120;'cagot';1;60
+e;285301;'cagote';777;52
+e;1370135;'agote';777;0
+e;279511;'données insuffisantes';777;50
+e;324956;'truite brune';1;50
+e;168166;'chat de mer';1;50
+e;173587;'caqueux';1;50
+e;1586787;'Salvelinus fontinalis';777;0
+e;1595152;'souchi';777;0
+e;324960;'truite de lac';1;50
+e;1573231;'oméga 3';1;0
+e;168175;'lamproie marine';1;50
+e;709087;'Petromyzon marinus';777;0
+e;709088;'Petromyzon';1;0
+e;1655155;'souriquois';1;0
+e;296416;'Coregonus';777;50
+e;1783638;'corégone oxyrhynque';1;0
+e;176065;'acide nicotinique';1;6
+e;44615;'Skye';1;50
+e;1814280;'île Manitoulin';1;0
+e;1815178;'Haida';1;0
+e;1850064;'acide eicosapentaénoïque';1;0
+e;1833102;'EPA';1;2
+e;1859117;'acide icosapentaénoïque';777;0
+e;1859118;'acide timnodonique';777;0
+e;1885138;'poissons migrateurs';1;0
+e;9653;'naturelle';1;3496
+e;1395798;'oukha';1;54
+e;428094;'Wupper';1;50
+e;1650851;'Wipper';777;0
+e;2144681;'chinooks';2;0
+e;2059275;'lapons';2;0
+e;2362968;'alutiiq';1;0
+e;2362969;'Yupik du Pacifique';777;0
+e;2362970;'Sugpiaq';777;0
+e;2365734;'haïda';1;0
+e;2365302;'Yupiks';1;0
+e;2366576;'yup'ik';777;0
+e;2366577;'yupiit';777;0
+e;264288;'signe de Babinski';1;52
+e;594059;'bloc de branche gauche';1;0
+e;2368541;'nerka';1;0
+e;2396298;'Amqui';1;0
+e;2397040;'Salmbach';1;0
+e;2400029;'méthoprène';1;0
+e;2401904;'youpik';1;0
+e;2409227;'Saami';1;0
+e;2588744;'Dissostichus';777;0
+e;2588745;'légines';777;0
+e;2435168;'diflubenzuron';1;4
+e;2460404;'senescence';1;22
+e;272186;'En danger';777;50
+e;2509456;'Vielsalm';1;0
+e;1814522;'élevages en mer';1;0
+e;398671;'naturelles';1;2878
+e;2952638;'féralisation';777;0
+e;2601675;'Quasi menacé';777;0
+e;2956492;'Crestian';1;0
+e;211563;'poissons d'eau douce';1;50
+e;2872080;'Préoccupation mineure';777;0
+e;3309995;'Saumonette';777;0
+e;3384563;'Guic';777;0
+e;17413;'laitance';1;52
+e;3513652;'Élorn';777;0
+e;1814302;'île Kodiak';1;0
+e;3602043;'Ctenophora';1;0
+e;5537339;'Keropok';777;0
+e;3725163;'Corégone oxyrhynque';777;0
+e;5624081;'baie Egesik';777;0
+e;5002471;'Kamchatka';777;0
+e;14918935;'en:alevin';1;0
+e;5539090;'balclutha';777;0
+e;70405;'migration';1;1529
+e;217183;'cuisine japonaise';1;252
+e;5561063;'rôle de l'alimentation dans la prévention des cancers';777;0
+e;5619649;'aquaculture du tilapia';777;0
+e;5619650;'élevage du tilapia';777;0
+e;5619651;'tilapiculture';777;0
+e;5621610;'cuisine acadienne';777;0
+e;5621633;'cuisine bretonne';777;0
+e;127547;'grillade';1;478
+e;20399;'lasagnes';1;122
+e;5622070;'pain polaire';777;0
+e;5622878;'rambol';777;0
+e;5623034;'kasuzuke';777;0
+e;5624256;'chutes de Kettle';777;0
+e;5624387;'rivière Eek';777;0
+e;5627686;'Squalus acanthias';777;0
+e;3445940;'Osmerus';1;0
+e;5629747;'Scomber scombrus';777;0
+e;18412;'élevage';1;992
+e;5681529;'Francis Trevelyan Buckland';777;0
+e;5624458;'Gakona';777;0
+e;132476;'rogue';1;60
+e;5786843;'cuisine comtadine et vauclusienne';777;0
+e;1973061;'sauce vierge';1;0
+e;5795641;'café Pouchkine de Moscou';777;0
+e;5795703;'Cage Brasserie Sportive';777;0
+e;5797319;'chassagne-montrachet';777;0
+e;5800903;'cuisine malawite';777;0
+e;5801029;'chazuke';777;0
+e;5801030;'ochazuke';777;0
+e;5801298;'delpeyrat';777;0
+e;239865;'fumet de poisson';1;2
+e;5804286;'gastronomie fuégienne';777;0
+e;5804811;'goldwasser';777;0
+e;5804812;'Danziger Goldwasser';777;0
+e;5807795;'koshu';777;0
+e;245290;'Le Train bleu';1;52
+e;5808231;'troisgros';777;0
+e;5811705;'yusheng';777;0
+e;5811706;'lo hei';777;0
+e;176218;'vitamine B3';1;56
+e;176216;'vitamine B12';1;60
+e;216936;'panini';1;76
+e;1963162;'cottage pie';1;0
+e;5828643;'salade californienne';777;0
+e;5835766;'certification sylvicole ATFS';777;0
+e;5835804;'game ranching';777;0
+e;173347;'Papou';1;2
+e;5892691;'Phoca vitulina';777;0
+e;5892840;'Zalophus californianus';777;0
+e;5892841;'Otarie de Californie';777;0
+e;5894229;'Jökulsárlón';777;0
+e;5895259;'smörgåsbord';777;0
+e;5897872;'ration alimentaire de l'armée américaine';777;0
+e;5814007;'Goldwasser';1;0
+e;5900785;'Saumon d'eau douce';777;0
+e;5901089;'Alosa alosa';777;0
+e;5926731;'désastre d'Escuminac';777;0
+e;5941958;'Classe Som';777;0
+e;69125;'Corail';1;50
+e;5945741;'quatre éléments';777;0
+e;5949532;'Coregonus oxyrinchus';777;0
+e;5878898;'Wanapums';1;0
+e;5971976;'Wanapams';777;0
+e;5971977;'Sokulks';777;0
+e;5980924;'réserves fauniques';777;0
+e;6070144;'Ätran';777;0
+e;118502;'abricot';1;622
+e;6700431;'cuisine irlandaise';777;0
+e;9949463;'22 aout';777;0
+e;2359024;'cacherout';1;12
+e;406010;'Blaine';1;50
+e;9572799;'Ian Anderson';777;0
+e;9572800;'Martin Barre';777;0
+e;9572801;'David Goodier';777;0
+e;9572802;'John O'Hara';777;0
+e;9573123;'Doane Perry';777;0
+e;168167;'saumonette';1;50
+e;114290;'Aran';1;50
+e;4277934;'Harana';1;0
+e;135646;'Joyeuse';1;50
+e;9960604;'parc national du Fjord-du-Saguenay';777;0
+e;9962578;'Canyon City';777;0
+e;10063264;'Panopea abrupta';777;0
+e;10063265;'panope du Pacifique';777;0
+e;10083279;'banquet des maires de 1900';777;0
+e;10083280;'à l'occasion de l'exposition universelle de 1900';777;0
+e;10095916;'mer d'Okhotsk';777;0
+e;10139841;'John Nathan Cobb';777;0
+e;10158973;'causapscal';777;0
+e;10158996;'La Matapédia';777;0
+e;10158998;'La Mitis';777;0
+e;10191184;'centrale de la Mitis-1';777;0
+e;10787730;'listuguj';777;0
+e;10385376;'Goodison Park';777;0
+e;409067;'Champ';1;388
+e;435524;'Kinderdijk';1;50
+e;10440786;'Kobushi';1;0
+e;10462092;'expédition Lewis et Clark';777;0
+e;10462094;'expédition de Lewis et Clark';777;0
+e;78129;'Aïnous';1;50
+e;6069163;'rivière Ristigouche';777;0
+e;6065943;'Restigouche';777;0
+e;10583622;'abri du poisson';777;0
+e;10599812;'agriculture en Irlande';777;0
+e;9624;'Elbe';1;52
+e;10743992;'Francisco Álvarez-Cascos Fernández';777;0
+e;31548;'Cortes';1;54
+e;10748037;'armoiries du Nouveau-Brunswick';777;0
+e;10778213;'réserve naturelle nationale de la petite Camargue alsacienne';777;0
+e;10762823;'Nashwaak';1;0
+e;10344577;'usk';777;0
+e;1812566;'Leif Erikson';777;0
+e;10874534;'Des saumons dans le désert';777;0
+e;10874535;'Partie de pêche au Yémen';777;0
+e;10906451;'Terence Hanbury White';777;0
+e;8571113;'Vulnérable';777;0
+e;10512449;'Namsen';777;0
+e;5624222;'Fleuves';777;0
+e;301156;'Glomma';777;50
+e;9958568;'Numedalslågen';777;0
+e;9958569;'Tenojoki';777;0
+e;9958570;'Altaelva';777;0
+e;9958571;'Gaula';777;0
+e;10943259;'Sør-Trøndelag';777;0
+e;1564;'Klamath';1;50
+e;10933675;'rivière malheur';777;0
+e;10933698;'rivière Sandy';777;0
+e;10936729;'ENSO';777;0
+e;10970391;'économie du Chili';777;0
+e;138498;'golfe d'Alaska';1;50
+e;10987240;'golfe de l'Alaska';777;0
+e;10987279;'histoire des Premières Nations';777;0
+e;10987412;'colonisation de l'Islande';777;0
+e;10846451;'oblast de Magadan';777;0
+e;39864;'Allier';1;2512
+e;27919;'Alagnon';1;50
+e;11003507;'nageoire molle ou adipeuse';777;0
+e;11003508;'pédoncule caudal ou queue';777;0
+e;214630;'nageoire caudale';1;6
+e;258617;'nageoire anale';1;52
+e;11003509;'nageoire ventrale ou pelvienne';777;0
+e;83866;'fretin';1;54
+e;123207;'nourrain';1;66
+e;3796364;'Onneiouts';1;0
+e;278569;'choucroute d'Alsace';777;50
+e;6348197;'animal génétiquement modifié';1;0
+e;11077812;'Tiguil';777;0
+e;11078165;'Vefsna';777;0
+e;11077823;'Varzouga';777;0
+e;6530781;'Anisakis';1;0
+e;11080517;'Anisakidae';777;0
+e;11105599;'Parc naturel régional Loire-Anjou-Touraine';777;0
+e;11109510;'rivière Ericht';777;0
+e;6145;'Severn';1;50
+e;4063288;'Bann';1;0
+e;11109516;'rivière Shiel';777;0
+e;11120073;'culture nauruane';777;0
+e;244701;'tarte flambée';1;4
+e;5827657;'flàmmenküeche';777;0
+e;568640;'Kodiak';1;50
+e;3767212;'cuisine californienne';1;0
+e;11150810;'piège écologique';777;0
+e;11172876;'Proto-Indo-Européens';777;0
+e;11174781;'L'Île aux Hérons';777;0
+e;11184275;'La préhistoire et la protohistoire du Québec';777;0
+e;11208966;'Eau et Rivières de Bretagne';777;0
+e;11208967;'ERB';777;0
+e;11208968;'Eau et Rivières';777;0
+e;11218754;'Lion de mer de Californie';777;0
+e;92493;'nyctalopie';1;52
+e;11233424;'rivière Nicolet';777;0
+e;11287815;'gorge du Columbia';777;0
+e;11287816;'gorges du Columbia';777;0
+e;11287817;'Columbia Gorge National Scenic Area';777;0
+e;11343193;'Jack London ou John Griffith Chaney';777;0
+e;11353582;'Myxobolus cerebralis';777;0
+e;11353583;'Myxosoma cerebralis Triactinomyxon dubium Triactinomyxon gyrosalmo';777;0
+e;11353584;'maladie du tournis';777;0
+e;2416362;'Labeyrie';1;0
+e;9745589;'Troisgros';1;0
+e;2571066;'Illhaeusern';1;0
+e;11494445;'David Starr Jordan';777;0
+e;11539465;'Myxozoa';777;0
+e;11572434;'Holsteinborg';777;0
+e;11572531;'ketchikan';777;0
+e;11572793;'île du Prince de Galles';777;0
+e;11694837;'Charles Henry Gilbert';777;0
+e;35530;'Arques';1;50
+e;11831927;'poisson génétiquement modifié';777;0
+e;60098;'appât';1;262
+e;11577114;'Ketchikan';1;0
+e;14225480;'Migration des poissons';777;0
+e;3864737;'Ramales de la Victoria';1;0
+e;2497859;'La Roche-Maurice';1;0
+e;244702;'flammekueche';1;52
+e;12267245;'Flàmmaküacha';777;0
+e;154465;'pêche à la ligne';1;210
+e;6064901;'Jeux olympiques de 1900';777;0
+e;12978181;'Cessna LC-126';777;0
+e;10556106;'Causapscal';1;0
+e;11009420;'Raspes';1;0
+e;79993;'anglais';1;3833
+e;5814639;'Sushi';1;0
+e;10673200;'Croque-monsieur';777;0
+e;14166374;'zec de la Rivière-Laval';777;0
+e;9699182;'L98';777;0
+e;115112;'Luna';1;50
+e;115620;'Yom Kippour';1;54
+e;302446;'Jour du Grand Pardon';777;50
+e;407531;'essentiels';1;54
+e;14473503;'non indispensables ou bien non essentiels';777;0
+e;5562349;'Balclutha';777;0
+e;146045;'Carpaccio';1;50
+e;5990018;'atholville';777;0
+e;5990019;'Tjikog';777;0
+e;9959636;'Poissonnerie';1;0
+e;14467125;'Rivière Salmon';777;0
+e;14467126;'grande rivière Salmon';777;0
+e;14482822;'tétraterpènoides';777;0
+e;3748043;'chirashizushi';777;0
+e;14483089;'chirashi sushi';777;0
+e;3747281;'chirashi';1;0
+e;5536212;'Cette section ne cite pas suffisamment ses sources';777;0
+e;14484513;'équipement de signalisation';777;0
+e;14486584;'nature des espèces';777;0
+e;350752;'en gras';1;50
+e;14488750;'Basses côtes';777;0
+e;115614;'hyperphagie';1;64
+e;12282755;'ou la suralimentation';777;0
+e;14531631;'shabbat shabbaton';777;0
+e;75811;'interdit';1;3095
+e;14531632;'Erev Yom Kippour';777;0
+e;14531633;'Gmar 'Hatima Tova';777;0
+e;14530678;'poux des plantes';777;0
+e;14571675;'conditionnellement indispensables';777;0
+e;14580234;'Aberdon';777;0
+e;5564952;'Cépage de cuve';777;0
+e;5564953;'Cépage de table';777;0
+e;305679;'bent';777;50
+e;14595702;'o-bent';777;0
+e;10160249;'Cette section peut contenir un travail inédit ou des déclarations non vérifiées';777;0
+e;2397535;'La Roche';1;0
+e;14742973;'Elbe supérieur';777;0
+e;14742974;'Elbe moyen';777;0
+e;14742975;'Elbe inférieur';777;0
+e;5535122;'Grandes familles de biomolécules';777;0
+e;287069;'Au Canada';777;50
+e;14869729;'D.S.Jord';777;0
+e;280780;'Consulter la liste des abréviations d'auteur';777;50
+e;14893315;'Exemples de caroténoïdes rouges et roses présents dans les aliments';777;0
+e;14893316;'Exemples de caroténoïdes jaunes et oranges présents dans les aliments';777;0
+e;173943;'bento';1;16
+e;15039565;'nuisances écologiques';777;0
+e;15039566;'Pollution génétique';777;0
+e;14481206;'cinétique environnementale et biomagnification du mercure';777;0
+e;231012;'faibles';1;2630
+e;154086;'meilleurs';1;3070
+e;14776522;'Yvan Adam';777;0
+e;116025;'Arlon';1;52
+e;15705636;'Acipenserinae';777;0
+e;15705637;'Scaphirhynchinae';777;0
+e;187257;'lac Majeur';1;50
+e;15773071;'berri rouge';777;0
+e;9985744;'Espèces menacées';777;0
+e;15775039;'Espèces selon le type d'habitat';777;0
+e;15775040;'Les variétés';777;0
+e;15775041;'leur habitat';777;0
+e;15775042;'L'activité de la pêche';777;0
+e;10117115;'Eureka';1;0
+e;230581;'salade César';1;12
+e;30472;'titres';1;3409
+e;66372;'texte';1;3570
+e;56362;'gras';1;2597
+e;136284;'italique';1;62
+e;191712;'citations';1;54
+e;9634975;'listes à puces';777;0
+e;146823;'tableaux';1;2487
+e;15964266;'Le méandre de Queuille';777;0
+e;6065722;'viaduc des Fades';777;0
+e;15964267;'Château-Rocher';777;0
+e;15964269;'pont de Menat';777;0
+e;15964270;'abbaye clunisienne de Menat';777;0
+e;168197;'truite de mer';1;50
+e;141604;'rive';1;3077
+e;750240;'Histogramme de l'évolution démographique';777;0
+e;2100287;'recyclée';2;0
+e;16133302;'réserve aquatique de la Vallée-de-la-Rivière-Sainte-Marguerite';777;0
+e;9267656;'Contenus de qualité';777;0
+e;9267657;'Bons contenus';777;0
+e;5951228;'Sélection';1;0
+e;411314;'Programme';1;1431
+e;1980587;'abolit';2;0
+e;59082;'attentat';1;1673
+e;12540937;'rivière Sainte-Marguerite';777;0
+e;228019;'glissement de terrain';1;18
+e;16159179;'Panopea generosa';777;0
+e;11952;'blini';1;58
+e;16315002;'parenki';777;0
+e;3373743;'syrniki';1;0
+e;2465297;'Hastingues';1;0
+e;16320272;'La Déambulation';777;0
+e;51177;'Clyde';1;54
+e;410087;'Histogramme';1;50
+e;13396144;'Sisimiut';777;0
+e;42321;'suralimentation';1;54
+e;217188;'pâtes farcies';1;50
+e;411902;'Figure';1;50
+e;16415890;'Capitole de l'État de l'Oregon';777;0
+e;16576269;'Exemples de caroténoïdes jaunes et orange présents dans les aliments';777;0
+e;16577919;'borscht vert';777;0
+e;16577920;'soupe à l'oseille';777;0
+e;16577925;'oladi';777;0
+e;22004;'Wuppertal';1;98
+e;59936;'AOC';1;2161
+e;139752;'Blanc';1;2656
+e;142859;'Village';1;2150
+e;16585413;'mi'gmaq';777;0
+e;16585414;'L'nuk';777;0
+e;14656644;'Onamag';777;0
+e;14656645;'Pouwowin';777;0
+e;14656646;'Sketekemouc';777;0
+e;105739;'avalaison';1;52
+e;125527;'Sunderland';1;50
+e;3318760;'oyakodon';1;0
+e;208456;'steak tartare';1;138
+e;16779512;'sponda';777;0
+e;303218;'III';777;3874
+e;1655856;'smoltification';1;0
+e;2286473;'smolts';2;0
+e;16793899;'Saumon fumé';777;0
+e;415227;'Reinhardtius';1;50
+e;16796891;'Histoire de la cuisine japonaise';777;0
+e;16794346;'Flammekueche';1;0
+e;165678;'nature humaine';1;58
+e;10933686;'Slocan';777;0
+e;16810882;'EPA (pour EicosaPentaénoïque Acide)';1;0
+e;16838373;'ECA2';1;0
+e;1850176;'acide érythrorbique';1;0
+e;16810873;'acide éthanedicarboxylique';1;0
+e;1832760;'acide eicosatétraènoïque';1;0
+e;16811358;'acide épsilon-aminocaproïque';1;0
+e;333476;'acide éthanoïque';1;50
+e;333475;'acide érucique';1;50
+e;16811308;'acide éicosatétraénoïque';1;0
+e;223903;'acide élaïdique';666;50
+e;15016448;'acide éicosapentaénoïque';777;0
+e;16830709;'TCT';1;0
+e;16182579;'Capitale administrative';777;0
+e;16979502;'Raions';777;0
+e;69445;'Magadan';1;50
+e;11011520;'Le Figaro Économie';777;0
+e;17132648;'La première descente';777;0
+e;17132649;'La deuxième descente';777;0
+e;17132651;'L'appel';777;0
+e;17132726;'Histoire précoloniale du Québec';777;0
+e;17132849;'Le procès';777;0
+e;2514660;'onigiri';1;0
+e;26784;'Mauléon-Licharre';1;50
+e;10789459;'Slaney';1;0
+e;14734525;'Ouvrages généraux';777;0
+e;14734526;'Monographies et articles';777;0
+e;5620267;'cuisine canadienne';777;0
+e;2495038;'marronage';1;0
+e;17409498;'Nuisances écologiques';777;0
+e;14930589;'en:coulibiac';1;0
+e;14930590;'en:koulibiac';1;0
+e;14930591;'en:koulibiak';1;0
+e;14920402;'en:apéritif';1;0
+e;177238;'filet américain';1;50
+e;14963778;'en:tartare';1;0
+e;7186991;'en:nature';1;0
+e;14928028;'en:Chinook';1;0
+e;14924284;'en:blini';1;0
+e;3346300;'E375';1;0
+e;114950;'esturgeon';1;140
+e;145043;'pâté';1;364
+e;85355;'lutin';1;332
+e;68256;'vélo';1;3092
+e;137784;'Tamise';1;84
+e;86661;'aquiculteur';1;50
+e;143187;'pêcheur';1;454
+e;426495;'Lotte';1;52
+e;6037;'poissonneux';1;60
+e;2440596;'escalopine';1;0
+e;2442520;'guimoisseron';1;0
+e;1500;'portage';1;76
+e;24743;'mollusque';1;448
+e;2007;'homard';1;336
+e;6023;'chester';1;50
+e;155489;'ecrevisse';1;50
+e;217619;'SAUVAGE';1;50
+e;3319595;'POU';1;0
+e;244857;'rivière Rouge';666;50
+e;35428;'flamant';1;56
+e;158578;'fruits de mer';1;94
+e;111059;'casher';1;60
+e;88091;'kasher';1;68
+e;146958;'cascher';1;50
+e;176955;'cachère';1;50
+e;173480;'Washington, District de Columbia';1;50
+e;105057;'strip-teaseuse';1;118
+e;28447;'sage-femme';1;128
+e;252829;'Washington, DC';1;50
+e;148791;'kascher';1;66
+e;146974;'cawcher';1;50
+e;317777;'Pediculus humanus';1;10
+e;179984;'pediculus humanus';1;50
+e;270986;'Washington DC';1;50
+e;312704;'Washington D.C.';1;50
+e;152828;'stripteaseuse';1;60
+e;606875;'cru>171870';1;0;'cru>Nom:'
+e;216120;'recette de cuisine';1;140

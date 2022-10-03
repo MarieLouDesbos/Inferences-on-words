@@ -1,0 +1,2754 @@
+e;8254;'bureau';1;3071
+e;239128;'_COM';36;50
+e;2983124;'_SW';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;70283;'travail';1;5146
+e;69550;'travailler';1;3574
+e;91801;'écrire';1;4537
+e;55325;'téléphoner';1;702
+e;94978;'ordinateur';1;3892
+e;89591;'table';1;4021
+e;45179;'maison';1;12578
+e;15509;'stylo';1;1842
+e;36899;'meuble';1;1783
+e;213914;'bureau>36899';1;86;'bureau>meuble'
+e;132995;'immeuble';1;1896
+e;103389;'papier';1;3174
+e;16343396;':r431507572';10;0
+e;43253;'dormir';1;6578
+e;132857;'chaise';1;2282
+e;223173;'_POL-POS';36;50
+e;24814;'cabinet';1;2593
+e;16265635;':r426604194';10;0
+e;17590;'bosser';1;492
+e;30030;'entreprise';1;3233
+e;64226;'administration';1;2038
+e;113329;'guichet';1;364
+e;162466;'lieu de rencontre';1;76
+e;36906;'rédiger';1;923
+e;144102;'téléphone';1;2428
+e;7844;'avoir un plomb de sauté dans le bureau du directeur';1;50
+e;77395;'bureau de tabac';1;158
+e;152891;'bureau de vote';1;82
+e;153740;'ordinateur de bureau';1;70
+e;185713;'avoir un second bureau';1;50
+e;197180;'bureau de conciliation';1;50
+e;197181;'bureau de fret';1;50
+e;197182;'bureau de réception';1;52
+e;197184;'bureau télégraphique';1;50
+e;163818;'bureau d'études';1;52
+e;165643;'bureau ovale';1;106
+e;54167;'bureau des longitudes';1;52
+e;87564;'garçon de bureau';1;50
+e;156480;'bureau de poste';1;104
+e;181262;'bureau de change';1;50
+e;181263;'bureau des dépêches';1;50
+e;181264;'bureau d'études techniques';1;50
+e;182914;'lampe de bureau';1;18
+e;203251;'machines de bureau et machines informatiques';1;50
+e;279042;'bureau communal';777;50
+e;280663;'bureau des étudiants';777;50
+e;280664;'bureau des élèves';777;50
+e;289594;'image de bureau';777;50
+e;289595;'motif de bureau';777;50
+e;291976;'bureau de police';777;50
+e;293264;'bureau politique';777;50
+e;300362;'bureau à pente';777;50
+e;300364;'bureau dos d'âne';777;50
+e;303271;'bureau de';777;50
+e;308858;'environnement de bureau';777;50
+e;106451;'bureau de la recette';1;50
+e;163342;'chaise de bureau';1;50
+e;210360;'bureau d'accueil';1;50
+e;210361;'bureau d'esprit';1;50
+e;213917;'passer sous le bureau';1;50
+e;215667;'bureau oval';1;50
+e;272946;'au bureau';1;16
+e;223849;'employé de bureau';1;16
+e;219146;'sous le bureau';1;68
+e;224940;'bureau des pleurs';1;50
+e;237253;'matériel de bureau';1;50
+e;258515;'aller au bureau';1;62
+e;258656;'second bureau';1;50
+e;258657;'deuxième bureau';1;94
+e;258658;'avoir un deuxième bureau';1;82
+e;261105;'travail de bureau';1;4
+e;261990;'employée de bureau';1;50
+e;245581;'de bureau';1;58
+e;140569;'agence';1;919
+e;74085;'dossier';1;2077
+e;13855;'conseil';1;3400
+e;91240;'école';1;7848
+e;96851;'pièce';1;3998
+e;24247;'service';1;3715
+e;16265651;':r426604210';10;0
+e;7575;'boîte';1;2361
+e;37765;'office';1;779
+e;104250;'comptoir';1;282
+e;36060;'secrétaire';1;3382
+e;317364;'bureau national';1;50
+e;4533;'fauteuil';1;2131
+e;29168;'classeur';1;220
+e;52232;'tiroir';1;632
+e;213916;'bureau>96851';1;60;'bureau>pièce'
+e;85296;'boulot';1;618
+e;131240;'lire';1;3596
+e;76607;'secrétariat';1;98
+e;90075;'chambre';1;5318
+e;40822;'comité';1;2725
+e;136786;'ville';1;9193
+e;58768;'organisme';1;2509
+e;248359;'table de travail';1;50
+e;216042;'table>36899';1;218;'table>meuble'
+e;128712;'lieu de travail';1;136
+e;43339;'succursale';1;60
+e;73061;'lampe';1;1433
+e;92636;'bibliothèque';1;2984
+e;114318;'pupitre';1;148
+e;375439;'rayonnage de bureau';1;50
+e;357759;'heures de bureau';1;50
+e;340612;'bureau ministériel';1;50
+e;340608;'bureau exécutif';1;50
+e;340597;'bureau de placement privé';1;50
+e;340593;'bureau de douane';1;50
+e;340589;'bureau d'entreprise';1;50
+e;340631;'bureau des objets trouvés';1;50
+e;340604;'bureau de vente';1;50
+e;340600;'bureau de recherches';1;50
+e;340595;'bureau de liaison';1;50
+e;390987;'calculatrice de bureau';1;50
+e;171870;'Nom:';4;50
+e;216173;'pièce>139209';1;186;'pièce>salle'
+e;340626;'bureau commercial';1;50
+e;340605;'bureau directorial';1;50
+e;340586;'bureau d'action';1;50
+e;131932;'collège';1;2817
+e;382679;'table de bureau';1;50
+e;345300;'crochet de bureau';1;50
+e;341019;'calculateur de bureau';1;50
+e;340632;'bureau principal';1;50
+e;340613;'bureau payeur';1;50
+e;340610;'bureau fédéral';1;50
+e;340599;'bureau de recensement';1;50
+e;340588;'bureau d'avocat';1;50
+e;334457;'aide de bureau';1;50
+e;334328;'agent de bureau';1;50
+e;104022;'burlingue';1;50
+e;213632;'meuble>237';1;266;'meuble>objet'
+e;340934;'cahier de bureau';1;50
+e;340633;'bureau à tirette';1;50
+e;340629;'bureau d'enregistrement';1;50
+e;340625;'bureau auxiliaire';1;50
+e;340624;'bureau ambulant';1;50
+e;340619;'bureau à caisson';1;50
+e;340591;'bureau d'étude';1;50
+e;378288;'sabot de bureau';1;50
+e;355966;'garniture de bureau';1;50
+e;340615;'bureau postal d'origine';1;50
+e;340601;'bureau de recrutement';1;50
+e;386831;'vie de bureau';1;50
+e;355153;'fournitures de bureau';1;50
+e;347590;'directeur de bureau';1;50
+e;340620;'bureau électoral';1;50
+e;340606;'bureau du personnel';1;50
+e;340603;'bureau de rédaction';1;50
+e;340602;'bureau de représentation';1;50
+e;340590;'bureau d'information';1;50
+e;333855;'activité de bureau';1;50
+e;378142;'réunion de bureau';1;50
+e;340630;'bureau d'octroi';1;50
+e;340607;'bureau départemental';1;50
+e;340596;'bureau de placement';1;52
+e;340592;'bureau de dessin';1;50
+e;340585;'bureau confédéral';1;50
+e;333140;'accessoire de bureau';1;50
+e;237;'objet';1;3470
+e;364105;'meuble de bureau';1;50
+e;343356;'chef de bureau';1;50
+e;340618;'bureau sans papier';1;50
+e;340617;'bureau réservé';1;50
+e;340598;'bureau de poste temporaire';1;50
+e;340587;'bureau d'affrètement';1;50
+e;336610;'article de bureau';1;50
+e;379912;'siège de bureau';1;50
+e;357924;'homme de bureau';1;50
+e;340628;'bureau d'assistance';1;50
+e;340627;'bureau d'achats';1;50
+e;340623;'bureau administratif';1;50
+e;340616;'bureau régional';1;50
+e;340614;'bureau paysager';1;50
+e;340611;'bureau militaire';1;50
+e;340609;'bureau exécutif provisoire';1;50
+e;340594;'bureau de jugement';1;50
+e;132525;'officine';1;98
+e;223189;'::>14:8254>29:56780>13';9;50;'Qui pourrait personnaliser un bureau ?'
+e;329001;'::>14:8254>29:56780';8;50;'personnaliser [objet] bureau'
+e;318541;'::>66:8254>17:318535';8;50;'bureau [carac] en ordre'
+e;14381022;'::>66:8254>30:5692';8;0;'bureau [lieu pour] baiser'
+e;14381032;'::>66:8254>30:17265';8;0;'bureau [lieu pour] sodomiser'
+e;14381048;'::>66:8254>30:126425';8;0;'bureau [lieu pour] enculer'
+e;14399161;'::>66:8254>30:140993';8;0;'bureau [lieu pour] s'installer'
+e;14745445;'::>66:8254>30:4393369';8;0;'bureau [lieu pour] mettre ses pieds'
+e;14745437;'::>66:8254>30:132366';8;0;'bureau [lieu pour] mettre'
+e;15010388;'::>66:8254>26:265611';8;0;'bureau [se faire] travailler dans'
+e;15010383;'::>66:8254>30:69550';8;0;'bureau [lieu pour] travailler'
+e;140436;'université';1;2909
+e;106970;'caisse';1;1969
+e;102894;'chancellerie';1;50
+e;246870;'objet>109527';1;200;'objet>chose'
+e;213915;'bureau>128712';1;72;'bureau>lieu de travail'
+e;6939;'commission';1;2953
+e;20977;'directoire';1;60
+e;130286;'se réunir';1;114
+e;117089;'boudoir';1;130
+e;57565;'crayon';1;1924
+e;40875;'sous-main';1;64
+e;54770;'document';1;3002
+e;16875;'direction';1;3614
+e;146272;'société';1;3833
+e;142623;'classe';1;3606
+e;19872;'étage';1;1559
+e;140533;'usine';1;2163
+e;55756;'banque';1;3079
+e;92679;'salon';1;2742
+e;89926;'chef';1;3861
+e;40184;'siège';1;3638
+e;139743;'enveloppe';1;876
+e;26970;'écran';1;2517
+e;120511;'assemblée';1;2283
+e;44436;'bure';1;50
+e;130164;'manger';1;10304
+e;14925414;'en:desk';1;0
+e;68936;'fax';1;100
+e;118414;'poubelle';1;576
+e;16359894;':r405762483';10;0
+e;11557;'lycée';1;2998
+e;65524;'bâtiment';1;3085
+e;91358;'appartement';1;2644
+e;72281;'étude';1;2897
+e;139209;'salle';1;3124
+e;133110;'écritoire';1;120
+e;7992102;'en:office';1;0
+e;41412;'cartonnier';1;50
+e;143302;'affaire';1;2802
+e;127701;'dicter';1;106
+e;13774;'soviet';1;86
+e;254877;'_POL-NEUTRE_PC';36;50
+e;43751;'armoire';1;1176
+e;26128;'présidence';1;2976
+e;16327577;':r181715';10;0
+e;265611;'travailler dans';1;50
+e;213634;'secrétaire>36899';1;4;'secrétaire>meuble'
+e;122272;'fichier';1;2976
+e;15010387;'::>14:8254>29:265611';8;0;'travailler dans [objet] bureau'
+e;218067;'papier>54770';1;18;'papier>document'
+e;454009;':r2561585';10;50
+e;38344;'sociologie';1;2117
+e;214869;'cabinet>240948';1;56;'cabinet>profession libérale'
+e;14811;'permanence';1;1701
+e;56780;'personnaliser';1;168
+e;162763;'_INFO-SEM-THING-CONCRETE';36;1238
+e;16336247;':r431497202';10;0
+e;142787;'livre';1;7153
+e;49615;'commerce';1;3957
+e;134536;'économie';1;2856
+e;10576;'politique';1;5014
+e;89409;'scolaire';1;2439
+e;438309;'bureau de ministre';1;52
+e;1781402;'fourniture de bureau';1;0
+e;3557125;'employé dans un bureau';1;0
+e;23178;'grand';1;3856
+e;140318;'parler';1;4471
+e;7742;'discuter';1;1096
+e;191741;'_INFO-VOC-COMMON';36;50
+e;2585996;'_INFO-CNRTL-YES';36;50
+e;92326;'bureautique';1;64
+e;2583423;'bureau à cloisons';777;0
+e;3705498;'changer de bureau';1;0
+e;118316;'propre';1;3690
+e;145209;'ranger';1;1122
+e;80995;'compter';1;2732
+e;14925417;'en:bureau';1;0
+e;566417;'bureau exécutif du président des États-Unis';777;50
+e;18737;'bonheur-du-jour';1;52
+e;1803886;'être sur le bureau';1;0
+e;3705829;'ne rien foutre au bureau';1;8
+e;73154;'ouvert';1;3254
+e;15085195;'en:desktop';1;0
+e;81543;'collègue';1;446
+e;2520734;'bureau paysagé';1;0
+e;2546497;'bureau-chef';1;0
+e;135190;'lieu';1;3861
+e;1736620;'bureau d'état-civil';1;0
+e;6526639;'superviseurs de personnel de bureau';1;0
+e;1415;'répondre';1;2603
+e;63030;'agrafer';1;52
+e;63831;'taper';1;1494
+e;162759;'_INFO-SEM-PLACE';36;504
+e;249580;'table à tréteaux';1;52
+e;4859465;'bureau des Affaires étrangères et du Commonwealth';777;0
+e;25349;'rangé';1;144
+e;146885;'Nom:Mas+SG';4;50
+e;4393345;'sur le bureau';1;0
+e;1227703;'médisance au bureau';1;0
+e;2507243;'sans bureau fixe';1;0
+e;2501671;'party de bureau';1;0
+e;3183449;'Deuxième bureau';777;0
+e;339590;'bonheur du jour';1;50
+e;55222;'petit';1;4357
+e;77705;'situé';1;3683
+e;145971;'antiquité';1;750
+e;183436;'open space';1;2
+e;235604;'salle de conférence';1;12
+e;163896;'salle de réunion';1;74
+e;252081;'salle de rédaction';1;20
+e;183437;'open-space';1;2
+e;128209;'jouer';1;4475
+e;36246;'préparer';1;2268
+e;34624;'chêne';1;1321
+e;8730694;'prendre sur le bureau';1;0
+e;11157743;'bureau du Procureur-général';777;0
+e;11353826;'bureau de la lutte anti-terroriste';777;0
+e;11840348;'bureau militaire de la Maison-Blanche';777;0
+e;13797611;'30 superviseurs de personnel de bureau';1;0
+e;13779477;'39 employés de bureau et travailleurs assimilés n.c.a.';1;0
+e;15351745;'J'ai été retenu au bureau.';1;0
+e;15306011;'Il était plutôt gai après l'arrosage au bureau.';1;0
+e;15475746;'bureau à distance';777;0
+e;15569112;'emploi de bureau';1;0
+e;15958254;'Autres membres du bureau';777;0
+e;16153590;'Salon des industries et du commerce de bureau';777;0
+e;16073192;'Horaires d'ouverture du bureau de vote';1;0
+e;16074033;'Président du bureau de vote';1;0
+e;15531407;'Son bureau était jonché de papiers.';1;0
+e;13784896;'ajusteur-monteur de machines de bureau';1;0
+e;13784897;'ajusteuse-monteuse de machines de bureau';1;0
+e;15376940;'avoir des horaires de bureau';1;0
+e;15385286;'bloc de bureau';1;0
+e;15340109;'bureau US des brevets et des marques déposées';1;0
+e;15560546;'bureau central';1;0
+e;15397005;'bureau d'OLP';1;0
+e;15569462;'bureau d'acajou';1;0
+e;15648598;'bureau d'analyse';1;0
+e;15360023;'bureau d'encaissement';1;0
+e;15977112;'bureau d'homologation';1;0
+e;15347248;'bureau d'intérimaires';1;0
+e;15422071;'bureau d?études';1;0
+e;15358885;'bureau de coordination des unités hors siège';1;0
+e;15401973;'bureau de la coordination des affaires humanitaires';1;0
+e;15625229;'bureau de la formation';1;0
+e;15422077;'bureau de la vie scolaire';1;0
+e;15422079;'bureau de passage';1;0
+e;15422082;'bureau de rattachement';1;0
+e;15422085;'bureau de recouvrement';1;0
+e;15573717;'bureau de renseignements';1;0
+e;15492456;'bureau des achats';1;0
+e;15492461;'bureau des acquisitions';1;0
+e;15501766;'bureau des affaires générales';1;0
+e;15498482;'bureau des affaires immobilières';1;0
+e;15492458;'bureau des brevets';1;0
+e;15495007;'bureau des brevets et des marques déposées';1;0
+e;15489576;'bureau des douanes et de l'immigration';1;0
+e;15769581;'bureau des enregistrements';1;0
+e;15474488;'bureau des hypothèques';1;0
+e;15422096;'bureau des licences';1;0
+e;15537642;'bureau des mines';1;0
+e;15422101;'bureau des plaintes';1;0
+e;15408956;'bureau des réclamations';1;0
+e;15492459;'bureau des réservations';1;0
+e;15477731;'bureau du cadastre';1;0
+e;15650726;'bureau européen de l'environnement';1;0
+e;15791445;'bureau européen des unions de consommateurs';1;0
+e;15331069;'bureau informatique adapté';1;0
+e;15374250;'bureau international d'éducation';1;0
+e;15374254;'bureau international d'éducation de l'unesco';1;0
+e;15860097;'bureau international de l'enseignement';1;0
+e;15495002;'bureau international des brevets';1;0
+e;15648567;'bureau international des droits de l'enfant';1;0
+e;16071448;'bureau international des droits des enfants';1;0
+e;15546221;'bureau international des expositions';1;0
+e;15368927;'bureau international des poids et mesures';1;0
+e;15546528;'bureau mobile';1;0
+e;15422104;'bureau multimédia';1;0
+e;15338741;'bureau spacieux';1;0
+e;16041147;'bureau-paysage';1;0
+e;15514845;'chef du bureau';1;0
+e;15762499;'déposer sur le bureau';1;0
+e;15422111;'en dehors des heures de bureau';1;0
+e;15422113;'en dehors du bureau';1;0
+e;16103580;'Ils se sont rangés autour de son bureau.';1;0
+e;16239118;'bureau Mazarin';777;0
+e;16166248;'bureau de l'information du public';1;0
+e;16390775;'bureau de l'éducation et de la formation';1;0
+e;16241880;'bureau de la LNH';777;0
+e;16415725;'bureau de recherche';1;0
+e;16166254;'bureau des contributions';1;0
+e;16265299;'bureau international de l'heure';1;0
+e;16265309;'bureau international de l'édition française';1;0
+e;16265297;'bureau international de la paix';1;0
+e;16606028;'bureau d'études aéronautiques';1;0
+e;16610680;'bureau de sécurité public';777;0
+e;16745084;'Arrivée du sergent Gail Stephens pour aider au bureau';777;0
+e;16976071;'bureau de la métropole';777;0
+e;17244594;'Membres du bureau du groupe à l'Assemblée nationale puis à la Chambre des députés';777;0
+e;16976992;'bureau de réservations';1;0
+e;16799167;'bureau du contentieux';1;0
+e;214513;'lettre>40923';1;160;'lettre>courrier'
+e;11028801;'sous-chef de bureau';1;0
+e;15394064;'fauteuil de bureau';1;0
+e;15395987;'frais de bureau';1;0
+e;15783666;':r405575076';10;0
+e;15343058;'fête de bureau';1;0
+e;15376925;'horaires de bureau';1;0
+e;15399218;'immeuble de bureau';1;0
+e;16507825;'immobilier de bureau';1;0
+e;2372897;'éthofenprox';1;0
+e;2470121;'bureau à la carte';1;0
+e;15463592;'machine de bureau';1;0
+e;15341332;'magasin de fourniture de bureau';1;0
+e;16929458;':r449622956';10;0
+e;11353;'formation';1;3686
+e;10433494;'scribe du bureau des archives';777;0
+e;191667;'_INFO-SEM-THING-ARTEFACT';36;242
+e;458629;'_INFO-SEM-PLACE-HUMAN';36;504
+e;148068;'étoffes';1;52
+e;2586627;'Gender:Mas';4;0
+e;2586629;'Number:Sing';4;0
+e;15327975;'bureau de crédit';1;0
+e;15327976;'bureau de logement';1;0
+e;15327978;'bureau de poste postal';1;0
+e;15385288;'ordinateur de bureau PC';1;0
+e;15388335;'papier de bureau';1;0
+e;15411041;'perforatrice de bureau';1;0
+e;15390870;'personnel de bureau';1;0
+e;15401341;'pince de bureau';1;0
+e;45202;'ébéniste';1;126
+e;2427828;'bureau de bienfaisance';1;0
+e;5896783;'bureau plat';777;0
+e;15408799;'rivé à son bureau';1;0
+e;2476931;'calpin';1;0
+e;213633;'secrétaire>140176';1;50;'secrétaire>oiseau'
+e;213918;'bureau>64226';1;12;'bureau>administration'
+e;5896797;'bureau à cylindre';777;0
+e;11157738;'bureau de l'Avocat Général pour l'Écosse';777;0
+e;11157828;'bureau du Cabinet';777;0
+e;11157754;'bureau des marchés du gaz et de l'électricité';777;0
+e;1781298;'de vote';1;0
+e;327915;'::>14:153438>29:73719';8;50;'chercher [objet] clés'
+e;328062;'::>14:61490>29:68869';8;50;'kidnapper [objet] femme'
+e;327708;'::>14:116477>29:78823';8;50;'flatter [objet] personne'
+e;326921;'::>16:142936>29:52760';8;50;'dessiner [avec] règle'
+e;103405;'indifférence';1;612
+e;269965;'_INFO-SEM-COLOR-RELATED';36;50
+e;16746931;':r433344481';10;0
+e;16746939;':r433344494';10;0
+e;412188;'Autorité';1;50
+e;159209;'éducation nationale';1;236
+e;5711055;'bureau virtuel';777;0
+e;11373439;'bureau d'enquêtes sur les accidents de transport terrestre';777;0
+e;15777633;'sous-chef de bureau à la sous-direction d'Asie-Océanie';777;0
+e;2467636;'étofenprox';1;0
+e;2477439;'surveillant-général';1;0
+e;326881;'::>16:86102>29:77409';8;50;'placarder [avec] punaise'
+e;327385;'::>14:237>29:101793';8;50;'déplacer [objet] objet'
+e;327884;'::>14:105230>29:49598';8;50;'tailler [objet] pipe'
+e;326887;'::>14:137506>29:37193';8;50;'localiser [objet] quelqu'un'
+e;326995;'::>13:137506>29:5051';8;50;'gêner [sujet] quelqu'un'
+e;217817;'_INFO-POLYSEMIC';36;50
+e;10368364;'bureau des finances';777;0
+e;11557552;'4e bureau central du Parti communiste chinois';777;0
+e;11557551;'3e bureau central du Parti communiste chinois';777;0
+e;11557550;'1er bureau central du Parti communiste chinois';777;0
+e;74860;'homme';1;28862
+e;61490;'femme';1;30614
+e;63897;'machine à écrire';1;166
+e;250570;'formulaire administratif';1;50
+e;146803;'pieds';1;3041
+e;327906;'::>13:124094>29:145209';8;50;'ranger [sujet] enfant'
+e;16711355;':r438487285';10;0
+e;16711361;':r438487291';10;0
+e;83989;'éducation';1;2396
+e;11250823;'bureau de la Guerre';777;0
+e;5782421;'infrastructure de bureau virtuel';777;0
+e;15322537;'bureau d'ingénierie';1;0
+e;15355058;'téléphone bureau';1;0
+e;15501599;'un bureau d'acajou';1;0
+e;15770874;'un emploi de bureau';1;0
+e;16796570;'usage familial ou de bureau';777;0
+e;15495288;'utilitaire de bureau';1;0
+e;15774919;'À peine étais-je arrivé de Heathrow que je suis retourné au bureau.';1;0
+e;15358872;'à sa sortie du bureau de vote';1;0
+e;2578964;'Langage:vieilli';18;0
+e;253583;'briquet jetable';1;6
+e;257713;'dessin à main levée';1;2
+e;318941;'personne ennuyeuse';1;10
+e;240697;'crayon>4898719';1;6;'crayon>instrument d'écriture'
+e;318226;'::>66:117739>50:96256';8;50;'clavier [matière] bois'
+e;239308;'crayon de papier';1;6
+e;156473;'crayon à papier';1;170
+e;134624;'soeur';1;1088
+e;125348;'Antoine de Saint-Exupéry';1;76
+e;10483;'victoire';1;3499
+e;100402;'pute';1;900
+e;120492;'dramaturge';1;1096
+e;101823;'Arletty';1;68
+e;267225;'Maurice Sendak';1;50
+e;247111;'Valérie Trierweiler';1;42
+e;225445;'Stabilo';1;42
+e;220013;'femme>4333487';1;776;'femme>être humain de sexe féminin'
+e;214125;'thon>191814';1;18;'thon>fille laide'
+e;117423;'bouteille';1;2285
+e;252007;'mauvaise ambiance';1;8
+e;252006;'ambiance de merde';1;8
+e;224200;'mac>132602';1;4;'mac>Macintosh'
+e;100640;'roman';1;5248
+e;262837;'scène de jalousie';1;16
+e;154884;'contrat de travail';1;138
+e;258159;'livre de recettes';1;52
+e;252179;'secrétaire>116477>61490';1;16;'secrétaire>personne>femme'
+e;151705;'Mathieu Lafourcade';1;110
+e;176423;'laptop';1;24
+e;2355708;'ADT';1;0
+e;229854;'::>14:92938>29:36906>15';9;50;'Où pourrait-on rédiger un mail ?'
+e;161230;'::>13:59817>29:34025>15';9;50;'Où un savant pourrait savoir ?'
+e;327488;'::>13:68439>29:113821';8;50;'questionner [sujet] individu'
+e;327465;'::>13:61490>29:80995';8;50;'compter [sujet] femme'
+e;327253;'::>14:89750>29:24656';8;50;'assembler [objet] puzzle'
+e;326682;'::>14:142787>29:127257';8;50;'étudier [objet] livre'
+e;327138;'::>14:2026>29:130155';8;50;'relire [objet] journal'
+e;269459;'_INFO-SEM-THING';36;50
+e;243048;'bural';1;50
+e;5808313;'bureau d'études thermiques';777;0
+e;10063466;'bureau du Conseil privé';777;0
+e;10189085;'bureau pour le pays de Galles';777;0
+e;10384561;'bureau pour l'Écosse';777;0
+e;10384354;'bureau des sports';777;0
+e;10524026;'bureau central des cultes';777;0
+e;11599585;'2e bureau';777;0
+e;15319566;'bureau d'état civil';1;0
+e;15319570;'bureau de l'état civil';1;0
+e;142832;'souris';1;2549
+e;258687;'chaise>40184';1;68;'chaise>siège'
+e;255280;'surveillant général';1;4
+e;213376;'souris>104993';1;56;'souris>informatique'
+e;93965;'bogue';1;180
+e;247827;'téléphone>106265';1;100;'téléphone>appareil'
+e;240696;'crayon>5138';1;18;'crayon>croquis'
+e;2463;'ordinateur portable';1;94
+e;141906;'fenêtre';1;2640
+e;164795;'::>16:86102>29:77409>15';9;50;'Où pourrait-on placarder avec une punaise ?'
+e;160909;'::>13:68439>29:145209>15';9;50;'Où un individu pourrait ranger ?'
+e;165655;'::>14:142787>29:36906>15';9;50;'Où pourrait-on rédiger une livre ?'
+e;156824;'::>14:52660>29:130196>15';9;50;'Où pourrait-on rechercher une clé ?'
+e;159170;'::>13:68439>29:113821>15';9;50;'Où un individu pourrait questionner ?'
+e;327563;'::>13:68439>29:145209';8;50;'ranger [sujet] individu'
+e;10677945;':r2055221';10;0
+e;10677946;':r429118';10;0
+e;10677947;':r167998';10;0
+e;155699;'tissus';1;2278
+e;10046139;'Drame au bureau de poste';777;0
+e;12052474;'tenir à jour un inventaire de fournitures de bureau';1;0
+e;12052456;'organiser des installations pour le personnel de bureau';1;0
+e;15215150;'agenda de bureau';1;0
+e;257813;'studio>91358';1;32;'studio>appartement'
+e;252387;'pièce climatisée';1;2
+e;247077;'agence de renseignement';1;52
+e;60866;'cours';1;3876
+e;151666;'Maison Blanche';1;134
+e;115880;'commissariat';1;398
+e;133314;'mairie';1;2123
+e;52212;'fisc';1;242
+e;129760;'aérodrome';1;128
+e;151984;'Elysée';1;164
+e;63876;'LIRMM';1;188
+e;197280;'carnet de chèques';1;138
+e;68439;'individu';1;6130
+e;59236;'disque dur';1;448
+e;243843;'Senseo';1;50
+e;6156;'pièce jointe';1;82
+e;37271;'horloge';1;790
+e;239352;'tapis de souris';1;56
+e;163432;'président d'université';1;52
+e;151749;'plante verte';1;128
+e;222007;'placard>99955';1;30;'placard>rangement'
+e;84822;'calepin';1;76
+e;235237;'clavier>94978';1;62;'clavier>ordinateur'
+e;115009;'annuaire';1;88
+e;85068;'dictionnaire';1;2718
+e;230348;'scotch>156248';1;12;'scotch>ruban adhésif'
+e;58347;'arriviste';1;76
+e;154752;'machine à café';1;260
+e;160417;'petit mot';1;124
+e;213635;'secrétaire>116477';1;42;'secrétaire>personne'
+e;227255;'accident du travail';1;6
+e;40368;'mulot';1;276
+e;115909;'carte mère';1;122
+e;129343;'devise';1;2143
+e;143335;'PC';1;3559
+e;220195;'direction>55376';1;22;'direction>management'
+e;38292;'indécence';1;152
+e;98282;'syndicalisme';1;86
+e;217467;'employé>41191';1;110;'employé>salarié'
+e;104789;'avocat';1;2551
+e;23255;'mathématiques';1;3622
+e;165391;'Monica Lewinsky';1;56
+e;52442;'photo';1;2541
+e;131523;'journaliste';1;3242
+e;9864;'désir';1;2782
+e;2553;'personnel';1;3319
+e;100668;'gain';1;2076
+e;126724;'métier';1;2809
+e;12502;'écrivain';1;4793
+e;54234;'écriture';1;2428
+e;7159;'droit';1;3868
+e;6513;'microscope';1;348
+e;76887;'lundi';1;2638
+e;74718;'journée';1;3093
+e;126762;'placard';1;998
+e;63012;'blague';1;1000
+e;102812;'père';1;4390
+e;16213;'serrure';1;1054
+e;135985;'sieste';1;1000
+e;5425;'machine';1;3395
+e;45052;'auteur';1;3569
+e;27266;'discussion';1;2236
+e;100286;'papa';1;966
+e;100988;'contrat';1;3163
+e;65966;'philosophe';1;3248
+e;62726;'plume';1;2676
+e;77853;'parti';1;3770
+e;78234;'maman';1;1482
+e;132817;'compositeur';1;3491
+e;35238;'patron';1;2177
+e;62636;'sol';1;3560
+e;129303;'chercheur';1;1416
+e;146145;'divorce';1;1626
+e;69174;'élection';1;2632
+e;95436;'vote';1;3275
+e;86627;'organisation';1;3208
+e;35676;'canapé';1;1244
+e;62835;'photocopie';1;284
+e;117739;'clavier';1;2697
+e;104993;'informatique';1;3892
+e;101913;'président';1;3856
+e;76923;'entrevue';1;170
+e;106290;'assurance';1;678
+e;218066;'papier>115763';1;22;'papier>article'
+e;190936;'::>13:61490>29:85286>15';9;50;'Où une femme pourrait nettoyer ?'
+e;212496;'::>14:74860>29:77428>15';9;50;'Où pourrait-on connaître un homme ?'
+e;242735;'::>13:35358>29:145209>15';9;50;'Où une femme de ménage pourrait ranger ?'
+e;163695;'::>14:61490>29:113821>15';9;50;'Où pourrait-on questionner une femme ?'
+e;157951;'::>14:142787>29:127257>15';9;50;'Où pourrait-on étudier une livre ?'
+e;164995;'::>14:74860>29:113821>15';9;50;'Où pourrait-on questionner un homme ?'
+e;167102;'::>13:16783>29:49021>15';9;50;'Où un radiateur pourrait réchauffer ?'
+e;194993;'::>14:70206>29:54271>15';9;50;'Où pourrait-on ouvrir un cahier ?'
+e;189872;'::>14:53245>29:36906>15';9;50;'Où pourrait-on rédiger un testament ?'
+e;163014;'::>14:153438>29:73719>15';9;50;'Où pourrait-on chercher des clés ?'
+e;161887;'::>14:237>29:101793>15';9;50;'Où pourrait-on déplacer un objet ?'
+e;164044;'::>14:66324>29:47918>15';9;50;'Où pourrait-on boire un café ?'
+e;164286;'::>13:74860>29:103112>15';9;50;'Où un homme pourrait désirer ?'
+e;165787;'::>14:153080>29:81191>15';9;50;'Où pourrait-on lécher des bottes ?'
+e;160602;'::>13:74860>29:90377>15';9;50;'Où un homme pourrait isoler ?'
+e;162820;'::>13:74860>29:47869>15';9;50;'Où un homme pourrait contracter ?'
+e;163597;'::>13:142888>29:11237>15';9;50;'Où une gomme pourrait effacer ?'
+e;163239;'::>14:70283>29:56747>15';9;50;'Où pourrait-on entreprendre un travail ?'
+e;162870;'::>14:116477>29:48827>15';9;50;'Où pourrait-on engager une personne ?'
+e;162472;'::>14:61490>29:68869>15';9;50;'Où pourrait-on kidnapper une femme ?'
+e;162839;'::>14:141906>29:21420>15';9;50;'Où pourrait-on clore une fenêtre ?'
+e;163685;'::>13:65138>29:28475>15';9;50;'Où un instituteur pourrait corriger ?'
+e;161261;'::>14:105230>29:49598>15';9;50;'Où pourrait-on tailler une pipe ?'
+e;158700;'::>14:116477>29:74222>15';9;50;'Où pourrait-on assassiner une personne ?'
+e;164189;'::>14:139743>29:54271>15';9;50;'Où pourrait-on ouvrir une enveloppe ?'
+e;163639;'::>13:74860>29:145209>15';9;50;'Où un homme pourrait ranger ?'
+e;159054;'::>13:61490>29:80995>15';9;50;'Où une femme pourrait compter ?'
+e;163880;'::>14:61490>29:56921>15';9;50;'Où pourrait-on exploiter une femme ?'
+e;156741;'::>13:66731>29:69550>15';9;50;'Où un travailleur pourrait travailler ?'
+e;158194;'::>14:89750>29:24656>15';9;50;'Où pourrait-on assembler un puzzle ?'
+e;161614;'::>14:94978>29:125666>15';9;50;'Où pourrait-on brancher un ordinateur ?'
+e;162679;'::>16:16783>29:49021>15';9;50;'Où pourrait-on réchauffer avec un radiateur ?'
+e;163609;'::>16:52660>29:24346>15';9;50;'Où pourrait-on fermer avec une clé ?'
+e;162945;'::>14:32625>29:4144>15';9;50;'Où pourrait-on séquestrer un otage ?'
+e;157250;'::>14:137506>29:2760>15';9;50;'Où pourrait-on détester quelqu'un ?'
+e;162470;'::>13:74860>29:34025>15';9;50;'Où un homme pourrait savoir ?'
+e;160343;'::>14:116477>29:78823>15';9;50;'Où pourrait-on flatter une personne ?'
+e;162331;'::>14:27373>29:84874>15';9;50;'Où pourrait-on développer une idée ?'
+e;158182;'::>13:74860>29:123550>15';9;50;'Où un homme pourrait régler ?'
+e;160763;'::>14:145994>29:36906>15';9;50;'Où pourrait-on rédiger une lettre ?'
+e;161415;'::>13:124094>29:145209>15';9;50;'Où une enfant pourrait ranger ?'
+e;159307;'::>13:74860>29:19947>15';9;50;'Où un homme pourrait améliorer ?'
+e;157585;'::>13:137506>29:5051>15';9;50;'Où quelqu'un pourrait gêner ?'
+e;158204;'::>14:16213>29:54271>15';9;50;'Où pourrait-on ouvrir une serrure ?'
+e;158235;'::>13:65966>29:42196>15';9;50;'Où une philosophe pourrait penser ?'
+e;159172;'::>13:51817>29:28475>15';9;50;'Où un correcteur pourrait corriger ?'
+e;159693;'::>16:142936>29:52760>15';9;50;'Où pourrait-on dessiner avec une règle ?'
+e;160446;'::>14:137506>29:37193>15';9;50;'Où pourrait-on localiser quelqu'un ?'
+e;157355;'::>13:95245>29:82772>15';9;50;'Où une fille pourrait allumer ?'
+e;157937;'::>14:2026>29:130155>15';9;50;'Où pourrait-on relire un journal ?'
+e;159794;'::>13:35358>29:36729>15';9;50;'Où une femme de ménage pourrait lustrer ?'
+e;157125;'::>14:18403>29:54271>15';9;50;'Où pourrait-on ouvrir un paquet ?'
+e;156793;'::>13:142124>29:145209>15';9;50;'Où un garçon pourrait ranger ?'
+e;156735;'::>14:68439>29:56921>15';9;50;'Où pourrait-on exploiter un individu ?'
+e;158131;'::>14:54899>29:128589>15';9;50;'Où pourrait-on organiser une réunion ?'
+e;157978;'::>14:85378>29:81191>15';9;50;'Où pourrait-on lécher un cul ?'
+e;157557;'::>14:74860>29:72449>15';9;50;'Où pourrait-on déranger un homme ?'
+e;158321;'::>13:61490>29:12141>15';9;50;'Où une femme pourrait communiquer ?'
+e;157929;'::>16:95616>29:108053>15';9;50;'Où pourrait-on entailler avec un canif ?'
+e;157843;'::>13:61490>29:36906>15';9;50;'Où une femme pourrait rédiger ?'
+e;157240;'::>13:59817>29:77428>15';9;50;'Où un savant pourrait connaître ?'
+e;156913;'::>13:141440>29:113821>15';9;50;'Où une police pourrait questionner ?'
+e;156862;'::>14:146065>29:41983>15';9;50;'Où pourrait-on tromper un mari ?'
+e;156818;'::>13:116477>29:69550>15';9;50;'Où une personne pourrait travailler ?'
+e;328389;'::>14:74860>29:113821';8;50;'questionner [objet] homme'
+e;328348;'::>14:66324>29:47918';8;50;'boire [objet] café'
+e;327565;'::>13:74860>29:145209';8;50;'ranger [sujet] homme'
+e;328118;'::>16:16783>29:49021';8;50;'réchauffer [avec] radiateur'
+e;327940;'::>14:94978>29:125666';8;50;'brancher [objet] ordinateur'
+e;327360;'::>14:145994>29:36906';8;50;'rédiger [objet] lettre'
+e;327258;'::>14:16213>29:54271';8;50;'ouvrir [objet] serrure'
+e;327221;'::>14:54899>29:128589';8;50;'organiser [objet] réunion'
+e;327135;'::>16:95616>29:108053';8;50;'entailler [avec] canif'
+e;15201572;'en:ofc';1;0
+e;15097429;'en:writing table';1;0
+e;15152258;'en:writing desk';1;0
+e;15201573;'en:desk room';1;0
+e;140902;'étoffe';1;336
+e;326991;'::>13:65138>29:28475';8;50;'corriger [sujet] instituteur'
+e;328277;'::>13:142888>29:11237';8;50;'effacer [sujet] gomme'
+e;328161;'::>14:116477>29:48827';8;50;'engager [objet] personne'
+e;327381;'::>14:116477>29:74222';8;50;'assassiner [objet] personne'
+e;327271;'::>13:65966>29:42196';8;50;'penser [sujet] philosophe'
+e;7123754;'en:study';1;0
+e;15049202;'en:home office';1;0
+e;7378223;'en:board';1;2
+e;7378293;'en:committee';1;0
+e;218902;'ensemble de personnes';1;50
+e;17453279;'bureau de porte';1;52
+e;10937027;'bureau ouvert';1;0
+e;11840850;'baiser sur le bureau';1;0
+e;11840852;'se faire baiser sur le bureau';1;0
+e;12077478;'bureau combiné';1;0
+e;15201567;'articles de bureau';1;0
+e;15296630;'bureau comptabilité';1;0
+e;15288606;'bureau d'embauche';1;0
+e;15304598;'bureau de chômage';1;0
+e;15268354;'bureau de consultation';1;0
+e;15263563;'bureau de l'éthique';1;0
+e;15235553;'bureau de location';1;0
+e;15282453;'bureau de perception';1;0
+e;15214303;'bureau de placement pour enseignant';1;0
+e;15304596;'bureau de prêt';1;0
+e;15248673;'bureau de renseignement';1;0
+e;15273129;'bureau de réservation';1;0
+e;15296362;'bureau de scrutin';1;0
+e;15304634;'bureau de statistique';1;0
+e;15264774;'bureau de tri';1;0
+e;15277944;'bureau du budget';1;0
+e;15272392;'bureau du patrimoine';1;0
+e;15239831;'bureau du procureur';1;0
+e;15288637;'bureau international';1;0
+e;15302655;'bureau local';1;0
+e;15211453;'bureau ministre';1;0
+e;15229507;'bureau non fumeur';1;0
+e;327571;'::>13:74860>29:103112';8;50;'désirer [sujet] homme'
+e;326934;'::>14:61490>29:56921';8;50;'exploiter [objet] femme'
+e;328119;'::>14:61490>29:113821';8;50;'questionner [objet] femme'
+e;326781;'::>16:52660>29:24346';8;50;'fermer [avec] clé'
+e;328221;'::>14:70283>29:56747';8;50;'entreprendre [objet] travail'
+e;328147;'::>13:74860>29:47869';8;50;'contracter [sujet] homme'
+e;327512;'::>13:74860>29:19947';8;50;'améliorer [sujet] homme'
+e;327244;'::>13:74860>29:123550';8;50;'régler [sujet] homme'
+e;327097;'::>13:61490>29:36906';8;50;'rédiger [sujet] femme'
+e;326983;'::>14:74860>29:72449';8;50;'déranger [objet] homme'
+e;17270829;':r409978371';10;0
+e;17270833;':r409977592';10;0
+e;252178;'secrétaire>116477>74860';1;54;'secrétaire>personne>homme'
+e;133795;'mobilier';1;492
+e;145715;'poste';1;3605
+e;148961;'locaux';1;3046
+e;110707;'immobilier';1;318
+e;146367;'histoire';1;4592
+e;8542;'beige';1;142
+e;153151;'parti politique';1;194
+e;2373549;'table-bureau';1;0
+e;10930343;'bureau central de renseignements et d'action';777;0
+e;12049601;'bureau de gestion de patrimoine';777;0
+e;12080431;'partage de bureau';1;0
+e;15201560;'bureau électronique';1;0
+e;65681;'PJ';1;54
+e;150;'chat';1;5439
+e;135329;'diriger';1;1816
+e;327326;'::>14:139743>29:54271';8;50;'ouvrir [objet] enveloppe'
+e;327541;'::>14:32625>29:4144';8;50;'séquestrer [objet] otage'
+e;327873;'::>13:59817>29:34025';8;50;'savoir [sujet] savant'
+e;327757;'::>13:74860>29:90377';8;50;'isoler [sujet] homme'
+e;327489;'::>13:51817>29:28475';8;50;'corriger [sujet] correcteur'
+e;327300;'::>13:61490>29:12141';8;50;'communiquer [sujet] femme'
+e;327647;'::>13:61490>29:80199';8;50;'cuisiner [sujet] femme'
+e;145648;'directeur';1;3433
+e;107937;'scolarité';1;430
+e;1829247;'bureau d'aide sociale';1;0
+e;5955064;'bureau du Roi';777;0
+e;10850467;'bureau centralisateur';777;0
+e;11021338;'collègue de bureau';1;0
+e;11789737;'bureau central des télégrammes astronomiques';777;0
+e;15198137;'PC de bureau';1;0
+e;289821;'Monica Samille Lewinsky';777;52
+e;152507;'Mathématiques';1;156
+e;7350;'bonze';1;68
+e;328021;'::>14:92938>29:36906';8;50;'rédiger [objet] mail'
+e;326966;'::>13:1530>29:75156';8;50;'brûler [sujet] incendie'
+e;328733;'::>14:74860>29:77428';8;50;'connaître [objet] homme'
+e;328428;'::>14:70206>29:54271';8;50;'ouvrir [objet] cahier'
+e;326628;'::>13:61490>29:85286';8;50;'nettoyer [sujet] femme'
+e;328762;'::>14:53245>29:36906';8;50;'rédiger [objet] testament'
+e;327330;'::>13:16783>29:49021';8;50;'réchauffer [sujet] radiateur'
+e;328610;'::>14:153080>29:81191';8;50;'lécher [objet] bottes'
+e;326604;'::>14:142787>29:36906';8;50;'rédiger [objet] livre'
+e;328151;'::>14:141906>29:21420';8;50;'clore [objet] fenêtre'
+e;328061;'::>13:74860>29:34025';8;50;'savoir [sujet] homme'
+e;328030;'::>14:27373>29:84874';8;50;'développer [objet] idée'
+e;327152;'::>14:85378>29:81191';8;50;'lécher [objet] cul'
+e;161010;'::>16:152543>29:130164>15';9;50;'Où pourrait-on manger avec des mains ?'
+e;213515;'::>14:61490>29:37193>15';9;50;'Où pourrait-on localiser une femme ?'
+e;326907;'::>14:34157>29:130164';8;50;'manger [objet] chocolat'
+e;328870;'::>14:61490>29:37193';8;50;'localiser [objet] femme'
+e;28453;'bonheur';1;2804
+e;14330;'satisfaction';1;626
+e;270222;'aluminium brossé';1;50
+e;3385351;'bn:03540109n';444;0
+e;11350772;'bureau des ressources génétiques';777;0
+e;14916413;'Langue:français';18;50
+e;46912;'association';1;3155
+e;3499142;'bureau>218902';1;6;'bureau>ensemble de personnes'
+e;213823;'bois>29208';1;300;'bois>matière'
+e;5619664;'bureau d'études aéronautique';1;0
+e;10028869;'bureau de normalisation du Québec';777;0
+e;10026425;'bureau de production';777;0
+e;10992071;'bureau central de tarification';777;0
+e;10993233;'bureau 121';777;0
+e;15201570;'en orientation bureau';1;0
+e;119042;'buraliste';1;68
+e;240237;'permis B';1;24
+e;326902;'::>13:95245>29:82772';8;50;'allumer [sujet] fille'
+e;326873;'::>14:137506>29:2760';8;50;'détester [objet] quelqu'un'
+e;326868;'::>13:59817>29:77428';8;50;'connaître [sujet] savant'
+e;326813;'::>14:18403>29:54271';8;50;'ouvrir [objet] paquet'
+e;326762;'::>13:141440>29:113821';8;50;'questionner [sujet] police'
+e;326734;'::>14:146065>29:41983';8;50;'tromper [objet] mari'
+e;326710;'::>14:52660>29:130196';8;50;'rechercher [objet] clé'
+e;326708;'::>13:116477>29:69550';8;50;'travailler [sujet] personne'
+e;326690;'::>13:142124>29:145209';8;50;'ranger [sujet] garçon'
+e;326654;'::>13:66731>29:69550';8;50;'travailler [sujet] travailleur'
+e;326650;'::>14:68439>29:56921';8;50;'exploiter [objet] individu'
+e;23195;'emploi';1;2263
+e;79255;'enseignement';1;1991
+e;130758;'instance';1;944
+e;21254;'accueil';1;414
+e;11783500;'bureau des Colonies';777;0
+e;154648;'en bois';1;154
+e;130626;'premier';1;4013
+e;3575927;'Morpho:min';18;50
+e;136317;'appartenir';1;94
+e;332586;'La Pléïade>13681';1;50;'La Pléïade>édition'
+e;268315;'critique littéraire>126724';1;60;'critique littéraire>métier'
+e;191674;'pièce de mobilier';1;50
+e;3194;'micro-ordinateur';1;60
+e;128589;'organiser';1;1213
+e;5692;'baiser';1;2724
+e;91691;'surprise';1;2394
+e;12262258;':r9997224';10;0
+e;3228593;'wiki:@';444;0
+e;3385350;'bn:00001961n';444;0
+e;3385354;'bn:00007787n';444;0
+e;3385355;'bn:00074793n';444;0
+e;74846;'corps';1;5240
+e;75003;'tableau';1;3579
+e;47052;'meule';1;128
+e;135128;'finances';1;2448
+e;152691;'Scolaire';1;206
+e;85413;'ameublement';1;138
+e;179690;'vie domestique';1;42
+e;105302;'meubles';1;210
+e;421268;'textiles';1;60
+e;94609;'textile';1;1482
+e;58561;'affaires';1;3325
+e;3499145;'bureau>113329';1;0;'bureau>guichet'
+e;259972;'travail>128712';1;52;'travail>lieu de travail'
+e;13880;'cabinets';1;104
+e;10915601;'bâtiment du bureau exécutif Eisenhower';777;0
+e;72931;'démissionner';1;190
+e;14724392;'exclure>116477';1;0;'exclure>personne'
+e;112524;'exclure';1;156
+e;91088;'louer';1;318
+e;326745;'::>13:116477>29:145209';8;50;'ranger [sujet] personne'
+e;326883;'::>13:61490>29:145209';8;50;'ranger [sujet] femme'
+e;219187;'::>13:124094>29:145209>14';9;50;'Qu'est-ce qu'une enfant pourrait ranger ?'
+e;101793;'déplacer';1;2220
+e;127581;'dépoussiérer';1;178
+e;163499;'::>13:61490>29:145209>14';9;50;'Qu'est-ce qu'une femme pourrait ranger ?'
+e;163677;'::>13:116477>29:145209>14';9;50;'Qu'est-ce qu'une personne pourrait ranger ?'
+e;157297;'::>13:35358>29:145209>14';9;50;'Qu'est-ce qu'une femme de ménage pourrait ranger ?'
+e;14532725;'::>13:35358>29:145209';8;0;'ranger [sujet] femme de ménage'
+e;15010385;'::>13:41191>29:265611';8;0;'travailler dans [sujet] salarié'
+e;94497;'mercredi';1;2452
+e;176456;'microordinateur';1;50
+e;105042;'mauvaise langue';1;78
+e;10989;'langue de vipère';1;92
+e;163817;'::>16:51905>29:130164>15';9;50;'Où pourrait-on manger avec une cuillère ?'
+e;166119;'::>14:34157>29:130164>15';9;50;'Où pourrait-on manger un chocolat ?'
+e;16351964;':r430859550';10;0
+e;87936;'fonctionnaire';1;804
+e;7086;'autorité';1;2460
+e;597445;'caisse>171870';1;0;'caisse>Nom:'
+e;650322;'assemblée>171870';1;0;'assemblée>Nom:'
+e;7997550;'en:services';1;0
+e;96256;'bois';1;5220
+e;216639;'cheville>111740';1;42;'cheville>menuiserie'
+e;5701878;'bureau européen pour les langues moins répandues';777;0
+e;6097697;'bureau de l'Avocat général de l'État';777;0
+e;15327980;'petit bureau de poste secondaire';1;0
+e;247812;'non vivant';1;58
+e;94509;'dico';1;112
+e;77435;'prise de bec';1;60
+e;215444;'belle femme';1;56
+e;16889953;':r444956379';10;0
+e;3385356;'bn:00081719n';444;0
+e;1869981;'ouvert>86289';1;12;'ouvert>béant'
+e;1869982;'ouvert>133067';1;0;'ouvert>déployé'
+e;1869983;'ouvert>54769';1;0;'ouvert>commencé'
+e;1869985;'ouvert>38697';1;2;'ouvert>public'
+e;1869987;'ouvert>67617';1;0;'ouvert>réceptif'
+e;1869988;'ouvert>60032';1;0;'ouvert>exposé'
+e;1869990;'ouvert>113731';1;10;'ouvert>sociable'
+e;1870062;'ouvert>42906';1;0;'ouvert>déclaré'
+e;1870067;'ouvert>23255';1;0;'ouvert>mathématiques'
+e;247949;'agence gouvernementale';1;52
+e;124166;'services';1;3553
+e;7608;'vis';1;2434
+e;577846;'cartonnier>171870';1;0;'cartonnier>Nom:'
+e;57904;'ancien';1;3758
+e;3576104;'Morpho:nospace';18;50
+e;212191;'bateau en bouteille';1;52
+e;43921;'andouille';1;146
+e;280752;'Antoine Marie Jean-Baptiste Roger de Saint-Exupéry';777;50
+e;246343;'élu de gauche';1;50
+e;46965;'bécane';1;62
+e;4007;'loupe';1;392
+e;162494;'::>13:61490>29:80199>15';9;50;'Où une femme pourrait cuisiner ?'
+e;163670;'::>13:118790>29:80199>15';9;50;'Où un cuisinier pourrait cuisiner ?'
+e;328314;'::>16:51905>29:130164';8;50;'manger [avec] cuillère'
+e;317035;'::>16:152543>29:130164';8;50;'manger [avec] mains'
+e;254876;'_POL-POS_PC';36;50
+e;3385352;'bn:00009672n';444;0
+e;253119;'meuble>1816';1;52;'meuble>héraldique'
+e;1794799;'rangé>145209';1;0;'rangé>ranger'
+e;1794798;'rangé>1794754';1;8;'rangé>à sa place'
+e;1794801;'rangé>39214';1;2;'rangé>disposé'
+e;1794802;'rangé>1794639';1;0;'rangé>assagi'
+e;12087954;':gRUS';1002;0
+e;152208;'Droit';1;2562
+e;2509832;'clickodrome';1;0
+e;34898;'pied';1;4548
+e;4389722;'bureau>47052';1;0;'bureau>meule'
+e;10675975;'bureau d'examen des édifices fédéraux du patrimoine';777;0
+e;151648;'geek';1;190
+e;328292;'::>13:118790>29:80199';8;50;'cuisiner [sujet] cuisinier'
+e;16294535;':r409147765';10;0
+e;16294575;':r409975705';10;0
+e;3385357;'bn:00014169n';444;0
+e;102149;'bureaucrate';1;60
+e;54899;'réunion';1;2770
+e;48275;'employé';1;3110
+e;4389715;'bureau>104993';1;4;'bureau>informatique'
+e;3499143;'bureau>140902';1;0;'bureau>étoffe'
+e;317380;'Éducation nationale';1;50
+e;63985;'bord';1;3435
+e;15023215;'accessoires de bureau';1;0
+e;6320375;'employé de guichet de bureau de poste';1;0
+e;6355929;'employée de guichet de bureau de poste';1;0
+e;6378624;'mécanicien de machines de bureau';1;0
+e;6386652;'mécanicienne de machines de bureau';1;0
+e;6399142;'autres superviseurs de personnel de bureau';1;0
+e;14536154;'bureau climatisé';1;0
+e;14679305;'ranger son bureau';1;44
+e;14725462;'bureau partagé';1;0
+e;17402168;'chambre>152217>45179';1;0;'chambre>chambre à coucher>maison'
+e;226984;'chambre>152217';1;160;'chambre>chambre à coucher'
+e;37286;'central';1;3236
+e;66196;'composé';1;3578
+e;122439;'nouveau';1;3783
+e;67638;'général';1;3872
+e;109771;'responsable';1;3307
+e;109457;'parisien';1;3124
+e;240337;'police judiciaire';1;54
+e;160754;'dossiers';1;84
+e;35352;'discours';1;3285
+e;231377;'père>100286';1;230;'père>papa'
+e;4393369;'mettre ses pieds';1;0
+e;127257;'étudier';1;2705
+e;21038;'analyser';1;348
+e;45686;'découper';1;1212
+e;6231;'présenter';1;2814
+e;85286;'nettoyer';1;2472
+e;52760;'dessiner';1;2138
+e;73719;'chercher';1;2721
+e;137831;'faire l'amour';1;1962
+e;64291;'taper à la machine';1;92
+e;122501;'cirer';1;104
+e;111085;'envoyer';1;1431
+e;248198;'_SEX_NO';36;50
+e;3385353;'bn:00026554n';444;0
+e;17498799;'::>66:36568>24:17498797';8;0;'professeur [peut] prendre [endroit] bureau'
+e;17498807;'::>66:36568>24:17498805';8;0;'professeur [peut] prendre un repas [endroit] bureau'
+e;17498801;'::>66:17498800>15:8254';8;0;'professeur [peut] prendre [objet] repas [lieu] bureau'
+e;17459705;'::>66:17459704>15:8254';8;0;'patron>personne [peut] enculer [objet] secrétaire>personne>femme [lieu] bureau'
+e;14381023;'::>66:35238>24:14381021';8;0;'patron [peut] baiser [endroit] bureau'
+e;14381024;'::>66:14381020>15:8254';8;0;'patron [peut] baiser [objet] secrétaire [lieu] bureau'
+e;14381033;'::>66:35238>24:14381031';8;0;'patron [peut] sodomiser [endroit] bureau'
+e;14381035;'::>66:14381034>15:8254';8;0;'patron [peut] sodomiser [objet] secrétaire [lieu] bureau'
+e;14381049;'::>66:213689>24:14381047';8;0;'patron>personne>chef d'entreprise [peut] enculer [endroit] bureau'
+e;14381050;'::>66:14381046>15:8254';8;0;'patron>personne>chef d'entreprise [peut] enculer [objet] secrétaire [lieu] bureau'
+e;14399162;'::>66:82603>24:14399160';8;0;'stagiaire [peut] s'installer [endroit] bureau'
+e;14399165;'::>66:41191>24:14399160';8;0;'salarié [peut] s'installer [endroit] bureau'
+e;14745438;'::>66:100771>24:14745436';8;0;'inspecteur [peut] mettre [endroit] bureau'
+e;14745440;'::>66:14745439>15:8254';8;0;'inspecteur [peut] mettre [objet] pieds [lieu] bureau'
+e;14745446;'::>66:100771>24:14745444';8;0;'inspecteur [peut] mettre ses pieds [endroit] bureau'
+e;15010384;'::>66:41191>24:15010382';8;0;'salarié [peut] travailler [endroit] bureau'
+e;15010386;'::>66:41191>24:265611';8;0;'salarié [peut] travailler dans'
+e;15010389;'::>66:41191>24:15010387';8;0;'salarié [peut] travailler dans [objet] bureau'
+e;14925418;'en:law office';1;0
+e;7571329;'en:cabinet';1;0
+e;16592556;'::>66:123769>24:14381021';8;0;'étudiant [peut] baiser [endroit] bureau'
+e;16592558;'::>66:16592557>15:8254';8;0;'étudiant [peut] baiser [objet] enseignante [lieu] bureau'
+e;16592560;'::>66:225916>24:14381021';8;0;'personne>être humain [peut] baiser [endroit] bureau'
+e;16800270;'::>66:35238>24:14381047';8;0;'patron [peut] enculer [endroit] bureau'
+e;16800305;'::>66:16800269>15:8254';8;0;'patron [peut] enculer [objet] secrétaire [lieu] bureau'
+e;16601891;'::>66:15662092>24:14381047';8;0;'patron>personne [peut] enculer [endroit] bureau'
+e;16800307;'::>66:16601892>15:8254';8;0;'patron>personne [peut] enculer [objet] secrétaire [lieu] bureau'
+e;16800312;'::>66:16800311>15:8254';8;0;'patron>personne [peut] enculer [objet] secrétaire>personne [lieu] bureau'
+e;17526857;'::>66:68887>24:17526855';8;0;'élève [peut] écrire [endroit] bureau'
+e;17526860;'::>66:14365977>24:17526855';8;0;'élève>éducation [peut] écrire [endroit] bureau'
+e;17526867;'::>66:14365977>24:17526865';8;0;'élève>éducation [peut] graver [endroit] bureau'
+e;17526869;'::>66:17526868>15:8254';8;0;'élève>éducation [peut] graver [objet] nom [lieu] bureau'
+e;17538698;'::>66:35358>24:17538696';8;0;'femme de ménage [peut] nettoyer [endroit] bureau'
+e;17538700;'::>66:14388958>15:8254';8;0;'femme de ménage [peut] nettoyer [objet] vitres [lieu] bureau'
+e;17538706;'::>66:35358>24:17538704';8;0;'femme de ménage [peut] nettoyer les vitres [endroit] bureau'
+e;17538708;'::>66:225916>24:17538696';8;0;'personne>être humain [peut] nettoyer [endroit] bureau'
+e;17538711;'::>66:17538709>15:8254';8;0;'personne>être humain [peut] nettoyer [objet] vitres [lieu] bureau'
+e;17538715;'::>66:225916>24:17538704';8;0;'personne>être humain [peut] nettoyer les vitres [endroit] bureau'
+e;17548874;'::>66:68887>24:17548872';8;0;'élève [peut] dormir [endroit] bureau'
+e;17548877;'::>66:14365977>24:17548872';8;0;'élève>éducation [peut] dormir [endroit] bureau'
+e;8854315;'en:textiles';1;0
+e;139768;'artéfact';1;142
+e;316850;'entité physique';1;50
+e;15204749;'en:fountainpen';1;0
+e;7842445;'en:high school';1;0
+e;15084096;'en:secondary school';1;0
+e;161680;'école secondaire';1;74
+e;2517701;'Secondaire';1;2
+e;15424374;'en:sixth-form';1;0
+e;15424375;'en:sixth-form college';1;0
+e;13998163;'bureau des méthodes';777;0
+e;14070518;'bureau de piste';1;0
+e;14127239;'bureau de conception aéronautique';1;0
+e;14452397;'bureau d'aide juridictionnelle';1;0
+e;14452396;'bureau d'aide aux victimes';1;0
+e;14452697;'bureau d'ordre';1;0
+e;14452716;'bureau de l'exécution des peines';1;0
+e;14453054;'président du bureau de vote';1;0
+e;14453073;'horaires d'ouverture du bureau de vote';1;0
+e;14542187;'bureau à plat';777;0
+e;14564222;'Léon Tolstoï à son bureau';777;0
+e;14610393;'bureau d'études soviétique';1;0
+e;15019826;'virtualisation de bureau';777;0
+e;15771272;'Bureau ovale';1;0
+e;184268;'service de renseignement';1;4
+e;230720;'service de renseignements';1;50
+e;15078894;'en:intelligence agency';1;0
+e;15078895;'en:intelligence service';1;0
+e;8853043;'services de renseignements';1;2
+e;14925416;'en:Oval Office';1;0
+e;92935;'personnalisé';1;82
+e;12530;'loué';1;56
+e;1989370;'appartenu';2;0
+e;54671;'déplacé';1;254
+e;155134;'dépoussiéré';1;74
+e;7332979;'Langue:anglais';18;50
+e;5333;'administrer';1;118
+e;235678;'langue de pute';1;86
+e;17387102;'PJ>240337';1;0;'PJ>police judiciaire'
+e;17387103;'PJ>6156';1;0;'PJ>pièce jointe'
+e;17459704;'::>66:15662092>24:17459702';8;0;'patron>personne [peut] enculer [objet] secrétaire>personne>femme'
+e;17498800;'::>66:36568>24:14884139';8;0;'professeur [peut] prendre [objet] repas'
+e;145994;'lettre';1;6812
+e;14381020;'::>66:35238>24:14381018';8;0;'patron [peut] baiser [objet] secrétaire'
+e;14381034;'::>66:35238>24:14381029';8;0;'patron [peut] sodomiser [objet] secrétaire'
+e;14381046;'::>66:213689>24:14381041';8;0;'patron>personne>chef d'entreprise [peut] enculer [objet] secrétaire'
+e;14745439;'::>66:100771>24:14386569';8;0;'inspecteur [peut] mettre [objet] pieds'
+e;216134;'examen>92343';1;30;'examen>observation'
+e;14572222;'entrevue>72895';1;2;'entrevue>rencontre'
+e;14719711;'fouille>62954';1;0;'fouille>perquisition'
+e;14590060;'futur docteur>81706';1;2;'futur docteur>doctorant'
+e;14718983;'fouilles>62954';1;0;'fouilles>perquisition'
+e;10319;'turlutte';1;58
+e;7262873;'en:document';1;0
+e;7431669;'en:discussion';1;0
+e;7184032;'en:fax';1;0
+e;4874313;'femme>24956';1;4;'femme>être humain'
+e;244473;'arrêté>117932';1;52;'arrêté>décidé'
+e;16800341;'::>66:16800330>15:8254';8;0;'personne>être humain [peut] enculer [objet] personne [lieu] bureau'
+e;16800345;'::>66:16800324>15:8254';8;0;'patron>personne>chef d'entreprise [peut] enculer [objet] secrétaire>personne [lieu] bureau'
+e;16592557;'::>66:123769>24:16592554';8;0;'étudiant [peut] baiser [objet] enseignante'
+e;16800269;'::>66:35238>24:14381041';8;0;'patron [peut] enculer [objet] secrétaire'
+e;16601892;'::>66:15662092>24:14381041';8;0;'patron>personne [peut] enculer [objet] secrétaire'
+e;16800311;'::>66:15662092>24:16800309';8;0;'patron>personne [peut] enculer [objet] secrétaire>personne'
+e;15108277;'en:lead pencil';1;0
+e;15417314;'en:drawing pencil';1;0
+e;318862;'crayon de bois';1;50
+e;257698;'crayon gris';1;46
+e;15417315;'en:wood pencil';1;0
+e;16073855;'Police judiciaire';1;0
+e;16072605;'Contrat de travail';1;0
+e;16071957;'Accident du travail';1;0
+e;16071956;'Accident de travail';1;0
+e;333157;'accident de travail';1;10
+e;15067440;'en:driving license';1;0
+e;15208226;'en:driving licenses';1;0
+e;15425974;'en:criminal police';1;0
+e;277021;'ordinateur individuel';777;50
+e;167691;'ordinateur personnel';1;70
+e;15055766;'en:personal computer';1;0
+e;15425542;'en:kafuffle';1;0
+e;6958120;'en:industrial accident';1;0
+e;15417135;'en:work-related accident';1;0
+e;15417136;'en:workplace accident';1;0
+e;15275072;'en:accident at work';1;0
+e;6958215;'en:occupational accident';1;0
+e;15275071;'en:work accident';1;0
+e;14926465;'en:motherboard';1;0
+e;15419323;'en:mainboard';1;0
+e;15199853;'en:spiteful tongue';1;0
+e;15151196;'en:sharp tongue';1;0
+e;15298136;'crayon à mine de plomb';1;0
+e;15304177;'en:contract of employment';1;0
+e;15105681;'en:employment contract';1;0
+e;14952160;'en:laptop';1;0
+e;14963725;'en:mouse mat';1;0
+e;116477;'personne';1;10307
+e;15209250;'en:fit of jealousy';1;0
+e;1632794;'souris>171869';1;0;'souris>Adj:'
+e;27268;'examen';1;2250
+e;17460858;'::>66:35238>24:17459702';8;0;'patron [peut] enculer [objet] secrétaire>personne>femme'
+e;17526868;'::>66:14365977>24:17526863';8;0;'élève>éducation [peut] graver [objet] nom'
+e;14388958;'::>66:35358>24:14388956';8;0;'femme de ménage [peut] nettoyer [objet] vitres'
+e;17538709;'::>66:225916>24:14388956';8;0;'personne>être humain [peut] nettoyer [objet] vitres'
+e;110038;'arrêté';1;3082
+e;1874507;'arrêté>161702';1;0;'arrêté>Ver:PPas'
+e;14589891;'futur docteur';1;0
+e;17538710;'::>66:17538709>155:17476866';8;0;'personne>être humain [peut] nettoyer [objet] vitres [utilisant] produit lave-vitre'
+e;17476870;'::>66:14388958>155:17476866';8;0;'femme de ménage [peut] nettoyer [objet] vitres [utilisant] produit lave-vitre'
+e;86306;'prendre';1;3669
+e;268088;'prendre un repas';1;34
+e;17498803;'::>13:36568>29:268088';8;0;'prendre un repas [sujet] professeur'
+e;14744534;'::>13:36568>29:86306';8;0;'prendre [sujet] professeur'
+e;14381016;'::>13:35238>29:5692';8;0;'baiser [sujet] patron'
+e;14381027;'::>13:35238>29:17265';8;0;'sodomiser [sujet] patron'
+e;17265;'sodomiser';1;194
+e;14381044;'::>13:213689>29:126425';8;0;'enculer [sujet] patron>personne>chef d'entreprise'
+e;126425;'enculer';1;246
+e;14399158;'::>13:82603>29:140993';8;0;'s'installer [sujet] stagiaire'
+e;140993;'s'installer';1;1978
+e;14399163;'::>13:41191>29:140993';8;0;'s'installer [sujet] salarié'
+e;14745434;'::>13:100771>29:132366';8;0;'mettre [sujet] inspecteur'
+e;132366;'mettre';1;3597
+e;14745442;'::>13:100771>29:4393369';8;0;'mettre ses pieds [sujet] inspecteur'
+e;125964;'espionner';1;652
+e;105814;'regarder';1;3658
+e;123526;'tenir';1;2872
+e;82772;'allumer';1;912
+e;89077;'menacer';1;1454
+e;109640;'embrasser';1;1498
+e;24346;'fermer';1;1308
+e;74222;'assassiner';1;1872
+e;92559;'sniffer';1;136
+e;32322;'trancher';1;1052
+e;91829;'serrer';1;798
+e;101484;'renifler';1;326
+e;113211;'épier';1;392
+e;73696;'se pendre';1;144
+e;12562;'examiner';1;606
+e;79896;'tousser';1;334
+e;136235;'dévisager';1;144
+e;85447;'sucer';1;586
+e;136429;'gribouiller';1;164
+e;63347;'éclairer';1;468
+e;78768;'chasser';1;1086
+e;122378;'démarrer';1;226
+e;105133;'agrandir';1;422
+e;1191;'parqueter';1;50
+e;90294;'se donner la mort';1;82
+e;23919;'plier';1;286
+e;207601;'se bourrer la gueule';1;166
+e;87681;'se reposer';1;1416
+e;12292;'scruter';1;714
+e;250218;'ne rien avoir à dire';1;20
+e;251331;'être épuisé';1;34
+e;265545;'y travailler';1;50
+e;262246;'se raser>140894';1;68;'se raser>s'ennuyer'
+e;316193;'râler comme un pou';1;6
+e;244039;'râler>3139';1;146;'râler>mauvaise humeur'
+e;92748;'pester';1;110
+e;132649;'rouspéter';1;112
+e;3240;'protester';1;88
+e;319894;'parler pour soi>14208';1;50;'parler pour soi>soliloquer'
+e;322116;'avoir des scrupules';1;50
+e;198731;'dire du mal de';1;58
+e;257068;'dire des horreurs';1;64
+e;95378;'dire pis que pendre';1;50
+e;264794;'dire des vacheries';1;14
+e;169442;'cracher son venin';1;68
+e;115298;'dire du mal';1;84
+e;143758;'s'expliquer';1;84
+e;25598;'raconter des salades';1;62
+e;206646;'raconter des bobards';1;58
+e;154727;'raconter des histoires';1;92
+e;52497;'mentir';1;690
+e;186806;'raconter des craques';1;60
+e;257714;'dessiner à main levée';1;50
+e;25122;'siroter';1;98
+e;258468;'aller bosser';1;148
+e;153956;'aller au boulot';1;84
+e;222212;'aller au travail';1;106
+e;254122;'aller travailler';1;66
+e;225797;'se faire engueuler';1;344
+e;225798;'se faire gronder';1;280
+e;261456;'se faire souffler dans les bronches';1;86
+e;393474;'se faire enguirlander';1;152
+e;393644;'se faire jeter>225797';1;54;'se faire jeter>se faire engueuler'
+e;155213;'se faire jeter';1;146
+e;186277;'se faire taper sur les doigts';1;154
+e;268592;'se faire pourrir';1;210
+e;258271;'se faire remonter les bretelles';1;126
+e;186157;'se faire appeler Arthur';1;58
+e;313048;'être occupé>70283';1;6;'être occupé>travail'
+e;255559;'être overbooké';1;22
+e;255558;'être débordé';1;60
+e;438925;'ne plus savoir où donner de la tête';1;52
+e;438965;'avoir trop de choses à faire';1;50
+e;131539;'comploter';1;152
+e;78625;'payer';1;2577
+e;112252;'empaqueter';1;140
+e;60726;'battre la mesure';1;86
+e;52602;'ficeler';1;122
+e;2607796;'avoir des relations sexuelles avec';1;0
+e;2607795;'coucher avec';1;2
+e;1966043;'coucher avec quelqu'un';1;0
+e;198022;'coucher avec qqn';1;52
+e;2503314;'se faire appeler Joseph';1;0
+e;7617;'timbrer';1;182
+e;2862656;'dessiner>14155497';1;46;'dessiner>représenter par le dessin'
+e;59879;'éplucher';1;406
+e;26829;'noter';1;3419
+e;2365571;'snifer';1;0
+e;78723;'se raser';1;296
+e;63509;'casser';1;1148
+e;4332532;'mettre la main aux fesses';1;4
+e;195155;'::>13:36568>29:76431>15';9;50;'Où un professeur pourrait vérifier ?'
+e;328803;'::>13:36568>29:76431';8;50;'vérifier [sujet] professeur'
+e;323681;'finir un livre';1;94
+e;48446;'tricoter';1;500
+e;229776;'recadrer';1;70
+e;14381021;'::>31:8254>29:5692';8;0;'baiser [endroit] bureau'
+e;14381018;'::>14:36060>29:5692';8;0;'baiser [objet] secrétaire'
+e;14381025;'::>31:8254>29:14381018';8;0;'baiser [objet] secrétaire [endroit] bureau'
+e;14381031;'::>31:8254>29:17265';8;0;'sodomiser [endroit] bureau'
+e;14381029;'::>14:36060>29:17265';8;0;'sodomiser [objet] secrétaire'
+e;14381036;'::>31:8254>29:14381029';8;0;'sodomiser [objet] secrétaire [endroit] bureau'
+e;14381047;'::>31:8254>29:126425';8;0;'enculer [endroit] bureau'
+e;14381041;'::>14:36060>29:126425';8;0;'enculer [objet] secrétaire'
+e;14381051;'::>31:8254>29:14381041';8;0;'enculer [objet] secrétaire [endroit] bureau'
+e;14399160;'::>31:8254>29:140993';8;0;'s'installer [endroit] bureau'
+e;92122;'murmurer';1;194
+e;31713;'bouquiner';1;276
+e;14725705;'chiffonner>40941';1;0;'chiffonner>froisser'
+e;14745436;'::>31:8254>29:132366';8;0;'mettre [endroit] bureau'
+e;14386569;'::>14:146803>29:132366';8;0;'mettre [objet] pieds'
+e;14745441;'::>31:8254>29:14386569';8;0;'mettre [objet] pieds [endroit] bureau'
+e;14745444;'::>31:8254>29:4393369';8;0;'mettre ses pieds [endroit] bureau'
+e;151810;'se moucher';1;220
+e;21845;'pénétrer';1;563
+e;14880172;'::>13:41191>29:69550';8;0;'travailler [sujet] salarié'
+e;15010382;'::>31:8254>29:69550';8;0;'travailler [endroit] bureau'
+e;16592552;'::>13:123769>29:5692';8;0;'baiser [sujet] étudiant'
+e;14472073;'::>13:225916>29:5692';8;0;'baiser [sujet] personne>être humain'
+e;16800267;'::>13:35238>29:126425';8;0;'enculer [sujet] patron'
+e;16601894;'::>13:15662092>29:126425';8;0;'enculer [sujet] patron>personne'
+e;16589625;'::>13:68887>29:91801';8;0;'écrire [sujet] élève'
+e;17526858;'::>13:14365977>29:91801';8;0;'écrire [sujet] élève>éducation'
+e;17526861;'::>13:14365977>29:50164';8;0;'graver [sujet] élève>éducation'
+e;50164;'graver';1;154
+e;14333994;'::>13:35358>29:85286';8;0;'nettoyer [sujet] femme de ménage'
+e;17453031;'::>13:35358>29:8854280';8;0;'nettoyer les vitres [sujet] femme de ménage'
+e;8854280;'nettoyer les vitres';1;0
+e;14531259;'::>13:225916>29:85286';8;0;'nettoyer [sujet] personne>être humain'
+e;17538712;'::>13:225916>29:8854280';8;0;'nettoyer les vitres [sujet] personne>être humain'
+e;17402235;'::>13:68887>29:43253';8;0;'dormir [sujet] élève'
+e;17548875;'::>13:14365977>29:43253';8;0;'dormir [sujet] élève>éducation'
+e;276096;'_INFO-WIKI-YES';36;50
+e;15991432;'_ANIME-NO';36;50
+e;1912917;'_INFO-COUNTABLE-YES';36;0
+e;17582164;'_INFO-VOC-GUESSABLE';36;50
+e;1667887;'pin>96256';1;4;'pin>bois'
+e;1046851;':r8992669';10;0
+e;242585;'Free';1;1662
+e;43446;'ordo';1;50
+e;4393488;'environnements graphiques';1;0
+e;142845;'Bureau';1;2444
+e;81845;'cheville';1;322
+e;237788;'économie>80973';1;42;'économie>science'
+e;595697;'succursale>171870';1;0;'succursale>Nom:'
+e;136307;'moderne';1;3551
+e;3178150;'plume>123034';1;0;'plume>fellation'
+e;223172;'_POL-NEG';36;50
+e;248197;'_SEX_YES';36;50
+e;139519;'lutrin';1;52
+e;74736;'repas';1;3791
+e;152192;'Economie';1;212
+e;240051;'commerce>230294';1;114;'commerce>activité économique'
+e;385909;'usine de production';1;50
+e;15206605;'en:production plant';1;0
+e;65715;'en désordre';1;50
+e;10682245;':r261736';10;0
+e;152162;'Sociologie';1;210
+e;592250;'directoire>171870';1;0;'directoire>Nom:'
+e;214796;'baiser>137831';1;614;'baiser>faire l'amour'
+e;15444181;'en:services offered';1;0
+e;367219;'offre de service';1;50
+e;16800347;'::>66:35238>24:16800309';8;0;'patron [peut] enculer [objet] secrétaire>personne'
+e;329397;'crayon à mine';1;50
+e;10681673;':r205328';10;0
+e;16721338;':r397792903';10;0
+e;250190;'agence matrimoniale';1;136
+e;317329;'_POLIT_7NOPOL';36;50
+e;1870061;'ouvert>54271';1;6;'ouvert>ouvrir'
+e;213432;'tissu>94609';1;190;'tissu>textile'
+e;63936;'tissu';1;2520
+e;103043;'jeu de société';1;292
+e;58386;'programmer';1;176
+e;317326;'_POLIT_5UMP';36;50
+e;214495;'aire de service';1;50
+e;11844;'Rouen';1;2789
+e;229861;'smartphone';1;174
+e;32348;'informaticien';1;240
+e;238967;'se décrotter le nez';1;6
+e;138211;'s'envoyer en l'air';1;156
+e;14670409;'s'emmerder>33026';1;2;'s'emmerder>se donner du mal'
+e;134768;'dirigeant';1;2410
+e;161837;'de travail';1;50
+e;17498806;'::>66:8254>30:268088';8;0;'bureau [lieu pour] prendre un repas'
+e;17498798;'::>66:8254>30:86306';8;0;'bureau [lieu pour] prendre'
+e;4356354;':r97416613';10;0
+e;4358094;':r97416611';10;0
+e;4357457;':r1837049';10;0
+e;132479;'marron';1;706
+e;443763;':r212536';10;50
+e;164487;'gris foncé';1;68
+e;10678548;':r374199';10;0
+e;216262;'classe>79255>64681';1;4;'classe>enseignement>niveau'
+e;216263;'classe>79255>60866';1;8;'classe>enseignement>cours'
+e;124941;'pornographie';1;324
+e;152253;'Commerce';1;2191
+e;138050;'Politique';1;3223
+e;15206846;'en:service area';1;0
+e;15206849;'en:service plaza';1;0
+e;15206847;'en:motorway services';1;0
+e;15206848;'en:motorway service station';1;0
+e;214494;'aire d'autoroute';1;34
+e;26530;'cloison';1;332
+e;152301;'plan de travail';1;104
+e;10514464;'établissement d'enseignement secondaire';1;4
+e;15117569;'en:clockwork';1;0
+e;152211;'Informatique';1;1326
+e;148083;'exécutive';1;50
+e;136681;'Hérault';1;686
+e;108766;'Meudon';1;56
+e;75334;'musicien';1;3072
+e;59071;'médecin';1;5544
+e;17946;'botaniste';1;2500
+e;41386;'Villemomble';1;50
+e;138343;'Charles VII';1;194
+e;43525;'armateur';1;84
+e;20192;'linguiste';1;342
+e;84413;'zoologiste';1;2083
+e;130188;'Québec';1;3749
+e;116457;'québécois';1;2461
+e;13844;'théâtre';1;3848
+e;77744;'argot';1;310
+e;277172;'Brun';777;50
+e;14189;'brun';1;2218
+e;408281;'Argot';1;50
+e;138527;'Édouard';1;2950
+e;416899;'Linguiste';1;50
+e;309303;'Charles VII de France';777;50
+e;227596;'tiroirs';1;66
+e;314577;'Philippe III de Bourgogne';777;50
+e;314576;'Philippe le Bon';1;54
+e;2159853;'copistes';2;0
+e;38049;'scriptorium';1;50
+e;55058;'écrivain public';1;68
+e;127165;'Louis XIII';1;112
+e;403197;'Cabinet';1;50
+e;153296;'table de chevet';1;124
+e;125719;'coiffeuse';1;236
+e;107070;'micro-informatique';1;50
+e;404093;'Tour';1;3703
+e;10879;'tour';1;3705
+e;364521;'mobilier scolaire';1;50
+e;224010;'cardinal Mazarin';666;50
+e;120580;'Louis XIV';1;214
+e;271996;'hameau de la Reine';777;50
+e;275966;'Parc de Versailles';777;50
+e;66375;'Versailles';1;2948
+e;20231;'Trianon';1;56
+e;566371;'Dalbergia cearensis';777;50
+e;339433;'bois de violette';1;50
+e;92043;'Louis XVI';1;106
+e;41501;'marqueterie';1;56
+e;309227;'Harry S. Truman';777;50
+e;220889;'Joseph Staline';1;72
+e;302545;'International Standard Serial Number';777;50
+e;115748;'ISSN';1;50
+e;208488;'style Louis XIII';1;50
+e;3307252;'Cuivre';1;0
+e;136790;'cuivre';1;2573
+e;142856;'bronze';1;2868
+e;132937;'marqueté';1;50
+e;39829;'maroquin';1;72
+e;145841;'moulure';1;84
+e;62287;'balustre';1;52
+e;42380;'Art nouveau';1;52
+e;5963536;'Jean Bureau';777;0
+e;5943455;'Georges Bureau';777;0
+e;51589;'finance';1;1078
+e;153252;'Finance';1;56
+e;6529483;'Scriptorium';1;0
+e;5955747;'Bureau de Marie-Antoinette';777;0
+e;5954286;'Jean-Henri Riesener';777;0
+e;5954921;'Pierre Gole';777;0
+e;5954446;'Charles Cressent';777;0
+e;5954448;'David Roentgen';777;0
+e;5896812;'Resolute desk';777;0
+e;113317;'Paris';1;3888
+e;143267;'Californie';1;3273
+e;5558122;'Banlieue';1;0
+e;121136;'banlieue';1;2640
+e;155748;'Immobilier';1;50
+e;2143012;'centres-villes';2;0
+e;30730;'demande';1;3623
+e;10299732;'immeubles de bureaux';777;0
+e;413511;'Marketing';1;50
+e;46543;'marketing';1;1309
+e;404905;'Gestion';1;1599
+e;34659;'gestion';1;3426
+e;400330;'banlieues';1;50
+e;2132430;'back offices';2;0
+e;5913502;'INRS';1;0
+e;10299739;'Jaur';777;0
+e;10299740;'Allyre Bureau';777;0
+e;10299741;'Bernard Bureau';777;0
+e;10299744;'Édouard Bureau';777;0
+e;10299746;'Florent-Joseph Bureau';777;0
+e;10299747;'Gaspard Bureau';777;0
+e;10299748;'Henri Bureau';777;0
+e;10299752;'Loup Bureau';777;0
+e;10299753;'Luc Bureau';777;0
+e;10299757;'histoire de la Nouvelle-France';777;0
+e;10299759;'Cirque Bureau';777;0
+e;2380589;'La Tuque';1;0
+e;22280;'Mauricie';1;50
+e;43409;'Canada';1;3769
+e;9832278;'tour Initiale';777;0
+e;101377;'Puteaux';1;56
+e;10314373;'Institut national de la recherche scientifique';777;0
+e;11363248;'classification type des industries';777;0
+e;11754541;'Bureautique';1;0
+e;13519513;'Back office';777;0
+e;11995391;'Jacques Bureau';777;0
+e;10589779;'Pauline Bureau';777;0
+e;79656;'Vianney';1;50
+e;10599231;'Vianney Bureau';777;0
+e;87987;'France';1;4535
+e;144991;'français';1;3914
+e;10299745;'famille Bureau';777;0
+e;405629;'Table';1;2109
+e;10941443;'Estrade';1;0
+e;44061;'estrade';1;134
+e;16087911;'Centre-ville';1;0
+e;1628523;':r11357220';10;0
+e;3179238;'classe>79255>151638';1;10;'classe>enseignement>élèves'
+e;244450;'tiroir>36899';1;74;'tiroir>meuble'
+e;15290881;'en:sky-scraper';1;0
+e;15290882;'en:tower building';1;0
+e;17526856;'::>66:8254>30:91801';8;0;'bureau [lieu pour] écrire'
+e;4503197;':r97416612';10;0
+e;11137190;':r240465';10;0
+e;15303717;'en:secondary sector';1;0
+e;123608;'studio';1;2672
+e;17526866;'::>66:8254>30:50164';8;0;'bureau [lieu pour] graver'
+e;982898;':r2499462';10;0
+e;4855978;':r98683506';10;0
+e;17538840;':r478258417';10;0
+e;112609;'anatomie';1;3457
+e;102206;'médecine';1;7408
+e;35143;'biologie';1;3428
+e;67998;'contraception';1;390
+e;168517;'pratique sexuelle';1;340
+e;245867;'orientation sexuelle';1;88
+e;53002;'sexualité';1;2196
+e;15538356;'zone de service';1;0
+e;17039817;'prestations de services';1;0
+e;216696;'salon>108669';1;52;'salon>boutique'
+e;18405;'obéir';1;276
+e;17538705;'::>66:8254>30:8854280';8;0;'bureau [lieu pour] nettoyer les vitres'
+e;17538697;'::>66:8254>30:85286';8;0;'bureau [lieu pour] nettoyer'
+e;17548873;'::>66:8254>30:43253';8;0;'bureau [lieu pour] dormir'
+e;445751;':r1710865';10;50
+e;662444;':r17762778';10;0
+e;1352584;':r10634039';10;0
+e;1978125;'aménagement>86627';1;0;'aménagement>organisation'
+e;1978127;'aménagement>127286';1;2;'aménagement>adaptation'
+e;63406;'gratte-ciel';1;152
+e;124724;'préfecture';1;2429
+e;105008;'suite';1;3925
+e;21169;'gendarmerie';1;314
+e;454010;':r2070786';10;50
+e;673829;':r181439';10;0
+e;1156144;':r2573826';10;0
+e;1236624;':r8445371';10;0
+e;1267622;':r8998134';10;0
+e;1273911;':r10654386';10;0
+e;1329253;':r1836090';10;0
+e;1341005;':r2491575';10;0
+e;1344316;':r11768417';10;0
+e;1352140;':r8858842';10;0
+e;8969863;':r193876869';10;0
+e;14381839;':r365214142';10;0
+e;14753211;':r374877744';10;0
+e;213631;'meuble>26607';1;52;'meuble>mou'
+e;2862654;'dessiner>48646';1;2;'dessiner>élaborer'
+e;2862655;'dessiner>51132';1;0;'dessiner>souligner'
+e;157331;'salon de massage';1;134
+e;15687;'scotch';1;266
+e;1193382;'secrétaire>146885';1;0;'secrétaire>Nom:Mas+SG'
+e;1193383;'secrétaire>146881';1;0;'secrétaire>Nom:Fem+SG'
+e;86754;'thon';1;586
+e;596060;'secrétaire>126724>146885';1;0;'secrétaire>métier>Nom:Mas+SG'
+e;139354;'mac';1;174
+e;73607;'critique littéraire';1;94
+e;332572;'La Pléïade';1;50
+e;591993;'critique littéraire>146885';1;0;'critique littéraire>Nom:Mas+SG'
+e;3232548;'secrétaire>116477>146885';1;0;'secrétaire>personne>Nom:Mas+SG'
+e;1800097;'meuble>146885';1;0;'meuble>Nom:Mas+SG'
+e;254878;'_POL-NEG_PC';36;50
+e;64238;'noir';1;4408
+e;443529;':r122718';10;50
+e;1786272;':r254104';10;0
+e;2591633;':r12205553';10;0
+e;2591634;':r54683880';10;0
+e;438514;':r15777518';10;50
+e;443783;':r11357847';10;50
+e;443797;':r149105';10;50
+e;443969;':r365122';10;50
+e;445364;':r2493590';10;50
+e;446135;':r178975';10;50
+e;446259;':r124094';10;50
+e;454011;':r3197977';10;50
+e;601709;':r1713743';10;0
+e;684192;':r1888744';10;0
+e;1239374;':r416414';10;0
+e;1312765;':r3202328';10;0
+e;1320893;':r1881916';10;0
+e;1333840;':r13715741';10;0
+e;1334094;':r2520907';10;0
+e;1339318;':r8262439';10;0
+e;1355397;':r1908473';10;0
+e;1461591;':r13182260';10;0
+e;1468544;':r2491628';10;0
+e;1480416;':r8858307';10;0
+e;1526943;':r397622';10;0
+e;1554295;':r1732249';10;0
+e;1557052;':r122429';10;0
+e;1568704;':r69950';10;0
+e;1744582;':r174763';10;0
+e;1875823;':r3197380';10;0
+e;17465077;':r476878119';10;0
+e;17459713;':r476878229';10;0
+e;8974523;':r274603';10;0
+e;14464206;':r365213835';10;0
+e;16592564;':r437307180';10;0
+e;3179234;'classe>146050';1;0;'classe>militaire'
+e;3179236;'classe>23255';1;2;'classe>mathématiques'
+e;3179237;'classe>104993';1;0;'classe>informatique'
+e;3179232;'classe>19619';1;10;'classe>groupe social'
+e;3179233;'classe>63192';1;0;'classe>transports'
+e;3179231;'classe>35143';1;6;'classe>biologie'
+e;216265;'classe>121157';1;44;'classe>distingué'
+e;216260;'classe>27114';1;222;'classe>catégorie'
+e;264334;'Burj Khalifa';666;50
+e;255983;'fauteuil>40184';1;36;'fauteuil>siège'
+e;246978;'personal computer';1;54
+e;8027083;'en:journalist';1;0
+e;86711;'jaune';1;3502
+e;15196;'blanc';1;4731
+e;270079;'couleur bois';1;50
+e;146358;'acier';1;932
+e;443816;':r11357687';10;50
+e;443817;':r11357688';10;50
+e;454702;':r2593031';10;50
+e;671727;':r82751';10;0
+e;673646;':r222506';10;0
+e;684606;':r415648';10;0
+e;684919;':r2563370';10;0
+e;1168484;':r174731';10;0
+e;1169179;':r214948';10;0
+e;1196942;':r382620';10;0
+e;1343684;':r2443276';10;0
+e;1452532;':r270198';10;0
+e;1557209;':r2497366';10;0
+e;1747579;':r221612';10;0
+e;1757730;':r28924062';10;0
+e;1786186;':r151593';10;0
+e;1916905;':r28925594';10;0
+e;1969112;':r3202507';10;0
+e;2692167;':r1896502';10;0
+e;14670702;':r365213831';10;0
+e;16592563;':r365213805';10;0
+e;17534731;':r478156744';10;0
+e;216043;'table>43125';1;16;'table>gastronomie'
+e;216044;'table>216041';1;54;'table>surface plane'
+e;216045;'table>95834';1;68;'table>index'
+e;216046;'table>216040';1;52;'table>tableau d'informations'
+e;240053;'commerce>120572';1;50;'commerce>fréquentation'
+e;240052;'commerce>108669';1;90;'commerce>boutique'
+e;213466;'chat>63235';1;646;'chat>mammifère'
+e;9023424;'en:feet';1;0
+e;29888;'évaluer';1;252
+e;4552;'inquiétude';1;846
+e;50889;'gris';1;2604
+e;270145;'couleur acier';1;50
+e;86356;'rouge';1;5574
+e;26976;'vert';1;3430
+e;269561;'sans couleur';1;50
+e;113140;'bordeaux';1;184
+e;11146960;':r13687276';10;0
+e;17408641;':r471005341';10;0
+e;17408647;':r471005406';10;0
+e;17408912;':r471005111';10;0
+e;17408919;':r471005234';10;0
+e;17408931;':r471037669';10;0
+e;17410281;':r57982738';10;0
+e;436441;':r9097882';10;50
+e;454703;':r13710356';10;50
+e;602119;':r221365';10;0
+e;1018103;':r10701921';10;0
+e;1299040;':r2340971';10;0
+e;1316460;':r381851';10;0
+e;1326742;':r2495102';10;0
+e;1475867;':r207190';10;0
+e;1571027;':r419195';10;0
+e;1639045;':r15748285';10;0
+e;1680176;':r1815508';10;0
+e;1704368;':r264953';10;0
+e;1709337;':r126089';10;0
+e;1761080;':r13625779';10;0
+e;1790982;':r27721332';10;0
+e;1794427;':r82676';10;0
+e;1795898;':r8071752';10;0
+e;1810829;':r388786';10;0
+e;1823121;':r8520681';10;0
+e;1865860;':r2497417';10;0
+e;2343702;':r1809741';10;0
+e;2607008;':r55601175';10;0
+e;2953895;':r1980897';10;0
+e;3126643;':r119938';10;0
+e;3266633;':r212696';10;0
+e;3490694;':r28525826';10;0
+e;5522350;':r82672908';10;0
+e;9566277;':r97432356';10;0
+e;9655563;':r97438712';10;0
+e;9733309;':r97661455';10;0
+e;10137510;':r235336719';10;0
+e;14389795;':r365213965';10;0
+e;14589337;':r103668265';10;0
+e;14589367;':r14342383';10;0
+e;14670696;':r365213961';10;0
+e;17501561;':r477645027';10;0
+e;15784833;':r405762503';10;0
+e;15784834;':r405762050';10;0
+e;17042050;':r437307035';10;0
+e;3782687;'dbnary:fra:__ws_9_bureau__nom__1';444;0
+e;3784797;'dbnary:fra:__ws_10_bureau__nom__1';444;0
+e;3808637;'dbnary:fra:__ws_11_bureau__nom__2';444;0
+e;3832305;'dbnary:fra:__ws_12_bureau__nom__2';444;0
+e;4102165;'dbnary:fra:__ws_1_bureau__nom__1';444;0
+e;4125397;'dbnary:fra:__ws_2_bureau__nom__1';444;0
+e;4148604;'dbnary:fra:__ws_3_bureau__nom__1';444;0
+e;4172128;'dbnary:fra:__ws_4_bureau__nom__1';444;0
+e;4195893;'dbnary:fra:__ws_5_bureau__nom__1';444;0
+e;4219459;'dbnary:fra:__ws_6_bureau__nom__1';444;0
+e;4242886;'dbnary:fra:__ws_7_bureau__nom__1';444;0
+e;4266339;'dbnary:fra:__ws_8_bureau__nom__1';444;0
+e;111052;'imprimante';1;222
+e;246871;'objet>54490';1;52;'objet>grammaire'
+e;246872;'objet>26845';1;50;'objet>objectif'
+e;246873;'objet>28044';1;50;'objet>cause'
+e;436518;'objet>104993';1;50;'objet>informatique'
+e;3499626;'table>112609';1;0;'table>anatomie'
+e;3499627;'table>152016';1;0;'table>base de données'
+e;3499625;'table>155513';1;0;'table>table de multiplication'
+e;88344;'prostitution';1;656
+e;57221;'joie';1;3928
+e;37298;'amour';1;7157
+e;157284;'lieu>68467';1;58;'lieu>poisson'
+e;102345;'plaisir';1;3741
+e;171869;'Adj:';4;50
+e;40056;'couleur';1;5193
+e;225291;'couleur>17226';1;284;'couleur>teinte'
+e;14070747;'Bureau européen pour les langues moins répandues';777;0
+e;12982356;'Bureau exécutif du président des États-Unis';777;0
+e;244549;'faire ses devoirs';1;100
+e;15780801;'Bureau Des Élèves';777;0
+e;11157733;'Bureau du Cabinet';777;0
+e;15401343;'Bureau Oval';1;0
+e;254192;'secret médical';1;62
+e;16074360;'Secret médical';1;0
+e;15780803;'Bureau Des Sports';777;0
+e;15224947;'en:go to work';1;0
+e;15340420;'aller à son travail';1;0
+e;15417138;'en:travel to work';1;0
+e;16072288;'Bureau de vote';1;0
+e;15422070;'en:design office';1;0
+e;14775501;'Bureau de Poste';777;0
+e;16072287;'Bureau de l'exécution des peines';1;0
+e;16072286;'Bureau d'ordre';1;0
+e;16072284;'Bureau d'aide juridictionnelle';1;0
+e;16072283;'Bureau d'aide aux victimes';1;0
+e;15274949;'en:be scolded';1;0
+e;15274948;'en:pull up your socks';1;0
+e;15274950;'en:be reprimanded';1;0
+e;230538;'fond d'écran';666;14
+e;15432867;'en:desktop wallpaper';1;0
+e;14938801;'en:desktop background';1;0
+e;15440370;'en:not know where to start';1;0
+e;15201562;'en:tobacco store';1;0
+e;15314736;'en:place of work';1;0
+e;8843694;'en:workplace';1;0
+e;6887729;'en:worksite';1;0
+e;15235392;'en:be overwhelmed';1;0
+e;2919457;'Bureau des longitudes';777;0
+e;15422099;'en:complaints office';1;0
+e;15596749;'en:sleep with somebody';1;0
+e;15422100;'en:complaints bureau';1;0
+e;15546232;'Bureau international des expositions';1;0
+e;15197923;'en:to make love';1;0
+e;15210060;'en:beat time';1;0
+e;15495015;'Bureau International des Brevets';1;0
+e;14470560;'Bureau international des Expositions';777;0
+e;15422069;'en:domain name registry';1;0
+e;232422;'pièce à vivre';1;50
+e;157970;'faire la sieste';1;244
+e;14960089;'en:living room';1;0
+e;98365;'salle de séjour';1;60
+e;15049272;'en:sitting room';1;0
+e;14924551;'en:bonheur du jour';1;0
+e;14922685;'en:make love';1;0
+e;97066;'photocopieuse';1;98
+e;15422090;'en:tobacconist's';1;0
+e;15422091;'en:student office';1;0
+e;15098954;'en:employment agency';1;0
+e;15480335;'en:background display';1;0
+e;158810;'::>13:35358>29:85286>15';9;50;'Où une femme de ménage pourrait nettoyer ?'
+e;45349;'encrier';1;176
+e;15514798;'en:office worker';1;0
+e;15221454;'en:clerical worker';1;0
+e;15202728;'en:desk chair';1;0
+e;15134728;'en:workspace';1;0
+e;15078758;'en:control panel';1;0
+e;13016050;'en:commute';1;0
+e;15201564;'en:information desk';1;0
+e;15422067;'en:office stationery';1;0
+e;15422068;'en:stationery item';1;0
+e;15341329;'en:office item';1;0
+e;15422072;'en:research unit';1;0
+e;15422073;'en:research department';1;0
+e;15288238;'en:design department';1;0
+e;15422074;'en:consulting engineers';1;0
+e;15422075;'en:engineering consultancy';1;0
+e;15422076;'en:foreign exchange counter';1;0
+e;15280326;'en:job centre';1;0
+e;14924920;'en:employment exchange';1;0
+e;14925412;'en:bureau de change';1;0
+e;15530993;'en:Control Panel';1;0
+e;15204544;'A N P E';1;0
+e;15421971;'espace conseil';1;0
+e;15276746;'office de placement';1;0
+e;249793;'espace de travail';1;54
+e;242411;'panneau de configuration';1;52
+e;15146431;'en:meeting place';1;0
+e;15235384;'en:configuration panel';1;0
+e;237646;'agence d'intérim';1;14
+e;359478;'instrument de travail';1;50
+e;154780;'outil de travail';1;54
+e;15212451;'en:to have a siesta';1;0
+e;15357319;'en:working space';1;0
+e;15209800;'en:have a nap';1;0
+e;15244987;'faire un Somme';1;0
+e;200704;'faire un somme';1;56
+e;15114380;'en:polling place';1;0
+e;15114379;'en:polling station';1;0
+e;15422094;'en:student services office';1;0
+e;15422095;'en:students' office';1;0
+e;15101277;'en:personnel office';1;0
+e;15422102;'en:HR office';1;0
+e;15422103;'en:executive office';1;0
+e;15418670;'en:political office';1;0
+e;15417242;'en:work tool';1;0
+e;15280325;'office du travail';1;0
+e;15440018;'agence pour l'emploi';1;0
+e;14927195;'en:quarrel';1;0
+e;15437382;'en:have a siesta';1;0
+e;15390051;'Bureau de coordination des unités hors siège';1;0
+e;15368935;'Bureau International des Poids et Mesures';1;0
+e;15282454;'en:tax collector's office';1;0
+e;13665304;'Bureau international de l'heure';777;0
+e;1460192;'poussé à démissionner';1;0
+e;9774063;'Remington Steele';1;2
+e;159727;'::>13:137506>29:12141>15';9;50;'Où quelqu'un pourrait communiquer ?'
+e;327567;'::>13:137506>29:12141';8;50;'communiquer [sujet] quelqu'un'
+e;161480;'faire une sieste';1;102
+e;15201568;'en:office equipment';1;0
+e;15319149;'en:recruitment agency';1;0
+e;15319692;'centre de vote';1;0
+e;15425024;'assistance à maîtrise d'ouvrage';1;0
+e;10083171;'Bureau International des Expositions';777;0
+e;10990146;'Bureau des plaintes';777;0
+e;15648568;'en:International Bureau for Children's Rights';1;0
+e;15263573;'Bureau de l'éthique';1;0
+e;15202781;'en:mouse pads';1;0
+e;14927196;'en:squabble';1;0
+e;14933684;'en:hard drive';1;2
+e;15420736;'en:enclosed document';1;0
+e;15361457;'en:attached document';1;0
+e;15210061;'en:beat out the rhythm';1;0
+e;15428675;'en:keep time';1;0
+e;14963726;'en:mouse pad';1;0
+e;14933683;'en:hard disk';1;0
+e;1460187;'être noyé sous la paperasse';1;0
+e;146337;'électeur';1;292
+e;258460;'se rendre au travail';1;90
+e;250974;'clavier sans fil';1;52
+e;256301;'barre des tâches';1;50
+e;185479;'aller au turbin';1;60
+e;1072;'querelle';1;406
+e;261954;'secrétaire trilingue';1;14
+e;261952;'assistante de direction';1;12
+e;15456929;'en:get back to the grindstone';1;0
+e;15422117;'en:piece of office furniture';1;0
+e;15422118;'en:office unit';1;0
+e;15303422;'en:desk lamp';1;0
+e;6959528;'en:personal assistant';1;0
+e;15305064;'en:executive assistant';1;0
+e;15305063;'en:management assistant';1;0
+e;14961918;'en:PA';1;0
+e;15432896;'en:medical confidentiality';1;0
+e;15432897;'en:doctor-patient confidentiality';1;0
+e;15305062;'assistant de direction';1;0
+e;15422110;'en:office chair';1;0
+e;15115486;'en:student union';1;0
+e;16308458;'en:student council';1;0
+e;16308457;'en:student body';1;0
+e;15425025;'en:contracting authority support';1;0
+e;15422109;'en:virtual office';1;0
+e;15648599;'en:analysis department';1;0
+e;14079779;'en:pencil';1;0
+e;14947175;'en:typewriter';1;0
+e;15239816;'en:get sloshed';1;0
+e;58172;'se bourrer';1;56
+e;86899;'se biturer';1;56
+e;119124;'se bitturer';1;50
+e;15239815;'en:get hammered';1;0
+e;15242961;'en:get wasted';1;0
+e;15243685;'en:get plastered';1;0
+e;15243684;'en:get smashed';1;0
+e;15211579;'en:get pissed';1;0
+e;186039;'être à l'heure';1;10
+e;15443339;'se défoncer la gueule';1;0
+e;294377;'Bureau des Affaires étrangères et du Commonwealth';777;50
+e;15233581;'en:complaint bureau';1;0
+e;30345;'isoloir';1;154
+e;156931;'::>13:118414>29:12538>15';9;50;'Où une poubelle pourrait cramer ?'
+e;326772;'::>13:118414>29:12538';8;50;'cramer [sujet] poubelle'
+e;110236;'tabac';1;1916
+e;216264;'classe>79255>158961';1;18;'classe>enseignement>salle de cours'
+e;139867;'épingle';1;202
+e;327811;'::>13:66535>29:66604';8;50;'loger [sujet] ami'
+e;15456930;'en:get back to the daily grind';1;0
+e;15422098;'en:production planning department';1;0
+e;15073896;'en:badmouth';1;0
+e;15421744;'dire du mal de [qqn]';1;0
+e;3568019;'dire du mal de quelqu'un';1;0
+e;15625916;'en:speak ill of somebody';1;0
+e;15625917;'en:bitch about somebody';1;0
+e;15625918;'en:slag somebody off';1;0
+e;196901;'baver sur';1;50
+e;15416383;'dire le plus grand mal de [qqn/qch]';1;0
+e;15625923;'en:only have bad things to say about somebody';1;0
+e;176504;'poste de travail';1;12
+e;112973;'photocopieur';1;106
+e;25740;'comptable';1;178
+e;236751;'déchiqueteuse';1;50
+e;3706779;'être convoqué par le directeur de l'école';1;0
+e;16800313;'::>31:8254>29:16800309';8;0;'enculer [objet] secrétaire>personne [endroit] bureau'
+e;157506;'::>14:61490>29:4144>15';9;50;'Où pourrait-on séquestrer une femme ?'
+e;326956;'::>14:61490>29:4144';8;50;'séquestrer [objet] femme'
+e;139232;'icône';1;124
+e;5304236;'immeubles d'affaires';1;10
+e;263729;'au boulot';1;60
+e;332749;'rentrer du boulot';1;50
+e;159869;'jeune dentiste';1;52
+e;233265;'commission scolaire';1;50
+e;324135;'occuper une fonction';1;50
+e;3705317;'emmener les enfants';1;2
+e;3705831;'faire semblant de travailler';1;8
+e;236348;'lenteur administrative';1;50
+e;160858;'::>13:66535>29:66604>15';9;50;'Où un ami pourrait loger ?'
+e;3705721;'aller à Ikea';1;0
+e;152877;'policière';1;140
+e;14535109;'meuble à monter';1;4
+e;14635296;'configuration réseau';1;0
+e;257450;'passer au tableau';1;56
+e;457717;'troubles musculosquelettiques';1;50
+e;6563289;'pièces et main d'oeuvre';1;0
+e;334289;'agence de placement';1;50
+e;157928;'bureaux';1;1813
+e;17459706;'::>31:8254>29:17459702';8;0;'enculer [objet] secrétaire>personne>femme [endroit] bureau'
+e;98319;'réparer';1;942
+e;15375480;'en:al desko';1;0
+e;7437607;'en:desktop computer';1;0
+e;15319693;'en:polling center';1;0
+e;15433705;'assistance à maîtrise d'oeuvre';1;0
+e;15425023;'AMOE';1;0
+e;15425022;'en:consulting technicians';1;0
+e;9968131;'Bureau international de la paix';777;0
+e;11128857;'Bureau de la coordination des affaires humanitaires';777;0
+e;11784351;'Bureau international d'éducation';777;0
+e;15202116;'en:work-related injury';1;0
+e;7997626;'en:industrial plant';1;0
+e;15236057;'coucher avec qn';1;0
+e;15239814;'se piquer la ruche';1;0
+e;15239817;'en:throw 'em back';1;0
+e;15428676;'en:keep good time';1;0
+e;15340883;'en:be on time';1;0
+e;16592559;'::>31:8254>29:16592554';8;0;'baiser [objet] enseignante [endroit] bureau'
+e;14961342;'en:head office';1;0
+e;15422088;'en:collections office';1;0
+e;15422087;'en:asset-recovery service';1;0
+e;15422086;'en:debt-collection agency';1;0
+e;15422083;'en:affiliate office';1;0
+e;15422080;'en:shared office';1;0
+e;15422106;'en:computer workstation';1;0
+e;15422105;'en:computer desk';1;0
+e;15241607;'en:get chewed out';1;0
+e;1869984;'ouvert>49615';1;2;'ouvert>commerce'
+e;439176;'ouvert>171869';1;50;'ouvert>Adj:'
+e;7415099;'en:office manager';1;0
+e;15082734;'en:finances';1;0
+e;15319567;'en:registry office';1;0
+e;15133872;'en:office boy';1;0
+e;12773189;'au travail';1;0
+e;15422119;'en:office work';1;0
+e;15422120;'en:office job';1;0
+e;14939060;'en:lounge';1;0
+e;14923085;'en:taskbar';1;0
+e;253995;'cabinet de recrutement';1;6
+e;15319147;'en:recruitment office';1;0
+e;15425021;'en:project office';1;0
+e;15425020;'en:project management support';1;0
+e;15422089;'en:collections department';1;0
+e;15422084;'en:local branch';1;0
+e;15422081;'en:hot desk';1;0
+e;15422107;'en:home office workstation';1;0
+e;15650727;'en:European Environment Office';1;0
+e;14940755;'en:skyscraper';1;0
+e;14925771;'en:briefs';1;0
+e;7291030;'en:nap';1;0
+e;14961349;'en:siesta';1;0
+e;15445981;'document joint';1;0
+e;15206604;'en:factory unit';1;0
+e;15311839;'en:binge drink';1;0
+e;15226604;'en:get drunk';1;0
+e;15251994;'en:get a dressing-down';1;0
+e;4466421;'se prendre une volée de bois vert';1;22
+e;15417354;'en:get an earbashing';1;0
+e;15089455;'en:cling';1;0
+e;250810;'prendre une cuite';1;50
+e;187277;'prendre une biture';1;50
+e;15343069;'en:get told off';1;0
+e;4206883;'charger la mule';1;0
+e;15759895;'en:get a tongue-lashing';1;0
+e;2515610;'se faire tirer les oreilles';1;4
+e;15424630;'en:get ticked off';1;0
+e;15226603;'en:weigh someone down with work';1;0
+e;85500;'se beurrer';1;52
+e;15428673;'en:be punctual';1;0
+e;15226662;'en:be right';1;0
+e;15428674;'en:tell the right time';1;0
+e;15443361;'en:get bladdered';1;0
+e;15715784;'en:drink yourself stupid';1;0
+e;15474417;'tailler un costard à [qqn]';1;0
+e;259908;'tirer sa crampe';1;50
+e;185915;'devenir chèvre';1;50
+e;17498805;'::>31:8254>29:268088';8;0;'prendre un repas [endroit] bureau'
+e;17498802;'::>31:8254>29:14884139';8;0;'prendre [objet] repas [endroit] bureau'
+e;17498797;'::>31:8254>29:86306';8;0;'prendre [endroit] bureau'
+e;1978126;'aménagement>148961';1;2;'aménagement>locaux'
+e;232964;'période de pointe';1;50
+e;5537895;'Atelier d'architecture de Genval';777;0
+e;23621;'heure de pointe';1;94
+e;1794800;'rangé>1794640';1;2;'rangé>mis en ordre'
+e;14941990;'en:rush hour';1;0
+e;15302877;'heure d'affluence';1;0
+e;15223419;'en:peak hour';1;0
+e;15330882;'en:peak period';1;0
+e;184283;'siège social';1;50
+e;15201563;'en:roll-top desk';1;0
+e;15422078;'en:school administration office';1;0
+e;15422097;'en:licensing office';1;0
+e;15860098;'en:international bureau of education';1;0
+e;15235554;'en:booking office';1;0
+e;15221986;'en:to take one's own life';1;0
+e;15582966;'en:take one's own life';1;0
+e;395125;'collègues';1;575
+e;17526855;'::>31:8254>29:91801';8;0;'écrire [endroit] bureau'
+e;249489;'équipe d'entretien';1;50
+e;318536;'::>66:90075>17:22245';8;52;'chambre [carac] bordélique'
+e;216261;'classe>79255';1;110;'classe>enseignement'
+e;5960875;'secrétaire à cylindre de Louis XVI';777;0
+e;13377;'tempêter';1;106
+e;137077;'s'enivrer';1;168
+e;17526865;'::>31:8254>29:50164';8;0;'graver [endroit] bureau'
+e;17526870;'::>31:8254>29:17526863';8;0;'graver [objet] nom [endroit] bureau'
+e;240382;'arriver en retard';1;52
+e;92196;'aménagement';1;156
+e;15514846;'en:Office Manager';1;0
+e;299164;'débit de tabac';777;20
+e;15074491;'en:tobacco shop';1;0
+e;15338205;'en:arrive late';1;0
+e;15321510;'en:go to the office';1;0
+e;3704576;'piquer un somme';1;4
+e;3700337;'arriver à la bourre';1;0
+e;15434449;'en:have a kip';1;0
+e;15288203;'en:have a snooze';1;0
+e;15268356;'en:office hours';1;0
+e;15209799;'piquer un Somme';1;0
+e;15198531;'en:to go to work';1;0
+e;15440050;'en:Job Centre';1;0
+e;15253618;'en:customs office';1;0
+e;235594;'aide à domicile';1;26
+e;2526106;'Bureau des Longitudes';1;0
+e;15382281;'en:welfare office';1;0
+e;16072285;'Bureau d'aide sociale';1;0
+e;16265300;'en:International Time Bureau';1;0
+e;16265298;'en:International Peace Bureau';1;0
+e;15268355;'en:advice center';1;0
+e;215453;'lycéenne';1;134
+e;15203856;'en:Criminal Investigation Department';1;0
+e;12079530;'joute verbale';1;2
+e;15414802;'en:freehand drawing';1;0
+e;14917803;'en:argument';1;0
+e;7992106;'en:factory';1;0
+e;17460857;'::>14:213635>29:5692';8;0;'baiser [objet] secrétaire>personne'
+e;7049575;'en:drink';1;2
+e;17460959;'::>14:1193383>29:5692';8;0;'baiser [objet] secrétaire>Nom:Fem+SG'
+e;14932026;'en:rant';1;0
+e;15269596;'en:to get a telling-off';1;0
+e;14918306;'en:curse';1;0
+e;15448915;'en:fulminate against';1;0
+e;15430555;'en:type on a typewriter';1;0
+e;15346701;'en:get completely drunk';1;0
+e;15220246;'en:tell stories';1;0
+e;15220250;'en:to tell tales';1;0
+e;15458493;'en:tell tales';1;0
+e;15220256;'en:spin yarns';1;0
+e;15255557;'en:to get plastered';1;0
+e;15048372;'en:drink up';1;0
+e;15435970;'en:lay it on thick';1;0
+e;255729;'se laisser déborder';1;50
+e;137297;'s'arroser';1;50
+e;186006;'en rajouter une couche';1;6
+e;15413638;'en:line your own pockets';1;0
+e;15291881;'en:get stoned';1;0
+e;14932248;'en:get high';1;0
+e;14938221;'en:rail';1;0
+e;15448919;'la peste soit de [qqn]';1;0
+e;15287218;'pester contre';1;0
+e;15612533;'la peste soit de quelqu'un';1;0
+e;15612534;'la peste soit de';1;0
+e;15791711;'peste soit de';1;0
+e;201273;'fulminer contre';1;50
+e;15045408;'en:go ballistic';1;0
+e;15045409;'en:flip one's lid';1;0
+e;14960917;'en:get laid';1;0
+e;15060712;'en:get off';1;0
+e;14939046;'en:cum';1;2
+e;14928282;'en:climax';1;0
+e;15431663;'en:have a rest';1;0
+e;15287219;'en:rail against';1;0
+e;15386191;'en:to fulminate against';1;0
+e;15211578;'en:go bananas';1;0
+e;17538695;'::>31:8254>29:17476867';8;0;'nettoyer [avec] produit lave-vitre [endroit] bureau'
+e;17538696;'::>31:8254>29:85286';8;0;'nettoyer [endroit] bureau'
+e;17538699;'::>31:8254>29:17476871';8;0;'nettoyer [objet] vitres [avec] produit lave-vitre [endroit] bureau'
+e;17538701;'::>31:8254>29:14388956';8;0;'nettoyer [objet] vitres [endroit] bureau'
+e;17538703;'::>31:8254>29:17476872';8;0;'nettoyer les vitres [avec] produit lave-vitre [endroit] bureau'
+e;17538704;'::>31:8254>29:8854280';8;0;'nettoyer les vitres [endroit] bureau'
+e;17548872;'::>31:8254>29:43253';8;0;'dormir [endroit] bureau'
+e;1810547;'ouvert>161702';1;0;'ouvert>Ver:PPas'
+e;166578;'Bureau Ovale';1;50
+e;5955063;'secrétaire à cylindre de Louis XV';777;0
+e;17459710;'::>14:252179>29:5692';8;0;'baiser [objet] secrétaire>personne>femme'
+e;146600;'s'abreuver';1;92
+e;162290;'collegue';1;50
+e;143989;'timbre';1;2958
+e;16800340;'::>31:8254>29:16800327';8;0;'enculer [objet] personne [endroit] bureau'
+e;2376418;'Deuxième Bureau';1;0
+e;36890;'agrafeuse';1;60
+e;26125;'trombone';1;74
+e;6002858;'Concurrent Design Facility';777;0
+e;11393925;'Atelier 5';777;0
+e;15251995;'recevoir des remontrances';1;0
+e;14884139;'::>14:74736>29:86306';8;0;'prendre [objet] repas'
+e;17459702;'::>14:252179>29:126425';8;0;'enculer [objet] secrétaire>personne>femme'
+e;215184;'Sans Bureau Fixe';1;50
+e;11729;'réfectoire';1;642
+e;102512;'cravate';1;156
+e;15426175;'cabinet avocats';1;0
+e;154318;'cabinet d'avocat';1;66
+e;16592554;'::>14:155109>29:5692';8;0;'baiser [objet] enseignante'
+e;16599459;'::>66:116477>24:14381021';8;0;'personne [peut] baiser [endroit] bureau'
+e;16800309;'::>14:213635>29:126425';8;0;'enculer [objet] secrétaire>personne'
+e;16800349;'::>14:1193383>29:126425';8;0;'enculer [objet] secrétaire>Nom:Fem+SG'
+e;14957292;'en:headquarters';1;0
+e;15426173;'en:legal firm';1;0
+e;15092510;'en:law firm';1;0
+e;15429301;'cabinet de droit';1;0
+e;15426174;'en:lawyer's office';1;0
+e;378484;'salle des dépêches';1;50
+e;17526863;'::>14:142152>29:50164';8;0;'graver [objet] nom'
+e;14388956;'::>14:159525>29:85286';8;0;'nettoyer [objet] vitres'
+e;17476871;'::>16:17476866>29:14388956';8;0;'nettoyer [objet] vitres [avec] produit lave-vitre'
+e;10842093;'préfecture pour les affaires économiques du Saint-Siège';777;0
+e;10970350;'Statistisk sentralbyrå';777;0
+e;4309826;'SSB';777;0
+e;5896798;'secrétaire à cylindre';777;0
+e;11128971;'Het Torentje';777;0
+e;11128872;'UN-OHRLLS';777;0
+e;11128851;'Bureau des affaires juridiques';777;0
+e;11128852;'Conseiller juridique';777;0
+e;11154835;'Biuro Szyfrów';777;0
+e;343977;'cité administrative';1;50
+e;181743;'conseiller juridique';1;50
+e;11577743;'Office of Naval Research';777;0
+e;11104948;'ONR';777;0
+e;11590657;'Union de normalisation de la mécanique';777;0
+e;11806346;'Bureau des Affaires étrangères du Tibet';777;0
+e;13867429;'poste centrale du Louvre';777;0
+e;10050377;'hôtel des Postes';777;0
+e;15228010;'en:administrative center';1;0
+e;15953082;'Centro de Investigación y Seguridad Nacíonal';777;0
+e;15953014;'Government Code and Cypher School';777;0
+e;15264773;'en:sorting office';1;0
+e;152991;'centre de tri';1;96
+e;15442407;'en:waste recovery facility';1;0
+e;15442406;'en:waste sorting center';1;0
+e;15442379;'en:recycling centre';1;0
+e;15442405;'en:refuse sorting centre';1;0
+e;15442404;'en:waste sorting centre';1;0
+e;15442403;'en:mail sorting center';1;0
+e;15442402;'en:mail sorting office';1;0
+e;15264784;'en:sorting center';1;0
+e;15288638;'en:international bureau';1;0
+e;2512511;'secrétairie';1;0
+e;16683978;'Hôtel des Postes';777;0
+e;15442378;'centre de recyclage';1;0
+e;16930672;'Financial Crimes Enforcement Network';777;0
+e;16804041;'Biomedical Advanced Research and Development Authority';777;0
+e;15429466;'en:lecture theater';1;0
+e;15429467;'en:lecture theatre';1;0
+e;15686678;'en:open-plan office';1;0
+e;15686679;'en:open-plan';1;0
+e;15686680;'en:bullpen office';1;0
+e;15249179;'en:meeting room';1;0
+e;14958292;'en:draw up';1;0
+e;15683777;'en:write something up';1;0
+e;15222384;'en:write sth up';1;0
+e;7331998;'en:draft';1;0
+e;3848;'avant-projet';1;50
+e;16601816;'::>13:116477>29:5692';8;0;'baiser [sujet] personne'
+e;1794822;'rangé>161702';1;0;'rangé>Ver:PPas'
+e;31970;'centre';1;3753
+e;13373929;'en:massage parlour';1;0
+e;132747;'se quereller';1;112
+e;1794823;'rangé>171869';1;0;'rangé>Adj:'
+e;15220247;'en:to tell fibs';1;0
+e;15251996;'se faire morigéner';1;0
+e;15269597;'en:to get told off';1;0
+e;14943323;'en:thruster';1;0
+e;34951;'prendre place';1;52
+e;15460477;'en:settle in';1;0
+e;15388401;'en:be set up';1;0
+e;15433843;'en:take your place';1;0
+e;14960244;'en:stylus';1;0
+e;14959642;'en:snooze';1;0
+e;368246;'panneau de contrôle';1;50
+e;15235376;'panneau de commande';1;0
+e;15422092;'en:student union office';1;0
+e;15422093;'en:student bureau';1;0
+e;15422116;'en:business hours';1;0
+e;15073135;'en:calculating machine';1;0
+e;12080333;'ordinateur de table';1;0
+e;15242027;'guichet des renseignements';1;0
+e;15288237;'service conception';1;0
+e;15254514;'en:Employment Agency';1;0
+e;15223414;'pointe du trafic';1;0
+e;1706487;'classe>171870';1;0;'classe>Nom:'
+e;1706488;'classe>171869';1;0;'classe>Adj:'
+e;15379972;'point de rendez-vous';1;0
+e;261953;'secrétaire de direction';1;10
+e;15214717;'bourse d'emploi';1;0
+e;15260829;'s'implanter dans';1;0
+e;15537212;'direction centrale';1;0
+e;15314735;'lieu de RDV';1;0
+e;15388400;'se mettre en place';1;0
+e;15117805;'en:home help';1;0
+e;15444217;'en:information service';1;0
+e;15248674;'en:information office';1;0
+e;15327977;'en:accommodation section';1;0
+e;15304597;'en:liaison office';1;0
+e;15543084;'en:foreign exchange office';1;0
+e;15061221;'en:credit bureau';1;0
+e;15139391;'en:law practice';1;0
+e;15771271;'en:remote desktop';1;0
+e;15477736;'en:land register';1;0
+e;15240881;'en:land registry';1;0
+e;15477732;'en:land registry office';1;0
+e;15442381;'en:recycle center';1;0
+e;15442380;'en:recycling center';1;0
+e;7863247;'en:high school student';1;0
+e;14957460;'en:altercation';1;0
+e;14937679;'en:feud';1;0
+e;35227;'rythmer';1;68
+e;15970;'se brouiller';1;54
+e;15430537;'taper sur [qqn/qch]';1;0
+e;15430548;'en:have your wrist slapped';1;0
+e;15430549;'en:get your wrist slapped';1;0
+e;15430550;'en:have your knuckles rapped';1;0
+e;15430551;'en:get your knuckles rapped';1;0
+e;15083325;'en:typewrite';1;0
+e;15332353;'en:become muddled';1;0
+e;15444039;'en:get mixed up';1;0
+e;15043911;'en:mist over';1;0
+e;14935670;'en:cloud over';1;0
+e;15051764;'en:fall out';1;0
+e;4466423;'se prendre un savon';1;18
+e;15348523;'en:to beat time';1;0
+e;15583633;'en:get the rough side of someone's tongue';1;0
+e;15583634;'en:be told to pull up one's socks';1;0
+e;89465;'se soûler';1;52
+e;15294503;'en:be rapped over the knuckles';1;0
+e;15294504;'en:get reprimanded';1;0
+e;15385128;'en:speak ill';1;0
+e;15236059;'en:to go to bed with sb';1;0
+e;15566613;'en:go to bed with sb';1;0
+e;15236058;'en:to sleep with sb';1;0
+e;15566614;'en:sleep with sb';1;0
+e;15454106;'en:become blurred';1;0
+e;15255555;'en:to get smashed';1;0
+e;15752983;'raconter... des salades';1;0
+e;15384077;'raconter des mensonges';1;0
+e;15694128;'en:become overwhelmed';1;0
+e;3568018;'dire du mal de qqun';1;0
+e;15363348;'dire du mal de qqn';1;0
+e;15363346;'dire du mal de qn';1;0
+e;15211577;'tourner chèvre';1;0
+e;15791712;'peste soit de quelqu'un';1;0
+e;15612532;'en:a pox on somebody';1;0
+e;15573587;'en:blow one's nose';1;0
+e;145349;'s'embrouiller';1;64
+e;15357556;'en:leave, escape';1;0
+e;15444046;'se mélanger les crayons';1;0
+e;252173;'se mélanger les pinceaux';1;54
+e;54664;'se mélanger';1;50
+e;15304772;'recevoir des coups, recevoir des coups sur la tête, se faire massacrer';1;0
+e;153284;'être sur le déclin';1;50
+e;15244254;'en:go crazy';1;0
+e;186715;'péter un câble';1;74
+e;15785686;'en:get off your face';1;0
+e;15785685;'en:get out of your head';1;0
+e;14918271;'en:be mad';1;0
+e;15244249;'en:go off the rails';1;0
+e;15321680;'en:go berserk';1;0
+e;153071;'devenir fou';1;68
+e;185656;'avoir les fils qui se touchent';1;4
+e;138923;'râler';1;370
+e;153920;'papier peint';1;94
+e;10929915;'2e Bureau';777;0
+e;14938803;'en:wallpaper';1;0
+e;92601;'aquarium';1;180
+e;11687;'fouille';1;92
+e;36183;'fouilles';1;1665
+e;17538716;'::>66:116477>24:17538704';8;0;'personne [peut] nettoyer les vitres [endroit] bureau'
+e;227765;'être occupé';1;80
+e;319783;'parler pour soi';1;26
+e;97650;'chiffonner';1;70
+e;49810;'pin';1;324
+e;76234;'carotte';1;590
+e;30781;'papeterie';1;164
+e;88635;'layette';1;60
+e;60398;'procure';1;50
+e;230062;'steve jobs';666;50
+e;15514847;'en:head clerk';1;0
+e;15099486;'en:trestle table';1;0
+e;15138771;'en:xerox machine';1;0
+e;15338900;'en:photocopy machine';1;0
+e;14954462;'en:xerox';1;0
+e;15338901;'en:copymachine';1;0
+e;15370594;'en:Military Intelligence Service';1;0
+e;15561255;'en:custom house';1;0
+e;14917144;'en:academic';1;0
+e;15058315;'en:move in';1;0
+e;14934141;'en:set up';1;0
+e;14960918;'en:sit';1;0
+e;14960014;'en:take hold';1;0
+e;99754;'commuer';1;50
+e;7464580;'en:sociology';1;0
+e;7226141;'en:social sciences';1;0
+e;15422138;'tableau de commande';1;0
+e;15444175;'heures de service';1;0
+e;15254513;'Pôle Emploi';1;0
+e;15101442;'en:Home Office';1;0
+e;16128668;'en:Home office';1;0
+e;15316477;'en:wall papers';1;0
+e;15048346;'en:settle down';1;0
+e;15428687;'heure pleine';1;0
+e;329963;'syndicat étudiant';1;50
+e;15543016;'en:office accessory';1;0
+e;16574351;'en:desk job';1;0
+e;275382;'ordinateur fixe';777;4
+e;16390776;'en:Education and Training Office';1;0
+e;15625230;'en:Training Office';1;0
+e;15260832;'en:to settle in';1;0
+e;15260831;'en:to become implanted in';1;0
+e;15260830;'en:to become established in';1;0
+e;15340111;'en:United States patent and trademark office';1;0
+e;15340110;'en:US patent and trademark office';1;0
+e;334466;'aide maternelle';1;50
+e;126675;'renseignements';1;1523
+e;15444216;'service des renseignements';1;0
+e;15596095;'en:be put in place';1;0
+e;17526871;'::>66:68887>24:17526863';8;0;'élève [peut] graver [objet] nom'
+e;15368928;'en:International Bureau of Weights and Measures';1;0
+e;342344;'centre de tri postal';1;58
+e;14920027;'en:local office';1;0
+e;15211454;'en:pedestal desk';1;0
+e;16265311;'en:International bureau of French publishing';1;0
+e;16265310;'en:Bureau international de l'édition franþaise';1;0
+e;108285;'firme';1;1330
+e;15084098;'en:lycee';1;0
+e;15066209;'en:senior high school';1;0
+e;7842443;'en:college';1;2
+e;15303718;'en:Secondary';1;0
+e;146802;'téléphone portable';1;394
+e;40923;'courrier';1;2124
+e;129535;'pigiste';1;88
+e;117310;'Friedrich Dürrenmatt';1;52
+e;188687;'Anatole France';1;52
+e;15081216;'en:cid';1;0
+e;15437222;'à la mine de plomb';1;0
+e;15350981;'en:sparring match';1;0
+e;15783616;'contrat d'emploi';1;0
+e;14927679;'en:checkbook';1;0
+e;14927680;'en:chequebook';1;0
+e;7437651;'en:laptop computer';1;0
+e;14949052;'en:microcomputer';1;0
+e;14929490;'en:PC';1;0
+e;104138;'criminelle';1;84
+e;340310;'brigade criminelle';1;50
+e;591662;'arrêté>171869';1;0;'arrêté>Adj:'
+e;15223484;'en:in a mess';1;0
+e;163684;'maison blanche';1;88
+e;15220259;'en:fabricate lies';1;0
+e;14959645;'en:bellyache';1;0
+e;14924793;'en:grumble';1;0
+e;15475543;'discours emphatique';1;0
+e;15297563;'parler avec emphase';1;0
+e;14940878;'en:scrawl';1;0
+e;15241579;'en:to hang o.s.';1;0
+e;15220454;'en:to make a phone call';1;0
+e;15220455;'en:make a telephone call';1;0
+e;15220456;'en:to make a call';1;0
+e;15220457;'en:call-in';1;0
+e;15220458;'en:to use the phone';1;0
+e;14964005;'en:make a call';1;0
+e;15325416;'en:make a phone call';1;0
+e;15222528;'en:get soaked';1;0
+e;99591;'se pocharder';1;56
+e;15209269;'en:to get drunk';1;0
+e;15408943;'en:get blind drunk';1;0
+e;15443724;'en:tell fibs';1;0
+e;15562794;'en:speak ill of';1;0
+e;15194511;'en:to speak ill of';1;0
+e;52111;'coup de gueule';1;58
+e;146320;'s'enchevêtrer';1;50
+e;141043;'s'emmêler';1;52
+e;141242;'s'emmêler les pinceaux';1;54
+e;1935451;'s'emmêler les crayons';1;0
+e;15430556;'taper [qch] à la machine';1;0
+e;15430543;'se taper [qqn]';1;0
+e;14965903;'en:check out';1;0
+e;15694129;'en:allow yourself to become overwhelmed';1;0
+e;15425469;'sucer la roue de';1;0
+e;15699655;'en:get a telling-off';1;0
+e;15204375;'en:make whoopee';1;0
+e;14922684;'en:have sex';1;0
+e;14920945;'en:argue';1;0
+e;15267320;'en:to wipe one's nose';1;0
+e;15267321;'en:to blow one's nose';1;0
+e;15573586;'en:wipe one's nose';1;0
+e;144775;'s'accoler';1;50
+e;15075607;'en:freak out';1;0
+e;14962026;'en:fly off the handle';1;0
+e;15344404;'en:to curse';1;0
+e;78905;'mauvais sort';1;76
+e;140729;'courant d'air';1;242
+e;15432207;'en:overdo it';1;0
+e;15234544;'en:to overdo it';1;0
+e;2475147;'mythonner';1;0
+e;15286976;'en:make nasty remarks';1;0
+e;15691641;'en:call to let somebody know something';1;0
+e;15343068;'en:get a dressing down';1;0
+e;16361839;'en:get shit-faced';1;0
+e;16361838;'en:be in one's cups';1;0
+e;15346700;'en:get tanked';1;0
+e;15346699;'en:be three sheets into the wind';1;0
+e;15700373;'en:have scruples';1;0
+e;15380225;'en:to have scruples';1;0
+e;186716;'péter un plomb';1;6
+e;186712;'péter les plombs';1;102
+e;12289049;'baiser>146882';1;0;'baiser>Ver:Inf'
+e;15376328;'en:go haywire';1;0
+e;272320;'Steven Paul Jobs';777;50
+e;94752;'Steve Jobs';1;100
+e;273803;'Hewlett-Packard Company';777;50
+e;274302;'Joanne Rowling';777;50
+e;274303;'J. K. Rowling';777;22
+e;274304;'Robert Galbraith';777;50
+e;151718;'J.K. Rowling';1;462
+e;36248;'nomadisme';1;62
+e;33916;'nomade';1;118
+e;215933;'carnet d'adresses';1;50
+e;275380;'desktop computer';777;50
+e;5519;'sonnette';1;386
+e;278036;'sonnette électrique';777;50
+e;282651;'Gerhard Fritz Kurt Schröder';777;50
+e;189564;'Gerhard Schröder';1;50
+e;161606;'salle de classe';1;172
+e;158961;'salle de cours';1;156
+e;271554;'corbeille à papier';1;6
+e;289592;'papier-peint';777;52
+e;289593;'wallpaper';777;50
+e;102142;'arrière-plan';1;52
+e;103010;'background';1;3203
+e;102211;'nomades';1;56
+e;38188;'menu';1;748
+e;176450;'menu déroulant';1;4
+e;57682;'semi-nomade';1;50
+e;300363;'secrétaire à pente';777;50
+e;137141;'dos-d'âne';1;62
+e;300365;'secrétaire à dessus brisé';777;50
+e;300366;'secrétaire à tombeau';777;50
+e;91480;'scriban';1;50
+e;101541;'Davenport';1;50
+e;101573;'semi-nomadisme';1;50
+e;108362;'tellière';1;50
+e;154441;'post-it';1;74
+e;155953;'dossier de chaise';1;52
+e;312922;'Hewlett Packard';1;50
+e;312923;'HPQ';777;50
+e;170934;'style Louis XIV';1;50
+e;11668;'Empire';1;3403
+e;208484;'style Empire';1;52
+e;235452;'environnement graphique';1;50
+e;244261;'carnet d'adresse';1;50
+e;367574;'ordinateur domestique';1;50
+e;567722;'duplication de documents';777;50
+e;376182;'reproduction de documents';1;50
+e;416196;'desktop';1;50
+e;420977;'Chaise';1;50
+e;157511;'chaises';1;152
+e;99050;'mezzanine';1;80
+e;675600;'Note Post-it';777;0
+e;362068;'logiciel bureautique';1;50
+e;384960;'tribu nomade';1;50
+e;152113;'carte d'identité';1;298
+e;153149;'pièce d'identité';1;90
+e;153865;'papier d'identité';1;54
+e;1782601;'corbeille à papiers';1;8
+e;2324394;'Post-it';1;0
+e;38251;'bureaucratisation';1;50
+e;117948;'bureaucratie';1;54
+e;118546;'bureaucratique';1;50
+e;2356027;'ordinateurs personnels';1;0
+e;2583424;'poste de travail modulaire';777;0
+e;2402203;'cubicule';1;0
+e;2410263;'barre de menus';1;0
+e;2434494;'Pargny-sur-Saulx';1;0
+e;2602924;'réseau FTTH';777;0
+e;2602925;'Fiber to the Home';777;0
+e;2446258;'FTTH';1;0
+e;2460397;'Rolodex';1;0
+e;41859;'La Ballade des Dalton';1;50
+e;3304060;'secrétaire à abattant';1;0
+e;3306844;'Tellière';777;0
+e;4325996;'Windows 10';1;0
+e;5705167;'Active Desktop';777;0
+e;5710425;'applescript';777;0
+e;5715849;'kwin';777;0
+e;5783068;'Xerox Alto';777;0
+e;5786875;'Fouquet's Paris';777;0
+e;5896781;'table carrée';777;0
+e;5896782;'table à écrire';777;0
+e;142720;'feutre';1;518
+e;5954968;'sonnette d'immeuble';777;0
+e;5960489;'Ateliers Allot Frères';777;0
+e;5990011;'le col';777;0
+e;6017723;'pavillon Flaubert';777;0
+e;164158;'écran d'ordinateur';1;92
+e;2952654;'Liste détaillée';777;0
+e;222459;'PC>104993';1;22;'PC>informatique'
+e;121762;'prix Nobel';1;166
+e;128265;'Alfred Bernhard Nobel';1;50
+e;10822548;'Maghreb Arabe Presse';777;0
+e;1838404;'MAP';1;0
+e;11008373;'Logiciel Système 6';777;0
+e;11008374;'Système 6';777;0
+e;11008383;'Windows 2';777;0
+e;11009114;'Internet Society';777;0
+e;11009115;'isoc';777;0
+e;11054345;'gestionnaire de session';777;0
+e;11054346;'gestionnaire de connexion';777;0
+e;11054347;'gestionnaire d'identification';777;0
+e;11054348;'écran d'identification';777;0
+e;11054349;'écran de connexion';777;0
+e;11105167;'Hôtel-Dieu de Dole';777;0
+e;7548;'col';1;2449
+e;11154580;'syndrome d'épuisement professionnel par l'ennui';777;0
+e;11154581;'boreout';777;0
+e;139580;'Windows';1;3317
+e;235209;'Logo';1;50
+e;397874;'Super';1;3075
+e;139336;'Méta';1;50
+e;11439034;'Humphrey Richard Tonkin';777;0
+e;11439035;'Président de l'Organisation mondiale des jeunes espérantophones';777;0
+e;5703475;'Renato Corsetti';777;0
+e;11439036;'Président de l'Association mondiale d'espéranto';777;0
+e;11439534;'flatpak';777;0
+e;5679292;'règle dite des trois révocations';777;0
+e;11555312;'Kernel-based mode-setting';777;0
+e;11555313;'kms';777;0
+e;11555314;'atomic mode-setting';777;0
+e;11247348;'MATE';1;0
+e;11783588;'timbres de France émis en 1849';777;0
+e;11806312;'démocratisation tibétaine';777;0
+e;12977265;'Mozilla Prism';777;0
+e;13333142;'Johan Michiel Dautzenberg';777;0
+e;13455456;'Servcorp Limited';777;0
+e;14156173;'Windows 2.x';777;0
+e;14531583;'Par ordre chronologique décroissant';777;0
+e;280431;'En anglais';777;50
+e;14542186;'écritoire à poser';777;0
+e;1813544;'écritoire sur pieds';1;0
+e;14542188;'cabinet à écrire';777;0
+e;14598804;'Threshold 2';777;0
+e;14598805;'Le centre de notifications';777;0
+e;14133605;'Contacts';1;0
+e;5536212;'Cette section ne cite pas suffisamment ses sources';777;0
+e;189307;'Alfred Nobel';1;72
+e;13461136;'Servcorp';1;0
+e;16361538;'zone de notification';777;0
+e;15437572;'barre de lancement rapide';1;0
+e;303186;'menu démarrer';777;50
+e;111314;'raccourci';1;126
+e;16092051;'Démarrer';1;0
+e;127735;'duplication';1;70
+e;7626;'copie';1;2223
+e;16796556;'doudoulinux';777;0
+e;11783631;'Windows 2.1x';777;0
+e;11008382;'Windows 1.0';777;0
+e;271557;'Microsoft Windows';1;50
+e;15626963;'Meuble';1;0
+e;4085713;'bore-out';1;0
+e;16851391;'KMS';1;0
+e;17422426;'Support de X';777;0
+e;17422427;'Serveur Apache2';777;0
+e;390978;'OpenGL';1;50
+e;17422428;'Support de curses';777;0
+e;17422429;'Alternatives à Ubuntu';777;0
+e;136141;'Marilyn Monroe';1;110
+e;213101;'Manureva';666;50
+e;212955;'airbag';666;12
+e;90596;'chevet';1;270
+e;20976;'André Franquin';1;92
+e;127899;'SNCF';1;2061
+e;115211;'désordre';1;630
+e;17148;'séance';1;380
+e;17526873;'::>66:68887>24:17526865';8;0;'élève [peut] graver [endroit] bureau'
+e;246290;'être en vrac';1;50
+e;224409;'travail>26038';1;20;'travail>ouvrage'
+e;214541;'thé>113547';1;224;'thé>boisson'
+e;88491;'reproduction';1;2503
+e;115525;'Radiguet';1;52
+e;62022;'entremetteuse';1;54
+e;151623;'nuit noire';1;72
+e;130361;'garage';1;1308
+e;13545506;'Laboratoire d'informatique, de robotique et de microélectronique de Montpellier';666;0
+e;13545505;'Laboratoire d'Informatique, de Robotique et de Microélectronique de Montpellier';1;0
+e;223759;'::>13:1530>29:75156>15';9;50;'Où une incendie pourrait brûler ?'
+e;223613;'radier>9341';1;50;'radier>supprimer'
+e;26193;'sentir';1;1363
+e;17538787;'::>13:116477>29:8854280';8;0;'nettoyer les vitres [sujet] personne'
+e;212770;'maison de la Radio';666;52
+e;104151;'pc';1;160
+e;221987;'homme>18302';1;6;'homme>adulte'
+e;220014;'femme>18302';1;10;'femme>adulte'
+e;23359;'desk';1;50
+e;37993;'feuille';1;2743
+e;10966;'Marilyn Norma Jean Mortenson';1;50
+e;54971;'Norma Jean Mortenson';1;50
+e;212332;'Norma Jean Baker';1;50
+e;118504;'Marilyn';1;1441
+e;69797;'ouvrier';1;1899
+e;208258;'Société nationale des chemins de fer français';1;50
+e;84221;'cogner';1;618
+e;12136;'Gaston Lagaffe';1;120
+e;13429;'guichetier';1;92
+e;111404;'notaire';1;292
+e;10308;'bouille';1;68
+e;93952;'poupin';1;50
+e;281704;'BCT';777;50
+e;17712;'billon';1;54
+e;40644;'Gaddi';1;50
+e;3555;'informatisation';1;54
+e;4397;'postmoderne';1;50
+e;16143762;'Babacar Gaye';777;0
+e;15339;'recompter';1;50
+e;20012;'emplette';1;60
+e;22388;'directorial';1;50
+e;26366;'multifonctionnel';1;50
+e;27514;'congressiste';1;50
+e;28892;'Bangalore';1;50
+e;34837;'antinational';1;50
+e;16158142;'Baron Grenville';777;0
+e;36896;'Politburo';1;50
+e;37218;'coopter';1;50
+e;39236;'huile de coude';1;132
+e;43347;'chourer';1;50
+e;48720;'scrutateur';1;52
+e;55728;'projetable';1;50
+e;58258;'discount';1;74
+e;69766;'rasseoir';1;50
+e;79647;'coutil';1;50
+e;99820;'doucher';1;116
+e;99887;'taylorisme';1;76
+e;119321;'majorat';1;50
+e;128685;'lustrine';1;50
+e;131755;'nommage';1;50
+e;162303;'widget';1;50
+e;183034;'lit mezzanine';1;50
+e;2430639;'zeppelinien';1;0
+e;2459769;'geeklet';1;0
+e;2484652;'gêner dans les entournures';1;0
+e;2487572;'bureaumanie';1;0
+e;16736381;'6 h 45';777;0
+e;2563251;'recommandaresses';1;0
+e;16766311;'SS-N-30';777;0
+e;16773167;'Mick Mulvaney';777;0
+e;16781236;'Sandy van Ginkel';777;0
+e;3373177;'kenzo';1;0
+e;16795176;'Bureau Interdépartemental de Contrôle des Appareils de Remontées Mécaniques';777;0
+e;16799122;'Apple M1';777;0
+e;16935154;'SiPo';777;0
+e;17015894;'Commissioners of Northern Light Houses';777;0
+e;278110;'Adrien Cyprien Duquesnoy';777;50
+e;213637;'dossier>89038';1;16;'dossier>documentation'
+e;3659578;'ordinateur>104993';1;62;'ordinateur>informatique'
+e;213911;'feuille>3674>145941';1;38;'feuille>botanique>plante'
+e;224412;'travail>67368';1;14;'travail>mécanique'
+e;218298;'roman>38710';1;1076;'roman>littérature'
+e;221986;'homme>102633';1;70;'homme>soldat'
+e;221988;'homme>123395';1;60;'homme>émissaire'
+e;220015;'femme>140056';1;346;'femme>épouse'
+e;177571;'sur';1;3196
+e;134599;'massicot';1;50
+e;148820;'kommandantur';1;50
+e;63722;'gnome';1;114
+e;576311;'croate>171870';1;50;'croate>Nom:'
+e;153486;'dos d'âne';1;134
+e;2382;'diadème';1;106
+e;225944;'lire>25996';1;2;'lire>monnaie'
+e;155437;'BNP';1;54
+e;227020;'bois>4906';1;50;'bois>golf'
+e;213822;'bois>6550';1;4;'bois>cervidé'
+e;76583;'volant';1;1789
+e;71847;'concession';1;110
+e;213416;'fenêtre>213412';1;50;'fenêtre>fenêtre de tir'
+e;159400;'::>13:61490>29:21149>15';9;50;'Où une femme pourrait dévorer ?'
+e;213545;'plume>140176';1;78;'plume>oiseau'
+e;9780;'engin';1;358
+e;224411;'travail>44224';1;12;'travail>accouchement'
+e;60437;'méridienne';1;58
+e;213824;'bois>91594';1;50;'bois>instrument de musique'
+e;152460;'raquette de tennis';1;152
+e;36192;'vendredi';1;2244
+e;220197;'direction>67368';1;52;'direction>mécanique'
+e;15282;'parolier';1;100
+e;188467;'Fenimore Cooper';1;50
+e;153274;'Kandinski';1;50
+e;189339;'Amos Oz';1;50
+e;89236;'sas';1;96
+e;226988;'chambre>59328';1;6;'chambre>réacteur'
+e;22731;'crapaud';1;214
+e;26477;'mariage';1;3797
+e;214246;'livre>209519';1;16;'livre>unité de masse'
+e;225888;'courrier>123745';1;50;'courrier>véhicule'
+e;124882;'George Bernard Shaw';1;50
+e;3087;'créatif';1;90
+e;214232;'chasseur>103453';1;58;'chasseur>cynégétique'
+e;146333;'fils';1;3908
+e;188492;'Savinien de Cyrano de Bergerac';1;50
+e;136788;'TGV';1;1663
+e;13727;'pavillon';1;1594
+e;69807;'femme de mauvaise vie';1;66
+e;188750;'Giovanni pierluigi da palestrina';1;50
+e;142985;'légitime';1;1936
+e;127628;'neveu';1;2453
+e;224897;'entreprise>39406';1;50;'entreprise>tentative'
+e;223842;'J'irai cracher sur vos tombes';1;8
+e;104649;'faire la queue';1;152
+e;188742;'Sylvie Germain';1;50
+e;220016;'femme>51284';1;44;'femme>féminité'
+e;72215;'gouvernement';1;3816
+e;108797;'périphérique';1;1743
+e;164213;'souris blanche';1;72
+e;132464;'Georges Bernanos';1;80
+e;217357;'glacier>90503';1;50;'glacier>miroitier'

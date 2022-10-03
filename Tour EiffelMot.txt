@@ -1,0 +1,2174 @@
+e;163590;'Tour Eiffel';1;72
+e;237;'objet';1;3470
+e;64300;'célèbre';1;3736
+e;81320;'escalier';1;910
+e;87987;'France';1;4525
+e;425181;'eiffel';1;50
+e;118092;'tour Eiffel';1;116
+e;260932;'grande dame de fer';1;50
+e;118350;'ascenseur';1;316
+e;24660;'palier';1;108
+e;19872;'étage';1;1559
+e;216024;'pied>216019';1;52;'pied>pied d'objet'
+e;15110904;'en:eiffel tower';1;0
+e;152354;'tour eiffel';1;66
+e;221992;'base>214005';1;58;'base>partie inférieure'
+e;224448;'patrimoine mondial';1;52
+e;230448;'Trocadéro';1;4
+e;191118;'Ville Lumière';1;50
+e;157283;'lieu>134218';1;268;'lieu>endroit'
+e;123573;'sommet';1;3361
+e;23178;'grand';1;3852
+e;34898;'pied';1;4548
+e;72257;'base';1;3815
+e;216023;'pied>72257';1;2;'pied>base'
+e;134927;'métal';1;3358
+e;206083;'premier étage';1;58
+e;26879;'Seine';1;2979
+e;191119;'Ville-Lumière';1;50
+e;24682;'haut';1;3633
+e;404093;'Tour';1;3703
+e;241591;'monument>45109';1;44;'monument>édifice'
+e;58170;'hauteur';1;3367
+e;26038;'ouvrage';1;3296
+e;231399;'Exposition Universelle';1;52
+e;15357;'Gustave Eiffel';1;56
+e;55137;'construction';1;3702
+e;124092;'fer';1;3776
+e;152247;'paris';1;90
+e;272124;'exposition universelle';777;8
+e;101661;'ingénieur';1;2631
+e;146803;'pieds';1;3041
+e;256557;'destination touristique';1;50
+e;135190;'lieu';1;3861
+e;9575;'tourisme';1;2930
+e;146358;'acier';1;932
+e;213995;'Paris>159560';1;384;'Paris>capitale de la France'
+e;166528;'touristes';1;1948
+e;102105;'monument';1;2720
+e;215071;'tour>55137';1;148;'tour>construction'
+e;10879;'tour';1;3705
+e;37412;'Eiffel';1;996
+e;2983124;'_SW';36;50
+e;113317;'Paris';1;3886
+e;239128;'_COM';36;50
+e;146881;'Nom:Fem+SG';4;50
+e;171870;'Nom:';4;50
+e;2586628;'Gender:Fem';4;0
+e;2586629;'Number:Sing';4;0
+e;14965088;'en:Eiffel Tower';1;0
+e;157284;'lieu>68467';1;58;'lieu>poisson'
+e;156977;'tour>146881';1;50;'tour>Nom:Fem+SG'
+e;14094383;'partie de l'espace';1;0
+e;15246960;'étage du dessous';1;0
+e;139869;'charpente';1;318
+e;14868804;'Premier étage';777;0
+e;14956396;'en:first floor';1;0
+e;14956397;'en:second floor';1;0
+e;2180;'cathédrale';1;3073
+e;136786;'ville';1;9191
+e;14966945;'en:City of Light';1;0
+e;15107877;'en:French capital';1;0
+e;14953191;'en:Paris';1;0
+e;15107876;'en:capital of France';1;0
+e;151767;'_FL:17';6;50
+e;151576;'_FL:6';6;50
+e;151663;'_FL:15';6;50
+e;151550;'_FL:8';6;50
+e;151553;'_FL:0';6;50
+e;233194;'France>22243';1;236;'France>pays'
+e;235234;'Champ de Mars';666;4
+e;84829;'champ de Mars';1;50
+e;53683;'arachnéen';1;52
+e;318067;'diffuse';1;1260
+e;247812;'non vivant';1;58
+e;67773;'haute';1;3483
+e;189886;'en acier';1;56
+e;14916413;'Langue:français';18;50
+e;261762;'prendre en photo';1;56
+e;256339;'briller de mille feux';1;6
+e;7180152;'en:photograph';1;0
+e;15429610;'prendre [qch/qqn] en photo';1;0
+e;254051;'briller de tous ses feux';1;50
+e;15452540;'en:shine brightly';1;0
+e;6814965;'en:vertigo';1;0
+e;86557;'vertigo';1;52
+e;6365345;'sensation vertigineuse';1;0
+e;6810075;'en:dizziness';1;0
+e;6345599;'vertige rotatoire';1;0
+e;6343580;'vertige subjectif';1;0
+e;6409545;'état nébuleux';1;0
+e;6391602;'vertigo rotatoire';1;0
+e;6306100;'tête pivotante';1;0
+e;6372465;'état vertigineux';1;0
+e;6286081;'sensation rotatoire';1;0
+e;6326424;'sensation de tournoiement';1;0
+e;6321986;'sensation de rotation';1;0
+e;15784;'étourdissement';1;92
+e;15592944;'en:disorder of equilibrium';1;0
+e;384166;'touriste étranger';1;50
+e;4048;'vertige';1;154
+e;242897;'forte affluence';1;2
+e;83053;'touriste';1;632
+e;259752;'vendre à la sauvette';1;14
+e;113767;'monter';1;2329
+e;40241;'descendre';1;1099
+e;91691;'surprise';1;2392
+e;28453;'bonheur';1;2804
+e;14330;'satisfaction';1;624
+e;317329;'_POLIT_7NOPOL';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;276096;'_INFO-WIKI-YES';36;50
+e;162763;'_INFO-SEM-THING-CONCRETE';36;1238
+e;162759;'_INFO-SEM-PLACE';36;504
+e;191667;'_INFO-SEM-THING-ARTEFACT';36;242
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;254876;'_POL-POS_PC';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;223173;'_POL-POS';36;50
+e;50889;'gris';1;2604
+e;1705202;':r8792905';10;0
+e;3341569;':r85003292';10;0
+e;1315892;':r3159638';10;0
+e;1315894;':r2201474';10;0
+e;1315895;':r2520921';10;0
+e;1315891;':r2201472';10;0
+e;1315893;':r2201471';10;0
+e;1315896;':r13675923';10;0
+e;1315897;':r13675926';10;0
+e;4356325;':r97419137';10;0
+e;16937147;':r432484035';10;0
+e;8895925;':r85003254';10;0
+e;16937149;':r432484036';10;0
+e;8895929;':r85003267';10;0
+e;14892800;':r85003273';10;0
+e;14876211;':r385040408';10;0
+e;5482840;':r12203076';10;0
+e;3741725;':r85159341';10;0
+e;16945438;':r406698279';10;0
+e;16945439;':r406698304';10;0
+e;14896694;':r385029372';10;0
+e;12678020;'2721291211b2f599c3596351ddd9e7f9';200;0
+e;12689295;'b047d71bc5ed6b6a1675caaac2e2b042';200;0
+e;12785167;'92802c1d6a973691bbfd4a2d370a88fd';200;4
+e;12904374;'3dc385fb96fa79c9c82753df3f1f6722';200;0
+e;12980217;'8f72aed6198763b7d92280a75ebf91d4';200;0
+e;12677253;'b3a82916111c07feca3f7764869be697';200;11
+e;13536830;'997117c41564e22945fed60f88bdab0a';200;0
+e;13537061;'02558525cc636a91cc142bf21a69aa19';200;1
+e;13816767;'a089218ca31ab01d16a38b5e367fc50b';200;0
+e;13985915;'ce63a272ac83d81d4a685ddf047f477f';200;0
+e;14115770;'dccf7fce62519c8e947af2e9446fa56a';200;0
+e;14207912;'30b1263a808ed676d85b772dca00b570';200;135
+e;16913188;'64b4cf108e2d8413b7f3dca070359d3b';200;1
+e;16899714;'8f3e6586e429aa5a38bd9383a0b5cd53';200;1
+e;16984194;'29e44d8999b7caa447da92864e16f3df';200;1
+e;17327267;'bfe13dceef78beea5105053d35984279';200;0
+e;17327273;'4dc79da10dd3bfa0f811da90a7b4e0a5';200;0
+e;17429894;'b5b5fa9a7bfc468ac21883f55d7ba5c3';200;5
+e;12993778;'63b81b07685c0d54b54ceee2682a5900';200;0
+e;14158710;'9e9acc11f3a333acee77977571740fb7';200;2
+e;17178428;'45a7ca76b453dff7946be1bfcc31471b';200;13
+e;14350752;'ad6426f62557a25b661996b0ab9b9178';200;8
+e;3228593;'wiki:@';444;0
+e;45109;'édifice';1;423
+e;32408;'vertical';1;1180
+e;145727;'élevé';1;3253
+e;109457;'parisien';1;3124
+e;133328;'touristique';1;2463
+e;65524;'bâtiment';1;3085
+e;86746;'architecte';1;2514
+e;122542;'Trocadero';1;50
+e;66280;'métallique';1;2190
+e;104130;'antenne';1;332
+e;200885;'fer puddlé';1;50
+e;2237;'Champ-de-Mars';1;58
+e;274222;'cathédrale Notre-Dame de Paris';777;56
+e;36275;'Union européenne';1;86
+e;77735;'Europe';1;3809
+e;54344;'Moscou';1;2993
+e;154607;'antennes';1;126
+e;6637;'émetteur';1;122
+e;12240;'Révolution française';1;208
+e;219231;'Mai';1;3410
+e;21130;'mai';1;3889
+e;110038;'arrêté';1;3080
+e;144255;'Milan';1;3163
+e;26493;'Chrysler Building';1;50
+e;120673;'New York';1;464
+e;190735;'monuments historiques';1;16
+e;244443;'niveau de la mer';1;136
+e;86724;'École militaire';1;50
+e;136418;'degrés';1;2870
+e;111654;'fonte';1;856
+e;32468;'Acier';1;50
+e;216231;'vérin hydraulique';1;50
+e;190742;'pierre de taille';1;40
+e;105681;'point cardinal';1;258
+e;165284;'escalier en colimaçon';1;88
+e;71845;'Guide Michelin';1;58
+e;229738;'guide Michelin';1;128
+e;238220;'Gault et Millau';1;28
+e;42010;'musée de cire';1;52
+e;134898;'Thomas Edison';1;54
+e;136079;'Gustave Ferrié';1;50
+e;156308;'TSF';1;58
+e;143471;'TNT';1;70
+e;146553;'Londres';1;3669
+e;164961;'Jules Ferry';1;94
+e;60960;'décret';1;2792
+e;31388;'États-Unis';1;3907
+e;84957;'Granit';1;50
+e;146155;'granit';1;130
+e;88798;'pylône';1;60
+e;155439;'Maçonnerie';1;50
+e;63281;'maçonnerie';1;198
+e;125198;'phare';1;851
+e;152092;'musée d'Orsay';1;58
+e;103118;'ascenseurs';1;50
+e;107977;'palais de Chaillot';1;64
+e;223022;'Eugène Poubelle';1;88
+e;132010;'préfet';1;2434
+e;86579;'société anonyme';1;56
+e;155510;'Banque';1;2813
+e;164033;'banques';1;1940
+e;219027;'Décembre';1;2929
+e;38330;'décembre';1;3879
+e;231551;'Mairie de Paris';1;60
+e;274897;'ville de Paris';1;116
+e;126274;'ouvriers';1;2538
+e;63195;'Levallois-Perret';1;54
+e;59532;'grues';1;50
+e;96256;'bois';1;5216
+e;201584;'Grève';1;50
+e;112327;'grève';1;2363
+e;232439;'Schindler';1;50
+e;123456;'Otis';1;50
+e;279410;'Pompey';777;52
+e;90968;'Lorraine';1;3548
+e;228877;'frères Lumière';1;28
+e;164811;'Météo-France';1;56
+e;143129;'Panthéon';1;88
+e;80739;'soufflerie';1;56
+e;10679;'Première Guerre mondiale';1;128
+e;93992;'Mata Hari';1;54
+e;48168;'février';1;3857
+e;59988;'Libération';1;2793
+e;231946;'télévision numérique terrestre';1;52
+e;2531;'Wehrmacht';1;50
+e;35646;'Hitler';1;2782
+e;13311;'mont Valérien';1;56
+e;47142;'sodium';1;1703
+e;195114;'Le Temps';1;2
+e;191810;'Alexandre Dumas fils';1;70
+e;92002;'Guy de Maupassant';1;68
+e;135898;'Charles Gounod';1;54
+e;131982;'Leconte de Lisle';1;50
+e;10490;'Charles Garnier';1;50
+e;65373;'Sully Prudhomme';1;50
+e;38449;'Notre-Dame';1;2954
+e;85301;'Sainte-Chapelle';1;50
+e;244683;'Le Louvre';1;50
+e;143448;'Arc de triomphe de l'Étoile';1;50
+e;224673;'Arc de triomphe';1;66
+e;188479;'Georges Courteline';1;50
+e;47897;'Léon Bloy';1;50
+e;189733;'Paul Verlaine';1;56
+e;10041;'François Coppée';1;50
+e;188868;'Joris-Karl Huysmans';1;50
+e;189579;'Georges Seurat';1;50
+e;7977;'Paul Signac';1;50
+e;129142;'Pierre Bonnard';1;50
+e;29408;'Maurice Utrillo';1;50
+e;125560;'Gromaire';1;52
+e;30164;'Édouard Vuillard';1;50
+e;122780;'Albert Marquet';1;50
+e;67398;'Raoul Dufy';1;50
+e;135442;'Marc Chagall';1;50
+e;86643;'Robert Delaunay';1;52
+e;125861;'Life';1;2387
+e;170749;'Guillaume Apollinaire';1;16
+e;170765;'Roland Barthes';1;14
+e;189105;'Pierre Mac Orlan';1;50
+e;99556;'Pascal Lainé';1;50
+e;112621;'poésie';1;2905
+e;137399;'Alcools';1;52
+e;51320;'René Étiemble';1;50
+e;5426;'haïku';1;60
+e;130487;'Blaise Cendrars';1;64
+e;83696;'Louis Aragon';1;62
+e;13844;'théâtre';1;3848
+e;57783;'Jean Cocteau';1;54
+e;53056;'sémiologique';1;50
+e;187404;'Louis Lumière';1;16
+e;189189;'Georges Méliès';1;50
+e;231206;'René Clair';1;50
+e;8977;'Abel Gance';1;52
+e;64182;'Ninotchka';1;50
+e;189096;'Ernst Lubitsch';1;50
+e;37234;'Georges Simenon';1;58
+e;50805;'Charles Laughton';1;50
+e;239889;'commissaire Maigret';1;52
+e;252323;'La Guerre des mondes';1;50
+e;119243;'Zazie dans le métro';1;50
+e;189118;'Louis Malle';1;60
+e;238579;'Philippe Noiret';1;16
+e;146001;'juin';1;3865
+e;233806;'Les Cinq Dernières Minutes';1;2
+e;71467;'télévision';1;4174
+e;225072;'Dangereusement vôtre';1;2
+e;158299;'James Bond';1;278
+e;225061;'Roger Moore';1;94
+e;273788;'Independence Day';777;50
+e;276595;'Mars Attacks!';777;50
+e;227830;'Jean-Pierre Jeunet';1;2
+e;232781;'Armageddon';1;4
+e;265479;'Jacques Tardi';1;66
+e;105571;'Blake et Mortimer';1;68
+e;170783;'Edgar P. Jacobs';1;50
+e;188848;'Hokusai';1;60
+e;268262;'estampes';1;54
+e;416796;'Tourisme';1;2885
+e;430425;'radiophoniques';1;50
+e;399681;'haubans';1;50
+e;14138;'Archives nationales';1;50
+e;421172;'Architecte';1;50
+e;408617;'Fer';1;50
+e;404548;'Ascenseur';1;50
+e;401227;'boulons';1;52
+e;407196;'Grue';1;50
+e;408627;'Bois';1;2012
+e;113626;'Zaccar';1;50
+e;16073606;'Monument historique';1;0
+e;16074417;'Subvention';1;0
+e;52958;'Ville de Paris';1;58
+e;2929320;'Site web';777;0
+e;11083394;'Gros-Caillou';1;0
+e;10001594;'Exposition universelle de Paris de 1889';777;0
+e;11104637;'tour Ostankino';777;0
+e;5570282;'Radiodiffusion';1;0
+e;5966905;'Maurice Koechlin';777;0
+e;5968695;'Édouard Lockroy';777;0
+e;2071087;'longues-vues';2;0
+e;11013977;'Patrick Jouin';777;0
+e;12266351;'Transmission sans fil';777;0
+e;10083446;'Exposition universelle de 1876';777;0
+e;2570453;'Hauban';1;0
+e;10088631;'Jules Bourdais';777;0
+e;10001566;'Exposition universelle de 1878';777;0
+e;2575847;'Phare';1;0
+e;9253401;'Pierre Petit';777;0
+e;2108524;'subventions';2;0
+e;6066746;'Ouvrier';1;0
+e;1854860;'Rivet';1;0
+e;2119424;'rivets';2;0
+e;2480150;'Boulon';1;0
+e;5954548;'Jean Compagnon';777;0
+e;12301573;'Exposition universelle de 1900';777;0
+e;14049364;'Juin 1884';777;0
+e;14170819;'Liste des 72 noms de savants inscrits sur la tour Eiffel';777;0
+e;8935601;'Paris>100640';1;0;'Paris>roman'
+e;3695052;'Paris>146785';1;0;'Paris>nom de famille'
+e;3695053;'Paris>118538';1;0;'Paris>prénom'
+e;8935599;'Paris>30171';1;0;'Paris>navire'
+e;213996;'Paris>146782';1;50;'Paris>Paris Hilton'
+e;3695049;'Paris>356382';1;4;'Paris>gouvernement français'
+e;215074;'tour>63657';1;2;'tour>machine-outil'
+e;215075;'tour>130255';1;10;'tour>potier'
+e;215076;'tour>109738';1;16;'tour>habileté'
+e;215078;'tour>215077';1;52;'tour>action néfaste'
+e;215079;'tour>10564';1;8;'tour>déplacement'
+e;215080;'tour>7088';1;14;'tour>circonférence'
+e;215807;'tour>52238';1;50;'tour>rang'
+e;1792250;'tour>104993';1;0;'tour>informatique'
+e;215072;'tour>203247';1;50;'tour>machine de guerre'
+e;215073;'tour>145556';1;84;'tour>jeu d'échecs'
+e;111791;'vertigineux';1;50
+e;17193488;'b03ce93ca3c534860d599d43ca583614';200;0
+e;16947090;'1dc9c5659e863df1ecbbf89d5ff7bdaf';200;14
+e;17049418;'6f7261553f1017308b634e34efb78fd0';200;5
+e;17057523;'19a322c54880b0efa5498c5ef71b8517';200;8
+e;17057954;'727b8f621a80a8afff3c992b48a2809c';200;13
+e;17121332;'8468e2a90a7f0b500b78c1d976c8afae';200;0
+e;17462885;'211bcd9880455445d46ba111871d3295';200;4
+e;17175372;'7352b8db2ae4bc93335da804b6f4c135';200;0
+e;17455761;'2bad3129a7ac752c9467f43f713bcd8c';200;3
+e;17463779;'736117e70fef85fe19f162417749fdbb';200;2
+e;16669231;'3f2d1397af29f1cf22d512ea5d5081c4';200;2
+e;17165344;'7877ba3d867213248f73925f4fdf0520';200;0
+e;17191334;'b433c809f8d08ac282d982cdb22378be';200;0
+e;17159486;'f7d624a7488a55a015841c2cab0e2573';200;0
+e;16736630;'c24739c8c7c1e5ead55baa2d6d7e7e44';200;0
+e;16949071;'355070817aaef5c7e8197515276c2953';200;76
+e;17029466;'70106bbcdac9f57c2dc23b31e647980a';200;0
+e;17055446;'c2c35a5778d43eef2bda924d80365132';200;12
+e;17057931;'c7d863bf1bfcd397573da573f80fc77c';200;0
+e;17058371;'67419544dd9620cd555119f9833e761a';200;2
+e;17058456;'34b2c3a749998275f58aa8c757d944ab';200;132
+e;17059532;'a96846a3c647424515a22ec18b834222';200;10
+e;17068714;'5a2b16f888fd15e1ce9d577bc8d6e461';200;0
+e;17068906;'0269c1b9fd2d024d34edcfe2cac812cc';200;0
+e;17069108;'1c30239092dd12c5503912d76ce37028';200;0
+e;17069628;'0584023e624057a36bffac7c9dafd715';200;0
+e;17103453;'29c21a8a1484eeda63b8523b7f0cbeff';200;184
+e;17103597;'dd3e3398e5f73923a5694038d09f0a71';200;0
+e;17103729;'02655f427f44b2580a0d3c81e7307f54';200;0
+e;17103758;'4e89fcf0499bc15ce2a71eda4f8f38df';200;0
+e;17103908;'8d8f2cd21b63ac3cbbc5adcb1ab0228c';200;0
+e;17104031;'d00f14f5aac84d88bbd0bea89c5e8e3b';200;0
+e;17105816;'2a40ff5a601f15d883fd62d121a5d3d7';200;0
+e;17106233;'0d62c2b46eea2bcd28e074cee93461eb';200;0
+e;17106373;'139f2031f7eb825937cd5d0fa17b5e0f';200;5
+e;17106905;'374ca28a9471662e9cd949851840c940';200;0
+e;17108532;'acfbc883cc28650dabf881871e5d99b7';200;4
+e;17108570;'f1a1eaa4b831675c7e9f226a5e7003c4';200;0
+e;17109589;'ad9d3a8624c8a71164846904d743b463';200;0
+e;17109705;'4c0596ab2f176795a12cddfc164dd25c';200;0
+e;17109739;'5cf32f8e514b4e233be12f592bc5d22d';200;0
+e;16715861;'b8d5c02ffdedc95b80c84a23a0a67165';200;7
+e;17111660;'1a6b6831524fa47a7f5322e856762f7e';200;1
+e;17112581;'5b9cf6582ef887b2e50d02c56d40fec4';200;10
+e;17113666;'d8d4cc9a6119331967a5587cf279eaeb';200;0
+e;17119258;'f5002caea574ec05c7a2a5974fc4485e';200;0
+e;17120194;'66d91971649b1ebb4786d90cf4d6016b';200;0
+e;17120243;'3c19bb4d9d0c3bd8aef2881647776784';200;0
+e;17120649;'7d287358e03333d4a1ec647fcbb9adc5';200;0
+e;17120654;'bab0972cbd852f62e8e75ca74fdcdbc2';200;26
+e;17120767;'c3d2e9c299c423febe7a3935ab378ba2';200;0
+e;17121334;'e5dedb4a5b55fc38ce232e094aace176';200;0
+e;17121471;'c8e8d5543382ad71d93b05b3a46fabd9';200;32
+e;17122143;'622a8629524c25ee563681a3c8dcb01b';200;0
+e;17128947;'4d116d1e24d5d049c7e8b43eac7889ac';200;0
+e;17129019;'be1ff65f3adc09d04b6476a5d19d685e';200;9
+e;17129855;'aca83ab7beaacbee238f8b61df365111';200;0
+e;17129870;'eba1d28971b827fb6aef1f4d34fcf2ef';200;0
+e;12720763;'a822cd72dcad093ff919a53ef6cc0f30';200;0
+e;17129984;'945c8716df9a902f25d1f3cfca6cd0ac';200;0
+e;17129985;'3089d661fe8289dba7570942f7dc9d3a';200;0
+e;17129987;'fb607999e67791f95fa1404453e5455a';200;0
+e;17129991;'afb28443b29873a29cdd587d990ef00e';200;0
+e;17129992;'0272b3288ba46f4784f4eedee5f1c4f1';200;0
+e;17129994;'d7630ed3d48cd9dafc20e2975b2109b8';200;0
+e;17129996;'7176760e2fa2bf15efd2d14037a49fa6';200;0
+e;17131415;'deede9ed8a10af3b79c4bae16f3564ef';200;4
+e;17131637;'973f683af3f04293b879c0f683987b7c';200;2
+e;17131970;'1784c9796be4c46d6e8525a2e5240fe3';200;0
+e;17140292;'d5b79670d87c084dc2b497f230390741';200;4
+e;17141546;'93464d331c49bfd40113cc0fe033e768';200;0
+e;17142804;'f75f28222495e26a9aeb8152ebb18fe6';200;0
+e;17144183;'ffcf86d665fa6d4e006ad638d07d48ee';200;0
+e;17144775;'a80c62ee91fb5ea00a9a3043cd132340';200;6
+e;17144913;'743e01d99e35a1936ddc59e93f39dddf';200;0
+e;17145010;'df27def3a4833a7eb0cbf755e9e7957e';200;0
+e;17146324;'95c6724983be6e520a8010d8fdcc363c';200;10
+e;17148098;'cabf387c2bfd7387868e73c399c52084';200;5
+e;17148479;'421948c3179f8c3693836499a9fdc43a';200;6
+e;17149364;'e4f5579f67f048c179e1f7f441134f62';200;2
+e;17154643;'fd26c16148aeb0f07208a44c3bbd3e43';200;0
+e;17161007;'ffbba3a2fbdbe65812240a07380d443b';200;0
+e;17162146;'f316c40ec43cb3f978f86eb985a05ea0';200;0
+e;17162549;'43f83e2f27ac4133704adb7bd64e7f8f';200;0
+e;17163406;'2ce6afb56141618b6aca7c056ff4d9a1';200;0
+e;17164041;'6de95a86fa00560d02cddd910c5718f7';200;0
+e;17175460;'7a5fd178b247400ec14fbc4687fc81c5';200;0
+e;17178421;'c6637adbfa3248696a2c6a6ec1af331c';200;0
+e;17178528;'40c976d3e58c796557a6fc3df0043188';200;2
+e;17178791;'5621a2378f69179e8d43748942475da4';200;4
+e;17180201;'fa673bfac6b3207ea44bba79eb666e98';200;0
+e;17180646;'fb6d63a545e570532bfee380440009c1';200;2
+e;17180731;'aebe78a75b9ad3cf8af22ae35440e58b';200;1
+e;17181135;'80ed76827502ee95c0a08329872433fc';200;0
+e;17181153;'d55fac9e9d4bf62bc9e14014ec18566e';200;0
+e;17181170;'ccd97e55c4d9637baf4630c2b3e0091f';200;0
+e;17185197;'b6185a8ef1614638e72f6f7b19c82cb7';200;4
+e;17186171;'be08c2eb5680190a2590154b03a3d0c3';200;2
+e;17186209;'99135d42a7865501aec404e40a551b2a';200;0
+e;17189937;'bfb40dd02b95522b5579028b59f0a5fd';200;0
+e;17191350;'934838d8d3719689681a93a47bc55585';200;0
+e;17191702;'d276d1794d730c665abd8705b70e48b7';200;0
+e;17192016;'a13b1cd3683f02cfbb1ec853ffb310d6';200;51
+e;17192104;'dd25dd5f823311f683df9d2d110e7db2';200;0
+e;17192826;'ad864629366d2cba073655dd8028629b';200;0
+e;17192900;'b03f90a4f61b9c8f0127766a7ec1153c';200;0
+e;17202081;'7d6dba32dbbaf4e18bf5d2d48d8a5493';200;0
+e;17207193;'2d07525874b7b8b5816322a7300b3fbe';200;0
+e;17210597;'f366325922afb0215972f9f5a6eaa23d';200;0
+e;17212892;'754f20b9e0212a53d14d3b655e2aa979';200;0
+e;17212912;'ba057a5b290656bfb1d8a4046046e7fa';200;0
+e;17218439;'dd937626a26d06ab989fff26f96ad326';200;15
+e;17227129;'b2dc1705a14f1364a96c80257b8d8490';200;0
+e;17229135;'1916643017ef3c43b7f5c00ddf7f6a6f';200;0
+e;17230074;'56ebc6e1a76a760f4468aba80dc05447';200;1
+e;17230212;'5ecca114b5313436c008045d195838d0';200;1
+e;17236274;'8db3a4fc709e82392d999a2124978a91';200;0
+e;17237434;'39241d6eb62ee33219359f9d5b0a83ca';200;0
+e;17240298;'6408bbebfba76dbcea2b36826f1572f3';200;0
+e;17240303;'b56edf2266a3ab42730f514a00dba2c5';200;0
+e;17240405;'503e93a79f0eb6980354dfdc30665aa2';200;0
+e;17240926;'4f4af7c40da8dd4780bf03f74e5c6c15';200;0
+e;17241198;'44f84734b6c0a204a3effcbc80baf818';200;0
+e;16772876;'f10ed3b4475c9513b2e8f1ebbe2341dc';200;0
+e;17244362;'ad0ab9d29ffd1bfd62c1e2fd3ba46eb9';200;0
+e;17244460;'dcf87e2e1d6d576be058e8a1bee85ae5';200;66
+e;17249046;'702e57fc8ddaf7c03c38b02cb19b6dd9';200;0
+e;17249924;'418e85709644e1234150a602f7a8ba35';200;1
+e;17251831;'e0389bb0e55b682411e7ff2a60a3bb1b';200;4
+e;17251978;'0df6fd404db84dab7e6e3b9867365878';200;0
+e;17251986;'3078eaf9dfbb9fe6303450b66ca61826';200;0
+e;17252083;'f087abe2bf3bbefa5924718c464b057c';200;0
+e;17252660;'2fb6d35ba8d45fbb043a0660486c5aab';200;0
+e;17252807;'a01e04af619e7f65ad2d574ecd22115e';200;0
+e;17255968;'90126d8eb3bc095289f6eadea643a37c';200;4
+e;17256052;'6991cdd5fda764826c5ee87f8c5191ec';200;8
+e;17256190;'6b95a8f099dfe79685aa8441cbdaf867';200;0
+e;17256385;'217f1f425145fc75966b6e66fcdc2e2d';200;0
+e;17256731;'091ba36e25ae2dfeabd9955bc16d0044';200;5
+e;17258958;'588a0c8762048e16f1861a9773e95af2';200;5
+e;17260042;'e7b336c0f8a0876024881e4c74bc917a';200;67
+e;17260400;'c03bdd7156806b906ff9ece43b769df0';200;0
+e;16905911;'a4565a94767df06530422920cf5c2037';200;4
+e;17270339;'e956aa4d13295ae2d057b411ec6f7b20';200;188
+e;17273217;'444c80723d219a65a94a5f7f6ebab04d';200;1
+e;17279167;'333c2bc2ac62d88277d2d46583c5b57b';200;0
+e;17316303;'6cc3e28673b62912460fc124bc4924ee';200;0
+e;17322458;'03836c8432f3bb12803eba0e22aebf42';200;0
+e;17325302;'a5e340382a98348ad49a27a9bfc7094b';200;4
+e;17325836;'fede4c36f87b2a9af235c22ede52f073';200;0
+e;17327280;'87163f436ed170530fb9323f37fd8583';200;0
+e;17106123;'045a60c262b7b998b56f5b0fa59e40c3';200;0
+e;17327296;'d16327ca8b43cfcb3b8bee0f1198791d';200;68
+e;17329033;'fc59a6c214e97baee8f96f648cefc6ea';200;0
+e;17329176;'ba3f19f721d6707b98663274cce3892d';200;0
+e;17329486;'2184f9c08277ea8221154e73eb96192d';200;0
+e;17329726;'5d368a15710f6d18101d61b3a0b1682c';200;0
+e;17382466;'743cdfe7f1b81104c0016983b0a4bc10';200;0
+e;17402430;'bccdfe63260e974a57249820f9b63706';200;2
+e;17402819;'55f21166f19ad53e4ad105cac70e2533';200;2
+e;17402834;'0e96a0213388433c6eba7c11c36b5302';200;0
+e;17417603;'12cb85be3bf05cc8f4bdea5f5806cc35';200;3
+e;12728738;'8dd7a7a401f57c4fbe73f631a77ee8d6';200;8
+e;17422279;'42a30dba06909c250c7b96f543f75278';200;0
+e;17424319;'9e074e88a8c13f8b90711ddf558dbd1c';200;6
+e;17424485;'3637bc0f9128d53147f07e12e730c302';200;0
+e;17427914;'5902ce594c471e319a3e0b794c8cac1c';200;1
+e;17433200;'869c983a437c89e6965d0e19ca362d41';200;40
+e;226990;'Ariane 5';1;14
+e;152576;'Ariane V';1;68
+e;64518;'Ariane-5';1;50
+e;13221;'Paname';1;66
+e;12864519;'690dd263c7676b57d36fc1dd2706d118';200;0
+e;12990822;'ad616f34935743959be5523f5ead278a';200;0
+e;13191074;'7c958710f59ab0e347c0816fe46bf379';200;1
+e;13461581;'6e387ff52e767694b0c9849f8caa3940';200;7
+e;13535928;'01070282b28e1b49219fdfb0fcc911d4';200;0
+e;14451969;'b6c626bddaad6fd81c10e9e0e497ea98';200;7
+e;18186;'photographiable';1;50
+e;1380665;'ancien palais du Trocadéro';777;0
+e;212534;'Dame de Fer';666;50
+e;189669;'Margaret Thatcher';1;66
+e;13535603;'ff20783a2eaf2b8346a5a5fa2b2d7c22';200;0
+e;13536863;'690eefe52ecb601b401349054468f3c4';200;0
+e;13568916;'3a778ffd777647d488f39f71134db958';200;15
+e;16155442;'Suzanne Deutsch de La Meurthe';777;0
+e;31876;'lift';1;56
+e;38338;'Neuves-Maisons';1;50
+e;69230;'porte-clef';1;76
+e;5499244;'Lacq profond';777;0
+e;18517;'Paul Langevin';1;50
+e;16320167;'Télévision française';777;0
+e;302601;'Télévision Française 1';777;50
+e;283350;'ascenseur de charge';777;50
+e;12771191;'e51291c14e92cfaea3580da6dc16fdd5';200;7
+e;14915567;'f6ed29dc5204a266bb3d13a6e9220ecf';200;0
+e;100704;'porte-clé';1;106
+e;16321473;'dc78a8b225b05dca66df4347bde71385';200;136
+e;5537657;'architecture de New York';777;0
+e;5537898;'Cité de l'architecture et du patrimoine';777;0
+e;168537;'bateau-bus';1;50
+e;14009436;'8f1f2ddac5fee96956f51993184591ca';200;74
+e;14932163;'en:giddiness';1;0
+e;284671;'grande galerie de l'évolution';1;50
+e;236295;'Google Maps';666;52
+e;264334;'Burj Khalifa';666;50
+e;212913;'Téléthon';666;54
+e;212477;'tours Petronas';666;50
+e;99418;'marée';1;1135
+e;16766732;'e297aa5c955e4bcaf2323063f31b1646';200;0
+e;182515;'fontaine Wallace';1;78
+e;225948;'statue de la liberté';1;56
+e;120039;'Rocamadour';1;52
+e;271896;'Le Mont-Saint-Michel';777;50
+e;224447;'statue de la Liberté';1;50
+e;59022;'carte postale';1;306
+e;107289;'origami';1;82
+e;163033;'La Défense';1;78
+e;4388780;'Un Indien dans la ville';666;0
+e;59082;'attentat';1;1673
+e;270964;'Kick-Ass';666;50
+e;133343;'RATP';1;284
+e;268723;'attraction touristique';1;6
+e;272123;'expositions internationales';777;50
+e;123294;'expo';1;54
+e;128076;'Blackpool';1;50
+e;223836;'L'Aile ou la Cuisse';666;18
+e;272759;'Bönickhausen';777;50
+e;272874;'Deux têtes folles';777;50
+e;26728;'allumette';1;742
+e;273188;'Mois précédent et suivant';777;50
+e;160523;'musée Grévin';1;64
+e;127150;'Musée Grévin';1;50
+e;92248;'À bout de souffle';1;58
+e;274434;'champ de mars';777;50
+e;275293;'récepteur à';777;50
+e;275294;'poste à';777;50
+e;26585;'rez-de-chaussée';1;94
+e;146256;'Louis';1;3847
+e;275616;'de Broglie';777;50
+e;71388;'rivetage';1;50
+e;74062;'Belle Époque';1;56
+e;275965;'Arts et Métiers ParisTech';777;50
+e;144080;'École nationale supérieure d'arts et métiers';1;50
+e;153188;'ENSAM';1;80
+e;231099;'Les Shadoks';1;50
+e;233884;'Belem';1;24
+e;2106;'Vals-les-Bains';1;50
+e;3713;'Empire State Building';1;68
+e;4559;'Louis Joseph Gay-Lussac';1;52
+e;278166;'Claude Louis Marie Henri Navier';777;50
+e;6160;'Henri Navier';1;50
+e;6469;'Hangzhou';1;50
+e;278392;'orphéons';777;50
+e;278393;'sociétés chorales';777;50
+e;278394;'sociétés orphéoniques';777;50
+e;8077;'télévisuel';1;54
+e;138588;'Jean';1;3873
+e;36261;'Dubuffet';1;50
+e;25642;'Jean Dubuffet';1;50
+e;48989;'Hammamet';1;50
+e;47469;'Prose du Transsibérien et de la petite Jehanne de France';1;50
+e;20498;'imagisme';1;50
+e;184532;'timbre postal';1;50
+e;72493;'timbre-poste';1;118
+e;187336;'André-Marie Ampère';1;50
+e;106626;'André Marie Ampère';1;50
+e;95981;'Mesplé';1;50
+e;282313;'mesplé';777;50
+e;282829;'Jean Baptiste Joseph Fourier';777;50
+e;187375;'Joseph Fourier';1;50
+e;153416;'grande roue';1;76
+e;128510;'Luciano Pavarotti';1;54
+e;71931;'Pavarotti';1;52
+e;163205;'cage d'ascenseur';1;52
+e;69259;'monte-charge';1;112
+e;283675;'ingénieure';777;50
+e;129618;'téloche';1;50
+e;86369;'Les Quatre Cents Coups';1;50
+e;77696;'Île-de-France';1;2548
+e;46622;'porte-clefs';1;58
+e;18625;'porte-clés';1;78
+e;284177;'porteclé';777;50
+e;284178;'porte-cl';777;50
+e;284479;'La Liberté illuminant le monde';777;50
+e;268706;'Statue de la Liberté';1;50
+e;271748;'Publicis Groupe';1;50
+e;271747;'Publicis';1;2
+e;154140;'ballon dirigeable';1;74
+e;45534;'dirigeable';1;138
+e;264336;'Tokyo Skytree';666;50
+e;46947;'Peggy Guggenheim';1;50
+e;117302;'canular';1;104
+e;259593;'heure bleue';1;56
+e;47226;'brunante';1;54
+e;286092;'département de la Côte-d'Or';777;50
+e;145447;'Côte-d'Or';1;2214
+e;103389;'papier';1;3174
+e;208456;'steak tartare';1;138
+e;280171;'Télévision';777;2063
+e;287950;'Shy'm';777;50
+e;287951;'Tamara Marthe';777;50
+e;288617;'aéroport de Paris-Charles-de-Gaulle';777;50
+e;242285;'Roissy-Charles-de-Gaulle';1;50
+e;73892;'foudre';1;374
+e;218165;'Foudre';1;50
+e;276094;'émetteurs de télévision';777;50
+e;8216;'radio';1;3378
+e;187943;'émetteur de télévision';1;50
+e;177238;'filet américain';1;50
+e;154646;'eau ferrugineuse';1;50
+e;230163;'Kick Ass';666;50
+e;214977;'Jean-Louis Aubert';1;6
+e;32708;'palais du Louvre';1;62
+e;55333;'architecture métallique';1;50
+e;233983;'Milka';1;50
+e;259955;'arc de triomphe de l'Étoile';1;50
+e;41917;'arc de triomphe';1;76
+e;247461;'Uri Geller';1;50
+e;236436;'Google Earth';1;56
+e;14476;'métiers du bâtiment';1;50
+e;101329;'mademoiselle';1;104
+e;145323;'Mademoiselle';1;50
+e;230588;'Michaël Youn';1;2
+e;291595;'Michaël Benayoun';777;50
+e;99219;'entre chien et loup';1;114
+e;71149;'Gaston Tissandier';1;50
+e;229511;'France Culture';1;52
+e;152320;'France culture';1;50
+e;155605;'Ile de france';1;52
+e;163983;'île de france';1;52
+e;225564;'île de France';1;14
+e;187348;'Jean-Charles de Borda';1;50
+e;16685;'Koechlin';1;54
+e;292982;'Jean Koechlin';777;50
+e;292983;'Rodolphe Koechlin';777;50
+e;234989;'lieu de mémoire';1;10
+e;293049;'Burj Dubaï';777;50
+e;293439;'Alberto Santos-Dumont';777;50
+e;125731;'Santos-Dumont';1;50
+e;10874;'téléspectateur';1;110
+e;11129;'paratonnerre';1;82
+e;11541;'Moulin-Rouge';1;74
+e;13577;'Sées';1;50
+e;22438;'Cachan';1;66
+e;37343;'William Frederick Cody';1;50
+e;23623;'Buffalo Bill';1;70
+e;24684;'urbanisation';1;98
+e;27202;'urbanisé';1;52
+e;28952;'rez-de-jardin';1;58
+e;96173;'industrialisation';1;60
+e;37619;'industrialisé';1;50
+e;132646;'aéronaute';1;50
+e;38541;'aérostier';1;50
+e;296286;'fête nationale française';777;50
+e;162485;'14 juillet';1;196
+e;39780;'14-Juillet';1;50
+e;129087;'Quatorze Juillet';1;50
+e;296287;'Quatorze-Juillet';777;50
+e;41518;'Bry-sur-Marne';1;50
+e;41850;'ponts de Paris';1;50
+e;296805;'télégraphie sans fil';777;50
+e;296806;'bandes de TSF';777;50
+e;47430;'radiotélégraphie';1;54
+e;48173;'Vieux-Condé';1;50
+e;49754;'Beachy Head';1;50
+e;49957;'Citroën';1;262
+e;54363;'radioconducteur';1;54
+e;232791;'La Planète des singes';1;2
+e;56748;'Jean-Victor Poncelet';1;50
+e;63406;'gratte-ciel';1;152
+e;68731;'Gay-Lussac';1;50
+e;299580;'Paul Pierre Broca';777;50
+e;82179;'Paul Broca';1;50
+e;84559;'Charles Adolphe Wurtz';1;50
+e;84465;'Superdupont';1;54
+e;299821;'André Gustave Citroën';777;50
+e;85322;'André Citroën';1;66
+e;299893;'Marie François Xavier Bichat';777;50
+e;86250;'Bichat';1;50
+e;89900;'montage';1;2253
+e;91714;'hydromécanique';1;50
+e;300333;'hydraulique industrielle';777;50
+e;300334;'hydraulique de puissance';777;50
+e;102530;'Daydé';1;50
+e;301221;'Dayd';777;50
+e;301554;'Citroën 2 CV';777;50
+e;108346;'Michel Chasles';1;50
+e;301927;'Armand Hippolyte Louis Fizeau';777;50
+e;111154;'Hippolyte Fizeau';1;50
+e;302022;'supra-haute fréquence';777;50
+e;302023;'3 G';777;50
+e;302024;'30 GHz';777;50
+e;302025;'hyperfréquences';777;50
+e;302026;'1 GHz';777;50
+e;112236;'hyperfréquence';1;50
+e;152255;'an 2000';1;56
+e;115948;'petit écran';1;94
+e;152918;'TF1';1;184
+e;154219;'Ile de France';1;58
+e;154389;'timbre poste';1;68
+e;119258;'rivet';1;54
+e;155410;'pavaroti';1;50
+e;303096;'Constantin Edouardovitch Tsiolkovski';777;50
+e;121308;'Tsiolkovski';1;50
+e;155619;'television';1;50
+e;122805;'Broca';1;80
+e;164860;'poste de télévision';1;72
+e;136080;'puddlage';1;50
+e;304560;'Gustave Auguste Ferrié';777;50
+e;138500;'Histoire de l'architecture';1;50
+e;157377;'regarder la télé';1;216
+e;161015;'Ile-de-France';1;54
+e;305335;'aéroport de Paris-Orly';777;50
+e;195737;'ADP';1;52
+e;162313;'aéroport d'Orly';1;58
+e;176094;'biomimétisme';1;50
+e;306001;'bioassistance';777;50
+e;306102;'fontaines Wallace';777;50
+e;188281;'Xavier Bichat';1;50
+e;189217;'Joan Miró';1;52
+e;306450;'Joan Miró i Ferrà';777;50
+e;189548;'Camille Saint-Saëns';1;50
+e;103403;'vectoriel';1;2232
+e;306713;'Armes du marquis de Laplace';777;50
+e;159428;'moulin rouge';1;58
+e;159429;'Moulin Rouge';1;122
+e;187350;'Louis de Broglie';1;50
+e;232129;'poste à galène';1;50
+e;239465;'musée du quai Branly';1;52
+e;244892;'Grande Galerie de l'Evolution';1;50
+e;309213;'Michel-Eugène Chevreul';777;50
+e;187357;'Eugène Chevreul';1;50
+e;189807;'Michael Youn';1;50
+e;188491;'Georges Cuvier';1;50
+e;259578;'boule à neige';1;4
+e;153739;'boule de neige';1;198
+e;259667;'boule neigeuse';1;52
+e;223485;'Y'a d'la joie';1;50
+e;219779;'Transamerica Pyramid';1;52
+e;310325;'Transamerica Tower';777;50
+e;223120;'citroen';1;50
+e;224878;'y a de la joie';1;58
+e;252124;'Jean Paul Gaultier';1;50
+e;249255;'hippodrome de Longchamp';1;52
+e;213297;'rocamadour';1;50
+e;312491;'quai Branly';1;50
+e;312737;'Jean Michel Jarre';777;50
+e;312738;'Jean-Michel André Jarre';777;50
+e;312736;'Jean-Michel Jarre';1;50
+e;313033;'Al-Qaïda au Maghreb islamique';777;16
+e;313032;'AQMI';1;50
+e;316320;'Les Tambours du Bronx';666;50
+e;329966;'la machine à explorer le temps';777;50
+e;329968;'La Machine à explorer le temps';1;50
+e;164126;'L'aile ou la cuisse';1;56
+e;330250;'Un idiot à Paris';1;50
+e;112648;'Gigi';1;50
+e;285562;'Someone like You';1;50
+e;295904;'Le Musée Grevin';777;50
+e;465060;'Sa date de construction est 1969 - 1972';777;50
+e;119595;'gadzarts';1;50
+e;344376;'construction métallique';1;50
+e;349679;'développement urbain';1;50
+e;366974;'obstruction parlementaire';1;50
+e;567423;'filibuster';777;50
+e;371677;'politique spectacle';1;50
+e;183778;'politique politicienne';1;4
+e;408956;'Monument';1;50
+e;416150;'Montage';1;2382
+e;416283;'Vertige';1;50
+e;419839;'Shadoks';1;50
+e;426093;'Mlle';1;56
+e;426650;'dirigeables';1;50
+e;101172;'Paul';1;3772
+e;460391;'broca';1;50
+e;462078;'deux chevaux';777;50
+e;106090;'deuche';1;52
+e;230671;'deudeuche';1;52
+e;465534;'ascenseur spatial';1;50
+e;154220;'région parisienne';1;56
+e;577842;'Jean Léopold Nicolas Frédéric Cuvier';777;0
+e;40743;'minium';1;50
+e;581097;'Prose du Transsibérien et de la petite Jeanne de France';777;0
+e;581155;'cap Béveziers';777;0
+e;583767;'barrage d'Itaipu';777;0
+e;583768;'centrale hydroélectrique d'Itaipu';777;0
+e;197826;'communication de masse';1;50
+e;166780;'La planète des singes';1;50
+e;64681;'niveau';1;3767
+e;283069;'roue panoramique';777;50
+e;67850;'urbaniser';1;56
+e;642503;'Louis Cailletet';777;0
+e;48622;'Louis-Paul Cailletet';1;50
+e;67629;'Boulogne-Billancourt';1;50
+e;187369;'Thomas Alva Edison';1;50
+e;55540;'Planète des singes';1;50
+e;411902;'Figure';1;50
+e;26465;'Liberté éclairant le monde';1;50
+e;231398;'Niki de Saint Phalle';1;50
+e;961798;'Catherine-Marie-Agnès Fal de Saint Phalle';777;0
+e;413374;'Télévisions';1;50
+e;582920;'Giuseppe Lanza di Trabia-Branciforte';777;0
+e;582921;'Giuseppe Giovanni Luigi Maria Enrico Scansa-Lanza';777;0
+e;300608;'Joseph Lanza del Vasto';777;50
+e;94939;'Lanza del Vasto';1;50
+e;44673;'tournis';1;70
+e;137570;'La Tour';1;50
+e;1380664;'palais du Trocadéro';1;10
+e;223040;'Michel Serres';1;14
+e;231077;'gadzart';1;6
+e;252794;'shadock';1;68
+e;191649;'marée haute';1;16
+e;237827;'grandes marées';1;50
+e;363480;'marée terrestre';1;50
+e;68348;'flibuste';1;60
+e;1097;'métallerie';1;52
+e;1657581;'physique des polymères';1;0
+e;9892;'pont du Gard';1;52
+e;156054;'fer forgé';1;64
+e;1751170;'Maurice-Francois Garin';777;0
+e;568139;'visite d'État';777;50
+e;219212;'saut à l'élastique';1;4
+e;307933;'benji';777;52
+e;307934;'bungie';777;52
+e;307935;'bungy jumping';777;50
+e;307936;'bungee';777;52
+e;1814121;'île aux Cygnes';1;0
+e;1815001;'digue de Grenelle';777;0
+e;1845872;'TDF';1;0
+e;1858947;'TéléDiffusion de France';777;0
+e;1858795;'Franciliens';1;0
+e;1859497;'Télif';777;0
+e;138628;'L'Aile ou la cuisse';1;50
+e;324902;'Gadz'Arts';1;50
+e;2324213;'Jules-Verne';1;0
+e;1965388;'1 grand tour';777;0
+e;2328571;'3 classiques';777;0
+e;2328788;'3 étapes dans les grands tours';777;0
+e;2086248;'télévisions';2;0
+e;2341291;'anti-France';1;0
+e;82437;'Lazare Carnot';1;50
+e;95780;'contre-plongée';1;50
+e;300675;'contreplongée';777;50
+e;2349654;'Armand Hippolyte Fizeau';777;0
+e;2357184;'rue de Belleville';1;0
+e;2363151;'ascensoriste';1;0
+e;2375845;'grattes-ciels';1;0
+e;2377936;'mégatsunami';1;0
+e;2385839;'panographie';1;0
+e;2400358;'Sains-en-Gohelle';1;0
+e;2402328;'Dame de fer';1;0
+e;2410639;'Momerstroff';1;0
+e;2424783;'Ludres';1;0
+e;367003;'obédience maçonnique';1;52
+e;567421;'grande loge';777;50
+e;2601366;'grand orient';777;0
+e;2444869;'Hadancourt-le-Haut-Clocher';1;0
+e;2449914;'pont transbordeur';1;0
+e;2603419;'pont à transbordeur';777;0
+e;2455382;'biomimétique';1;0
+e;2470077;'Reyrieux';1;0
+e;9245539;'voie Georges-Pompidou';777;0
+e;2488241;'May-en-Multien';1;0
+e;2500790;'Imphy';1;0
+e;2510145;'maximaphilie';1;0
+e;2785621;'maximaphiles';777;0
+e;2501939;'carte-maximum';1;0
+e;2809910;'Les Grosses Têtes';1;0
+e;2507555;'Saint-Vidal';1;0
+e;2522380;'origamiste';1;0
+e;2517877;'Plouénan';1;0
+e;2516385;'Danjoutin';1;0
+e;2526245;'Espéraza';1;0
+e;2917048;'Esperasan';777;0
+e;1814571;'Grande Arche de la Fraternité';777;0
+e;1813463;'arche de la Défense';1;0
+e;1814572;'grande arche';777;0
+e;1858401;'La Télé de Tous les Franciliens';777;0
+e;387228;'visite officielle';1;52
+e;2928795;'Actualités télévisées';777;0
+e;2929119;'Expositions internationales';777;0
+e;2425189;'Expo';1;0
+e;124518;'météorologie';1;752
+e;112396;'météo';1;1558
+e;400120;'météorologiques';1;50
+e;2945253;'Maurice-François Garin';777;0
+e;2949525;'ville de';777;0
+e;132880;'muséologie';1;70
+e;99879;'muséologue';1;60
+e;2952654;'Liste détaillée';777;0
+e;2953223;'histoire de l'architecture';777;0
+e;2953793;'Moulin rouge';777;0
+e;2934553;'Blasonnement';777;0
+e;188502;'Marcel Dassault';1;50
+e;272456;'Marcel Ferdinand Bloch';777;50
+e;3169597;'École de guerre';777;0
+e;2536465;'dame de fer';1;2
+e;231086;'Interflora';1;2
+e;293438;'paix et amour';777;50
+e;239001;'Doukipudonktan';1;50
+e;252325;'Météo France';1;82
+e;3175554;'ttraction touristique';777;0
+e;275642;'foule éclair';777;50
+e;275643;'flash mob';777;50
+e;275644;'mobilisation éclair';777;50
+e;154131;'Roissy';1;86
+e;3179691;'SHF';777;0
+e;3179735;'Télévision française 1';777;0
+e;7961;'Drôle de frimousse';1;54
+e;282186;'Bertrand Arthur William Russell';777;50
+e;31610;'phares';1;94
+e;54367;'liftier';1;50
+e;3262653;'musée du quai Branly - Jacques Chirac';777;0
+e;3293498;'Groupe Fives';777;0
+e;3293499;'Compagnie de Fives-Lille';777;0
+e;3293500;'Fives Cail Babcock';777;0
+e;3293501;'fives-lille';777;0
+e;3293548;'Fives-Lille';1;0
+e;112282;'Georges';1;3616
+e;22251;'Cuvier';1;52
+e;3298409;'Ponyta';1;0
+e;3298410;'Galopa';1;0
+e;3298485;'rapidash';777;0
+e;3298591;'La Prose du Transsibérien et de la petite Jeanne de France';777;0
+e;3305407;'La Liberté éclairant le monde';777;0
+e;2565213;'Massangis';1;2
+e;3402853;'La Landelle';777;0
+e;3473283;'Trouble-fête';777;0
+e;3488776;'Jean-Paul Gaultier';1;4
+e;124220;'palan';1;54
+e;3742292;'Deudeuche';777;0
+e;3860105;'Schmölln';1;0
+e;4334166;'tour Montparnasse';1;6
+e;4334167;'tour Maine-Montparnasse';777;0
+e;15228789;'Palais du Louvre';1;0
+e;45986;'Wembley';1;50
+e;17460370;'Franck Lloyd Wright';777;0
+e;5059673;'Golf de Saint-Cloud';1;0
+e;5376717;'mw3';777;0
+e;5376718;'Defiance';777;0
+e;14931173;'en:trail';1;0
+e;307578;'gisement de gaz de Lacq';777;50
+e;5526376;'Salomon Henry Deutsch de la Meurthe';777;0
+e;5517445;'Charles Léon Stephen Sauvestre';777;0
+e;290330;'Catherine Marie-Agnès Fal de Saint Phalle';777;50
+e;5524279;'Il jouait du piano debout';1;0
+e;5536119;'Lisa Birgitta Bernstone';777;0
+e;5536120;'Lisa Anderson';777;0
+e;5536121;'Lisa Fonssagrives-Penn';777;0
+e;5537807;'architecture monumentale';777;0
+e;5537808;'architecture monumentale classicisante';777;0
+e;5537809;'académisme monumentalisant';777;0
+e;96656;'Anastasia';1;50
+e;2936887;'Ballerina';777;0
+e;5557682;'A View to a Kill';777;0
+e;188395;'Jacques Cartier';1;52
+e;5534150;'version pour appareil mobile';777;0
+e;5534151;'Wikipédia en bref';777;0
+e;5534152;'Portails thématiques';777;0
+e;5534153;'Comment contribuer';777;0
+e;135044;'poser une question';1;68
+e;5534154;'Accueil communautaire';777;0
+e;5534155;'principes fondateurs';777;0
+e;1706342;'Sang pour sang';1;0
+e;20797;'tartare';1;106
+e;5610594;'CAP 10';777;0
+e;5621213;'15 mai';777;0
+e;5621801;'Sophie Dudemaine';777;0
+e;5621802;'Caillabet';777;0
+e;5631616;'sept nouvelles merveilles du monde';777;0
+e;5675306;'28 semaines plus tard';777;0
+e;5676408;'Belphégor ou le Fantôme du Louvre';777;0
+e;121846;'Belphégor';1;50
+e;5678201;'Sillage';777;0
+e;99675;'apostrophe';1;64
+e;180868;'angle de prise de vue';1;50
+e;5715788;'28 janvier';777;0
+e;5783825;'Armes du comte Laplace et de l'Empire';777;0
+e;5786708;'Le Ciel de Paris';777;0
+e;5794881;'Le Brébant';777;0
+e;5802679;'Mariage Frères';777;0
+e;5803646;'actualités cinématographiques';777;0
+e;5803648;'actualités filmées';777;0
+e;5803650;'presse filmée';777;0
+e;5803652;'films d'actualité';777;0
+e;5803681;'France Actualités';777;0
+e;5803683;'Les Actualités françaises';777;0
+e;12390;'panoramique';1;52
+e;105447;'pano';1;50
+e;5803940;'panoramique horizontal';777;0
+e;5803941;'panoramique vertical';777;0
+e;5804877;'ingénierie du vent';777;0
+e;14937445;'en:expo';1;0
+e;5805888;'longueurs de l'ordre de 102 m';777;0
+e;5806205;'Four Seasons Hotel George-V';777;0
+e;5807066;'ballon porte antenne';777;0
+e;5807527;'Antoine César Becquerel';777;0
+e;5811236;'L'Or de nos vies';777;0
+e;5812013;'Sylvain Dornon';777;0
+e;5812047;'détecteur électrolytique';777;0
+e;5812054;'détecteur magnétique';777;0
+e;187374;'Jean Bernard Léon Foucault';1;50
+e;5815290;'Pierre Louis Dulong';777;0
+e;5815291;'Alexis Thérèse Petit';777;0
+e;275820;'Chaire de physique I de l'École polytechnique';777;50
+e;5812040;'Claude Pouillet';777;0
+e;5811582;'Chaire de physique I de la Faculté des sciences de Paris';777;0
+e;5816159;'Arthur Morin';777;0
+e;5816188;'3 GHz';777;0
+e;5816688;'courbure terrestre';777;0
+e;91811;'rotondité';1;54
+e;33307;'sphéricité';1;50
+e;5816755;'extrêmement haute fréquence';777;0
+e;2370491;'7e arrondissement de Paris';1;40
+e;5893766;'Luc Plamondon';777;0
+e;5894089;'radioécouteur';777;0
+e;5894090;'swl';777;0
+e;167584;'monument historique';1;108
+e;5899535;'société française de transmissions florales';777;0
+e;5899536;'SFTF';777;0
+e;5899741;'musée du vin';777;0
+e;5900764;'musée de la vigne et du vin';777;0
+e;5911133;'Maison Gambier';777;0
+e;138083;'maître d'hôtel';1;64
+e;5918989;'Deutsch de la Meurthe';777;0
+e;5835386;'Phares';1;0
+e;27131;'Tarzan';1;168
+e;1924359;'minervois';1;0
+e;5943444;'observatoire naval des États-Unis';777;0
+e;5943445;'United States Naval Observatory';777;0
+e;5943446;'usno';777;0
+e;5944420;'regard caméra';777;0
+e;5944727;'Flying Fox';777;0
+e;5944879;'jappeloup';777;0
+e;5947335;'David Pierre-Bloch';777;0
+e;5949807;'Pierre Laurendeau';777;0
+e;5949810;'Pierre Charmoz';777;0
+e;5953803;'Le Poste colonial';777;0
+e;5954002;'Superman 2';777;0
+e;238491;'peace and love';1;64
+e;5960529;'Rush Hour 3';777;0
+e;5960530;'Heure limite 3';777;0
+e;5966904;'prix Tour Eiffel de science-fiction';777;0
+e;5966950;'Mole Antonelliana';777;0
+e;5966951;'d'Antonelli';777;0
+e;5968529;'Toussaint Michel Émile Nouguier';777;0
+e;5968585;'fréquentation de la tour Eiffel';777;0
+e;5941110;'Arborescence des télécommunications';777;0
+e;5808577;'Arborescence de Paris';777;0
+e;5968648;'Arborescence monument historique français';777;0
+e;5968649;'Catégorie mère - Portail - Projet - Commons - Bistro';777;0
+e;176;'fondations';1;70
+e;5968664;'1er ÉTAGE';777;0
+e;5968665;'2e ÉTAGE';777;0
+e;5968666;'3e ÉTAGE';777;0
+e;5968667;'FLÈCHE';777;0
+e;5968668;'Principales données chiffrées de la tour Eiffel';777;0
+e;5968669;'Élément commenté';777;0
+e;5968696;'Lockroy fils';777;0
+e;5968698;'Édouard-Étienne-Auguste Simon';777;0
+e;402293;'Franz';1;2326
+e;5969327;'François Reichelt';777;0
+e;5974405;'Franck Pourcel';777;0
+e;5974406;'Franck Marius Louis Pourcel';777;0
+e;5974783;'Paul-Émile Gallant';777;0
+e;5977068;'expo 67';777;0
+e;5979762;'Sonia Lacen';777;0
+e;5981257;'effet corona';777;0
+e;5981258;'effet couronne';777;0
+e;5981259;'effet de couronne';777;0
+e;5984497;'Nice and Slow';777;0
+e;5986576;'Edwin Howard Armstrong';777;0
+e;3177496;'Someone Like You';777;0
+e;5991845;'Erwin Blumenfeld';777;0
+e;5993786;'L'Est républicain';777;0
+e;5994049;'Christian Morin';777;0
+e;6000260;'Chronologie des événements';777;0
+e;6002615;'Une offensive signée Langelot';777;0
+e;187546;'Les Rois mages';1;50
+e;6003042;'ligne 14 du métro de Paris';777;0
+e;6004486;'Charles-Eugène Delaunay';777;0
+e;6006663;'ligne 2 du tramway d'Île-de-France';777;0
+e;6017441;'Théophile-Jules Pelouze';777;0
+e;6064979;'Sahaja Yoga';777;0
+e;6065516;'Jules Rimet';777;0
+e;6067762;'Windy City';777;0
+e;6069255;'vallée de Montmorency';777;0
+e;6069804;'récepteur à cristal';777;0
+e;6069805;'poste à diode';777;0
+e;6069806;'poste à pyrite';777;2
+e;6070352;'Thierry Sabine';777;0
+e;6070461;'héliport de Paris - Issy-les-Moulineaux';777;0
+e;6082793;'De l'or en barre';777;0
+e;6088730;'Kid l'Insaisissable';777;0
+e;6088731;'Kid Cat Burglar';777;0
+e;6088732;'Kaito Kuroba';777;0
+e;6065429;'1890 en sport';777;0
+e;6527628;'Sophie Calle';777;0
+e;6528171;'Un monstre à Paris';777;0
+e;6528249;'Iris Clert';777;0
+e;6528644;'Pierre Marie Rudelle';777;0
+e;15684903;'Relevés de la station Paris-Montsouris 1961-1990';777;0
+e;11647838;'Constantin Tsiolkovski';1;0
+e;241219;'8 mai';1;52
+e;9949327;'7 mai';777;0
+e;5882470;'6 mai';777;0
+e;5876008;'5 mai';777;0
+e;5944230;'4 mai';777;0
+e;288404;'2 mai';777;50
+e;219073;'1er mai';1;136
+e;9950838;'Le mois de février 1922';777;0
+e;9950398;'palais d'Iéna';777;0
+e;6528576;'Neues Bauen';777;0
+e;9949438;'9 aout';777;0
+e;9947079;'15 juillet';777;0
+e;9946652;'The Gates';777;0
+e;9943992;'31 mars';777;0
+e;188154;'Alphonse Allais';1;50
+e;9935275;'incroyable talent';777;0
+e;9935274;'La France a un incroyable talent';777;0
+e;280703;'elficologie';777;50
+e;8864451;'Les Profs';1;0
+e;3181048;'Groupe PSA';777;0
+e;2931892;'médias de masse';777;0
+e;141033;'démocratie';1;3081
+e;9040876;'tour autoportante';777;0
+e;9040877;'structure autoportante';777;0
+e;9102213;'tour Saint-Jacques';777;0
+e;9253398;'Philippe Petit';777;0
+e;9515149;'Assassin's Creed Unity';777;0
+e;114867;'caisson';1;74
+e;9526461;'caisson à air comprimé';777;0
+e;9762204;'chevaux de l'île de Cumberland';777;0
+e;9267656;'Contenus de qualité';777;0
+e;9267657;'Bons contenus';777;0
+e;5951228;'Sélection';1;0
+e;411314;'Programme';1;1431
+e;145890;'Chypre';1;2992
+e;110861;'Finlande';1;2874
+e;9762325;'à Chypre';777;0
+e;9762326;'en Finlande';777;0
+e;15688032;'ffu';777;0
+e;9954999;'géoportail';777;0
+e;9959394;'rue de l'Université';777;0
+e;31289;'inscription';1;196
+e;9206;'classement';1;3194
+e;143894;'Le Voyage d'hiver';1;50
+e;9963192;'réveillon de la Saint-Sylvestre';777;0
+e;9963209;'réveillon du jour de l'An';777;0
+e;9967764;'Sylvain Chomet';777;0
+e;9976834;'ligne des Invalides à Versailles-Rive-Gauche';777;0
+e;9976835;'ligne des Invalides';777;0
+e;9982283;'Berlin Express';777;0
+e;20002;'art brut';1;50
+e;9982577;'Psychiatrie-Musée Berne';777;0
+e;9990620;'Vive la France';777;0
+e;10001386;'gare du Champ de Mars - Tour Eiffel';777;0
+e;10001401;'gare de Javel';777;0
+e;10001514;'pont d'Iéna';777;0
+e;10001639;'Exposition universelle de 1937';777;0
+e;10001769;'Kelly Preston';777;0
+e;10001771;'Kelly Palzis';777;0
+e;10031274;'Emmanuel Descombes';777;0
+e;10032585;'Sylvain Tesson';777;0
+e;10036042;'tour d'observation';777;0
+e;10036043;'tour panoramique';777;0
+e;10037452;'Mystère à la Tour Eiffel';777;0
+e;10040619;'palais des congrès de Paris';777;0
+e;10042216;'l'occupation allemande';777;0
+e;10044338;'collège Sainte-Barbe';777;0
+e;10045522;'la cinq';777;0
+e;10045523;'La Société d'exploitation de La Cinq';777;0
+e;10045554;'Jacques Essebag';777;0
+e;26442;'Arthur';1;3218
+e;10045936;'Yoann Lemoine';777;0
+e;10045937;'woodkid';777;0
+e;10046384;'From Paris with Love';777;0
+e;10046385;'Bons baisers de Paris';777;0
+e;393290;'Jacques Dufilho';1;50
+e;10050392;'collection de l'art brut';777;0
+e;10055965;'Union internationale des chemins de fer';777;0
+e;5979041;'UIC';1;0
+e;10062747;'condorman';777;0
+e;10064107;'Sous le ciel de Paris';777;0
+e;212770;'maison de la Radio';666;52
+e;10081868;'maison ronde';777;0
+e;10081869;'maison de l'ORTF';777;0
+e;10081870;'maison de Radio France';777;0
+e;230645;'Grand Palais';1;4
+e;10083204;'grande exposition industrielle de Berlin';777;0
+e;10083259;'Globe céleste';777;0
+e;10083282;'passerelle Debilly';777;0
+e;10083388;'place du Trocadéro-et-du-11-Novembre';777;0
+e;10083411;'Expositions internationales et nationales qui se sont tenues à Paris';777;0
+e;10083453;'Exposition internationale de 1893';777;0
+e;10083461;'Columbian World's Fair';777;0
+e;10083462;'World's Columbian Exposition';777;0
+e;10083965;'palais des Beaux-Arts et des Arts libéraux';777;0
+e;10083984;'Francis de Saint-Vidal';777;0
+e;10084006;'Roux-Combaluzier';777;0
+e;10084007;'Eugène Mercier';777;0
+e;2935215;'ory';777;0
+e;10085077;'LFPO';777;0
+e;10085124;'Les Larmes d'un homme';777;0
+e;10088650;'Henri Giffard';777;0
+e;10088651;'Henry-Jacques Giffard';777;0
+e;10090072;'Gabriel Thomas';777;0
+e;10092119;'Journal télévisé de la RTF';777;0
+e;10092130;'RTF Télévision';777;0
+e;10092135;'première chaîne de l'ORTF';777;0
+e;10092138;'ORTF Télévision';777;0
+e;10094721;'tour de chute';777;0
+e;238097;'Le Tour du monde en quatre-vingts jours';1;36
+e;10105930;'Valhalla Memorial Park';777;0
+e;10106130;'Henriette Lesser';777;0
+e;5880920;'Ragon';1;0
+e;5990095;'Patachou';777;0
+e;172376;'Dubaï';1;52
+e;393159;'Doubaï';777;50
+e;10118912;'Le Loup-garou de Paris';777;0
+e;38152;'trail';1;50
+e;10138019;'course nature';777;0
+e;10138020;'course en sentier';777;0
+e;10143666;'Jeux olympiques d'été de 2024';777;0
+e;10143667;'Jeux de la XXXIIIe olympiade';777;0
+e;10158783;'The Saboteur';777;0
+e;10174588;'Radiodiffusion française nationale';777;0
+e;10174589;'Radiodiffusion nationale';777;0
+e;10174758;'Washington Monument';777;0
+e;10180040;'théorie des poutres';777;0
+e;10180041;'théorie d'Euler-Bernoulli';777;0
+e;10180042;'théorie de Timoshenko';777;0
+e;10188253;'Made in France';777;0
+e;10188660;'Zénith Paris - La Villette';777;0
+e;10188850;'Bienvenue à Monte-Carlo';777;0
+e;10188851;'Des vacances de princesse';777;0
+e;10190895;'2002 en France';777;0
+e;10190917;'2013 en France';777;0
+e;5535413;'Bataille de Normandie';777;0
+e;5535414;'2e campagne de France';777;0
+e;5535415;'Débarquement de Provence';777;0
+e;5535290;'Front d'Europe de l'Ouest';777;0
+e;5535292;'Front d'Europe de l'Est';777;0
+e;222726;'parc naturel régional';1;54
+e;10118387;'Jean Welz';777;0
+e;10968853;'Ernest Archdeacon';777;0
+e;60458;'Saint-Louis';1;2077
+e;10787565;'Nick Verlaine ou Comment voler la tour Eiffel';777;0
+e;180085;'Tintin et l'Alph-Art';1;50
+e;10385851;'Marc Eyraud';777;0
+e;10438557;'Mai 2010 en sport';777;0
+e;10299756;'Robert Alexandre Camille Bureau';777;0
+e;10299782;'pont Jacques-Cartier';777;0
+e;32002;'boulangiste';1;50
+e;10317433;'City of Death';777;0
+e;10324441;'Concours Eurovision de la chanson 1992';777;0
+e;10959148;'viàGrandParis';777;0
+e;5389246;'Alain Ducasse';1;0
+e;10367060;'La ligne Paris L'OpenTour';777;0
+e;10367061;'Paris L'OpenTour';777;0
+e;10367062;'T Zen';777;0
+e;10336562;'dessins et modèles';777;0
+e;10345944;'palais de Tokyo';777;0
+e;9986171;'Le mois d'octobre 1915';777;0
+e;9968493;'Découvertes Gallimard';777;0
+e;10429798;'Koukryniksy';777;0
+e;10429799;'Mikhaïl Vassilievitch Kouprianov';777;0
+e;10429800;'Porfiri Nikitich Krylov';777;0
+e;10429801;'Nikolaï Alexandrovitch Sokolov';777;0
+e;10430013;'André Slomszynski';777;0
+e;10448108;'Bonjour les vacances 2';777;0
+e;10457311;'mont Saint-Michel';777;0
+e;10458643;'Je suis chez moi';777;0
+e;272730;'doit être supprimée immédiatement';777;50
+e;10459068;'Fouad Ali Saleh';777;0
+e;10311615;'1889 en sport';777;0
+e;5984508;'Chronologie du sport';777;0
+e;10197318;'1888 en sport';777;0
+e;10503400;'les cryptides';777;0
+e;10503935;'Europe 1 Sport';777;0
+e;6487761;'CVS';1;0
+e;10503938;'O'FM';777;0
+e;10503939;'Sport O'FM';777;0
+e;10503940;'Sport FM';777;0
+e;10503943;'Sport MX';777;0
+e;30472;'titres';1;3409
+e;66372;'texte';1;3570
+e;56362;'gras';1;2597
+e;136284;'italique';1;62
+e;191712;'citations';1;54
+e;9634975;'listes à puces';777;0
+e;146823;'tableaux';1;2487
+e;10546607;'Jennifer Marie Morrison';777;0
+e;5308163;'Véronique Sanson';1;0
+e;10548792;'histoire de la radio';777;0
+e;10548853;'manifestations liées à la radio en 2016';777;0
+e;285851;'en Europe';777;50
+e;10548901;'événements radiophoniques en 2016 en France';777;0
+e;10553249;'tour de Tokyo';777;0
+e;10554587;'Marathon de Paris 2017';777;0
+e;10554588;'marathon de Paris';777;18
+e;10558219;'armistice de 1918';777;0
+e;10559134;'Les Plus Belles Escroqueries du monde';777;0
+e;138004;'Requiem';1;50
+e;10590966;'Jules Sillas Benoist';777;0
+e;10590967;'Jules de Gastyne';777;0
+e;10595687;'Roland Toutain';777;0
+e;142340;'Thérèse d'Ávila';1;52
+e;304710;'Teresa de Jesús';777;50
+e;146874;'élection présidentielle';1;170
+e;10590591;'Syringammina fragilissima';777;2
+e;10601740;'Tricycle Benz 1';777;0
+e;10601739;'Benz Patent-Motorwagen Nummer 1';777;0
+e;10596695;'phares aéronautiques';777;0
+e;10596766;'Groupe F';777;0
+e;10605330;'symboles de paix';777;0
+e;10623421;'visionarium';777;0
+e;10623422;'The Timekeeper';777;0
+e;10623493;'Château d'Eaureilles';777;0
+e;10623494;'Earffel Tower';777;0
+e;10623549;'Impressions de France';777;0
+e;10623550;'Impressions of France';777;0
+e;10623616;'soarin';777;0
+e;10672816;'puenting';777;0
+e;10672922;'cimetière de Passy';777;0
+e;10676028;'attentat de Manchester';777;0
+e;10741852;'cathédrale de la Sainte-Trinité de Paris';777;0
+e;10746204;'Radio Tour Eiffel';777;0
+e;10750592;'Reporter Blues';777;0
+e;10750885;'Pierre Descaves';777;0
+e;9020149;'André Koechlin';777;0
+e;10778627;'La Tour Eiffel en otage';777;0
+e;10788457;'Lustig';1;0
+e;5538999;'Retour à la chronologie générale de la musique populaire';777;0
+e;10830791;'Compagnie générale de télégraphie sans fil';777;0
+e;10838359;'Samsic';1;0
+e;10850822;'Alexandre Bérard';777;0
+e;10851939;'L'Île-de-France';777;0
+e;10863582;'Plaza Athénée';777;0
+e;10863591;'Shangri-La Hotel Paris';777;0
+e;10863592;'The Peninsula Paris';777;0
+e;10863615;'hôtel Raphael';777;0
+e;10864686;'René Mesny';777;0
+e;2570296;'Saint-Malô-du-Bois';1;0
+e;10868787;'Kidderminster';1;0
+e;10906510;'villes requérantes pour les Jeux olympiques d'été de 2012';777;0
+e;10909161;'géocodage inversé';777;0
+e;10909557;'Auditorium de Radio France';777;0
+e;3335704;'Voltage';777;0
+e;10909587;'Radio Voltage';777;0
+e;10909588;'Voltage FM';777;0
+e;10092114;'musée de l'Homme';777;0
+e;10913510;'histoire de la météorologie';777;0
+e;10914320;'Mini-Europe';777;0
+e;10918001;'relais de la flamme olympique 2008';777;0
+e;10918191;'Marathon de Paris 2018';777;0
+e;10921642;'tour de Drince';777;0
+e;10929273;'processus de sélection de la ville hôte';777;0
+e;10929274;'Jeux olympiques et paralympiques d'été de 2024';777;0
+e;10929275;'Jeux olympiques et paralympiques d'été de 2028';777;0
+e;10929589;'Éco-Trail de Paris Île-de-France';777;0
+e;10930605;'Félix Léon Edoux';777;0
+e;10930625;'rives de la Seine à Paris';777;0
+e;10933037;'Joseph Paris';777;0
+e;6064933;'O2 Arena';777;0
+e;10934865;'North Greenwich Arena';777;0
+e;10623498;'Epcot';777;0
+e;10936073;'Jean-Claude Camus';777;0
+e;9253402;'Pierre Lanith Petit';777;0
+e;10971676;'base aérienne 107 Villacoublay';777;0
+e;10990136;'France 3 Nord-Pas-de-Calais';777;0
+e;5679292;'règle dite des trois révocations';777;0
+e;77547;'Hypatie';1;50
+e;10990329;'Quim Torra';777;0
+e;10992442;'pont du détroit de Kertch';777;0
+e;10997082;'Serge Danot';777;0
+e;2618622;'Pluteus';1;0
+e;11021561;'Ernest May';777;0
+e;11022785;'Maison Dorée';777;0
+e;2395625;'Beure';1;0
+e;11030201;'Laboratoire Eiffel';777;0
+e;11030268;'réplique de Paris';777;0
+e;72118;'Bruxelles';1;3281
+e;11034612;'plateau d'Avron';777;0
+e;11035117;'prise d'otages du vol Air France 8969';777;0
+e;11054178;'ISO 6709';777;0
+e;11055791;'colline d'Élancourt';777;0
+e;11055792;'colline de la Revanche';777;0
+e;11057044;'Grand Gala national des Arts et Métiers';777;0
+e;11062836;'La Légende vraie de la Tour Eiffel';777;0
+e;11070151;'8e régiment de transmissions';777;0
+e;5534855;'citer vos sources';777;0
+e;5061883;'opération Sentinelle';1;0
+e;11070331;'histoire de l'aérostation';777;0
+e;11071040;'Tusey';777;0
+e;11072704;'musée du quai Branly - Jacques-Chirac';777;0
+e;11076284;'Moi y'en a vouloir des sous';777;0
+e;11076830;'pont de Bir-Hakeim';777;6
+e;11076831;'pont de Passy';777;0
+e;11079011;'parvis des droits de l'homme';777;0
+e;11079012;'esplanade du Trocadéro';777;0
+e;11082972;'hôtel des ventes de Drouot';777;0
+e;11082973;'hôtel Drouot';777;0
+e;11083045;'rue La Boétie';777;0
+e;11083321;'quartier du Gros-Caillou';777;0
+e;11090149;'liste de ses inventions';777;0
+e;11090455;'Michel Delacroix';777;0
+e;11096170;'mémorial interallié';777;0
+e;11101271;'poissons d'avril';777;0
+e;11103181;'Jean-François Cail';777;0
+e;11103180;'ferme de la Briche';777;0
+e;11100860;'accord sur le nom de ce dernier pays';777;0
+e;11094756;'rencontre entre Donald Trump et Kim Jong-un';777;0
+e;11096243;'Des héros sans nom';777;0
+e;11103544;'Coupe du monde de football de 2026';777;0
+e;332294;'Coupe du monde de football';1;50
+e;11104223;'liste des plus hauts gratte-ciels du monde';777;0
+e;11104510;'Singer Building';777;0
+e;11104511;'Plus haut gratte-ciel du monde';777;0
+e;11104649;'liste des plus hauts bâtiments de l'agglomération parisienne';777;0
+e;11105471;'grande galerie de l'Évolution';777;0
+e;11125617;'Mic Mac du Tillard';777;0
+e;2419938;'Chanteloup-les-Vignes';1;0
+e;11129528;'la triennale';777;0
+e;11129529;'La Force de l'art';777;0
+e;11156425;'Itot du Château';777;0
+e;11158124;'Peugeot Société Anonyme';777;0
+e;312744;'Galeries Lafayette';1;54
+e;11161735;'Capitales européennes';777;0
+e;5553081;'notes de bas de page';777;0
+e;11175286;'gare de Limoges-Bénédictins';777;0
+e;255358;'aptonyme';1;50
+e;11184209;'Jamais plus l'inaction';777;0
+e;11217830;'François-Théodore Legras';777;0
+e;11223842;'Jacques Antoine Charles Bresse';777;0
+e;11233443;'Walter Frentz';777;0
+e;11236964;'parc de Brimborion';777;0
+e;11237000;'Astérix et la Rentrée gauloise';777;0
+e;11247313;'441 lignes';777;0
+e;11249517;'Constantin Édouardovitch Tsiolkovski';777;0
+e;11252856;'OTIS Elevator Company';777;0
+e;5537526;'Architecture moderne';777;0
+e;5537595;'Mouvement moderne';777;0
+e;16161745;'Vice-amiral Edgar Humann';777;0
+e;11453916;'Alfred Albert Gervais';777;0
+e;5534759;'ton neutre';777;0
+e;11325699;'TSF Jazz';777;0
+e;11347440;'pavillon Baltard';777;0
+e;11335620;'Eugène Adrien Ducretet';777;0
+e;11343182;'Fernand Holweck';777;0
+e;11343864;'Khatia Buniatishvili';777;0
+e;11347214;'Ivan Vladimirovitch Chtcheglov';777;0
+e;11347215;'Gilles Ivain';777;0
+e;11348446;'Alfred Le Petit';777;0
+e;11355669;'procédé Bessemer';777;0
+e;11363259;'famille Koechlin';777;0
+e;11363272;'industrie française';777;0
+e;11363499;'Eiffage Métal';777;0
+e;11363500;'Eiffel Constructions Métalliques';777;0
+e;11363502;'passerelle Saint-Jean';777;0
+e;11363501;'passerelle Eiffel';777;0
+e;11363503;'200 francs Gustave Eiffel';777;0
+e;11374484;'Journal de 20 heures de TF1';777;0
+e;11374485;'LE20H';777;0
+e;11383521;'Roger Lersy';777;0
+e;292495;'ACU';777;50
+e;11387427;'tour radio de Hellisandur';777;0
+e;64834;'nombres';1;3662
+e;10878991;'350.org';777;0
+e;39373;'longue-vue';1;218
+e;11393704;'place Jacques-Rueff';777;0
+e;11533085;'Kings Dominion';777;0
+e;11539605;'France miniature';777;0
+e;11544408;'Luis Molné';777;0
+e;11544409;'Luis Vidal Molné';777;0
+e;11552799;'Charles de Lambert';777;0
+e;11561682;'pont Hong Kong-Zhuhai-Macao';777;0
+e;11561683;'hzmb';777;0
+e;11575801;'palais des Soviets';777;0
+e;11590278;'Pierre Jahan';777;0
+e;11644644;'digitick';777;0
+e;6065380;'stade vélodrome';777;2
+e;6065382;'Orange Vélodrome';777;0
+e;11769346;'Georges Dufaud';777;0
+e;11769392;'emblème de la France';777;0
+e;11769911;'Jules Ernest Séraphin Valentin Rimet';777;0
+e;11770516;'Exposition universelle de 1893';777;0
+e;11775123;'La tour métallique de Fourvière';777;0
+e;11775168;'Chante France';777;0
+e;11775310;'parislongchamp';777;0
+e;11781349;'attentat de la grande mosquée de Québec';777;0
+e;11781366;'attentat du métro de Saint-Pétersbourg';777;0
+e;11781407;'attentat de Mogadiscio';777;0
+e;11781433;'attentat de la mosquée d'al-Rawdah';777;0
+e;11781491;'Clara Halter';777;0
+e;11584823;'KITT';1;0
+e;11782066;'K.I.T.T';777;0
+e;11783519;'American Society of Civil Engineers';777;0
+e;11783520;'asce';777;0
+e;11783521;'Société américaine de génie civil';777;0
+e;11808997;'René Barthélemy';777;0
+e;11809291;'histoire des techniques de télévision';777;0
+e;11810264;'chronologie de la télévision française';777;0
+e;11810322;'télévisions associatives en France';777;0
+e;11810323;'tiers secteur audiovisuel';777;0
+e;436453;'TSA';1;50
+e;317948;'troncs supra-aortiques';1;52
+e;10094001;'records d'altitude';777;0
+e;11812175;'Camille Papin Tissot';777;0
+e;11812187;'télévision numérique satellite';777;0
+e;415267;'TNS';1;50
+e;11822691;'pastiche architectural';777;0
+e;10364435;'Jean Louis Charles Garnier';777;0
+e;11831831;'pyramide des risques';777;0
+e;11901295;'attentat d'Istanbul du 28 juin 2016';777;0
+e;11901330;'tentative d'attentat de la cathédrale Notre-Dame de Paris';777;0
+e;9949563;'20 décembre';777;0
+e;11933850;'batobus';777;0
+e;11936660;'Seine à Paris';777;0
+e;434540;'Hermitage';1;50
+e;5536212;'Cette section ne cite pas suffisamment ses sources';777;0
+e;9040922;'tour radio';777;0
+e;11971664;'primtux';777;0
+e;11976440;'tour de Blackpool';777;0
+e;2509866;'Saint-Blimont';1;0
+e;11994369;'I Grand-Orgue';777;0
+e;11994370;'II Positif';777;0
+e;11994371;'III Récit';777;0
+e;11994372;'IV Solo';777;0
+e;11994373;'V Grand-Choeur';777;0
+e;55621;'pédalier';1;146
+e;11994374;'Résonnance expressive';777;0
+e;11994589;'Paul Armand Francis Beauvais';777;0
+e;12006580;'Catherine Marie-Agnès Fal de Saint-Phalle';777;0
+e;219672;'France 5';1;60
+e;12049513;'liste de morts insolites';777;0
+e;12067502;'Peugeot société anonyme';777;0
+e;2548745;'Vensac';1;0
+e;2527191;'Fraisans';1;0
+e;2566514;'Loury';1;0
+e;2558823;'Saint-Alban-sur-Limagnole';1;0
+e;10062358;'École polytechnique fédérale de Zurich';777;0
+e;10062359;'EPFZ';777;0
+e;12118284;'ay-o';777;0
+e;4082414;'Láchar';1;0
+e;12209668;'Tetsuya Komuro';777;0
+e;285883;'Muhammad Zia-ul-Haq';777;50
+e;2557418;'French cancan';1;0
+e;12278509;'kamizake';777;0
+e;18114;'escroquerie';1;246
+e;12313644;'Radio-Paris';777;0
+e;12321579;'France Five';777;0
+e;132597;'ultraïsme';1;50
+e;12266518;'attentats de Christchurch';777;0
+e;25131;'franglais';1;54
+e;12645789;'Yann Kersalé';777;0
+e;12646564;'agence de presse Transocean';777;0
+e;12694109;'Monuments et sites de Paris';777;0
+e;12701156;'Front-de-Seine';777;0
+e;12712825;'regard à la caméra';777;0
+e;10325748;'Khemed';777;0
+e;12709677;'CDM';777;0
+e;391341;'PNL';1;52
+e;312170;'merci de ne pas mettre au passé les verbes qui sont actuellement au présent';777;50
+e;12736698;'819 lignes';777;0
+e;12770831;'candidature à l'organisation des Jeux olympiques et paralympiques d'été de 2024';777;0
+e;12770832;'attentat de la Manchester Arena';777;0
+e;12763671;'SWL';777;0
+e;12772429;'La bande 430 MHz';777;0
+e;12772431;'70 centimètres';777;0
+e;12772434;'La bande 1240 MHz';777;0
+e;12772435;'bande des 23 centimètres';777;0
+e;12772436;'13 centimètres';777;0
+e;12772437;'9 centimètres';777;0
+e;12772439;'6 centimètres';777;0
+e;12772441;'La bande des 10 GHz';777;0
+e;12772442;'3 centimètres';777;0
+e;12772443;'La bande des 24GHz';777;0
+e;12772445;'12 millimètres';777;0
+e;12772446;'La bande des 47 GHz';777;0
+e;12772447;'6 millimètres';777;0
+e;12772450;'La bande des 76 GHz';777;0
+e;12772451;'4 millimètres';777;0
+e;12772453;'bande de 2 mm';777;0
+e;12772454;'bande de 1 mm';777;0
+e;12787300;'Compagnie française d'aviation';777;0
+e;12787302;'Maison de l'architecture de Maine-et-Loire';777;0
+e;11825330;'Gloria Vanderbilt';777;0
+e;12863897;'winterreise';777;0
+e;12863898;'voyage d'hiver';777;0
+e;12889030;'tour Signal';777;0
+e;54788;'Psychologie des foules';1;50
+e;12980666;'point de Schelling';777;0
+e;371415;'point focal';1;54
+e;1574873;'Bir-Hakeim';1;0
+e;12985542;'Le Zénith Paris - La Villette';777;0
+e;154832;'aout';1;232
+e;13198655;'Paris One DJ Webradios';777;0
+e;13198656;'P1 DJ Webradios';777;0
+e;13199837;'viaduc du viaur';777;0
+e;304919;'technophilie';777;50
+e;2422830;'technolâtrie';1;0
+e;13313459;'Moulin-Rouge - La Goulue';777;0
+e;13313466;'Maurice Guibert';777;0
+e;13340137;'Marathon de Paris 2019';777;0
+e;56420;'Cyrano de Bergerac';1;66
+e;336300;'argot parisien';1;50
+e;13424515;'Ashrita Furman';777;0
+e;10116;'Jacques Chirac';1;104
+e;13534982;'Nina Kraviz';777;0
+e;13536216;'Paradis latin';777;0
+e;418592;'fiscaux';1;50
+e;9959129;'Rive gauche';777;0
+e;13599761;'ministère de l'Armement et des Liaisons générales';777;0
+e;13599762;'MALG';777;0
+e;13627559;'Guido Magnone';777;0
+e;13633965;'plaine de Grenelle';777;0
+e;13634357;'SimCity 2000';777;0
+e;13634671;'Otis Elevator Company';777;0
+e;13639817;'Akram Ojjeh';777;0
+e;12863926;'Palais de Tokyo';777;0
+e;13641061;'Deux pattes';777;0
+e;302047;'musée Solomon R. Guggenheim';777;50
+e;112501;'Solomon R. Guggenheim Museum';1;50
+e;2952355;'le Guggenheim';777;0
+e;312032;'Pierre Cardin';1;68
+e;12267133;'Pietro Costante Cardin';777;0
+e;3293545;'Fives';1;0
+e;13738631;'Rise of Nations';777;0
+e;295370;'avenue d'Eylau';777;50
+e;9780291;'Gérard Berliner';777;0
+e;13817316;'Raymond Berliner';777;0
+e;13884287;'Karl Culmann';777;0
+e;13884628;'Hervé Lauwick';777;0
+e;13990331;'Eurosat - CanCan Coaster';777;0
+e;13990332;'Eurosat Coastiality';777;0
+e;187433;'Bertrand Russell';1;52
+e;14004502;'Liste des ponts de Paris';777;0
+e;14004504;'1889 en France';777;0
+e;138062;'Pont du Gard';1;50
+e;14023052;'Louis Paul Cailletet';777;0
+e;5787462;'Thierry Marx';777;4
+e;11994938;'Escroquerie';1;0
+e;14026319;'Men in Black International';777;0
+e;14047023;'famille Deutsch';777;0
+e;14078288;'Lumières de la presse internationale';777;0
+e;14082856;'Oncopole de Toulouse';777;0
+e;14093725;'Jennifer Morrison';777;0
+e;12285367;'Carte postale';777;0
+e;212774;'Wikipédia';666;455
+e;14096940;'Expositions universelles de Paris';777;0
+e;14103358;'Ballon Generali';777;0
+e;2384046;'Franglais';1;0
+e;14128842;'Alain Moatti';777;0
+e;14144631;'Bertrand Lemoine';777;0
+e;14152134;'record d'altitude';777;0
+e;14159108;'fosse de Beaufort';777;0
+e;14159109;'Beaufort's Dyke';777;0
+e;14161922;'avril 1900';777;0
+e;14163632;'La Vie errante';777;0
+e;14168832;'Antoine Becquerel';777;0
+e;14172293;'palais national de la culture';777;0
+e;5721028;'NDK';1;0
+e;14180592;'Le Concert de Paris';777;0
+e;14192794;'émetteur du mont Pilat';777;0
+e;14201252;'Nieuwe Waterweg';777;0
+e;14232420;'expositions universelles';777;0
+e;8514598;'Galeries Lafayette Haussmann';1;0
+e;10184829;'Le Chanteur de Mexico';777;0
+e;14270242;'octobre 1915';777;0
+e;14318751;'Une proposition de fusion est en cours entre Attentats de 1986 en France et Fouad Ali Saleh';777;0
+e;100673;'Clichy';1;56
+e;9729481;'Clichy-la-Garenne';777;0
+e;14347295;'clichy-sur-seine';777;0
+e;14350914;'Maison de Balzac';777;0
+e;14377441;'Billet de 200 francs Gustave Eiffel';777;0
+e;15695190;'Chef d'état-major de la marine';777;0
+e;144475;'Aube';1;1999
+e;123470;'Loiret';1;2853
+e;46788;'Eure';1;2530
+e;38768;'Yonne';1;2088
+e;114550;'Eure-et-Loir';1;66
+e;9944365;'4 février';777;0
+e;14416348;'exposition universelle de 1967';777;0
+e;281593;'bateau-omnibus';777;50
+e;266015;'navette fluviale';1;50
+e;14435129;'Canular';1;0
+e;14446338;'stade Vélodrome';777;0
+e;5786440;'Frédéric Anton';777;0
+e;14531285;'Société des Anciens Établissements Cail';777;0
+e;14531286;'1-150 E 1 à 195';777;0
+e;14531391;'François Tajan';777;0
+e;14539236;'Présidents-directeurs généraux';777;0
+e;14539237;'Vice présidents / Directeurs généraux';777;0
+e;14539346;'Grand Palais des Beaux-Arts';777;0
+e;11789906;'Dervaux';1;0
+e;750240;'Histogramme de l'évolution démographique';777;0
+e;14564195;'RTF Télévision 2';777;0
+e;14564196;'Deuxième chaîne de l'ORTF';777;0
+e;73274;'Argent';1;629
+e;2934011;'Boire';777;0
+e;142659;'Femme';1;1817
+e;143945;'Homme';1;1947
+e;11008738;'Chanson';1;1255
+e;14567209;'RDF Télévision française';777;0
+e;14567210;'Première chaîne de l'ORTF';777;0
+e;14567224;'La Cinq';777;0
+e;14567225;'TV6';777;0
+e;14534745;'Quelques exemples de mots en Shadok';777;0
+e;14581722;'Grandes ondes';777;0
+e;2258598;'pylônes';2;0
+e;14581723;'Bande MF';777;0
+e;14581724;'Petites ondes';777;0
+e;14581725;'Bande HF';777;0
+e;14581726;'Ondes courtes';777;0
+e;14585679;'Arche de la Défense';777;0
+e;14586101;'La conservation de la mémoire du climat';777;0
+e;14586102;'L'assistance météorologique à la navigation aérienne';777;0
+e;14586103;'L'amélioration de la connaissance et des données météorologiques et climatiques';777;0
+e;14586104;'La formation des personnels civils et militaires spécialistes en météorologie';777;0
+e;14586105;'La représentation de la France au sein des organisations météorologiques internationales et européennes';777;0
+e;14588155;'Pont d'Iéna';777;0
+e;14588156;'Pont Rouelle';777;0
+e;14590380;'Le mot hydraulique';777;0
+e;14590381;'Matériel hydraulique';777;0
+e;14590382;'Le préfixe hydro';777;0
+e;14590383;'Transmissions hydrostatiques';777;0
+e;10180028;'époque Sengoku';777;0
+e;10180029;'époque/ère des provinces en guerre';777;0
+e;248729;'élections législatives';1;58
+e;14594362;'Société de construction de Levallois-Perret';777;0
+e;8917642;'Cette section doit être actualisée';777;0
+e;189811;'Zazie';1;54
+e;141850;'Gabriel';1;2849
+e;14558668;'Jeanne Lalochère';777;0
+e;391787;'Émile Borel';1;50
+e;330513;'Jacques Hadamard';1;50
+e;14610281;'duc de Broglie';777;0
+e;59780;'plan-séquence';1;50
+e;14610368;'plan long';777;0
+e;229864;'Larry Page';1;2
+e;229865;'Sergey Brin';1;50
+e;5679382;'Sundar Pichai';777;0
+e;5679383;'Eric Schmidt';777;0
+e;14636414;'étage continu';777;0
+e;46921;'rez-de-dalle';1;50
+e;14636415;'étage de soubassement';777;0
+e;14636416;'rez-de-chaussée surélevé';777;0
+e;152211;'Informatique';1;1326
+e;111428;'Saint-Lazare';1;50
+e;36588;'Châtelet';1;56
+e;1574826;'Gare de Lyon';1;0
+e;10855567;'Bibliothèque François-Mitterrand';777;0
+e;14548688;'arnaque à l'irlandaise';777;0
+e;228114;'vente pyramidale';1;50
+e;14669031;'La rive gauche de la ria de la Penzé et les rias affluentes';777;0
+e;14584629;'Poêle à frire';777;0
+e;2100287;'recyclée';2;0
+e;14679396;'première guerre des manuels';777;0
+e;14677558;'Konorak';777;0
+e;14679606;'série d'attentats';777;0
+e;14723963;'GROUPE I - Oeuvres d'art';777;0
+e;14723964;'GROUPE II - Éducation et enseignement - Matériel et procédés des arts libéraux';777;0
+e;14723965;'GROUPE III Mobilier et accessoires';777;0
+e;14723966;'GROUPE VI Outillage et procédés des industries mécaniques. Électricité';777;0
+e;14757543;'NATAC';777;0
+e;149980;'qualités';1;2700
+e;9959186;'80 quartiers administratifs';777;0
+e;14171694;'Liste des quartiers administratifs de Paris';777;0
+e;14765645;'porte Maillot';777;0
+e;15632929;'American Telephone and Telegraph Company';777;0
+e;10831266;'montagne Sainte-Geneviève';777;0
+e;17405889;'Maître d'hôtel';777;0
+e;14869802;'Agglomération de Hangzhou';777;0
+e;225171;'aire urbaine';1;30
+e;14869803;'Xians';777;0
+e;12637905;'Ville-district';1;0
+e;14894466;'pornovision';777;0
+e;14893371;'boules graisseuses de Bichat';777;0
+e;14914980;'prise d'otages du vol 8969 Air France';777;0
+e;93215;'Charles-de-Gaulle';1;52
+e;130581;'Orly';1;98
+e;15019720;'JMo';777;0
+e;15039615;'Fédération des Parcs naturels régionaux de France';777;0
+e;301148;'Source et légende';777;50
+e;15588264;'Antoine Deschaumes';777;0
+e;15588265;'Red Fromage';777;0
+e;15588266;'Thierry Durand';777;0
+e;15588267;'Black Beaujolais';777;0
+e;15588268;'Albert Dumas';777;0
+e;15588269;'Blue Accordéon';777;0
+e;15290210;'en:rotary vertigo';1;0
+e;15640009;'octobre 1909';777;0
+e;15640157;'Hubert Latham';777;0
+e;5944330;'Victoire dans les airs';777;0
+e;15640160;'Dilili à Paris';777;0
+e;138516;'Odyssée';1;226
+e;15646837;'Borne 9';777;0
+e;15646838;'Lysbüchel';777;0
+e;15646839;'Prix de la qualité architecturale';777;0
+e;154725;'histoire de l'art';1;68
+e;98040;'architecture';1;2857
+e;14139913;'histoire de la construction';777;0
+e;5518929;'architecture vernaculaire';1;0
+e;14412594;'art de l'architecture';777;0
+e;283489;'Caractéristiques';777;3238
+e;15695991;'La Cinq S.A';777;0
+e;15695992;'La Société d'exploitation de la 5e chaine';777;0
+e;200420;'faire du porte à porte';1;58
+e;15239219;'en:shine brilliantly';1;0
+e;15239220;'en:sparkle brilliantly';1;0
+e;10513309;'l'améliorer';777;0
+e;5534983;'page de discussion';777;0
+e;12616808;'Cet article ne cite pas suffisamment ses sources';777;0
+e;12641545;'Certaines informations devraient être mieux reliées aux sources mentionnées dans la bibliographie ou les liens externes';777;0
+e;15772753;'Victor Lustig';777;0
+e;15773035;'palais des Musées d'art moderne';777;0
+e;15773036;'musée d'Art moderne de Paris';777;0
+e;230485;'MAM';1;50
+e;15776802;'Avant l'Ordonnance de 2001';777;0
+e;15776803;'Depuis l'Ordonnance de 2001';777;0
+e;15776804;'l'observateur averti';777;0
+e;15776805;'l'impression visuelle d'ensemble';777;0
+e;15776806;'n'a pas lieu';777;0
+e;15778236;'28 Semaines plus tard';777;0
+e;141140;'Autoportrait';1;50
+e;10061643;'Conseil de Paris';777;0
+e;14486633;'Sources et légendes';777;0
+e;15788761;'Vick et Vicky et l'héritage';777;0
+e;145566;'Geneviève';1;50
+e;306671;'Genovefa';777;50
+e;15790735;'400e anniversaire de la ville de Québec';777;0
+e;104569;'Nancy';1;2662
+e;15951667;'Four Seasons Hotel George V';777;0
+e;16133367;'Les Galeries Lafayette';777;0
+e;14680417;'Front de Seine';1;0
+e;16152121;'Kelly Kamalelehua Smith';777;0
+e;12074918;'lycée Saint-Louis-de-Gonzague';777;0
+e;598005;'SLG';1;0
+e;68209;'Franklin';1;2151
+e;598073;'syndrome de Lennox-Gastaut';1;0
+e;141817;'Mars';1;3504
+e;219232;'Avril';1;3081
+e;138451;'Janvier';1;2997
+e;10347632;'Rayons gamma · Rayons X · Ultraviolet · Visible · Infrarouge · Térahertz · Micro-ondes · Ondes radio';777;0
+e;10347633;'Spectre électromagnétique en détail';777;0
+e;410756;'Bande';1;1826
+e;10160249;'Cette section peut contenir un travail inédit ou des déclarations non vérifiées';777;0
+e;16173511;'Charles Braibant';777;0
+e;16242527;'Pont Maria Pia';777;0
+e;16242604;'Pont de l'Alma';777;0
+e;16242608;'Étage inférieur';777;0
+e;16242609;'Étage supérieur';777;0
+e;16265288;'Roger de Valerio';777;0
+e;16265289;'Roger Laviron';777;0
+e;16265292;'Maurizio Galante';777;0
+e;16269054;'Éric Damain';777;0
+e;5979007;'Lockroy';1;0
+e;16272926;'Armand Besnard';777;0
+e;10867719;'Ministre de la Marine';777;0
+e;5835524;'Ferdinand Sarrien';777;0
+e;188458;'Émile Combes';1;50
+e;16281107;'Fédor Balanovitch';777;0
+e;10672310;'Gridoux';1;0
+e;16283621;'chronologie des plus hautes structures du monde';777;0
+e;647505;'Louis Jacques Thénard';777;0
+e;5854117;'Antoine-Jérôme Balard';777;0
+e;16288704;'adjudant-vincenot';777;0
+e;41873;'Moyen-Orient';1;1716
+e;137391;'Afrique';1;3638
+e;42313;'Asie';1;3225
+e;140581;'Océanie';1;2161
+e;16288705;'Guerre navale';777;0
+e;10592719;'Britain's Got Talent';777;0
+e;10592718;'America's Got Talent';777;0
+e;16296190;'Taïg Khris';777;0
+e;16310286;'voyage d'État';777;0
+e;16314986;'Passerelle Debilly';777;0
+e;14588810;'Pont de Bir-Hakeim';777;0
+e;16166419;'une synthèse des connaissances sur un sujet';777;0
+e;16320151;'Keiko Yamada';777;0
+e;16320152;'Marc Panther';777;0
+e;16320168;'Première chaîne de la RTF';777;0
+e;10971074;'Constance Ier';777;0
+e;106958;'Irlande';1;3004
+e;9827506;'Linda Martin';777;0
+e;172944;'Anglais';1;3163
+e;230428;'L'Aziza';1;8
+e;16323065;'Papa chanteur par Jean-Luc Lahaye';777;0
+e;14543833;'Capitaine abandonné par Gold';777;0
+e;416029;'émetteurs';1;50
+e;16360768;'tours de transmission';777;0
+e;5979199;'Journée internationale de la non-violence';777;0
+e;157995;'roulette russe';1;98
+e;16787;'Albert';1;3473
+e;90798;'Albert Ier';1;50
+e;10778188;'Poule A';777;0
+e;10778189;'Poule B';777;0
+e;10778190;'Poule C';777;0
+e;16342727;'Poste colonial';777;0
+e;16342728;'Paris-Ondes courtes';777;0
+e;16342729;'Paris-Ondes courtes / Paris-Mondial';777;0
+e;16071917;'Poste national Radio-Paris';777;0
+e;16342743;'Organisme audiovisuel français';777;0
+e;10834965;'Radiodiffusion française';777;0
+e;16342746;'Maison de la radio et de la musique';777;0
+e;3170554;'Maison de la Radio';777;0
+e;16342747;'la Maison de la radio et de la musique';777;0
+e;16342763;'avenue du Président-Kennedy';777;0
+e;10619;'ORTF';1;64
+e;288598;'Voir aussi';777;50
+e;296200;'Les Subsistances';777;50
+e;14656583;'Style Eiffel';777;0
+e;16366990;'Charvet Place Vendôme';777;0
+e;5978082;'Charvet';1;0
+e;16367061;'groupe PSA';777;0
+e;15413307;'en:great woman';1;0
+e;15101239;'en:grande dame';1;0
+e;16377082;'Ariane 5 G';777;0
+e;16377083;'Ariane 5 ECA';777;0
+e;16377084;'Ariane 5 G+';777;0
+e;16377085;'Ariane 5 ES';777;0
+e;271360;'Confédération paysanne';1;58
+e;16391685;'Société d'exploitation de la 5e chaine';777;0
+e;16437714;'Arabie khémédite';777;0
+e;2955977;'Papier';1;0
+e;5721798;'Sta';1;0
+e;5804885;'panorama urbain';777;0
+e;16565502;'silhouette urbaine';777;0
+e;211164;'ligne d'horizon';1;52
+e;16565503;'Vue diurne';777;0
+e;53154;'Silhouette';1;50
+e;16565504;'Vue nocturne';777;0
+e;16574399;'championnat de France de Nationale 1 2020-2021';777;0
+e;57089;'élections';1;3584
+e;16585630;'ViàGrandParis';777;0
+e;16585631;'Museum TV Paris';777;0
+e;397242;'Métropole';1;1240
+e;16586548;'Télé-Lille';777;0
+e;16586549;'FR3 Nord-Picardie';777;0
+e;16586550;'FR3 Nord-Pas-de-Calais Picardie';777;0
+e;16586551;'France 3 Nord-Pas-de-Calais Picardie';777;0
+e;32497;'XXe siècle';1;54
+e;16594054;'l'année 1915';777;0
+e;9946519;'aux États-Unis';777;0
+e;165066;'Rachida Dati';1;76
+e;5816509;'réacteur pressurisé européen';777;0
+e;217653;'EPR';1;56
+e;14679724;'Itaipu Binational';777;0
+e;16604407;'climat de Paris';777;0
+e;16684647;'Depot of Charts and Instruments';777;0
+e;16715585;'Des racines et des ailes';777;0
+e;16715586;'Sur la piste des trafiquants d'art';777;0
+e;16715587;'À Dubrovnik';777;0
+e;414355;'Dynasties';1;50
+e;16715588;'Au musée Guimet de Paris';777;0
+e;10058326;'De l'ombre à la lumière';777;0
+e;16745065;'Peace N' Lovés';777;0
+e;16746188;'Santa Rosalia';777;0
+e;16533430;'Fabrication des aérostats militaires au château de Meudon fin du XVIIIe siècle';777;0
+e;294641;'Moïche Zakharovitch Chagalov';777;50
+e;89142;'Allemagne';1;3719
+e;105028;'Angleterre';1;3681
+e;173170;'Hexagone';1;6
+e;2367828;'16e arrondissement de Paris';1;22
+e;16772098;'benjy';777;0
+e;2568462;'bungee jumping';1;0
+e;15504779;'góming';777;0
+e;16366648;'Mohamed Henni';777;0
+e;281419;'bon article';777;50
+e;16778535;'Tour radio de Berlin';777;0
+e;16779644;'bombardements aériens';777;0
+e;16779646;'sur Paris et sa banlieue durant la Première Guerre mondiale';777;0
+e;14581716;'Grands Galas';777;0
+e;14581717;'événements sportifs';777;0
+e;14581718;'actions humanitaires';777;0
+e;14581719;'Forum Arts et Métiers ParisTech';777;0
+e;294722;'UAI';777;50
+e;2441591;'pygme';1;0
+e;14535260;'Voix additionnelles';777;0
+e;16886811;'attentat manqué de Notre-Dame de Paris';777;0
+e;10086901;'Doua';1;0
+e;16888663;'Radio Lyon-La Doua';777;0
+e;16893092;'trylon';777;0
+e;16893093;'perisphere';777;0
+e;16895309;'Exposition internationale des arts et des techniques appliqués à la vie moderne';777;0
+e;16898165;'Étage moyen';777;0
+e;16898181;'France Miniature';777;0
+e;432453;'Ballets';1;50
+e;2926280;'Opéras';777;0
+e;432334;'Mélodies';1;50
+e;16902322;'Opérettes';777;0
+e;16904255;'Brol Tour d'Angèle';777;0
+e;164908;'journal de 20 heures';1;62
+e;155312;'journal de 20h';1;56
+e;9962108;'sense8';777;0
+e;12889028;'tour Perret';777;0
+e;25132;'tenue';1;2512
+e;3305415;'Paris Saint-Germain';777;0
+e;16972885;'musée du Quai Branly - Jacques-Chirac';777;0
+e;285803;'architecture moderne';1;50
+e;5537804;'mouvement moderne';777;0
+e;10036062;'Disney's Hollywood Studios';777;0
+e;47622;'Sunset Boulevard';1;54
+e;10623392;'Animation Courtyard';777;0
+e;10036074;'Parc Walt Disney Studios';777;0
+e;10623499;'Future World';777;0
+e;5894226;'Spaceship Earth';777;0
+e;10623349;'Innoventions';777;0
+e;9966973;'Disney California Adventure';777;0
+e;12728386;'Buena Vista Street';777;0
+e;12728387;'Grizzly Peak';777;0
+e;10623543;'Hollywood Land';777;0
+e;12728390;'Pacific Wharf';777;0
+e;12728393;'Pixar Pier';777;0
+e;10036071;'Shanghai Disneyland';777;0
+e;6069374;'Tokyo DisneySea';777;0
+e;16980717;'Le Visionarium';777;0
+e;9999009;'Parc Disneyland';777;0
+e;10623377;'Main Street USA';777;0
+e;10623381;'Frontierland';777;0
+e;10623378;'Adventureland';777;0
+e;10623382;'Fantasyland';777;0
+e;10623432;'Discoveryland';777;0
+e;9968521;'Magic Kingdom';777;0
+e;10036060;'Tokyo Disneyland';777;0
+e;3230889;'Roulette russe';777;0
+e;16981354;'Origami';1;0
+e;11104707;'listes des plus grandes constructions du monde';777;0
+e;17058367;'Géoportail';777;0
+e;17112373;'photographie des oeuvres d'art';777;0
+e;97170;'parachute';1;180
+e;17021303;'Image externe';777;0
+e;282013;'La Bohème';777;50
+e;14894458;'Alice Coffin';777;0
+e;17236353;'Jacqueline Nebout';777;0
+e;17241680;'Vice-amiral Louis Vignes';777;0
+e;17244474;'maison de la Radio et de la Musique';777;0
+e;17253568;'Fives FCB';777;0
+e;13615017;'Fives ECL';777;0
+e;17253570;'Fives Syleps';777;0
+e;17253571;'addup';777;0
+e;17026519;'Images externes';777;0
+e;84376;'radiodiffusion';1;68
+e;5908651;'En Europe';777;0
+e;17339235;'Poids de 21 Mo';777;0
+e;573285;'Coordonnées';1;50
+e;17385111;'Christine Kerdellant';777;0
+e;17385456;'prix Lumières';777;0
+e;5562838;'Meilleur film';777;0
+e;17385457;'Meilleure mise en scène';777;0
+e;5562840;'Meilleur acteur';777;0
+e;14538541;'Meilleure actrice';777;0
+e;17385458;'Révélation masculine';777;0
+e;16716208;'Roberta Metsola';777;0
+e;64815;'référendum';1;2604
+e;262951;'Zakynthos';1;50
+e;137514;'coup d'État';1;50
+e;14952244;'en:origami';1;0
+e;2313060;'étourdissements';2;0
+e;2313052;'étourdis';2;0
+e;2313039;'étourdies';2;0
+e;405325;'Étourdi';1;50
+e;1854032;'vertiges';1;16
+e;425602;'étourdie';1;62
+e;16778562;'6e254101abbaeca69b03d0b95f5f3876';200;0
+e;16985338;'ce8621337f4a60ae6e86352bf4b0c4e3';200;6
+e;17069465;'43c7772efe8ebe39c5fd3d2cd05b6119';200;0
+e;15198061;'en:bookmaking';1;0
+e;296240;'étage inférieur';777;50
+e;15568753;'en:trade in the street without a licence';1;0
+e;16958547;'f1bcfc61003540c0803b32eb8048fa46';200;0
+e;15561743;'en:sell something illegally';1;0
+e;14937936;'en:hawk';1;0
+e;14929112;'en:peddle';1;0
+e;15369110;'en:to trade in the street without a licence';1;0
+e;201551;'grande dame';1;52
+e;15245131;'en:great lady';1;0
+e;15245132;'en:tall lady';1;0
+e;17407519;'2892209c78ca0c65429e4b0478a4ffd3';200;20
+e;1939215;'Bonickhausen dit Eiffel';777;0
+e;17393316;'2f3c7066f136f3a87c7a7408466731db';200;0
+e;15526698;'Grande Dame';1;0
+e;16715038;'50b0370adb05fa1966fabe183df04a8c';200;0
+e;1823064;'trouble de l'équilibre';777;0
+e;15449353;'en:balance problem';1;0
+e;15449354;'en:problem with balance';1;0

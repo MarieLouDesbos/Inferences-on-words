@@ -1,0 +1,625 @@
+e;eid;'name';type;w;'formated name'
+e;95038;'corner';1;158
+e;239128;'_COM';36;50
+e;2983124;'_SW';36;50
+e;223173;'_POL-POS';36;50
+e;197989;'corner aux oreilles';1;50
+e;185848;'corner aux oreilles de quelqu'un';1;50
+e;241794;'_POL-NEUTRE';36;50
+e;14304605;'corner>54956';1;12;'corner>football'
+e;124899;'cosy-corner';1;82
+e;350421;'en corner';1;50
+e;54956;'football';1;3865
+e;329021;'::>14:142787>29:95038';8;50;'corner [objet] livre'
+e;224103;'::>14:142787>29:95038>34';9;50;'De quelle manière pourrait-on corner une livre ?'
+e;328985;'::>14:56608>29:95038';8;50;'corner [objet] page'
+e;222339;'::>14:56608>29:95038>16';9;50;'Avec quoi pourrait-on corner une page ?'
+e;56608;'page';1;3734
+e;142787;'livre';1;7153
+e;37993;'feuille';1;2743
+e;14116;'carillonner';1;84
+e;107098;'sonner';1;570
+e;75170;'coin';1;1088
+e;146882;'Ver:Inf';4;50
+e;95915;'tinter';1;106
+e;14304603;'corner>126009';1;0;'corner>klaxonner'
+e;126009;'klaxonner';1;78
+e;146272;'société';1;3833
+e;102902;'trompeter';1;54
+e;254876;'_POL-POS_PC';36;50
+e;128674;'claironner';1;56
+e;58573;'foot';1;714
+e;82113;'trust';1;52
+e;171870;'Nom:';4;50
+e;54770;'document';1;3002
+e;2026;'journal';1;3634
+e;78345;'sortie';1;3666
+e;42663;'bourdonner';1;80
+e;2502934;'les oreilles ont dû vous corner';1;0
+e;212235;'Ver:';4;50
+e;63278;'cornage';1;50
+e;43447;'bugler';1;50
+e;20346;'but';1;3811
+e;66970;'ballon';1;2585
+e;14304609;'corner>23919';1;12;'corner>plier'
+e;23919;'plier';1;286
+e;19017;'siffler';1;240
+e;7010755;'en:hook';1;0
+e;14955261;'en:fold';1;0
+e;2594513;'happy corner';777;0
+e;2585996;'_INFO-CNRTL-YES';36;50
+e;151865;'Ver:Intransitif';18;50
+e;146885;'Nom:Mas+SG';4;50
+e;14930634;'en:corner kick';1;0
+e;89502;'publier';1;1889
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;169483;'faute au football';1;50
+e;112587;'revue';1;3290
+e;151866;'Ver:Transitif';18;50
+e;16165243;'corner en deux temps';1;0
+e;16042446;'corner aux oreilles de';1;0
+e;28453;'bonheur';1;2804
+e;1819070;'cornées';1;0
+e;75511;'coup de pied';1;292
+e;18995;'encorner';1;70
+e;11010535;'point de corner';1;0
+e;5996111;'corner de 1838 sur le coton américain';777;0
+e;2586629;'Number:Sing';4;0
+e;2586627;'Gender:Mas';4;0
+e;11010580;'poteau de corner';1;12
+e;54403;'cornée';1;132
+e;2434511;'claxonner';1;0
+e;43729;'médecine vétérinaire';1;72
+e;415109;'cornés';1;50
+e;5435;'ronfler';1;318
+e;67365;'avertir';1;390
+e;212180;'remise en jeu';1;72
+e;3576104;'Morpho:nospace';18;50
+e;13401;'corné';1;68
+e;49615;'commerce';1;3957
+e;15424714;'tirer un corner';1;0
+e;172435;'Langage:familier';18;50
+e;14936;'clamer';1;68
+e;2578964;'Langage:vieilli';18;0
+e;214534;'_INFO-MEANING-FIGURED';36;50
+e;73685;'sports';1;2416
+e;588896;'corner>146882';1;0;'corner>Ver:Inf'
+e;588895;'corner>171870';1;0;'corner>Nom:'
+e;16033;'cuisine';1;11756
+e;119200;'syndicat';1;2157
+e;2949007;'Ver:Transitif:Direct';18;50
+e;14930313;'en:dog-ear';1;0
+e;14917186;'en:corner';1;0
+e;223172;'_POL-NEG';36;50
+e;14918582;'en:bend';1;0
+e;14304611;'corner>54126';1;0;'corner>grande surface'
+e;54126;'grande surface';1;200
+e;14304606;'corner>14936';1;0;'corner>clamer'
+e;56865;'sport';1;5429
+e;181833;'coup de pied de coin';1;50
+e;15261064;'dégager en corner';1;0
+e;14945387;'en:honk';1;0
+e;15047624;'en:toot';1;0
+e;64143;'plié';1;102
+e;14330;'satisfaction';1;626
+e;91691;'surprise';1;2394
+e;16237872;'en:turn down the corner of something';1;0
+e;15744021;'en:turn something down';1;0
+e;15744022;'en:turn down something';1;0
+e;3228593;'wiki:@';444;0
+e;103405;'indifférence';1;612
+e;17663;'porte-monnaie';1;448
+e;15212400;'en:paperback edition';1;0
+e;251172;'édition de poche';1;18
+e;262265;'Livre de Poche';1;14
+e;15066796;'en:paperback book';1;0
+e;15482872;'en:paper-covered';1;0
+e;15482873;'en:soft-bound book';1;0
+e;203120;'livre broché';1;50
+e;14925797;'en:pocket book';1;0
+e;15071382;'en:pocketbook';1;0
+e;14925224;'en:paperback';1;0
+e;31618;'pâtissier';1;490
+e;14304661;'pâtissière>61490';1;0;'pâtissière>femme'
+e;14304669;'pâtissier>68439';1;0;'pâtissier>individu'
+e;9967213;'Livre de poche';777;0
+e;7262873;'en:document';1;0
+e;3724130;'bn:02256510n';444;0
+e;5914;'corneur';1;50
+e;153506;'livre de poche';1;88
+e;145246;'cheval';1;3715
+e;186288;'faire une corne à un livre';1;50
+e;145817;'bourse';1;2328
+e;132952;'respiration';1;1595
+e;12105;'communication';1;3348
+e;155857;'musiciens';1;2922
+e;6958597;'en:trust';1;0
+e;5046151;'Ver:Groupe1';18;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;106862;'colporter';1;78
+e;74163;'annoncer';1;328
+e;15463266;'en:turn down the corner of';1;0
+e;14922691;'en:turn down';1;0
+e;598134;'plié>171870';1;0;'plié>Nom:'
+e;3724129;'bn:03650281n';444;0
+e;3575927;'Morpho:min';18;50
+e;276096;'_INFO-WIKI-YES';36;50
+e;160194;'pâtissière';1;86
+e;1783501;'publier>146882';1;0;'publier>Ver:Inf'
+e;1783500;'publier>171870';1;0;'publier>Nom:'
+e;1856873;'Corner';1;0
+e;124771;'parole';1;2658
+e;134536;'économie';1;2856
+e;14635397;'corner sortant';1;4
+e;14635396;'corner rentrant';1;2
+e;14635393;'corner à la rémoise';1;0
+e;14530040;'corner une page';1;4
+e;51589;'finance';1;1078
+e;217817;'_INFO-POLYSEMIC';36;50
+e;2160318;'cornant';2;0
+e;128209;'jouer';1;4475
+e;140318;'parler';1;4471
+e;15991432;'_ANIME-NO';36;50
+e;12566931;'en:sports';1;2
+e;14916413;'Langue:français';18;50
+e;7332979;'Langue:anglais';18;50
+e;6801604;'en:foot';1;0
+e;234396;'corne>214544';1;50;'corne>appareil sonore'
+e;14624;'affection';1;944
+e;218020;'affection>130400';1;28;'affection>maladie'
+e;334188;'affection respiratoire';1;50
+e;139785;'hausse';1;1306
+e;146274;'marché';1;3560
+e;222862;'marche>84931';1;10;'marche>fonctionnement'
+e;184166;'salle des marchés';1;50
+e;203420;'marché financier';1;68
+e;81928;'Bourse';1;124
+e;11125210;'obstacle>11125191';1;12;'obstacle>barrière physique'
+e;1813398;'stopper>28778';1;8;'stopper>arrêter'
+e;268774;'s'arrêter>268772';1;56;'s'arrêter>cesser de marcher'
+e;256989;'stationnement gênant';1;26
+e;249868;'stationnement interdit';1;26
+e;240128;'danger>17991';1;78;'danger>péril'
+e;142982;'s'arrêter';1;294
+e;71654;'intersection';1;92
+e;70406;'stopper';1;426
+e;69538;'se pousser';1;52
+e;33645;'obstacle';1;425
+e;12655;'danger';1;2869
+e;14304666;'marquer la page';1;0
+e;14300618;'marquer sa page';1;80
+e;373450;'produit de marque';1;50
+e;241325;'gare>25800';1;72;'gare>chemin de fer'
+e;156055;'grand magasin';1;124
+e;136559;'produit alimentaire';1;82
+e;132300;'maquillage';1;908
+e;116599;'hypermarché';1;232
+e;115073;'station-service';1;104
+e;107233;'supermarché';1;1010
+e;94262;'aéroport';1;2167
+e;76169;'cosmétique';1;414
+e;46543;'marketing';1;1309
+e;35035;'gare';1;3027
+e;32667;'produit';1;3768
+e;12078;'supérette';1;212
+e;14304613;'corner>51589';1;0;'corner>finance'
+e;14304612;'corner>43729';1;0;'corner>médecine vétérinaire'
+e;14304604;'corner>143757';1;0;'corner>art culinaire'
+e;143757;'art culinaire';1;848
+e;9507;'manipulation';1;1388
+e;113771;'faute';1;2592
+e;142400;'résonner';1;116
+e;217714;'cuisinière>61490';1;56;'cuisinière>femme'
+e;123761;'mitron';1;110
+e;118790;'cuisinier';1;1020
+e;86573;'apprenti';1;234
+e;59151;'cuisinière';1;640
+e;261311;'jument>145246';1;26;'jument>cheval'
+e;106042;'bovin';1;174
+e;47417;'boeuf';1;1470
+e;6070;'jument';1;492
+e;76248;'camionneur';1;110
+e;1649929;'chauffeur routier>68439';1;0;'chauffeur routier>individu'
+e;227050;'conducteur>11959';1;62;'conducteur>chauffeur'
+e;159450;'camioneur';1;58
+e;155574;'chauffeur routier';1;72
+e;145891;'taxi';1;272
+e;126350;'automobiliste';1;170
+e;81249;'conducteur';1;2003
+e;11959;'chauffeur';1;752
+e;261210;'lectrice>257051';1;54;'lectrice>faire la lecture'
+e;54496;'lecteur';1;2935
+e;153335;'lectrice';1;350
+e;218639;'lecteur>116477';1;40;'lecteur>personne'
+e;117650;'tintinnabuler';1;50
+e;15444355;'accorder sa confiance à [qqn]';1;0
+e;15663653;'accorder sa confiance à quelqu'un';1;0
+e;15663654;'accorder sa confiance à';1;0
+e;15663651;'en:put your trust in somebody';1;0
+e;15663652;'en:give somebody your trust';1;0
+e;15687493;'en:have faith in somebody';1;0
+e;15438079;'avoir confiance en [qqn]';1;0
+e;15221489;'avoir confiance en';1;0
+e;2950673;'croire à';1;0
+e;15703114;'croire en quelqu'un';1;0
+e;15438076;'en:be confident';1;0
+e;15438077;'en:have confidence';1;0
+e;49342;'avoir confiance';1;92
+e;1966019;'avoir confiance en quelqu'un';1;0
+e;15703113;'en:believe in somebody';1;0
+e;196442;'avoir confiance en qqn';1;50
+e;15233460;'croire en qn';1;0
+e;19796;'klaxon';1;108
+e;245419;'avertir>108043';1;30;'avertir>informer'
+e;67906;'proclamer';1;72
+e;14300605;'corne>14300602>16033';1;0;'corne>en forme de corne>cuisine'
+e;14300603;'corne>14300602';1;0;'corne>en forme de corne'
+e;3404745;'vider>250416>89628';1;4;'vider>rendre vide>récipient'
+e;250407;'vider>250416';1;58;'vider>rendre vide'
+e;242207;'boulangerie>49615';1;106;'boulangerie>commerce'
+e;238800;'récupérer>125780';1;56;'récupérer>reprendre'
+e;214276;'cuisine>96851';1;386;'cuisine>pièce'
+e;214275;'cuisine>143757';1;2032;'cuisine>art culinaire'
+e;152067;'ustensile de cuisine';1;222
+e;140039;'corne';1;450
+e;122875;'collecter';1;102
+e;121002;'ustensile';1;522
+e;119014;'boulangerie';1;1438
+e;108504;'racler';1;86
+e;69680;'ramasser';1;428
+e;68460;'vider';1;694
+e;57139;'récupérer';1;2093
+e;45455;'saladier';1;174
+e;36327;'plat';1;3800
+e;145252;'souffle';1;1857
+e;227776;'souffle>132952';1;10;'souffle>respiration'
+e;238065;'siffler>51528';1;24;'siffler>son'
+e;80321;'bronches';1;84
+e;3276293;'respiration sifflante';1;0
+e;66069;'larynx';1;148
+e;99567;'trachée';1;124
+e;2342624;'symptôme>102206';1;66;'symptôme>médecine'
+e;92090;'sifflement';1;114
+e;130400;'maladie';1;8504
+e;78402;'symptôme';1;304
+e;14304689;'liquider des positions à n'importe quel prix';1;0
+e;14304688;'liquider des positions en catastrophe';1;0
+e;14304686;'hausses boursières';1;0
+e;14304687;'manipulation de marché';1;0
+e;5876072;'profit économique';777;0
+e;226029;'marché>145817';1;6;'marché>bourse'
+e;381071;'spéculation boursière';1;50
+e;19499;'spéculation';1;146
+e;104763;'sanction';1;242
+e;3179158;'sanction>113415';1;62;'sanction>punition'
+e;223267;'coin>123981';1;52;'coin>extrémité'
+e;96920;'joueur';1;3667
+e;14304621;'faire retentir';1;0
+e;47638;'véhicule automobile';1;60
+e;322049;'croisement>106211';1;50;'croisement>carrefour'
+e;321972;'carrefour>4253';1;52;'carrefour>croisement'
+e;252355;'automobile>123745';1;198;'automobile>véhicule'
+e;230218;'avertisseur sonore';1;50
+e;131717;'centre-ville';1;282
+e;121678;'route';1;4574
+e;106211;'carrefour';1;426
+e;95706;'automobile';1;3276
+e;87222;'avenue';1;1563
+e;79444;'campagne';1;3750
+e;55077;'chemin';1;3424
+e;51528;'son';1;3927
+e;50877;'prévenir';1;1553
+e;4253;'croisement';1;148
+e;96312;'lecture';1;3098
+e;262275;'lecture>262273';1;44;'lecture>action de lire'
+e;106100;'marque-page';1;74
+e;52047;'catalogue';1;2309
+e;81399;'magazine';1;3015
+e;216782;'revue>120212';1;164;'revue>publication'
+e;100640;'roman';1;5248
+e;240516;'hebdomadaire>2026';1;18;'hebdomadaire>journal'
+e;218298;'roman>38710';1;1076;'roman>littérature'
+e;56256;'roman policier';1;242
+e;267483;'polar>56256';1;72;'polar>roman policier'
+e;73088;'pli';1;258
+e;102647;'pliure';1;99
+e;219836;'pli>143180';1;10;'pli>marque'
+e;15485;'bramer';1;96
+e;20691;'brailler';1;132
+e;1916647;'annoncer>82106';1;6;'annoncer>faire savoir'
+e;82106;'faire savoir';1;72
+e;2305797;'à la cantonnade';1;0
+e;14304672;'espace de vente';1;0
+e;14304667;'faire vendre';1;0
+e;3294075;'linéaire>29093';1;0;'linéaire>rayonnage'
+e;240051;'commerce>230294';1;114;'commerce>activité économique'
+e;233959;'tête de gondole';1;82
+e;213880;'grande distribution';1;126
+e;183136;'marque de distributeur';1;50
+e;143180;'marque';1;3490
+e;142661;'zone';1;3719
+e;100204;'linéaire';1;2884
+e;97674;'exposer';1;224
+e;85755;'secteur';1;3229
+e;81924;'rassembler';1;252
+e;53242;'étalagiste';1;52
+e;31412;'mettre en évidence';1;52
+e;29093;'rayonnage';1;104
+e;26642;'mettre en valeur';1;128
+e;8318;'regrouper';1;126
+e;41417;'coup';1;3552
+e;132958;'spéculateur';1;56
+e;152055;'coin coin';1;68
+e;199184;'en coin';1;76
+e;2104220;'spéculateurs';2;0
+e;146683;'entente';1;394
+e;43125;'gastronomie';1;2682
+e;14657041;'Marché Financier';777;0
+e;153397;'station essence';1;70
+e;2604530;'station d'essence';1;0
+e;153221;'pompe à essence';1;116
+e;137680;'poste d'essence';1;50
+e;15076323;'en:filling station';1;0
+e;15088678;'en:service station';1;0
+e;14962485;'en:petrol station';1;0
+e;14962484;'en:gas station';1;0
+e;15061080;'en:gas pump';1;0
+e;15198337;'produit d'alimentation';1;0
+e;15440304;'surface de vente';1;0
+e;15215075;'en:sales area';1;0
+e;2459035;'markéting';1;0
+e;7291022;'en:marketing';1;0
+e;105868;'penalty';1;80
+e;2474570;'coup franc indirect';1;0
+e;10828013;'International Football Association Board';777;0
+e;6087355;'lois du jeu';777;0
+e;93185;'CFTC';1;58
+e;12034240;'Commodity Futures Trading Commission';777;0
+e;402557;'milliards';1;3176
+e;214733;'Milliard';1;50
+e;2140836;'calls';2;0
+e;406052;'Call';1;50
+e;32813;'Porsche';1;90
+e;107326;'Volkswagen';1;74
+e;288381;'Deutsche Bank';1;50
+e;11770502;'Chicago Board of Trade';777;0
+e;105453;'Malaisie';1;2160
+e;393521;'Marc Rich';777;50
+e;26686;'faillite';1;886
+e;144829;'Printemps';1;571
+e;84330;'Banque de France';1;54
+e;62202;'Boston';1;2715
+e;120673;'New York';1;464
+e;41407;'septembre';1;3903
+e;67681;'effet boomerang';1;50
+e;75051;'squeeze';1;50
+e;429671;'Squeeze';1;50
+e;79993;'anglais';1;3833
+e;172944;'Anglais';1;3163
+e;31388;'États-Unis';1;3911
+e;111751;'cor';1;106
+e;155456;'Football';1;3403
+e;153252;'Finance';1;56
+e;248322;'Wikimedia Foundation';1;8
+e;230846;'wiki';1;74
+e;53578;'Budapest';1;50
+e;22710;'sabre';1;1714
+e;6790;'escrimeur';1;116
+e;155553;'Escrime';1;50
+e;143431;'Suisse';1;3699
+e;61921;'Italie';1;3678
+e;32403;'russe';1;3492
+e;66422;'Russie soviétique';1;50
+e;77735;'Europe';1;3809
+e;84412;'perroquet';1;392
+e;267377;'Adam et Ève';1;50
+e;67115;'Rubens';1;52
+e;189524;'Pierre Paul Rubens';1;50
+e;96963;'Titien';1;60
+e;65820;'Adolf Hitler';1;80
+e;275279;'Blanche-Neige et les Sept Nains';777;50
+e;89142;'Allemagne';1;3719
+e;167532;'Allemagne nazie';1;72
+e;128602;'distribution';1;3259
+e;96256;'bois';1;5220
+e;116350;'euro';1;1362
+e;176827;'Euro';1;4
+e;36716;'Monténégro';1;54
+e;160313;'zone euro';1;78
+e;7595;'a fortiori';1;60
+e;36275;'Union européenne';1;86
+e;27879;'chancelière';1;50
+e;245294;'Angela Merkel';666;14
+e;64408;'Pakistan';1;2614
+e;125760;'magnitude';1;2473
+e;99274;'séisme';1;320
+e;167771;'réchauffement climatique';1;172
+e;213140;'Groupe d'experts intergouvernemental sur l'évolution du climat';1;2
+e;19034;'Guinée';1;2129
+e;63580;'Autriche';1;3252
+e;248729;'élections législatives';1;58
+e;7401;'interprétation';1;2343
+e;83989;'éducation';1;2396
+e;146491;'Marne';1;3607
+e;88095;'grès';1;94
+e;142913;'Grès';1;50
+e;138334;'Nord';1;3806
+e;85111;'Bavay';1;50
+e;21130;'mai';1;3889
+e;87987;'France';1;4535
+e;19183;'Nord-Pas-de-Calais';1;2322
+e;254878;'_POL-NEG_PC';36;50
+e;10118485;'La Bourse';777;0
+e;4272401;'dbnary:fra:__ws_3_corner__verb__1';444;0
+e;4200312;'dbnary:fra:__ws_7_corner__verb__1';444;0
+e;4163857;'dbnary:fra:__ws_2_corner__verb__1';444;0
+e;4091965;'dbnary:fra:__ws_6_corner__verb__1';444;0
+e;4055907;'dbnary:fra:__ws_1_corner__verb__1';444;0
+e;3983758;'dbnary:fra:__ws_5_corner__verb__1';444;0
+e;3938281;'dbnary:fra:__ws_12_corner__nom__1';444;0
+e;3914598;'dbnary:fra:__ws_11_corner__nom__1';444;0
+e;3891199;'dbnary:fra:__ws_10_corner__nom__1';444;0
+e;3889112;'dbnary:fra:__ws_9_corner__nom__1';444;0
+e;3874637;'dbnary:fra:__ws_4_corner__verb__1';444;0
+e;3801863;'dbnary:fra:__ws_8_corner__verb__1';444;0
+e;37298;'amour';1;7157
+e;57221;'joie';1;3928
+e;268608;'avertissant';1;52
+e;56001;'cornement';1;50
+e;147138;'cornes';1;136
+e;6948173;'en:horns';1;0
+e;11010532;'dégager le ballon';1;0
+e;233948;'point de penalty';1;50
+e;15310224;'en:corni';1;0
+e;2160342;'corners';2;0
+e;2160336;'corneras';2;0
+e;2160355;'cornât';2;0
+e;222031;'cages de football';1;52
+e;2160335;'cornerait';2;0
+e;2160333;'corneraient';2;0
+e;2160322;'cornasses';2;0
+e;2160320;'cornasse';2;0
+e;2160315;'cornais';2;0
+e;2160344;'cornez';2;0
+e;2160357;'cornèrent';2;0
+e;2160339;'cornerions';2;0
+e;2160331;'cornera';2;0
+e;2160348;'corniez';2;0
+e;1924343;'cornas';1;0
+e;2160316;'cornait';2;0
+e;2314633;'cornante';2;0
+e;2160341;'corneront';2;0
+e;2160324;'cornassions';2;0
+e;2160321;'cornassent';2;0
+e;2160351;'cornons';2;0
+e;2160340;'cornerons';2;0
+e;2160330;'cornent';2;0
+e;2160323;'cornassiez';2;0
+e;2160354;'cornâmes';2;0
+e;2160349;'cornions';2;0
+e;2160332;'cornerai';2;0
+e;2160313;'cornai';2;0
+e;2160337;'cornerez';2;0
+e;2160334;'cornerais';2;0
+e;2160356;'cornâtes';2;0
+e;25371;'buteur';1;74
+e;265846;'défenseur>56865';1;76;'défenseur>sport'
+e;11010531;'convertir un penalty';1;0
+e;14602661;'marquer une page';1;0
+e;14530541;'page cornée';1;4
+e;13838;'feuilleter';1;190
+e;2160338;'corneriez';2;0
+e;2160314;'cornaient';2;0
+e;2160309;'corna';2;0
+e;13629750;'championnat de France de football';777;0
+e;8053009;'commencer un livre';1;44
+e;15431075;'en:open the scoring';1;0
+e;204875;'ouvrir la marque';1;50
+e;15431074;'en:open the score';1;0
+e;10002319;'Championnat de France de football';777;0
+e;10055352;'Championnat d'Europe de football 2016';777;0
+e;262483;'cage>56865';1;60;'cage>sport'
+e;204884;'ouvrir le score';1;74
+e;14726579;'raid solitaire';1;0
+e;14726758;'envelopper sa frappe';1;0
+e;14726775;'créer un décalage';1;0
+e;14726567;'milieu récupérateur';1;0
+e;14726566;'milieu défensif';1;0
+e;14726753;'tacle propre';1;0
+e;14726578;'ouverture du score';1;0
+e;14726452;'tacle en retard';1;22
+e;14726451;'tacle appuyé';1;40
+e;14537240;'relire un roman';1;0
+e;14726769;'tirer sur la latte';1;0
+e;1066;'trompetter';1;50
+e;229276;'rhinoceros';666;50
+e;89499;'hucher';1;50
+e;234393;'corne>106100';1;50;'corne>marque-page'
+e;14297679;'corne>2946892';1;0;'corne>Ver:Conjug'
+e;14293582;'cornas>2946892';1;0;'cornas>Ver:Conjug'
+e;14288218;'cornes>2946892';1;0;'cornes>Ver:Conjug'
+e;212531;'Minute';666;2
+e;15744029;'refuser quelque chose à quelqu'un';1;0
+e;15662150;'en:defensive midfielder';1;0
+e;15443369;'avoir foi en [qqn]';1;0
+e;1966021;'avoir foi en quelqu'un';1;0
+e;16032389;'avoir foi en';1;0
+e;15205612;'sportif, sportive';1;0
+e;17023;'cage';1;958
+e;141705;'ongle';1;1562
+e;11105;'époi';1;50
+e;287908;'Équipes';777;50
+e;5813839;'24e';1;0
+e;10778927;'1 - 1';777;0
+e;17625128;'équipe d'Irlande du Nord de football à la Coupe du monde de 1958';777;0
+e;17213736;'en:to withhold sth from sb';1;0
+e;15240877;'en:to deny sb sth';1;0
+e;15563599;'en:deny sb sth';1;0
+e;15625891;'en:deny somebody something';1;0
+e;25282;'défenseur';1;1857
+e;14955962;'en:wallet';1;0
+e;16491539;'CI+C3';777;0
+e;404322;'Championnat';1;3476
+e;7123482;'en:veterinary medicine';1;0
+e;33440;'goal';1;188
+e;15431672;'en:clear the ball';1;0
+e;6405;'écorner';1;56
+e;15219975;'accorder foi';1;0
+e;57836;'faire confiance à';1;50
+e;51785;'se fier';1;72
+e;14428065;'balle à terre';777;0
+e;14428064;'reprise du jeu';777;0
+e;152023;'coup d'envoi';1;50
+e;6082876;'loi 8 du football';777;0
+e;10503105;'Diego Costa';777;0
+e;10553549;'Ángelos Charistéas';777;0
+e;11554078;'but au football';777;0
+e;6065388;'Jérôme Rothen';777;0
+e;12646287;'Corner d'Hutchinson sur le blé en 1888 à Chicago';777;0
+e;592745;'cur pulmonaire chronique';1;0
+e;283581;'CPC';777;50
+e;10503104;'Diego da Silva Costa';777;0
+e;6065584;'Emmanuel Petit';777;0
+e;11355773;'Leonid Viktorovitch Sloutski';777;0
+e;6087356;'lois du football';777;0
+e;3934610;'courbe des taux';1;0
+e;11064805;'Asamoah Gyan';777;0
+e;10905311;'San Francisco Stock Exchange';777;0
+e;10849198;'bear squeeze';777;0
+e;10844109;'Juan Guillermo Cuadrado Bello';777;0
+e;10746239;'Comètes de Laval';777;0
+e;10746236;'Amiral SC de Québec';777;0
+e;273388;'Domicile';777;50
+e;4337327;'Neutre';777;0
+e;273389;'Extérieur';777;50
+e;10137452;'coupe du monde de football 2006';777;0
+e;155070;'gardien de but';1;276
+e;9993044;'Panique des banquiers';777;0
+e;9993043;'Panique bancaire américaine de 1907';777;0
+e;5942137;'Bourse de San Francisco';777;0
+e;386422;'vente à découvert';1;50
+e;59238;'accapareur';1;54
+e;115263;'accaparement';1;50
+e;179778;'bulle financière';1;50
+e;274242;'bulle de prix';777;50
+e;274241;'bulle économique';777;50
+e;232177;'bulle spéculative';1;18
+e;120212;'publication';1;3173
+e;118776;'épiderme';1;438
+e;1603;'labourable';1;54
+e;427561;'dente';1;50
+e;143540;'bison';1;84
+e;2537644;'chèvre girgentane';1;0
+e;2609050;'Monoclonius sphenocerus';777;0
+e;144421;'tiare';1;84
+e;129114;'victorieusement';1;50
+e;122139;'naseau';1;122
+e;105393;'anneler';1;80
+e;64954;'braconnier';1;66
+e;34506;'minoen';1;54
+e;33156;'ciliaire';1;50
+e;30773;'koudou';1;50
+e;146504;'pénalty';1;104
+e;213827;'cor>91594';1;18;'cor>instrument de musique'
+e;102345;'plaisir';1;3741
+e;139513;'phrase';1;2942

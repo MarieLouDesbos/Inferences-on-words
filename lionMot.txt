@@ -1,0 +1,2269 @@
+e;86756;'lion';1;3040
+e;39609;'Kruger';1;50
+e;33702;'Transvaal';1;600
+e;266113;'familiaux';1;80
+e;16108937;'mâle adulte';1;0
+e;16108940;'lions de Kruger';1;0
+e;16108942;'lions de Transvaal';1;0
+e;16108935;'groupes familiaux';1;0
+e;38788;'espèce';1;3485
+e;226083;'humain>46707';1;82;'humain>espèce humaine'
+e;10597147;'espèce de mammifères';1;0
+e;5892722;'mammifères carnivores';1;0
+e;16065161;'famille des Félidés';1;0
+e;7589;'femelle';1;2423
+e;55222;'petit';1;4357
+e;60448;'mâle';1;2485
+e;18302;'adulte';1;2370
+e;70764;'aisément';1;1527
+e;16056281;'reconnaissable à';1;0
+e;161295;'importante';1;3675
+e;9518;'important';1;3705
+e;29904;'accuser';1;214
+e;137533;'masse';1;3539
+e;116610;'moyenne';1;3670
+e;13853607;'pouvoir être';1;0
+e;6651;'variable';1;3167
+e;21750;'zoner';1;64
+e;12051142;'zones géographiques';1;0
+e;2446902;'il se trouve';1;0
+e;129517;'géographique';1;3014
+e;37229;'se trouver';1;54
+e;70318;'allant';1;2946
+e;32157;'kg';1;3416
+e;15392;'lier';1;580
+e;2104124;'spécimens';2;255
+e;78985;'spécimen';1;72
+e;414488;'rares';1;3214
+e;1667477;'très rare';1;0
+e;80556;'dépasser';1;1840
+e;64605;'exceptionnellement';1;76
+e;229230;'se nourrir de';1;2
+e;8251073;'de viande';1;0
+e;342939;'chaque jour';1;58
+e;1961;'vit';1;3321
+e;164982;'en groupe';1;72
+e;199301;'en large';1;50
+e;398451;'larges';1;2129
+e;93317;'groupes';1;3660
+e;356968;'groupe familial';1;50
+e;123103;'contrairement';1;2884
+e;157132;'félins';1;68
+e;16403;'espérance de vie';1;62
+e;388469;'à l'état sauvage';1;50
+e;234912;'état sauvage';1;70
+e;413431;'comprise';1;1773
+e;15490031;'compris entre';1;0
+e;10136387;'20 ans';777;0
+e;25393;'fréquemment';1;2870
+e;10032841;'30 ans';777;0
+e;268150;'en captivité';1;50
+e;7804;'pouvoir';1;3870
+e;220555;'zones';1;3436
+e;88543;'jour';1;5054
+e;38264;'ans';1;3895
+e;154515;'barre chocolatée';1;176
+e;361720;'lion de ménagerie';1;50
+e;361717;'lion en peluche';1;50
+e;14940408;'en:gnathostome';1;0
+e;77938;'flair';1;74
+e;15078030;'en:Panthera leo';1;0
+e;1889942;'lion de mer de';777;0
+e;361721;'lion rouge';1;50
+e;361718;'lion vert';1;50
+e;161602;'animal carnivore';1;52
+e;49289;'constellation';1;3474
+e;361715;'lion ailé';1;50
+e;2567228;'lion des cavernes';1;0
+e;49420;'jeune homme';1;192
+e;120157;'règne animal';1;102
+e;139880;'lion's roar';1;50
+e;289575;'lion d'Afrique';777;50
+e;25635;'lion de mer';1;56
+e;137390;'zèbre';1;218
+e;60902;'dent';1;3454
+e;77727;'gueule';1;706
+e;361716;'lion de cirque';1;50
+e;150;'chat';1;5437
+e;2464206;'quadripède';1;0
+e;225707;'zèbre>112511';1;28;'zèbre>quadrupède'
+e;261225;'pattes>248747';1;56;'pattes>membres inférieurs'
+e;51380;'grégaire';1;54
+e;266168;'gazelle>17559';1;12;'gazelle>animal'
+e;135190;'lieu';1;3861
+e;152125;'Zoologie';1;210
+e;216283;'dent>45311';1;284;'dent>dentaire'
+e;109365;'stylisé';1;50
+e;64082;'zodiaque astrologique';1;50
+e;452536;'fauve>171870';1;50;'fauve>Nom:'
+e;175696;'lion du Transvaal';1;50
+e;61280;'parc zoologique';1;66
+e;134119;'généreux';1;174
+e;1636805;'oeil>44335';1;50;'oeil>organe'
+e;599716;'héros>171870';1;0;'héros>Nom:'
+e;10185731;'homme célèbre';1;0
+e;4891735;'animal dangereux';1;0
+e;436570;'entité biologique';1;50
+e;316850;'entité physique';1;50
+e;14338;'attaquer';1;1286
+e;14326265;'::>66:86756>24:14326263';8;0;'lion [peut] attaquer [endroit] savane'
+e;14326266;'::>66:86756>24:14326261';8;0;'lion [peut] attaquer [objet] zèbre'
+e;2442;'vivre';1;3276
+e;14388739;'::>66:86756>24:14388734';8;0;'lion [peut] vivre [endroit] savane'
+e;130164;'manger';1;10304
+e;14531509;'::>66:86756>24:14531507';8;0;'lion [peut] manger [objet] zèbre'
+e;15571196;'::>66:86756>24:327614';8;0;'lion [peut] manger [objet] viande'
+e;155861;'manger de la viande';1;106
+e;15201071;'en:lion-heart';1;0
+e;39943;'occultisme';1;72
+e;78768;'chasser';1;1086
+e;16076344;'::>66:86756>24:16076342';8;0;'lion [peut] chasser [endroit] savane'
+e;39652;'courser';1;80
+e;16076352;'::>66:86756>24:16076350';8;0;'lion [peut] courser [endroit] savane'
+e;16076353;'::>66:86756>24:16076348';8;0;'lion [peut] courser [objet] zèbre'
+e;24646;'attraper';1;838
+e;16311125;'::>66:86756>24:16311123';8;0;'lion [peut] attraper [objet] gazelle'
+e;118970;'pourchasser';1;74
+e;16311133;'::>66:86756>24:16311131';8;0;'lion [peut] pourchasser [objet] zèbre'
+e;16311136;'::>66:86756>24:16311134';8;0;'lion [peut] attraper [objet] zèbre'
+e;16509054;'::>66:86756>24:16509052';8;0;'lion [peut] manger [endroit] savane'
+e;16591107;'::>66:86756>24:14972427';8;0;'lion [peut] dévorer [objet] proie'
+e;16591110;'::>66:86756>24:10436642';8;0;'lion [peut] dévorer [objet] zèbre'
+e;16591113;'::>66:86756>24:16591111';8;0;'lion [peut] dévorer [objet] antilope'
+e;16592924;'::>66:137390>24:29690';8;0;'zèbre [peut] fuir'
+e;16592930;'::>66:137390>24:16592928';8;0;'zèbre [peut] fuir [objet] lion'
+e;16594370;'::>66:86756>24:16594368';8;0;'lion [peut] dévorer [endroit] savane'
+e;17505676;'::>66:86756>24:17505674';8;0;'lion [peut] chasser [objet] zèbre'
+e;84479;'vivre dans';1;50
+e;17562669;'::>66:86756>24:17562664';8;0;'lion [peut] vivre dans [objet] savane'
+e;17562680;'::>66:225707>24:29690';8;0;'zèbre>quadrupède [peut] fuir'
+e;17562681;'::>66:225707>24:16592928';8;0;'zèbre>quadrupède [peut] fuir [objet] lion'
+e;32714;'léopard';1;346
+e;17023;'cage';1;958
+e;147184;'dents';1;2390
+e;64060;'puissance';1;3686
+e;54186;'fort';1;3532
+e;52752;'majesté';1;80
+e;12655;'danger';1;2869
+e;40840;'force';1;3688
+e;108166;'beau';1;2894
+e;74514;'féroce';1;146
+e;135591;'poil';1;2680
+e;261246;'rugir>17559';1;58;'rugir>animal'
+e;261769;'lionne>116032';1;24;'lionne>félin'
+e;140605;'léonin';1;56
+e;264176;'animal de cirque';1;8
+e;265168;'homme fort';1;62
+e;167153;'réserve naturelle';1;132
+e;22620;'Thoiry';1;94
+e;231382;'Le roi Lion';666;50
+e;164697;'grand fauve';1;110
+e;131077;'gnou';1;88
+e;392691;'animal d'Afrique';1;50
+e;396247;'individu>24956';1;134;'individu>être humain'
+e;116767;'brave';1;136
+e;52265;'superbe';1;202
+e;44418;'mufle';1;118
+e;22933;'surhomme';1;68
+e;260820;'entité vivante';1;64
+e;153253;'Astronomie';1;132
+e;1483990;'être vivant non humain';1;4
+e;1698993;'élégant>171870';1;0;'élégant>Nom:'
+e;15206976;'signe de zodiaque';1;0
+e;74579;'astrologie';1;782
+e;329657;'choano-organisme';1;62
+e;215758;'gueule>215755';1;14;'gueule>bouche animale'
+e;71392;'héros';1;3397
+e;2588367;'homme en vue';1;0
+e;14946566;'en:lion';1;0
+e;27282;'numismatique';1;140
+e;175842;'panthériné';1;50
+e;598172;'brave>171870';1;0;'brave>Nom:'
+e;84441;'gazelle';1;132
+e;118539;'poils';1;1359
+e;331030;'féliforme';1;56
+e;117789;'moustache';1;938
+e;32851;'mammifères';1;2107
+e;148125;'fauves';1;74
+e;221968;'Le lion de Némée';1;4
+e;30321;'figure';1;3445
+e;97634;'croc';1;396
+e;152801;'lions';1;74
+e;117666;'vigueur';1;2686
+e;78461;'calendrier';1;3788
+e;240367;'savane>251735';1;48;'savane>formation végétale'
+e;117095;'zoologie';1;2392
+e;71624;'être vivant';1;1888
+e;13369;'être';1;3929
+e;16644;'astronomie';1;1990
+e;247057;'symétrie bilatérale';1;10
+e;330964;'cordé>117095';1;36;'cordé>zoologie'
+e;237445;'être>68439';1;32;'être>individu'
+e;396531;'Lion de Bartholdi';1;50
+e;17827;'cosmétologie';1;74
+e;217968;'figure>142000';1;4;'figure>forme'
+e;51970;'représentation';1;3241
+e;13738856;'panthera leo';1;0
+e;68439;'individu';1;6130
+e;396532;'Lion de Belfort';1;50
+e;6947562;'en:panthera leo';1;0
+e;41583;'ride';1;258
+e;27775;'zodiaque';1;540
+e;83792;'blason';1;98
+e;36886;'faune';1;2225
+e;65081;'organisme vivant';1;146
+e;142791;'Lion';1;2156
+e;46164;'carnivores';1;56
+e;226610;'cosmétiques';1;190
+e;62728;'couronné';1;1353
+e;44584;'dompteur';1;274
+e;140100;'viande';1;5108
+e;227406;'Le Roi lion';1;2
+e;138067;'King';1;3123
+e;227407;'Simba';1;50
+e;331034;'féloïdé';1;52
+e;142235;'Félidés';1;50
+e;835;'août';1;2102
+e;89926;'chef';1;3861
+e;83955;'blasonner';1;56
+e;434301;'leo';1;50
+e;114454;'armoiries';1;118
+e;5139346;'Lions Clubs';1;0
+e;39101;'bête';1;1430
+e;52413;'carnassier';1;402
+e;2019970;'blasonnent';2;0
+e;143669;'vertébrés';1;80
+e;76169;'cosmétique';1;414
+e;35143;'biologie';1;3428
+e;113247;'Panthera';1;50
+e;15268;'Roi';1;3251
+e;132197;'léopardé';1;50
+e;33381;'Leo';1;1286
+e;254966;'Le Lion';1;50
+e;233133;'animal>117095';1;836;'animal>zoologie'
+e;114778;'symbole';1;3379
+e;220342;'fauve>17559>116032';1;28;'fauve>animal>félin'
+e;175695;'lion des montagnes';1;50
+e;140429;'chasse';1;3199
+e;165597;'lionceaux';1;50
+e;71267;'courage';1;2000
+e;110773;'amniote';1;82
+e;156371;'mamifère';1;50
+e;114580;'élégant';1;242
+e;57553;'antilope';1;174
+e;113583;'panthère';1;958
+e;244881;'::>66:86756>15:240367';8;50;'lion [lieu] savane>formation végétale'
+e;221983;'homme>24956';1;218;'homme>être humain'
+e;64300;'célèbre';1;3736
+e;123284;'écu';1;108
+e;244883;'::>66:86756>15:52611';8;50;'lion [lieu] zoo'
+e;2983124;'_SW';36;50
+e;225916;'personne>24956';1;720;'personne>être humain'
+e;116477;'personne';1;10307
+e;661;'courageux';1;446
+e;49293;'humain';1;3437
+e;248081;'chordé';1;226
+e;24956;'être humain';1;818
+e;244620;'être humain>74860';1;146;'être humain>homme'
+e;167148;'petit lion';1;50
+e;220767;'lion de Némée';1;20
+e;79322;'rugissement';1;100
+e;128439;'superprédateur';1;56
+e;50233;'capricorne';1;516
+e;2591262;'Panthera leo';1;0
+e;264908;'eumétazoaire';1;80
+e;71539;'animaux';1;3421
+e;317929;'olfactorien';1;40
+e;81027;'félidés';1;128
+e;86640;'vertébré';1;904
+e;101018;'gnathostome';1;84
+e;265839;'synapside';1;30
+e;30459;'chasseur';1;1788
+e;54794;'eucaryote';1;194
+e;115304;'deutérostomien';1;114
+e;91794;'tétrapode';1;96
+e;225847;'organisme>71624';1;98;'organisme>être vivant'
+e;234036;'être vivant>123933';1;258;'être vivant>entité'
+e;264880;'bilatérien';1;80
+e;264881;'crânié';1;56
+e;265277;'crâniate';1;58
+e;142602;'cordé';1;112
+e;112511;'quadrupède';1;386
+e;55823;'métazoaire';1;174
+e;325741;'choanobionte';1;76
+e;317214;'carnivore>24679';1;24;'carnivore>taxon'
+e;219058;'signe astrologique';1;206
+e;247024;'félin>17559';1;64;'félin>animal'
+e;325738;'filozoaire';1;84
+e;325736;'holozoaire';1;60
+e;325731;'opisthoconte';1;76
+e;25019;'prédateur';1;584
+e;164531;'mammifère carnivore';1;56
+e;325728;'uniconte';1;42
+e;74860;'homme';1;28860
+e;265220;'épineurien';1;20
+e;1816;'héraldique';1;813
+e;137333;'tigre';1;1484
+e;215800;'bête>17559';1;98;'bête>animal'
+e;48496;'sauvage';1;2444
+e;160622;'signe du zodiaque';1;280
+e;163876;'roi des animaux';1;74
+e;145670;'sphinx';1;162
+e;21149;'dévorer';1;768
+e;52611;'zoo';1;1318
+e;83208;'cirque';1;1824
+e;63235;'mammifère';1;3621
+e;152973;'animal sauvage';1;946
+e;115352;'griffe';1;1090
+e;82231;'félidé';1;824
+e;48855;'carnivore';1;1566
+e;137391;'Afrique';1;3638
+e;4920;'savane';1;848
+e;36548;'rugir';1;312
+e;113093;'jungle';1;828
+e;38599;'lionne';1;558
+e;31424;'fauve';1;916
+e;17559;'animal';1;14017
+e;116032;'félin';1;2304
+e;139655;'roi';1;4884
+e;123774;'lionceau';1;296
+e;106252;'crinière';1;518
+e;239128;'_COM';36;50
+e;4309877;'lion>41583';1;0;'lion>ride'
+e;5139347;'lion>5139346';1;0;'lion>Lions Clubs'
+e;247485;'lion>1816';1;50;'lion>héraldique'
+e;247484;'lion>74860';1;50;'lion>homme'
+e;318105;'lion>160622';1;50;'lion>signe du zodiaque'
+e;247483;'lion>116032';1;104;'lion>félin'
+e;7256380;'en:zoology';1;0
+e;6947917;'en:vertebrata';1;0
+e;6948258;'en:mammalia';1;0
+e;175720;'Mammalia';1;50
+e;2586627;'Gender:Mas';4;0
+e;2586629;'Number:Sing';4;0
+e;146885;'Nom:Mas+SG';4;50
+e;171870;'Nom:';4;50
+e;396146;'thérapside';1;54
+e;157284;'lieu>68467';1;58;'lieu>poisson'
+e;152168;'êtres vivants';1;110
+e;71115;'rongeur';1;1006
+e;58768;'organisme';1;2509
+e;87789;'coelomate';1;52
+e;157007;'être>146885';1;50;'être>Nom:Mas+SG'
+e;391009;'célomate';1;50
+e;391010;'coelomé';1;50
+e;175539;'Felidae';1;50
+e;6913330;'en:felidae';1;0
+e;101689;'être animé';1;50
+e;14049831;'organisme vivant pluricellulaire hétérotrophe';1;6
+e;14049840;'organisme vivant pluricellulaire';1;0
+e;14049844;'organisme vivant hétérotrophe';1;0
+e;9160330;'en:family felidae';1;0
+e;1395235;'être>171870';1;0;'être>Nom:'
+e;12321907;'en:eukaryote';1;0
+e;2461482;'métazoaire supérieur';1;0
+e;267642;'organisme animal';1;4
+e;396042;'tétrapode>86640';1;50;'tétrapode>vertébré'
+e;261961;'grand félin';1;50
+e;396149;'cynodonte';1;62
+e;3378472;'animal mâle';1;0
+e;152946;'arêtes';1;114
+e;148105;'ailes';1;2750
+e;6798394;'en:neck';1;0
+e;141480;'écaille';1;412
+e;137662;'Régulus';1;50
+e;74558;'os';1;3037
+e;14917526;'en:deoxyribonucleic acid';1;0
+e;15204740;'en:hind paw';1;0
+e;14918011;'en:DNA';1;0
+e;8535678;'en:spine';1;0
+e;6797233;'en:vertebra';1;0
+e;15047666;'en:alimentary canal';1;0
+e;221034;'bras>112609';1;186;'bras>anatomie'
+e;213977;'bassin>112609';1;20;'bassin>anatomie'
+e;60152;'bassin';1;2996
+e;94431;'neck';1;52
+e;12791689;'acide désoxyribo-nucléique';1;0
+e;6800176;'en:heart';1;0
+e;11405719;'heart';1;0
+e;398564;'mâchoires';1;50
+e;11008328;'ADN>30051';1;8;'ADN>code génétique'
+e;116980;'squelette';1;1226
+e;77008;'yeux';1;4537
+e;77424;'oeil';1;3276
+e;225934;'oeil>330323';1;224;'oeil>organe de la vue'
+e;26363;'bras';1;4155
+e;233138;'tête>390963';1;72;'tête>extrémité supérieure du corps'
+e;47319;'colonne vertébrale';1;362
+e;74846;'corps';1;5240
+e;152844;'sang chaud';1;88
+e;126285;'dos';1;2898
+e;32735;'poumons';1;395
+e;109785;'peau';1;3979
+e;96211;'coeur';1;2342
+e;16110;'bouche';1;4340
+e;81934;'main';1;6788
+e;142086;'jambe';1;3395
+e;34898;'pied';1;4548
+e;187620;'patte postérieure';1;6
+e;145953;'visage';1;3047
+e;140715;'jambes';1;1549
+e;107477;'nez';1;2903
+e;213792;'coeur>213791';1;186;'coeur>organe musculaire'
+e;139578;'muscle';1;2147
+e;139779;'ADN';1;1254
+e;219363;'corps>112609';1;190;'corps>anatomie'
+e;240720;'squelette>112609';1;152;'squelette>anatomie'
+e;187622;'patte antérieure';1;8
+e;221019;'bouche>112609';1;214;'bouche>anatomie'
+e;241352;'ventre>112609';1;100;'ventre>anatomie'
+e;95422;'cou';1;1944
+e;103311;'système nerveux';1;276
+e;83944;'nerf';1;858
+e;228289;'sexe>218086';1;282;'sexe>organe sexuel'
+e;126388;'articulation';1;730
+e;237765;'patte>141795';1;56;'patte>membre'
+e;214988;'langue>213791';1;244;'langue>organe musculaire'
+e;125745;'coussinet';1;130
+e;109638;'fourrure';1;478
+e;213644;'os>116980';1;404;'os>squelette'
+e;57875;'tube digestif';1;118
+e;326146;'système nerveux en position dorsale';1;56
+e;390927;'tête>112609';1;72;'tête>anatomie'
+e;19356;'sexe';1;5772
+e;108463;'ventre';1;2056
+e;141814;'vertèbre';1;392
+e;39031;'cerveau';1;2776
+e;16747;'adn';1;164
+e;298405;'crinière>117095';1;50;'crinière>zoologie'
+e;242310;'croc>60902';1;14;'croc>dent'
+e;214602;'queue>214624';1;74;'queue>queue d'animal'
+e;114327;'acide désoxyribonucléique';1;140
+e;215135;'griffe>141705';1;56;'griffe>ongle'
+e;8990;'patte';1;1766
+e;148387;'griffes';1;324
+e;144846;'tête';1;5937
+e;138092;'pelage';1;324
+e;151867;'pattes';1;2265
+e;95256;'queue';1;3266
+e;6925;'famille royale';1;80
+e;14944748;'en:zoo';1;0
+e;15080161;'en:animal kingdom';1;0
+e;15043901;'en:Felidae';1;0
+e;15043900;'en:family Felidae';1;0
+e;364788;'monde animal';1;50
+e;15417050;'en:zoological gardens';1;0
+e;202281;'jardin zoologique';1;52
+e;26160;'Le Lion et la perle';1;50
+e;31329;'Lion Feuchtwanger';1;50
+e;45544;'Louis VIII le Lion';1;50
+e;56102;'Le Lion à sept têtes';1;50
+e;56502;'Richard Coeur de Lion';1;50
+e;59871;'Guillaume le Lion';1;50
+e;68092;'Stourbridge Lion';1;50
+e;95351;'golfe du Lion';1;68
+e;107672;'Henri le Lion';1;50
+e;116266;'Lion de Flandre';1;50
+e;128871;'Louis le Lion';1;50
+e;133261;'Le Lion amoureux';1;50
+e;136051;'Le Lion de Flandre';1;50
+e;253604;'Lion d'or';1;50
+e;289548;'Coeur de Lion';777;50
+e;309199;'Snoop Lion';777;50
+e;311707;'Lion d'or du meilleur film';777;20
+e;143513;'Le Lion-d'Angers';1;50
+e;316854;'Robert Lion';1;50
+e;6290681;'lion de mer austral';1;0
+e;14075830;'lion de mer du sud';1;0
+e;14075831;'lion de mer de Patagonie';1;0
+e;14573763;'le signe du lion';777;0
+e;17528101;'lion en Europe';777;0
+e;17527466;'projet de réintroduction du lion d'Asie';777;0
+e;6415526;'mâchoire de lion';1;0
+e;14300638;'être comme un lion en cage';1;0
+e;6422641;'lion de mer de la californie';1;0
+e;10732083;'Le lion a des ailes';777;0
+e;3863669;'pié-de-lion';1;0
+e;9988855;'Le lion est mort ce soir';777;0
+e;2404845;'lion-garou';1;0
+e;10871702;'La Danse du lion';777;0
+e;5828749;'Attention au lion';777;0
+e;9972293;'La Garde du Roi lion';777;0
+e;11028668;'tête de lion';777;0
+e;5625449;'gueule-de-lion';777;0
+e;15201058;'cage du lion';1;0
+e;5892909;'Le Roi lion 1½';777;0
+e;5892466;'lion asiatique';777;0
+e;5926804;'Prenez garde au lion';777;0
+e;5952631;'homme lion';777;0
+e;12079647;'lion de l'Atlas';1;0
+e;10838069;'Lippy le lion';777;0
+e;5892473;'lion européen';777;0
+e;10316701;'Richard Coeur de lion';777;0
+e;10314498;'lion des neiges';777;0
+e;15238982;'avoir bouffé du lion';1;0
+e;5892409;'lion américain';777;0
+e;6293018;'dent de lion';1;0
+e;10046339;'L'Enfant lion';777;0
+e;10056411;'Sous le signe du lion';777;0
+e;10050021;'Les Griffes du lion';777;0
+e;11388972;'lion du désert';777;0
+e;11645917;'Richard coeur de lion';1;0
+e;2370755;'tamarin lion';1;0
+e;5892468;'lion persan';777;0
+e;5892406;'lion des cavernes européen';777;0
+e;5884474;'plutée couleur de lion';777;0
+e;5892474;'lion d'Europe';777;0
+e;5892431;'lion de Béringie';777;0
+e;10088653;'lion de Belfort';777;0
+e;10507643;'Un lion dans les rues';777;0
+e;15421444;'se battre comme un lion';1;0
+e;2429938;'petit chien lion';1;0
+e;2432725;'méduse à crinière de lion';1;0
+e;5892525;'lion tacheté du Kenya';777;0
+e;5892476;'lion des cavernes primitif';777;0
+e;5884475;'plutée jaune de lion';777;0
+e;10460353;'Le lion sort ses griffes';777;0
+e;11218773;'lion de mer australien';777;0
+e;16030543;'patte-de-lion';1;0
+e;16030922;'petit-lion';1;0
+e;5892646;'lion de mer de Steller';777;0
+e;5892410;'lion d'Amérique';777;0
+e;5892467;'lion d'Asie';777;0
+e;13336063;'la part du lion';1;0
+e;13335066;'drapeau au lion des neiges';777;0
+e;14173419;'le lion de Coat-Méal';777;0
+e;16051880;'manger du lion';1;0
+e;2379341;'c'est l'âne couvert de la peau du lion';1;0
+e;14075829;'lion de mer sud-américain';1;0
+e;16108943;'lion de Transvaal';1;0
+e;16108941;'lion de Kruger';1;0
+e;17176379;'lion's mane mushroom';777;0
+e;10601473;'homme-lion';777;0
+e;16046689;'hurler comme un lion';1;0
+e;16050516;'l'antre du lion';1;0
+e;2445936;'tamarin lion doré';1;0
+e;10437005;'Titus le petit lion';777;0
+e;10437004;'le petit lion';777;0
+e;12736362;'lion des pucerons';777;0
+e;14758957;'De gueules au lion d'hermine';777;0
+e;16040530;'avoir un coeur de lion';1;0
+e;15992811;'battre comme un lion';1;0
+e;16040952;'bouffer du lion';1;0
+e;16032450;'brave comme un lion';1;0
+e;15572976;'chien affamé ne craint pas le lion';1;0
+e;16901728;'Le Roi lion - Hans Zimmer';777;0
+e;3398190;'Pied-de-lion';777;0
+e;2544039;'coudre la peau du renard à celle du lion';1;0
+e;2579423;'chien-lion';1;0
+e;1233162;'lion blanc';1;0
+e;3185972;'L'Âne vêtu de la peau du lion';1;0
+e;3381124;'Tamarin-lion';1;0
+e;2555241;'queue de lion';1;0
+e;2515989;'singe-lion';1;0
+e;3380866;'Singe-lion';1;0
+e;3411131;'lion de montagne';777;0
+e;2504919;'poisson-lion';1;0
+e;3186014;'La Cour du lion';1;0
+e;2928951;'Comme un lion';777;0
+e;3223812;'Petit lion';777;0
+e;344749;'courageux comme un lion';1;50
+e;344034;'coeur de lion';1;50
+e;355002;'fort comme un lion';1;50
+e;356801;'griffe du lion';1;50
+e;344133;'comme un lion';1;50
+e;369465;'peau de lion';1;50
+e;62789;'pied-de-lion';1;52
+e;35272;'fourmi-lion';1;54
+e;214616;'queue-de-lion';1;50
+e;168316;'tamarin-lion';1;50
+e;132645;'dent-de-lion';1;50
+e;300276;'Gueule-de-lion';777;50
+e;207974;'se tailler la part du lion';1;50
+e;236672;'ride du lion';1;50
+e;246223;'tourner comme un lion en cage';1;50
+e;57834;'Yvain ou le Chevalier au lion';1;50
+e;80318;'Le Chevalier au lion';1;50
+e;209208;'tourner comme un lion dans sa cage';1;50
+e;189091;'Louis VIII le lion';1;50
+e;189490;'Richard Ier coeur de lion';1;50
+e;290378;'gnaphale à pied de lion';777;50
+e;305597;'macaque à queue de lion';777;50
+e;185683;'avoir mangé du lion';1;50
+e;2033;'lion marin';1;70
+e;159558;'chasse au lion';1;50
+e;151538;'part du lion';1;54
+e;31164;'enclos';1;170
+e;158519;'continent asiatique';1;58
+e;242512;'coffre à jouets';1;54
+e;7053123;'en:bush';1;0
+e;226181;'Congo-Kinshasa';1;50
+e;2448551;'fosse aux lions';1;0
+e;140195;'réserve';1;2882
+e;12831;'montagne';1;4279
+e;20713;'planète';1;3768
+e;155763;'peugeot';1;60
+e;77735;'Europe';1;3809
+e;2385039;'Æthiopie';1;0
+e;3976519;'muséon';1;0
+e;89274;'crèche';1;290
+e;16813;'trône';1;3207
+e;254100;'forêt>254099';1;140;'forêt>terrain planté d'arbres'
+e;66635;'Éthiopie';1;56
+e;80589;'carrousel';1;56
+e;214525;'cirque>28216';1;10;'cirque>romain'
+e;157227;'Ethiopie';1;112
+e;2459506;'Kénya';1;0
+e;419011;'Kongo';1;50
+e;57876;'Ouganda';1;68
+e;132184;'Congo';1;3188
+e;153515;'continent africain';1;58
+e;100424;'soute';1;130
+e;262485;'cage>71539>148125';1;2;'cage>animaux>fauves'
+e;107150;'bateau';1;5823
+e;106608;'extérieur';1;2744
+e;228797;'parc>205065';1;30;'parc>parc naturel'
+e;9536;'dehors';1;3074
+e;42313;'Asie';1;3225
+e;55072;'bush';1;56
+e;5955;'parc';1;3400
+e;143607;'nature';1;3628
+e;76491;'muséum';1;90
+e;262480;'cage>71539';1;38;'cage>animaux'
+e;40833;'Kenya';1;1675
+e;80372;'brousse';1;114
+e;214526;'cirque>11080943';1;102;'cirque>spectacle itinérant'
+e;64292;'ménagerie';1;146
+e;146632;'forêt';1;4583
+e;674336;'sauvage>171869';1;0;'sauvage>Adj:'
+e;10314012;'en:heterotroph';1;0
+e;22262;'solitaire';1;1763
+e;154501;'dangeureux';1;54
+e;264592;'prêt à bondir';1;50
+e;599254;'carnassier>171869';1;0;'carnassier>Adj:'
+e;317213;'carnivore>178691';1;44;'carnivore>régime alimentaire'
+e;60813;'maté';1;70
+e;3187390;'matté';1;0
+e;38155;'piégé';1;54
+e;2033727;'fui';2;0
+e;19197;'chassé';1;84
+e;6805;'en vue';1;50
+e;14946721;'en:tenant';1;0
+e;237771;'sauvage>129068';1;22;'sauvage>indompté'
+e;1384;'vivant';1;3307
+e;133424;'endotherme';1;50
+e;122864;'mort';1;7245
+e;4652;'agressif';1;226
+e;222843;'solitaire>25090';1;82;'solitaire>seul'
+e;99220;'hétérotrophe';1;68
+e;436343;'carnassier>48855';1;60;'carnassier>carnivore'
+e;80102;'tenant';1;2199
+e;330215;'bilatéralement symétrique';1;22
+e;154771;'d'or';1;1134
+e;88269;'apprivoisé';1;112
+e;15647978;'de gueules';1;0
+e;44575;'vieux';1;3284
+e;155378;'de sable';1;50
+e;44672;'lampassé';1;50
+e;210609;'d'azur';1;50
+e;220341;'fauve>146628';1;52;'fauve>ocre'
+e;48510;'dangereux';1;2359
+e;14916413;'Langue:français';18;50
+e;7332979;'Langue:anglais';18;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;2578964;'Langage:vieilli';18;0
+e;229001;'tigre>82231';1;84;'tigre>félidé'
+e;23784;'chat sauvage';1;264
+e;163208;'léonine';1;50
+e;73827;'voler';1;3095
+e;213856;'voler>58321';1;176;'voler>malhonnêteté'
+e;213857;'voler>167847';1;278;'voler>déplacement aérien'
+e;49560;'cracher';1;240
+e;122483;'se plaindre';1;336
+e;100551;'briller';1;402
+e;17562667;'::>13:86756>29:84479';8;0;'vivre dans [sujet] lion'
+e;7943;'tuer';1;4408
+e;43601;'se reproduire';1;502
+e;54764;'grogner';1;230
+e;53335;'dépecer';1;86
+e;124600;'mourir';1;2755
+e;140318;'parler';1;4469
+e;251694;'mourir>126720';1;238;'mourir>cesser de vivre'
+e;259820;'vivre>160251';1;78;'vivre>être en vie'
+e;163297;'faire ses griffes';1;56
+e;47918;'boire';1;4566
+e;2045;'uriner';1;438
+e;55001;'ronronner';1;396
+e;33882;'se nourrir';1;436
+e;47540;'miauler';1;430
+e;327073;'::>14:140100>29:21149';8;50;'dévorer [objet] viande'
+e;327021;'::>14:20965>29:21149';8;50;'dévorer [objet] nourriture'
+e;327581;'::>14:116477>29:87221';8;50;'griffer [objet] personne'
+e;327122;'::>16:147184>29:130164';8;50;'manger [avec] dents'
+e;326697;'::>14:8994>29:101484';8;50;'renifler [objet] piste'
+e;326611;'::>13:86756>29:21149';8;50;'dévorer [sujet] lion'
+e;326609;'::>13:86756>29:36548';8;50;'rugir [sujet] lion'
+e;138261;'bâiller';1;72
+e;224422;'manger>113902>119570';1;206;'manger>alimentation>absorber'
+e;195297;'::>14:140100>29:21149>13';9;50;'Qui pourrait dévorer une viande ?'
+e;239950;'mordre>135544';1;72;'mordre>morsure'
+e;64513;'mordre';1;604
+e;157899;'::>16:147184>29:130164>13';9;50;'Qui pourrait manger avec des dents ?'
+e;62985;'déchiqueter';1;118
+e;156803;'::>14:8994>29:101484>13';9;50;'Qui pourrait renifler une piste ?'
+e;164381;'::>14:20965>29:21149>13';9;50;'Qui pourrait dévorer une nourriture ?'
+e;165042;'::>14:140100>29:130164>13';9;50;'Qui pourrait manger une viande ?'
+e;160098;'::>14:116477>29:87221>13';9;50;'Qui pourrait griffer une personne ?'
+e;88494;'engloutir';1;120
+e;242275;'semer la terreur';1;52
+e;233198;'boire>86872';1;100;'boire>se désaltérer'
+e;6681658;'manger>113902';1;138;'manger>alimentation'
+e;109702;'plaire';1;470
+e;131414;'se blesser';1;532
+e;313631;'se reproduire>15455';1;44;'se reproduire>procréer'
+e;2234;'copuler';1;236
+e;214796;'baiser>137831';1;614;'baiser>faire l'amour'
+e;216316;'aimer>37298';1;150;'aimer>amour'
+e;261247;'rugir>22264';1;52;'rugir>colère'
+e;318501;'grogner>3139';1;18;'grogner>mauvaise humeur'
+e;267578;'griffer>78020';1;64;'griffer>égratigner'
+e;32367;'se défendre';1;358
+e;154792;'sortir ses griffes';1;54
+e;3437748;'gueuler>38531';1;18;'gueuler>hurler'
+e;34954;'frapper';1;1985
+e;234146;'frapper>41417';1;96;'frapper>coup'
+e;27471;'se tromper';1;378
+e;247326;'dominer>126774';1;54;'dominer>surpasser'
+e;108977;'dominer';1;328
+e;137140;'l'emporter';1;64
+e;113338;'décliner';1;84
+e;8661;'tomber';1;2181
+e;51079;'fasciner';1;132
+e;288464;'fasciner>127216';1;54;'fasciner>charmer'
+e;219714;'draguer>108071';1;172;'draguer>séduire'
+e;85530;'se goinfrer';1;162
+e;321625;'briller>130071';1;80;'briller>exceller'
+e;15455;'procréer';1;192
+e;2371790;'naitre';1;2
+e;101459;'chuter';1;294
+e;108071;'séduire';1;1100
+e;102531;'gueuler';1;230
+e;12289049;'baiser>146882';1;0;'baiser>Ver:Inf'
+e;64325;'aimer';1;1642
+e;105814;'regarder';1;3656
+e;14326259;'::>13:86756>29:14338';8;0;'attaquer [sujet] lion'
+e;14388737;'::>13:86756>29:2442';8;0;'vivre [sujet] lion'
+e;14531505;'::>13:86756>29:130164';8;0;'manger [sujet] lion'
+e;16509056;'::>31:4920>29:14531507';8;0;'manger [objet] zèbre [endroit] savane'
+e;7048886;'en:prevail';1;0
+e;15192291;'en:see God';1;0
+e;15571197;'::>13:86756>29:155861';8;0;'manger de la viande [sujet] lion'
+e;15436582;'en:bare your claws';1;0
+e;15436583;'en:show your claws';1;0
+e;15436584;'montrer ses griffes';1;0
+e;15367758;'en:be upset';1;0
+e;15196792;'en:be offended';1;0
+e;15427368;'en:be hurt';1;0
+e;15427366;'en:hurt yourself';1;0
+e;2460331;'avoir bobo';1;0
+e;15083771;'en:copulate';1;0
+e;14922684;'en:have sex';1;0
+e;14948968;'en:mew';1;0
+e;15438074;'en:have a boo boo';1;0
+e;15438073;'en:have a hurt';1;0
+e;15196791;'mal le prendre';1;0
+e;15700593;'en:injure o.s.';1;0
+e;15699180;'en:do o.s. an injury';1;0
+e;15204717;'en:to do o.s. an injury';1;0
+e;15204716;'en:to injure o.s.';1;0
+e;15456592;'regretter [qch]';1;0
+e;15456593;'regretter d'avoir fait [qch]';1;0
+e;15763007;'regretter quelque chose';1;0
+e;15763010;'regretter d'avoir fait quelque chose';1;0
+e;15221446;'essuyer un affront';1;0
+e;15684297;'en:cause somebody sorrow';1;0
+e;15684296;'en:make somebody upset';1;0
+e;15519875;'en:make somebody sad';1;0
+e;15298025;'en:be sorry';1;0
+e;1733460;'avoir du chagrin';1;4
+e;15196095;'en:bump uglies';1;0
+e;15196094;'en:do the nasty';1;0
+e;15196093;'en:do the horizontal mambo jambo';1;0
+e;15196092;'en:do the hanky panky';1;0
+e;15196091;'en:rub nasties';1;0
+e;15196090;'frotter le lard ensemble';1;0
+e;15192290;'sacrifier à Vénus';1;0
+e;15196794;'en:take it the wrong way';1;0
+e;15196793;'en:take it wrong';1;0
+e;15278973;'regretter d'avoir fait qch';1;0
+e;15217354;'en:spread terror';1;0
+e;113764;'être désolé';1;56
+e;16076346;'::>13:86756>29:39652';8;0;'courser [sujet] lion'
+e;16076340;'::>13:86756>29:78768';8;0;'chasser [sujet] lion'
+e;16311121;'::>13:86756>29:24646';8;0;'attraper [sujet] lion'
+e;16311129;'::>13:86756>29:118970';8;0;'pourchasser [sujet] lion'
+e;15192292;'en:pray with the knees upward';1;0
+e;15197923;'en:to make love';1;0
+e;15435284;'en:take care of yourself';1;0
+e;15283943;'en:have the upper hand';1;0
+e;2486288;'prendre le relai';1;0
+e;8048;'avoir le dessus';1;66
+e;17505678;'::>31:4920>29:17505674';8;0;'chasser [objet] zèbre [endroit] savane'
+e;16589436;'::>16:148387>29:16589432';8;0;'mettre en pièces [objet] personnes [avec] griffes'
+e;17562664;'::>14:4920>29:84479';8;0;'vivre dans [objet] savane'
+e;10436636;'::>14:36294>29:21149';8;0;'dévorer [objet] herbivore'
+e;16076355;'::>31:4920>29:16076348';8;0;'courser [objet] zèbre [endroit] savane'
+e;16594372;'::>31:4920>29:16591111';8;0;'dévorer [objet] antilope [endroit] savane'
+e;245869;'dévorer>130164';1;48;'dévorer>manger'
+e;17505674;'::>14:137390>29:78768';8;0;'chasser [objet] zèbre'
+e;139304;'s'accoupler';1;164
+e;62933;'bondir';1;156
+e;14326261;'::>14:137390>29:14338';8;0;'attaquer [objet] zèbre'
+e;14326263;'::>31:4920>29:14338';8;0;'attaquer [endroit] savane'
+e;14531507;'::>14:137390>29:130164';8;0;'manger [objet] zèbre'
+e;16076342;'::>31:4920>29:78768';8;0;'chasser [endroit] savane'
+e;16076348;'::>14:137390>29:39652';8;0;'courser [objet] zèbre'
+e;16076350;'::>31:4920>29:39652';8;0;'courser [endroit] savane'
+e;16311123;'::>14:84441>29:24646';8;0;'attraper [objet] gazelle'
+e;16311131;'::>14:137390>29:118970';8;0;'pourchasser [objet] zèbre'
+e;16311134;'::>14:137390>29:24646';8;0;'attraper [objet] zèbre'
+e;327614;'::>14:140100>29:130164';8;50;'manger [objet] viande'
+e;16509052;'::>31:4920>29:130164';8;0;'manger [endroit] savane'
+e;14388734;'::>31:4920>29:2442';8;0;'vivre [endroit] savane'
+e;87221;'griffer';1;326
+e;14972427;'::>14:86046>29:21149';8;0;'dévorer [objet] proie'
+e;10436642;'::>14:137390>29:21149';8;0;'dévorer [objet] zèbre'
+e;16591111;'::>14:57553>29:21149';8;0;'dévorer [objet] antilope'
+e;16594368;'::>31:4920>29:21149';8;0;'dévorer [endroit] savane'
+e;43253;'dormir';1;6578
+e;329309;'::>16:73888>29:119162';8;50;'battre [avec] fouet'
+e;264745;'::>16:73888>29:119162>14';9;50;'Que pourrait-on battre avec un fouet ?'
+e;45620;'mater';1;334
+e;99453;'piéger';1;120
+e;16592923;'::>13:137390>29:29690';8;0;'fuir [sujet] zèbre'
+e;16592935;'::>31:4920>29:16592928';8;0;'fuir [objet] lion [endroit] savane'
+e;17562679;'::>13:225707>29:29690';8;0;'fuir [sujet] zèbre>quadrupède'
+e;29690;'fuir';1;1766
+e;16592928;'::>14:86756>29:29690';8;0;'fuir [objet] lion'
+e;102345;'plaisir';1;3741
+e;57221;'joie';1;3928
+e;37298;'amour';1;7157
+e;626;'peur';1;5423
+e;117663;'admiration';1;426
+e;103405;'indifférence';1;612
+e;91691;'surprise';1;2394
+e;28453;'bonheur';1;2804
+e;14330;'satisfaction';1;626
+e;254878;'_POL-NEG_PC';36;50
+e;248197;'_SEX_YES';36;50
+e;317324;'_POLIT_3PS';36;50
+e;248198;'_SEX_NO';36;50
+e;276096;'_INFO-WIKI-YES';36;50
+e;15991431;'_ANIME-YES';36;50
+e;15991432;'_ANIME-NO';36;50
+e;1912917;'_INFO-COUNTABLE-YES';36;0
+e;254877;'_POL-NEUTRE_PC';36;50
+e;223172;'_POL-NEG';36;50
+e;214534;'_INFO-MEANING-FIGURED';36;50
+e;162759;'_INFO-SEM-PLACE';36;504
+e;191741;'_INFO-VOC-COMMON';36;50
+e;162761;'_INFO-SEM-PERS';36;732
+e;250116;'_INFO-SEM-PERS-MASC';36;50
+e;217817;'_INFO-POLYSEMIC';36;50
+e;191669;'_INFO-SEM-LIVING-BEING';36;160
+e;163012;'_INFO-NO-MORE-QUESTION';36;6094
+e;2585996;'_INFO-CNRTL-YES';36;50
+e;162763;'_INFO-SEM-THING-CONCRETE';36;1238
+e;254876;'_POL-POS_PC';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;223173;'_POL-POS';36;50
+e;132884;'parturition';1;120
+e;21557;'mise au monde';1;82
+e;6890822;'en:birth';1;0
+e;15089026;'en:giving birth';1;0
+e;11104829;'mise-bas';777;0
+e;14953302;'en:parturition';1;0
+e;20733;'mise bas';1;96
+e;44224;'accouchement';1;674
+e;34030;'fécondation';1;548
+e;79042;'naissance';1;3600
+e;88491;'reproduction';1;2503
+e;160840;'::>13:86756>29:21149>14';9;50;'Qu'est-ce qu'un lion pourrait dévorer ?'
+e;156666;'::>13:86756>29:21149>16';9;50;'Avec quoi un lion pourrait dévorer ?'
+e;156664;'::>13:86756>29:36548>15';9;50;'Où un lion pourrait rugir ?'
+e;16601949;'::>66:86756>15:4920';8;0;'lion [lieu] savane'
+e;16601948;'::>66:86756>15:83208';8;0;'lion [lieu] cirque'
+e;16592929;'::>66:86756>26:29690';8;0;'lion [se faire] fuir'
+e;16591106;'::>66:86756>24:21149';8;0;'lion [peut] dévorer'
+e;244884;'::>66:86756>15:214526';8;50;'lion [lieu] cirque>spectacle itinérant'
+e;14326260;'::>66:86756>24:14338';8;0;'lion [peut] attaquer'
+e;14388738;'::>66:86756>24:2442';8;0;'lion [peut] vivre'
+e;14531506;'::>66:86756>24:130164';8;0;'lion [peut] manger'
+e;15571198;'::>66:86756>24:155861';8;0;'lion [peut] manger de la viande'
+e;16076347;'::>66:86756>24:39652';8;0;'lion [peut] courser'
+e;16076341;'::>66:86756>24:78768';8;0;'lion [peut] chasser'
+e;16311130;'::>66:86756>24:118970';8;0;'lion [peut] pourchasser'
+e;16311122;'::>66:86756>24:24646';8;0;'lion [peut] attraper'
+e;265792;'anisoptère';1;68
+e;213466;'chat>63235';1;646;'chat>mammifère'
+e;261738;'viande>20965';1;408;'viande>nourriture'
+e;36294;'herbivore';1;232
+e;94164;'buffle';1;90
+e;136055;'miel';1;1468
+e;74783;'orangé';1;93
+e;86711;'jaune';1;3502
+e;14189;'brun';1;2218
+e;132479;'marron';1;706
+e;75869;'roux';1;734
+e;15196;'blanc';1;4729
+e;145382;'orange';1;2231
+e;146628;'ocre';1;114
+e;240133;'ocre>40056';1;12;'ocre>couleur'
+e;8542;'beige';1;142
+e;140121;'cancer';1;2809
+e;678726;':r411224';10;0
+e;678727;':r168632';10;0
+e;678728;':r9077052';10;0
+e;678730;':r1939400';10;0
+e;678732;':r426143';10;0
+e;678733;':r411226';10;0
+e;678734;':r13572572';10;0
+e;678735;':r13515570';10;0
+e;678738;':r13261733';10;0
+e;678739;':r3024342';10;0
+e;678740;':r3022112';10;0
+e;678741;':r2854539';10;0
+e;678742;':r8945273';10;0
+e;678743;':r9919791';10;0
+e;678744;':r411223';10;0
+e;678745;':r411225';10;0
+e;678746;':r8945275';10;0
+e;678748;':r154707';10;0
+e;678749;':r423683';10;0
+e;678750;':r629610';10;0
+e;678751;':r262065';10;0
+e;678752;':r2784458';10;0
+e;678753;':r249310';10;0
+e;678754;':r253462';10;0
+e;678755;':r423681';10;0
+e;678756;':r2783657';10;0
+e;678757;':r2244194';10;0
+e;678758;':r255282';10;0
+e;678759;':r8841658';10;0
+e;678760;':r3102140';10;0
+e;678761;':r423682';10;0
+e;678762;':r403740';10;0
+e;678763;':r3111820';10;0
+e;678764;':r203834';10;0
+e;678765;':r203832';10;0
+e;678766;':r203831';10;0
+e;678768;':r2244189';10;0
+e;678769;':r2244193';10;0
+e;678770;':r13028868';10;0
+e;678771;':r13028870';10;0
+e;678772;':r13006780';10;0
+e;678773;':r2257036';10;0
+e;678774;':r203830';10;0
+e;678775;':r208502';10;0
+e;678776;':r2256940';10;0
+e;678777;':r255283';10;0
+e;678778;':r205382';10;0
+e;678779;':r1760991';10;0
+e;678780;':r1548314';10;0
+e;678782;':r8945581';10;0
+e;678783;':r8945579';10;0
+e;678784;':r2955541';10;0
+e;678785;':r2800632';10;0
+e;678786;':r2785784';10;0
+e;678787;':r14817754';10;0
+e;678788;':r14817487';10;0
+e;678789;':r2919552';10;0
+e;678790;':r3074010';10;0
+e;678791;':r3108785';10;0
+e;678792;':r3043902';10;0
+e;678793;':r2308047';10;0
+e;678794;':r2308048';10;0
+e;678795;':r2308049';10;0
+e;678796;':r2686742';10;0
+e;678797;':r8945584';10;0
+e;678798;':r14469731';10;0
+e;678799;':r14816531';10;0
+e;678800;':r14821635';10;0
+e;678801;':r2308050';10;0
+e;678803;':r2983666';10;0
+e;678804;':r8945577';10;0
+e;678805;':r3076228';10;0
+e;678806;':r3038193';10;0
+e;678807;':r3032875';10;0
+e;678808;':r2970911';10;0
+e;678809;':r2965861';10;0
+e;678810;':r2964628';10;0
+e;678811;':r2959563';10;0
+e;678812;':r2949563';10;0
+e;678813;':r2869691';10;0
+e;678815;':r2929053';10;0
+e;678816;':r2934413';10;0
+e;678817;':r8945578';10;0
+e;678818;':r8945993';10;0
+e;678819;':r8945586';10;0
+e;678820;':r8945580';10;0
+e;678821;':r8945585';10;0
+e;678822;':r8945587';10;0
+e;678823;':r11259489';10;0
+e;678824;':r2777859';10;0
+e;678826;':r2746314';10;0
+e;678827;':r2792437';10;0
+e;678828;':r2794574';10;0
+e;678830;':r2795366';10;0
+e;678831;':r2797938';10;0
+e;678832;':r2745240';10;0
+e;678833;':r2740421';10;0
+e;678834;':r2739399';10;0
+e;678835;':r2700306';10;0
+e;678836;':r428502';10;0
+e;678837;':r2641393';10;0
+e;678838;':r2657092';10;0
+e;678839;':r2676261';10;0
+e;678840;':r2697714';10;0
+e;678841;':r2720577';10;0
+e;678842;':r2734405';10;0
+e;678844;':r2816963';10;0
+e;678845;':r2821053';10;0
+e;678846;':r2162200';10;0
+e;678847;':r2162201';10;0
+e;678848;':r1774220';10;0
+e;678849;':r2878626';10;0
+e;678850;':r8945582';10;0
+e;678851;':r8945583';10;0
+e;678852;':r11687426';10;0
+e;678853;':r2635681';10;0
+e;678854;':r2740277';10;0
+e;678855;':r2867420';10;0
+e;678856;':r2831346';10;0
+e;678857;':r12000899';10;0
+e;678859;':r11688578';10;0
+e;678860;':r12997194';10;0
+e;678861;':r14712720';10;0
+e;678862;':r11827203';10;0
+e;678863;':r15871641';10;0
+e;678864;':r13701947';10;0
+e;8741154;':r174322588';10;0
+e;11301282;':r14846064';10;0
+e;11301287;':r289140771';10;0
+e;12600274;':r322820105';10;0
+e;15873441;':r413693976';10;0
+e;17557497;':r478491271';10;0
+e;678713;':r9907705';10;0
+e;678717;':r389017';10;0
+e;678858;':r11687179';10;0
+e;1394994;':r8868616';10;0
+e;8955897;':r193650371';10;0
+e;11137423;':r121142';10;0
+e;11301286;':r97054524';10;0
+e;678718;':r389016';10;0
+e;678729;':r168633';10;0
+e;8753208;':r177326132';10;0
+e;678736;':r204021';10;0
+e;678802;':r2984887';10;0
+e;15571206;':r3108782';10;0
+e;16532613;':r414100731';10;0
+e;9472607;':r213913444';10;0
+e;678690;':r10760297';10;0
+e;11254512;':r288424891';10;0
+e;15676172;':r402630112';10;0
+e;678691;':r9920971';10;0
+e;678714;':r154709';10;0
+e;7927881;':r105251685';10;0
+e;678693;':r8945266';10;0
+e;678692;':r10766651';10;0
+e;678829;':r2711715';10;0
+e;678694;':r168630';10;0
+e;5267702;':r98971833';10;0
+e;678695;':r8945271';10;0
+e;678697;':r8945272';10;0
+e;678696;':r10755008';10;0
+e;678698;':r8945274';10;0
+e;678699;':r2895461';10;0
+e;678700;':r12050419';10;0
+e;10683422;':r1868099';10;0
+e;10683424;':r30565859';10;0
+e;678814;':r2939555';10;0
+e;678737;':r2240032';10;0
+e;678747;':r249309';10;0
+e;678781;':r1760993';10;0
+e;678825;':r2761431';10;0
+e;678702;':r8945265';10;0
+e;678767;':r203833';10;0
+e;678843;':r2809264';10;0
+e;678701;':r11253630';10;0
+e;678703;':r8945270';10;0
+e;678731;':r1774221';10;0
+e;678704;':r10749710';10;0
+e;8955936;':r193650450';10;0
+e;678705;':r8945276';10;0
+e;15901338;':r414014327';10;0
+e;678706;':r14414085';10;0
+e;678707;':r11119001';10;0
+e;678716;':r1868101';10;0
+e;678708;':r11128471';10;0
+e;678710;':r11135175';10;0
+e;678709;':r11141793';10;0
+e;678711;':r11148414';10;0
+e;678712;':r10926962';10;0
+e;678720;':r8945269';10;0
+e;678721;':r13514610';10;0
+e;678715;':r154708';10;0
+e;678719;':r154710';10;0
+e;678722;':r8945268';10;0
+e;678723;':r13979282';10;0
+e;678724;':r14027917';10;0
+e;678725;':r168631';10;0
+e;14627467;':r371535037';10;0
+e;16346043;':r431607488';10;0
+e;16269167;':r77536018';10;0
+e;16269173;':r414194506';10;0
+e;1701931;':r28035434';10;0
+e;2926002;':r30475535';10;0
+e;3262929;':r2129214';10;0
+e;12285562;':r85597045';10;0
+e;16760861;':r437369664';10;0
+e;14978709;':r149051729';10;0
+e;16531708;':r434192446';10;0
+e;16535165;':r428403621';10;0
+e;16567361;':r428403769';10;0
+e;16575162;':r418921534';10;0
+e;16575211;':r418921691';10;0
+e;16942995;':r364567594';10;0
+e;17509584;':r477756824';10;0
+e;4365637;':r97339061';10;0
+e;446208;':r144407';10;50
+e;446326;':r119861';10;50
+e;14537041;':r368665175';10;0
+e;17512354;':r477756794';10;0
+e;17566186;':r478594917';10;0
+e;1877804;':r13099106';10;0
+e;15605829;':r399267220';10;0
+e;4349633;':r11033356';10;0
+e;10961832;':r382826';10;0
+e;16358506;':r431114672';10;0
+e;16260668;':r403909365';10;0
+e;4349632;':r10480819';10;0
+e;5271037;':r144301';10;0
+e;5271038;':r209710';10;0
+e;5251519;':r98053486';10;0
+e;5141355;':r9056733';10;0
+e;4349631;':r151653';10;0
+e;14629851;':r371535038';10;0
+e;5271036;':r105251684';10;0
+e;3884090;'dbnary:fra:__ws_2_lion__nom__1';444;0
+e;3898209;'dbnary:fra:__ws_6_lion__nom__1';444;0
+e;4007578;'dbnary:fra:__ws_1_lion__nom__1';444;0
+e;4021419;'dbnary:fra:__ws_5_lion__nom__1';444;0
+e;4045183;'dbnary:fra:__ws_8_lion__nom__1';444;0
+e;4144085;'dbnary:fra:__ws_4_lion__nom__1';444;0
+e;4167678;'dbnary:fra:__ws_7_lion__nom__1';444;0
+e;4267288;'dbnary:fra:__ws_3_lion__nom__1';444;0
+e;3381700;'bn:00722039n';444;0
+e;3381705;'bn:06519322n';444;0
+e;3381692;'bn:00050692n';444;0
+e;3381698;'bn:14728804n';444;0
+e;3381695;'bn:01320750n';444;0
+e;3381696;'bn:00332146n';444;0
+e;3381704;'bn:14083391n';444;0
+e;3228593;'wiki:@';444;0
+e;3381699;'bn:03973149n';444;0
+e;3381701;'bn:15819315n';444;0
+e;3381693;'bn:01715262n';444;0
+e;3381694;'bn:03294261n';444;0
+e;3381691;'bn:00049156n';444;0
+e;3381703;'bn:14161492n';444;0
+e;3381697;'bn:03336942n';444;0
+e;3381702;'bn:04701183n';444;0
+e;6149528;'umls:C0023756';444;0
+e;107689;'poilu';1;266
+e;131593;'méchant';1;1170
+e;39586;'Nestlé';1;106
+e;34157;'chocolat';1;3600
+e;142381;'barre';1;2480
+e;134684;'gaufrette';1;86
+e;38071;'fourré';1;76
+e;77137;'caramélisé';1;132
+e;249796;'rugir de plaisir';1;22
+e;14192683;'Sous-continent indien';777;0
+e;21130;'mai';1;3889
+e;14131048;'Liste des ducs de Bourgogne';777;0
+e;142143;'Écosse';1;2463
+e;14476118;'Histoire de la Terre';777;0
+e;435203;'Lyons';1;50
+e;1655792;'protonyme';1;2
+e;578655;'Livre Guinness des records';1;0
+e;411315;'Nutrition';1;50
+e;303987;'gnous';777;50
+e;1655998;'leucistisme';777;0
+e;403333;'Mouche';1;54
+e;317341;'histoire de la Terre';1;52
+e;140801;'Homo sapiens';1;56
+e;244621;'être humain>23559';1;52;'être humain>bonté'
+e;234035;'être vivant>2442';1;4;'être vivant>vivre'
+e;3170279;'individu>25345';1;8;'individu>quidam'
+e;396248;'individu>69012';1;50;'individu>statistique'
+e;396249;'individu>64226';1;54;'individu>administration'
+e;215760;'gueule>22488';1;50;'gueule>orifice'
+e;215757;'gueule>215754';1;8;'gueule>bouche humaine'
+e;215756;'gueule>145953';1;34;'gueule>visage'
+e;215759;'gueule>92662';1;50;'gueule>aspect'
+e;225846;'organisme>332175';1;54;'organisme>ensemble des organes'
+e;225849;'organisme>86627';1;50;'organisme>organisation'
+e;396250;'individu>35143';1;56;'individu>biologie'
+e;247023;'félin>80897';1;50;'félin>apparence'
+e;223203;'chimère>43286';1;50;'chimère>génétique'
+e;223204;'chimère>3674';1;54;'chimère>botanique'
+e;223205;'chimère>68467';1;62;'chimère>poisson'
+e;223206;'chimère>22786';1;86;'chimère>utopie'
+e;4308972;'cirque>29220';1;0;'cirque>exagération'
+e;214523;'cirque>92878';1;8;'cirque>géologie'
+e;214524;'cirque>142091';1;50;'cirque>chahut'
+e;229004;'tigre>12107';1;50;'tigre>danseuse'
+e;229003;'tigre>71926';1;14;'tigre>insecte'
+e;229002;'tigre>332216';1;50;'tigre>personne cruelle'
+e;225848;'organisme>118203';1;52;'organisme>corps humain'
+e;237441;'être>85728';1;12;'être>exister'
+e;237443;'être>37229';1;66;'être>se trouver'
+e;330963;'cordé>3674';1;50;'cordé>botanique'
+e;240368;'savane>16567';1;52;'savane>marécage'
+e;5326409;'fauve>48496';1;0;'fauve>sauvage'
+e;261768;'lionne>259367';1;56;'lionne>femme de caractère'
+e;3725850;'crinière>52746';1;0;'crinière>chevelure'
+e;3725851;'crinière>61490';1;0;'crinière>femme'
+e;3725852;'crinière>141473';1;0;'crinière>casque'
+e;220896;'glouton>88575';1;20;'glouton>goinfre'
+e;220897;'glouton>71721';1;50;'glouton>avide'
+e;220898;'glouton>13458';1;50;'glouton>algorithme'
+e;237444;'être>94160';1;62;'être>existence'
+e;320112;'grrr>3139';1;50;'grrr>mauvaise humeur'
+e;4345769;'fourmillon>140176';1;0;'fourmillon>oiseau'
+e;4345768;'fourmillon>146274';1;0;'fourmillon>marché'
+e;218027;'Vierge>73890';1;54;'Vierge>religion'
+e;218028;'Vierge>49289';1;50;'Vierge>constellation'
+e;233840;'ronronner>4658';1;50;'ronronner>moteur'
+e;233841;'ronronner>5435';1;50;'ronronner>ronfler'
+e;233842;'ronronner>14370';1;50;'ronronner>routine'
+e;261936;'ronronner>104193';1;50;'ronronner>contentement'
+e;220344;'fauve>35841';1;50;'fauve>peinture'
+e;143334;'Mammifères';1;52
+e;5892481;'lion de Ceylan';777;0
+e;10150;'apprivoiseur';1;50
+e;14180459;'Hélion de Villeneuve';777;0
+e;1945;'garzette';1;50
+e;2556;'aguets';1;50
+e;4430;'mouille';1;64
+e;6023;'chester';1;50
+e;7031;'décrépitude';1;68
+e;7723;'Regulus';1;50
+e;21769;'merlette';1;58
+e;31076;'Yvain';1;60
+e;16156521;'FELIN';777;0
+e;37149;'mithriacisme';1;50
+e;43680;'fermoir';1;88
+e;46189;'armorier';1;50
+e;110595;'trescheur';1;50
+e;118737;'péristase';1;50
+e;139932;'adextre';1;50
+e;147178;'cymaise';1;50
+e;419832;'arthurien';1;50
+e;2358363;'leche';1;0
+e;2530664;'serpenton imberbe';1;0
+e;2560016;'déglutitif';1;0
+e;2564478;'ecu';1;0
+e;3228730;'COeUR';1;0
+e;16900102;'Édouard Mortier';777;0
+e;17120386;'Lion Capital LLP';777;0
+e;217622;'SINGE';1;50
+e;273828;'felin';777;50
+e;267324;'Galatasaray';666;50
+e;144565;'sable';1;2772
+e;10811;'blasonnement';1;54
+e;105872;'éléphant';1;880
+e;227408;'Mufasa';666;50
+e;274277;'Parent femelle de l'hybridation';777;50
+e;7460;'rets';1;54
+e;14485;'castration';1;114
+e;32222;'homochromie';1;54
+e;148727;'isopet';1;50
+e;73692;'cirques';1;50
+e;266615;'signe>74579';1;16;'signe>astrologie'
+e;24196;'sex-appeal';1;92
+e;5892432;'Panthera leo melanochaitus';777;0
+e;15781381;'vrai métazoaire';1;0
+e;276607;'Grand Évangéliaire de saint Colomban';777;50
+e;213303;'Safari';666;50
+e;213937;'Avatar';666;56
+e;11479698;'Lion de Ceylan';777;0
+e;15070653;'en:stargazing';1;0
+e;14959450;'en:king of beasts';1;0
+e;14926132;'en:power';1;0
+e;15060687;'en:hardiness';1;0
+e;14935506;'en:stamina';1;0
+e;14938867;'en:vigour';1;0
+e;15201065;'en:be full of pep';1;0
+e;15201066;'en:be full of energy';1;0
+e;15201067;'en:be aggressive';1;0
+e;15201068;'en:be bent on fighting';1;0
+e;15201069;'en:be in great shape';1;0
+e;15201070;'en:be full of beans';1;0
+e;15080160;'en:animalia';1;0
+e;320312;'Tigre à dents de sabre';666;50
+e;1374086;'na'vi';666;0
+e;15214359;'en:big cats';1;0
+e;16574523;'en:tilt at something';1;0
+e;16574522;'en:do battle with something';1;0
+e;15762438;'en:hunt somebody down';1;0
+e;7053316;'en:metazoa';1;0
+e;14171748;'arène>144565';1;0;'arène>sable'
+e;16056252;'rech';1;0
+e;15096;'griffon';1;68
+e;2376209;'lionné';1;0
+e;461963;'Nuka';1;50
+e;5892475;'Panthera spelaea fossilis';777;0
+e;14931079;'en:mane';1;0
+e;215204;'sphinx>167565';1;50;'sphinx>mythologie égyptienne'
+e;15099972;'en:ringmaster';1;0
+e;397564;'pachydermes';1;50
+e;229276;'rhinoceros';666;50
+e;236557;'Belette';666;50
+e;15216195;'en:astromancy';1;0
+e;14326262;'::>66:137390>26:14338';8;0;'zèbre [se faire] attaquer'
+e;14326264;'::>66:4920>30:14338';8;0;'savane [lieu pour] attaquer'
+e;14388735;'::>66:4920>30:2442';8;0;'savane [lieu pour] vivre'
+e;14531508;'::>66:137390>26:130164';8;0;'zèbre [se faire] manger'
+e;12563;'reine';1;3404
+e;5892470;'Lion de l'Atlas';777;0
+e;14171758;'arène>144565>34654';1;0;'arène>sable>amphithéâtre'
+e;15472509;'en:mane>14946566';1;0;'en:mane>en:lion'
+e;14510601;'::>66:140100>26:130164';8;0;'viande [se faire] manger'
+e;16076343;'::>66:4920>30:78768';8;0;'savane [lieu pour] chasser'
+e;16076349;'::>66:137390>26:39652';8;0;'zèbre [se faire] courser'
+e;16076351;'::>66:4920>30:39652';8;0;'savane [lieu pour] courser'
+e;16076354;'::>66:16076353>15:4920';8;0;'lion [peut] courser [objet] zèbre [lieu] savane'
+e;16311124;'::>66:84441>26:24646';8;0;'gazelle [se faire] attraper'
+e;16311132;'::>66:137390>26:118970';8;0;'zèbre [se faire] pourchasser'
+e;16311135;'::>66:137390>26:24646';8;0;'zèbre [se faire] attraper'
+e;16509053;'::>66:4920>30:130164';8;0;'savane [lieu pour] manger'
+e;16509055;'::>66:14531509>15:4920';8;0;'lion [peut] manger [objet] zèbre [lieu] savane'
+e;14972428;'::>66:86046>26:21149';8;0;'proie [se faire] dévorer'
+e;16591109;'::>66:137390>26:21149';8;0;'zèbre [se faire] dévorer'
+e;16591112;'::>66:57553>26:21149';8;0;'antilope [se faire] dévorer'
+e;16592934;'::>66:16592930>15:4920';8;0;'zèbre [peut] fuir [objet] lion [lieu] savane'
+e;16594369;'::>66:4920>30:21149';8;0;'savane [lieu pour] dévorer'
+e;16594371;'::>66:16591113>15:4920';8;0;'lion [peut] dévorer [objet] antilope [lieu] savane'
+e;17505675;'::>66:137390>26:78768';8;0;'zèbre [se faire] chasser'
+e;17505677;'::>66:17505676>15:4920';8;0;'lion [peut] chasser [objet] zèbre [lieu] savane'
+e;17562668;'::>66:86756>24:84479';8;0;'lion [peut] vivre dans'
+e;17562665;'::>66:4920>26:84479';8;0;'savane [se faire] vivre dans'
+e;5299;'afrique';1;169
+e;22842;'hyène';1;126
+e;16035756;'le roi des animaux';1;0
+e;151534;'grands félins';1;50
+e;227396;'ligron';666;50
+e;234908;'os hyoïde';1;50
+e;236208;'donner en pâture';1;54
+e;247096;'meuble héraldique';1;2
+e;3245053;'os de la langue';1;0
+e;15201337;'en:lingual bone';1;0
+e;8517061;'en:astrology';1;0
+e;15101325;'en:os hyoideum';1;0
+e;10936;'glouton';1;102
+e;461395;'Leontopithecus';777;50
+e;320113;'grrr>17559';1;50;'grrr>animal'
+e;2068086;'lionnes';2;0
+e;3154801;'an:4455:27154:?:152973';12;50
+e;3154819;'an:?:71539:139655:136785';12;50
+e;6986708;'en:astronomy';1;0
+e;15201059;'en:lion's cage';1;0
+e;115477;'chimère';1;200
+e;162714;'cage aux lions';1;56
+e;6948239;'en:leontopithecus';1;0
+e;11479690;'Lion des cavernes européen';777;0
+e;11479692;'Lion des cavernes primitif';777;0
+e;6384052;'tamarins lion doré';1;0
+e;461394;'singes-lions';777;50
+e;291738;'tamarins-lions';777;50
+e;14961101;'en:serval';1;0
+e;33142;'horoscope';1;476
+e;243277;'lioncelle';1;50
+e;14326267;'::>66:14326266>15:4920';8;0;'lion [peut] attaquer [objet] zèbre [lieu] savane'
+e;2434893;'lionçonne';1;0
+e;6737046;'fauve>17559';1;50;'fauve>animal'
+e;155709;'monsieur loyal';1;52
+e;15297477;'en:Ringmaster';1;0
+e;14946122;'en:Leo';1;0
+e;47097;'gladiateurs';1;70
+e;252342;'animaux de cirque';1;4
+e;246740;'::>66:115352>17:4598';8;50;'griffe [carac] rétractile'
+e;248625;'art du cirque';1;50
+e;223202;'chimère>214369';1;52;'chimère>animal imaginaire'
+e;13730808;'bêtes fauves';1;0
+e;14593925;'espèce carnivore';1;2
+e;12079870;'ménagerie de cirque';1;0
+e;11834641;'compagnon de cirque';1;0
+e;5334014;'tigre birman';1;0
+e;47200;'serval';1;56
+e;2432772;'fourmillon';1;0
+e;24498;'Vierge';1;2441
+e;384137;'tour de jongleur';1;50
+e;2949643;'le Lion';777;0
+e;212540;'Chat botté';666;50
+e;43485;'dresser';1;274
+e;318500;'grogner>17559';1;8;'grogner>animal'
+e;385;'carcajou';1;52
+e;2586041;'gulo gulo';1;0
+e;103166;'prédation';1;86
+e;998;'indomptable';1;90
+e;84920;'Kalki';1;50
+e;235792;'smilodon';1;50
+e;162197;'les animaux';1;50
+e;155380;'Henri Salvador';1;8
+e;133844;'zoologue';1;68
+e;187108;'grrr';1;74
+e;233839;'ronronner>150';1;28;'ronronner>chat'
+e;14926288;'en:carcajou';1;0
+e;15101674;'en:safari park';1;0
+e;220899;'glouton>63235';1;4;'glouton>mammifère'
+e;256184;'artiste du cirque';1;50
+e;263275;'aller au cirque';1;50
+e;260485;'tué par balles';1;50
+e;2849067;'régime carnivore';1;42
+e;45393;'bête sauvage';1;68
+e;40382;'Out of Africa';1;102
+e;3157486;'an:90199:4455:36548:?';12;50
+e;53957;'safari';1;116
+e;160633;'arêne';1;52
+e;83769;'gémeaux';1;434
+e;220343;'fauve>17559>152973';1;20;'fauve>animal>animal sauvage'
+e;15076353;'en:safari';1;0
+e;14953246;'en:lion's share';1;0
+e;14954972;'en:dandelion';1;0
+e;311429;'premiers chrétiens';1;50
+e;1125;'loup';1;2125
+e;154858;'monsieur Loyal';1;60
+e;203996;'Monsieur Loyal';1;58
+e;101628;'zodiacal';1;236
+e;379719;'signe zodiacal';1;50
+e;16324757;'Signe zodiacal';777;0
+e;39186;'dompter';1;232
+e;172636;'wolvérène';1;50
+e;176043;'wolverène';1;50
+e;223031;'éléphants';1;52
+e;6912679;'en:elephants';1;0
+e;232580;'animal errant';1;10
+e;15413427;'en:wild beast';1;0
+e;15430431;'en:astrological sign';1;0
+e;11392704;'Lion's Roar';777;0
+e;15430422;'en:zodiac sign';1;0
+e;15421446;'en:help yourself to the lion's share';1;0
+e;15421447;'en:claim the lion's share';1;0
+e;15324405;'en:animal park';1;0
+e;152662;'leopard';1;50
+e;15421445;'en:take the lion's share';1;0
+e;15221537;'en:wildlife park';1;0
+e;14919905;'en:wild animal';1;0
+e;15413415;'animal en liberté';1;0
+e;15413421;'en:feral animal';1;0
+e;15413422;'en:free animal';1;0
+e;15413416;'en:unrestrained animal';1;0
+e;15413417;'en:free-range animal';1;0
+e;15413418;'en:free-ranging animal';1;0
+e;15413419;'en:animal that is free to roam';1;0
+e;15413420;'en:stray animal';1;0
+e;4345767;'fourmillon>71926';1;0;'fourmillon>insecte'
+e;133517;'fourmilion';1;50
+e;13400872;'Lion de mer';777;0
+e;91111;'verseau';1;454
+e;2481238;'ligre';1;0
+e;15077582;'en:star sign';1;0
+e;379675;'signe astral';1;50
+e;6947719;'en:sea lion';1;0
+e;218029;'Vierge>74579';1;48;'Vierge>astrologie'
+e;15077581;'en:sign of the zodiac';1;0
+e;15687951;'Parc animalier';777;0
+e;105554;'parc animalier';1;80
+e;175316;'Chat sauvage';1;50
+e;2473794;'jube';1;0
+e;9157254;'en:leopard';1;0
+e;37226;'sagittaire';1;494
+e;14170047;'Lion de Némée';777;0
+e;291089;'colonne zoophorique';777;50
+e;13664910;'Colonne zoophorique';777;0
+e;16308493;'Lion de Barbarie';777;0
+e;5892471;'Lion de barbarie';777;0
+e;215133;'griffe>140565';1;50;'griffe>style'
+e;139360;'serre';1;681
+e;52119;'langue';1;4914
+e;390958;'patte arrière';1;50
+e;15088586;'en:systema nervosum';1;0
+e;6800353;'en:nervous system';1;0
+e;159328;'::>14:143613>29:54271>13';9;50;'Qui pourrait ouvrir une porte ?'
+e;89602;'terrer';1;90
+e;262246;'se raser>140894';1;68;'se raser>s'ennuyer'
+e;15434573;'en:hold down the fort';1;0
+e;15283944;'en:get the upper hand';1;0
+e;15560554;'en:rule the roost';1;0
+e;15451041;'en:be in charge';1;0
+e;140547;'s'impatroniser';1;50
+e;15343309;'prendre la relève';1;0
+e;15433841;'en:be demanding';1;0
+e;15408807;'prendre de la place';1;0
+e;15571584;'en:assume responsibility in another's absence';1;0
+e;15571583;'en:take responsibility for someone';1;0
+e;15571585;'en:cover for someone';1;0
+e;15434571;'garder la boutique';1;0
+e;14917458;'en:take over';1;0
+e;2554086;'prendre le relais';1;0
+e;15291978;'en:give a spring';1;0
+e;15291979;'en:pounce at';1;0
+e;14938813;'en:pounce';1;0
+e;136949;'s'affliger';1;52
+e;15305004;'en:to have the upper hand';1;0
+e;15305005;'en:to prevail';1;0
+e;15105489;'en:caterwaul';1;0
+e;14948969;'en:miaow';1;0
+e;15061230;'en:meow';1;0
+e;14966311;'en:wail';1;0
+e;229068;'en avoir gros sur le coeur';1;4
+e;90669;'se désoler';1;62
+e;15348840;'en:be sad';1;0
+e;15538772;'excuser quelqu'un';1;0
+e;15449742;'excuser [qqn]';1;0
+e;15763009;'en:regret doing something';1;0
+e;14159777;'avoir des rapports sexuels';1;0
+e;255697;'avoir des relations sexuelles';1;50
+e;15702391;'en:suffer an indignity';1;0
+e;15221448;'en:to suffer an indignity';1;0
+e;5692;'baiser';1;2724
+e;72599;'draguer';1;598
+e;137831;'faire l'amour';1;1962
+e;154082;'matter';1;50
+e;14921618;'en:catch';1;0
+e;14921732;'en:capture';1;0
+e;14954696;'en:booby-trap';1;0
+e;215134;'griffe>143180';1;16;'griffe>marque'
+e;215136;'griffe>30843';1;4;'griffe>outil'
+e;674335;'sauvage>171870';1;0;'sauvage>Nom:'
+e;14606397;'organisme hétérotrophe';1;2
+e;10901650;'république démocratique du Congo';777;0
+e;15231038;'en:nature reserve';1;0
+e;205065;'parc naturel';1;94
+e;16851379;'en:animal delivery';1;0
+e;61525;'tigron';1;164
+e;55663;'Peugeot';1;1946
+e;175311;'chaméléon';1;52
+e;153441;'ours blanc';1;116
+e;212268;'Indiana Jones';1;6
+e;214815;'Le Maître chat ou le Chat botté';1;2
+e;27131;'Tarzan';1;168
+e;142978;'Pégase';1;56
+e;50996;'caméléon';1;68
+e;105625;'Alexandre';1;3441
+e;119820;'Singapour';1;1503
+e;272133;'République de Singapour';777;50
+e;166708;'Alias';1;50
+e;46994;'origine';1;3078
+e;272716;'Genre';777;3164
+e;128270;'dessinateur';1;2717
+e;272363;'créé par';777;50
+e;116226;'Alexandre le Grand';1;140
+e;188145;'Alexandre le grand';1;50
+e;5891;'fable';1;472
+e;118027;'hybride';1;130
+e;234918;'os lingual';1;50
+e;217399;'place Saint-Marc';1;24
+e;176106;'classification classique';1;50
+e;183380;'nom binominal';1;50
+e;275276;'nom binomial';777;50
+e;88213;'binôme';1;68
+e;275277;'nom générique';777;52
+e;275278;'épithète spécifique';777;50
+e;175799;'nom scientifique';1;8
+e;99475;'aquamanile';1;50
+e;275349;'mammifere';777;50
+e;276150;'Ursus maritimus';777;50
+e;160502;'ours polaire';1;114
+e;168259;'léopard des mers';1;50
+e;272186;'En danger';777;50
+e;826;'Livre de Kells';1;50
+e;86784;'Norodom';1;50
+e;1800;'Norodom Sihanouk';1;60
+e;155720;'fables';1;104
+e;2610;'Fables';1;50
+e;4223;'Narasimha';1;50
+e;6441;'infanticide';1;72
+e;54657;'mimétisme';1;80
+e;6729;'mimétique';1;66
+e;278809;'domestication du chien';777;50
+e;271433;'chien domestique';1;50
+e;278846;'Bubalina';777;50
+e;38759;'Bubalus bubalus';1;50
+e;154339;'pleine lune';1;266
+e;70124;'Uttar Pradesh';1;50
+e;280744;'prédateur alpha';777;50
+e;280745;'apex prédateur';777;50
+e;280746;'alpha prédateur';777;50
+e;191427;'dogue du Tibet';1;50
+e;281396;'mastiff du Tibet';777;50
+e;175318;'chat serval';1;2
+e;273800;'quasi menacé';777;50
+e;98919;'jaguar';1;236
+e;281714;'panthera onca';777;50
+e;49901;'Parzival';1;50
+e;282419;'La Comédie';777;50
+e;16341;'La Divine Comédie';1;50
+e;49844;'émasculation';1;68
+e;283087;'masculation';777;50
+e;138355;'la Divine Comédie';1;50
+e;107252;'anthropomorphisme';1;62
+e;61062;'anthropomorphique';1;56
+e;283981;'espèce disparue';1;50
+e;285022;'Chamaeleonidae';777;50
+e;80401;'caméléons';1;50
+e;52218;'bufflonne';1;92
+e;69283;'apôtre';1;389
+e;52849;'apostolicité';1;50
+e;285274;'apostolicit';777;50
+e;175284;'Carnivora';1;50
+e;159122;'Côte d'Ivoire';1;110
+e;286731;'République de Côte d'Ivoire';777;50
+e;142441;'Bath';1;54
+e;287671;'leu roumain';777;50
+e;287672;'lei';777;50
+e;288281;'gestion restauratoire';777;50
+e;76325;'néodarwinisme';1;52
+e;288468;'synthèse néodarwinienne';777;50
+e;243718;'Le chat botté';1;52
+e;125188;'apostolique';1;817
+e;102347;'ratel';1;50
+e;290100;'zorille du Cap';777;50
+e;290101;'Mellivora capensis';777;50
+e;189081;'Lorenzo Lotto';1;50
+e;159297;'chat botté';1;88
+e;145810;'Lionne';1;50
+e;96177;'Beaulieu-sur-Mer';1;50
+e;32134;'Ctésias';1;50
+e;197744;'coloration cryptique';1;50
+e;290903;'Panthera tigris';777;50
+e;169535;'Bès';1;50
+e;220997;'Alexandre III de Macédoine';1;54
+e;115899;'Oran';1;72
+e;70038;'mithraïsme';1;50
+e;291402;'culte de';777;50
+e;62373;'Samson';1;72
+e;291861;'Chimchon';777;50
+e;153564;'abracadabrantesque';1;52
+e;93920;'tigresse';1;324
+e;225668;'Bisounours';1;16
+e;266283;'Calinours';1;4
+e;11559;'évangélistes';1;50
+e;12335;'Meyzieu';1;50
+e;293776;'Kültepe';777;50
+e;26753;'Kanesh';1;50
+e;293777;'Nesha';777;50
+e;12982;'Nesa';1;50
+e;15935;'ivoirien';1;74
+e;18291;'Saint-Jérôme';1;50
+e;295468;'Owein';777;50
+e;295469;'Ewain';777;50
+e;44104;'liard';1;50
+e;48137;'La France';1;50
+e;49474;'holocène';1;50
+e;59528;'Lyons-la-Forêt';1;50
+e;219395;'Pañchatantra';1;50
+e;60895;'sitatunga';1;50
+e;297723;'Tragelaphus spekii';777;50
+e;141467;'guib d'eau';1;50
+e;69798;'néo-darwinisme';1;52
+e;298547;'dik-diks';777;50
+e;141329;'Madoqua';1;50
+e;73913;'tarasque';1;50
+e;76731;'Aurès';1;52
+e;78463;'camouflage';1;102
+e;299856;'Simhagîri';777;50
+e;85719;'Sigiriya';1;50
+e;87429;'monohybridisme';1;52
+e;87908;'anthropomorphe';1;62
+e;89556;'pissenlit';1;66
+e;90462;'hyoïde';1;50
+e;91421;'chicard';1;50
+e;300340;'Personnages du Disque-monde';777;50
+e;92703;'singapourien';1;50
+e;300449;'mascottes dans la Ligue nationale de hockey';777;50
+e;92831;'badaboum';1;50
+e;95402;'anatomie comparée';1;52
+e;95672;'Font-de-Gaume';1;50
+e;300669;'Grotte de Font-de-Gaume';777;50
+e;95797;'Périclès';1;54
+e;97744;'bufflesse';1;50
+e;302086;'cobe à croissant';777;50
+e;302087;'Kobus ellipsiprymnus';777;50
+e;112772;'waterbuck';1;50
+e;152914;'Cirque';1;52
+e;154807;'éléphant d'Asie';1;64
+e;124816;'chop suey';1;60
+e;129557;'dihybridisme';1;52
+e;130656;'Chat Botté';1;50
+e;146022;'sarcophage d'Alexandre';1;50
+e;175687;'léopard de mer';1;50
+e;125767;'once';1;68
+e;188165;'Hans Christian Andersen';1;174
+e;197619;'classification linnéenne';1;50
+e;159195;'apôtres';1;82
+e;191798;'ivoire Barberini';1;50
+e;235543;'bison des steppes';1;50
+e;308867;'Bison priscus';777;50
+e;242281;'Samuel Vimaire';1;2
+e;242965;'bisounours';1;10
+e;310948;'smilodons';777;50
+e;235793;'tigre à dents de sabre';1;50
+e;249292;'Le Chat botté';1;50
+e;263858;'mimétisme mullérien';1;4
+e;263860;'mimétisme batésien';1;2
+e;273388;'Domicile';777;50
+e;273389;'Extérieur';777;50
+e;7574;'autre';1;3832
+e;312720;'Olympique lyonnais';777;50
+e;313962;'flehmen';1;50
+e;217582;'La Belle et la Bête';1;16
+e;390742;'mammalofaune';1;50
+e;390744;'mammofaune';1;50
+e;364342;'miniature persane';1;50
+e;366523;'nomenclature binominale';1;50
+e;366492;'nom spécifique';1;50
+e;568064;'Mycobacterium bovis';777;50
+e;385286;'tuberculose bovine';1;50
+e;401314;'pissenlits';1;50
+e;401935;'Holocène';1;50
+e;406454;'Marbourg';1;50
+e;88910;'Vasa';1;50
+e;393310;'Wasa';1;52
+e;411886;'Apôtre';1;50
+e;109931;'castré';1;88
+e;428109;'Manticore';1;50
+e;429088;'Tarasque';1;50
+e;429260;'Panthères';1;50
+e;429981;'Évangélistes';1;50
+e;431121;'Haydar';1;50
+e;431452;'Arslan';1;50
+e;431719;'Fable';1;50
+e;433268;'Sihanouk';1;50
+e;435763;'Péricles';1;50
+e;60887;'Panchatantra';1;50
+e;578034;'Yvian';777;0
+e;72150;'Hécate';1;50
+e;580363;'La Dame à la licorne';777;0
+e;28384;'Dame à la licorne';1;50
+e;138215;'Comédie';1;1743
+e;134528;'Divine Comédie';1;66
+e;144590;'Carnivores';1;50
+e;167055;'Les Bisounours';1;50
+e;115217;'Roman de Renart';1;54
+e;135981;'Ysengrin';1;86
+e;254483;'attirance sexuelle';1;8
+e;593512;'Leptailurus serval';777;0
+e;238098;'Phileas Fogg';1;4
+e;71038;'Pantherinae';1;50
+e;246329;'gros chat';1;24
+e;374153;'préoccupation mineure';1;50
+e;191525;'shih tzu';1;50
+e;759776;'chien de Rhodésie à crête dorsale';777;0
+e;191505;'rhodesian ridgeback';1;50
+e;961171;'Panthera tigris sondaica';777;0
+e;41199;'boulin';1;50
+e;282919;'trou de boulin';777;50
+e;567499;'peinture animalière';777;50
+e;369488;'peintre animalier';1;54
+e;56302;'Madagascar';1;2705
+e;593513;'Leptailurus';1;0
+e;1373283;'wahran';777;0
+e;570897;'marmottes';777;50
+e;414944;'Marmota';1;50
+e;228808;'Renart';1;4
+e;161048;'la belle et la bête';1;56
+e;1538429;'La Jungle en folie';1;6
+e;128970;'Tintin au Congo';1;78
+e;1568972;'Grand Évangéliaire de saint Colomba';777;0
+e;1637810;'nomenclature binomiale';1;0
+e;1654231;'aures';1;0
+e;1657019;'plaine africaine';1;0
+e;138088;'Marquis';1;228
+e;1666733;'Stephanus Johannes Paulus';777;0
+e;101172;'Paul';1;3772
+e;1671576;'vie apostolique';1;0
+e;1681550;'forêt hercynienne';1;0
+e;1681551;'forêt d'Orcynie';777;0
+e;1681552;'Orcynie';1;0
+e;578425;'Herbe-aux-chats';777;0
+e;221812;'herbe aux chats';1;52
+e;276222;'marmota';777;50
+e;158935;'herbe à chat';1;78
+e;145548;'Léviathan';1;54
+e;189057;'Le Léviathan';1;50
+e;1839121;'monohybride';1;0
+e;1849214;'binôme linnéen';1;0
+e;1858512;'homochromes';777;0
+e;1898418;'wahren';777;0
+e;125233;'dik-dik';1;50
+e;1902760;'archipel des Comores';1;0
+e;1932347;'noms scientifiques';1;0
+e;298009;'Panthérinés';777;50
+e;2073990;'panthères';2;0
+e;2389186;'Mauléon-Barousse';1;0
+e;2395307;'manticore';1;0
+e;2397039;'antilope sing-sing';1;0
+e;2402631;'blaireau puant';1;0
+e;2405398;'homochrome';1;0
+e;2449110;'boerboel';1;0
+e;2410183;'Vielverge';1;0
+e;2413342;'classification traditionnelle';1;0
+e;2419324;'Sturzelbronn';1;0
+e;2432863;'tétramorphe';1;0
+e;2627444;'Cycle de Mars';777;0
+e;2478410;'Barsoom';1;0
+e;2505636;'Delhaize';1;0
+e;2522384;'grype';1;0
+e;2927640;'Tigre de Java';777;0
+e;96513;'Mariane';1;50
+e;2935045;'panthère longibande';777;0
+e;273673;'Buste de Marianne';777;50
+e;84445;'Marianne';1;1830
+e;2950446;'panthérinés';777;4
+e;1635521;'système prédateur-proie';1;0
+e;2948924;'Sagrada Família';777;0
+e;145907;'Ishtar';1;50
+e;43282;'Inanna';1;50
+e;142033;'inanna';1;50
+e;2872080;'Préoccupation mineure';777;0
+e;2950948;'Sigirîya';777;0
+e;2956279;'Aslan';1;0
+e;2962203;'Alain Aslan';777;0
+e;2962204;'Alain Gourdon';777;0
+e;2957806;'Pericles';1;0
+e;2601675;'Quasi menacé';777;0
+e;3223217;'ménagerie du jardin des Plantes';1;0
+e;121664;'opportuniste';1;96
+e;3224187;'société de musique';777;0
+e;2579217;'Mouk';1;0
+e;3259525;'Le Roman de Renart';777;0
+e;14922765;'en:Balkans';1;0
+e;5526657;'ZAR';777;0
+e;68930;'rand';1;50
+e;143167;'Beowulf';1;50
+e;2563047;'Léau';1;0
+e;3308169;'théorie néodarwinienne de l'évolution';777;0
+e;3310530;'binom';777;0
+e;2886328;'Parent mâle de l'hybridation';777;0
+e;2570789;'criosphinx';1;0
+e;35514;'étranglement';1;74
+e;4313554;'chute d'ornements';777;0
+e;5674566;'isicathamiya';777;0
+e;137568;'Léon';1;3287
+e;14928125;'en:chop suey';1;0
+e;215063;'Fables de La Fontaine';1;4
+e;27210;'Juda';1;52
+e;5564160;'Tribu de Juda';777;0
+e;5534856;'Découvrez comment faire';777;0
+e;5634599;'l'évolution des stratégies de prédation';777;0
+e;5634761;'bioparco';777;0
+e;5635429;'Parc zoologique de Paignton';777;0
+e;5636026;'Zoo African Safari';777;0
+e;5636027;'Parc zoologique de Plaisance-du-Touch';777;0
+e;5679416;'Abbas ou Abbes';777;0
+e;5784693;'idiotismes animaliers';777;0
+e;5797288;'styles calligraphiques arabes';777;0
+e;5808881;'blacksad';777;0
+e;5809359;'histoire du chat';777;0
+e;5809365;'chapalu';777;0
+e;5809366;'Capalu';777;0
+e;5809367;'Capalus';777;0
+e;5809368;'Cath Paluc';777;0
+e;5809369;'Cath Palug';777;0
+e;5809370;'Cath Balug';777;0
+e;5810030;'vin et la religion';777;0
+e;5835804;'game ranching';777;0
+e;5870825;'croyances berbères';777;0
+e;5870827;'religion libyque';777;0
+e;5870828;'mythologie kabyle';777;0
+e;5870943;'mythe d'Er';777;0
+e;5892318;'Acinonyx jubatus';777;0
+e;5892382;'Panthera leo ×tigris';777;0
+e;5892405;'Panthera leo spelaea';777;0
+e;5892408;'Panthera spelaea atrox';777;0
+e;5892413;'Panthera gombaszoegensis';777;0
+e;5892414;'jaguar européen';777;0
+e;5892423;'Panthera spelaea';777;0
+e;5892433;'Lion du Cap';777;0
+e;5892465;'Panthera leo persica';777;0
+e;5892469;'Panthera leo leo';777;0
+e;3561222;'Éteint à l'état sauvage';777;0
+e;5892479;'Panthera leo sinhaleyus';777;0
+e;5892480;'Lion du Sri Lanka';777;0
+e;5892519;'cycle de vie du tigre';777;0
+e;5892524;'marozi';777;0
+e;5892546;'lions du Tsavo';777;0
+e;5892602;'Panthera tigris trinilensis';777;0
+e;5892603;'Tigre de Trinil';777;0
+e;5892604;'Panthera tigris oxygnatha';777;0
+e;5892622;'hydrurga';777;0
+e;5892623;'Hydrurga leptonyx';777;0
+e;216164;'Égypte antique';1;34
+e;5892655;'Zorille du Cap';777;0
+e;5892932;'barbourofelis';777;0
+e;5894105;'principauté de Sealand';777;0
+e;5898825;'réponse combat-fuite';777;0
+e;5918299;'chirurgie dans l'Égypte antique';777;0
+e;5921546;'tapisserie d'Aubusson';777;0
+e;5921752;'tapis de Mantes';777;0
+e;5922734;'Madagascar 2';777;0
+e;1557;'Robin des Bois';1;60
+e;5963561;'Fort la Latte';777;0
+e;3729390;'dollar namibien';1;0
+e;5981120;'parc national de Kundelungu';777;0
+e;5981300;'parc national de la Comoé';777;0
+e;5994510;'Yvan Delporte';777;0
+e;5895725;'Hydrurga';1;0
+e;64278;'Balkans';1;66
+e;9945445;'jardins botaniques royaux de Kew';777;0
+e;9945444;'jardins de Kew';777;0
+e;8571113;'Vulnérable';777;0
+e;8958749;'Sara la noire';777;0
+e;2387666;'Collegium musicum';1;0
+e;3263994;'culte de Mithra';1;0
+e;5610671;'Convair YB-60';777;0
+e;9566396;'XB-36G';777;0
+e;9267656;'Contenus de qualité';777;0
+e;9267657;'Bons contenus';777;0
+e;5951228;'Sélection';1;0
+e;411314;'Programme';1;1431
+e;9563671;'Andrej Babi';777;0
+e;208489;'style Louis XV';1;50
+e;208497;'style Pompadour';1;50
+e;9795089;'parc national du Serengeti';777;0
+e;2387397;'Sérengéti';1;0
+e;2437380;'Ligron';1;0
+e;9962744;'le gardien du zoo';777;0
+e;9981940;'Le Magicien d'Oz';777;0
+e;10012319;'calendrier hindou';777;0
+e;99157;'Britannia';1;50
+e;10046455;'Bêtes à craquer';777;0
+e;10057076;'Le Roi de Las Vegas';777;0
+e;10071336;'Classe des Titans';777;0
+e;10090758;'wonderfalls';777;0
+e;10137417;'Goleo VI';777;0
+e;10137418;'goleo';777;0
+e;10145276;'Coupe du monde de futsal de 2016';777;0
+e;10145277;'coupe du monde de futsal';777;0
+e;10176038;'cathédrale Saint-Pierre-et-Saint-Paul de Maguelone';777;0
+e;10157331;'Goleo';1;0
+e;238097;'Le Tour du monde en quatre-vingts jours';1;36
+e;10438469;'équipe cycliste Peugeot';777;0
+e;201402;'Géants';1;50
+e;10314443;'crocotta';777;0
+e;10314444;'corocotta';777;0
+e;10314445;'leucrotta';777;0
+e;10314446;'yena';777;0
+e;10314634;'bête de Noth';777;0
+e;10314654;'Ours Nandi';777;0
+e;10334728;'palais Longchamp';777;0
+e;10334861;'Marie-Ange Nardi';777;0
+e;10462423;'Peugeot Exalt Concept';777;0
+e;10498166;'shuddhodana';777;0
+e;10524525;'équipe d'Afrique de cricket';777;0
+e;10554750;'culture de l'Éthiopie';777;0
+e;10554751;'culture éthiopienne';777;0
+e;10583024;'château de Rochechouart';777;0
+e;10583793;'Bhimbetka';777;0
+e;10600200;'jardin zoologique du québec';777;0
+e;10600201;'Parc des Moulins';777;0
+e;10604880;'Festival of the Lion King';777;0
+e;10604886;'Les Wuzzles';777;0
+e;25204;'La Force';1;50
+e;10664226;'Physiologos';777;0
+e;10741479;'Le Lion d'Oz';777;0
+e;10742571;'Atoum';777;0
+e;5808015;'toum';777;0
+e;118190;'Sully-sur-Loire';1;50
+e;138404;'Marc';1;3086
+e;10841114;'tambour à corde';777;0
+e;10899052;'famille Peugeot';777;0
+e;10914758;'Brisbane Roar FC';777;0
+e;10914759;'Queensland Roar FC';777;0
+e;10933602;'Yehouda ben Meïr';777;0
+e;10936969;'La Dernière Bataille';777;0
+e;10939703;'Nick M. Cummins';777;0
+e;10991380;'aldfrith';777;0
+e;11002849;'lévrier Rampur';777;0
+e;11009169;'Poulydamas de Scotoussa';777;0
+e;95145;'guépard';1;328
+e;2393958;'panenthéisme';1;0
+e;11034184;'P. Lion';777;0
+e;11034185;'Pietro Paolo Pelandi';777;0
+e;11056788;'Hugues de Lionne';777;0
+e;11064140;'zoo de La Palmyre';777;0
+e;11083165;'graphiste publicitaire';777;0
+e;11096140;'Lion belgique';777;0
+e;10175862;'Championnat de France 2017-2018';777;0
+e;11102355;'Dunkerque Handball Grand Littoral';777;0
+e;11108001;'culture de la Tunisie';777;0
+e;11108774;'géographie de l'Aurès';777;0
+e;11118600;'armoiries du Swaziland';777;0
+e;11118805;'armoiries de l'Afrique du Sud';777;0
+e;11118810;'armoiries du Burundi';777;0
+e;11118816;'emblème de la république démocratique du Congo';777;0
+e;11118839;'armoiries du Sénégal';777;0
+e;11118852;'armoiries de la Tunisie';777;0
+e;11119855;'armoiries de l'île Norfolk';777;0
+e;11119944;'armes royales du Cambodge';777;0
+e;11127090;'delta de l'Okavango';777;0
+e;11127091;'marais de l'Okavango';777;0
+e;11127813;'mémorial de la France combattante';777;0
+e;11129665;'Elephas maximus';777;0
+e;11132001;'roi d'Opérette';777;0
+e;11132360;'Aldfrith';777;0
+e;11152060;'Temple de Mînâkshî';777;0
+e;1766559;'Proche-Orient ancien';1;0
+e;11159191;'métiers dans l'Égypte antique';777;0
+e;11237021;'studios idéfix';777;0
+e;11237722;'religion sérère';777;0
+e;11237723;'at Roog';777;0
+e;11250327;'Aarnoud Jan Anne Aleid baron van Heemstra';777;0
+e;11250364;'Tropez de Pise';777;0
+e;11250620;'montagne de la Table';777;0
+e;11252670;'république de Singapour';777;0
+e;11296291;'Chant I';777;0
+e;11305677;'ordre du Lion et du Soleil';777;0
+e;11315679;'culture du Sénégal';777;0
+e;11315967;'parc national du Manovo-Gounda St. Floris';777;0
+e;11330189;'drapeau du Luxembourg';777;0
+e;11341646;'Sar Mashhad';777;0
+e;55145;'Thespies';1;50
+e;11350119;'Temple Expiatori de la Sagrada Família';777;0
+e;11350120;'Templo Expiatorio de la Sagrada Familia';777;0
+e;5634275;'surplus killing';777;0
+e;11356902;'abattage en surplus';777;0
+e;11356903;'abattage excessif';777;0
+e;11356904;'syndrome du poulailler';777;0
+e;415898;'Évangéliaire';1;50
+e;11358528;'d'Echternach';777;0
+e;11358529;'Évangéliaire de saint Willibrord';777;0
+e;11361555;'Glélé';777;0
+e;11363401;'art des Seldjoukides d'Iran';777;0
+e;11372758;'histoire de Singapour';777;0
+e;11377791;'jeu de rôle animal';777;0
+e;11377792;'petplay';777;0
+e;75317;'Akrotiri';1;50
+e;5815816;'big five';777;0
+e;11456229;'parc national Murchison Falls';777;0
+e;11479696;'Felis spelaea';777;0
+e;11503791;'Pierre-Horace Boivin';777;0
+e;11518916;'Roche Goyon';777;0
+e;11775729;'colonne de la république';777;0
+e;151706;'Poudlard';1;1240
+e;11835792;'quatre maisons';777;0
+e;11925537;'Lion de Lucerne';777;0
+e;11968872;'réserve nationale du Masai Mara';777;0
+e;11008280;'attraction sexuelle';1;0
+e;290611;'panthère nébuleuse';777;72
+e;130161;'panthère des neiges';1;54
+e;175841;'Panthère';1;50
+e;12018490;'La Plume de Finist-Clair-Faucon';777;0
+e;12033503;'Monument à la République';777;0
+e;12033504;'Statue de la République';777;0
+e;12053643;'armoiries de l'Alberta';777;0
+e;2500150;'Viglain';1;0
+e;12198427;'El Hajeb';777;0
+e;412323;'Giraffa';1;50
+e;289847;'Giraffa camelopardalis';777;50
+e;1890174;'Girafe';1;0
+e;12694665;'ménagerie du jardin des plantes';777;0
+e;10734017;'Livre des morts des Anciens Égyptiens';777;0
+e;10734018;'Livre pour sortir au jour';777;0
+e;10314648;'mngwa';777;0
+e;139151;'Tigre';1;1400
+e;11372751;'Championnat de France 2018-2019';777;0
+e;12986028;'tigre dans la culture';777;0
+e;13551388;'Championnat d'Australie de football 2019-2020';777;0
+e;13588127;'Grande Commande';777;0
+e;249004;'nom vernaculaire';1;10
+e;2538241;'Serval';1;0
+e;11179039;'Zembla';1;0
+e;3956211;'barong';1;0
+e;13642233;'danse du Barong';777;0
+e;13816218;'parc national de Meru';777;0
+e;10730382;'Pleine lune';777;0
+e;5875842;'Hybride';777;0
+e;69614;'Frédéric Auguste Bartholdi';1;58
+e;188231;'Auguste Bartholdi';1;54
+e;14062306;'Lion de Saint Marc';777;0
+e;14062307;'Grand prix international de Venise';777;0
+e;14078286;'Lion tchèque';777;0
+e;14078287;'eský lev';777;0
+e;3439290;'Camouflage';777;0
+e;14103356;'Lion de saint Marc';777;0
+e;14111627;'Liste des mascottes de la Ligue nationale de hockey';777;0
+e;10498694;'Gundam Wing';777;0
+e;14128959;'ménagerie du Jardin des plantes';777;0
+e;14130400;'Aarnoud van Heemstra';777;0
+e;14130688;'Parc national de la Garamba';777;0
+e;14137038;'Mythe d'Er le Pamphylien';777;0
+e;13666407;'liste de prénoms turcs';777;0
+e;12781165;'île de Madagascar';1;0
+e;14156239;'forêts humides et luxuriantes';777;0
+e;14156240;'savanes sèches';777;0
+e;14156241;'rizières en terrasses';777;0
+e;14162300;'Victor Franck';777;0
+e;14163159;'Roshi Ensei';777;0
+e;14163160;'irezumi';777;0
+e;436142;'théorie synthétique de l'évolution';1;2
+e;14171183;'Peugeot Exalt';777;0
+e;12684;'pupille';1;192
+e;14313593;'lions gardiens';777;0
+e;14313594;'lions gardiens impériaux';777;0
+e;422962;'shi';1;50
+e;14433229;'lance de Lugal';777;0
+e;14476896;'Tokyo Jungle';777;0
+e;14486675;'banc du Leven';777;0
+e;14530081;'Pilpay';777;0
+e;14537467;'Pierre de Saint-Cloud';777;0
+e;14537468;'Richard de Lison';777;0
+e;14537469;'prêtre de la Croix-en-Brie';777;0
+e;14541072;'Pulydamas de Scotoussa';777;0
+e;11009124;'Polydamas de Scotoussa';777;0
+e;418094;'Apôtres';1;50
+e;51528;'son';1;3927
+e;14584401;'hybrides de première génération';777;0
+e;2100287;'recyclée';2;0
+e;14585800;'céramiques réticulées';777;0
+e;11055814;'Voguéo';777;0
+e;90804;'déprédateur';1;50
+e;14529214;'Neytiri Dis'kahan Mo'at'itey';777;0
+e;14529215;'Mo'at';777;0
+e;14529216;'Tsu'tey te Rongloa Ateyitan';777;0
+e;14529217;'Eytukan';777;0
+e;14599369;'Henry Walton Jones Junior';777;0
+e;103811;'Tech';1;50
+e;11533673;'Réart';1;0
+e;22905;'Têt';1;52
+e;14655016;'Relevé météorologique de Bath 1971-2000';777;0
+e;139558;'Oiseaux';1;50
+e;101001;'Reptiles';1;50
+e;15629779;'Lion Belgique';777;0
+e;5536212;'Cette section ne cite pas suffisamment ses sources';777;0
+e;9967265;'Liard';1;0
+e;11182360;'Antalotes';777;0
+e;39816;'modèle';1;3646
+e;33294;'mime';1;258
+e;29505;'dupe';1;88
+e;14915561;'ahr';777;0
+e;14915563;'ahran';777;0
+e;5926790;'Sources et légende';777;0
+e;2252694;'proies';2;0
+e;288598;'Voir aussi';777;50
+e;15433835;'Place Saint-Marc';1;0
+e;13297631;'ordre du Soleil';777;0
+e;15774408;'ordre impérial du Lion et du Soleil';777;0
+e;15774409;'Ordre Impérial des Aqdas';777;0
+e;10747930;'Ordre de la Couronne';777;0
+e;15774410;'Ordre du Homayoun';777;0
+e;15774411;'Ordre Impérial';777;0
+e;15780623;'Arbre phylogénétique de la sous-famille Pantherinae';777;0
+e;15787545;'Caméléonidés';777;0
+e;301148;'Source et légende';777;50
+e;44818;'Alex';1;2125
+e;90616;'Marty';1;50
+e;145927;'Gloria';1;54
+e;15190204;'Melman';1;0
+e;15789761;'King Julian XIII';777;0
+e;113752;'pays de Léon';1;50
+e;10849650;'bro Leon';777;0
+e;15790988;'Marmontain';777;0
+e;14486633;'Sources et légendes';777;0
+e;53473;'Roi Arthur';1;54
+e;5580611;'Cette section ne respecte pas la neutralité de point de vue';777;0
+e;14350738;'grotte de Font-de-Gaume';777;0
+e;13816106;'Gamkaskloof';777;0
+e;13816107;'The Hell';777;0
+e;13816108;'Die Hel';777;0
+e;5941319;'en Australie';777;0
+e;14488703;'En Amérique du Nord';777;0
+e;281395;'ita';777;50
+e;2447556;'ura';1;0
+e;14778696;'orte';777;0
+e;750240;'Histogramme de l'évolution démographique';777;0
+e;28462;'Dalila';1;112
+e;188133;'Aïcha';1;50
+e;82476;'Chaco';1;56
+e;16154048;'Les Wallabies';777;0
+e;161409;'Nina';1;54
+e;16154398;'Les styles calligraphiques arabes';777;0
+e;16158626;'Tapisseries d'Aubusson du XVIIe siècle';777;0
+e;16158627;'Tapisseries d'Aubusson du XVIIIe siècle';777;0
+e;14114651;'Constellations de l'écliptique';777;0
+e;142187;'Bélier';1;140
+e;138470;'Taureau';1;134
+e;142480;'Gémeaux';1;84
+e;17353;'Cancer';1;102
+e;16152859;'En Australie';777;0
+e;573929;'Saint Guy';777;50
+e;16243282;'saint Vite';777;0
+e;16243283;'saint Vith';777;0
+e;415925;'Vitus';1;50
+e;16243658;'Prévalence et risques';777;0
+e;16243659;'Le cas du blaireau';777;0
+e;10364242;'foire de Lyon';777;0
+e;16278866;'foire internationale de Lyon';777;0
+e;16316201;'La troisième saison de La Ferme Célébrités';777;0
+e;16316202;'La Ferme Célébrités en Afrique';777;0
+e;16326663;'Peinture animalière';777;0
+e;14113;'prunelle';1;66
+e;16343064;'Illustrations de Gustave Doré';777;0
+e;16343065;'Puss in bootsIllustrations de Walter Crane';777;0
+e;23469;'férocité';1;164
+e;5933371;'Préhistoire';1;0
+e;10160249;'Cette section peut contenir un travail inédit ou des déclarations non vérifiées';777;0
+e;87987;'France';1;4535
+e;2510142;'loup gris';1;2
+e;173170;'Hexagone';1;6
+e;5829703;'n'est pas rédigée dans un style encyclopédique';777;0
+e;14774663;'Étranglement arrière';777;0
+e;14774664;'Étranglement bras-tête';777;0
+e;14774665;'Étranglement croisé';777;0
+e;14774666;'Étranglement en guillotine';777;0
+e;14774667;'Étranglement en triangle';777;0
+e;16161613;'Jean-Pierre Ier Peugeot';777;0
+e;16161614;'Jean-Jacques Ier';777;0
+e;16161615;'Jean-Pierre II';777;0
+e;16161616;'Jean-Frédéric Peugeot';777;0
+e;16161617;'Charles-Christophe';777;0
+e;16161618;'Jean-Jacques II Peugeot';777;0
+e;16587641;'Tarasque de Noves';777;0
+e;16166419;'une synthèse des connaissances sur un sujet';777;0
+e;3223634;'espèce opportuniste';1;0
+e;16746635;'Agathoclès de Bactriane';777;0
+e;16746636;'Agathoclès Dikaios';777;0
+e;295639;'Panthera pardus';777;50
+e;2321605;'Léopard';1;0
+e;9965129;'Hong Kong Disneyland';777;0
+e;10623377;'Main Street USA';777;0
+e;10623378;'Adventureland';777;0
+e;10623382;'Fantasyland';777;0
+e;5801812;'Tomorrowland';777;0
+e;10935703;'Toy Story Land';777;0
+e;16796924;'merlion';777;0
+e;16796925;'La statue du Merlion';777;0
+e;403759;'Sources';1;3006
+e;16931151;'vieillesse du cheval';777;0
+e;146641;'remarque';1;2391
+e;16975937;'Resalat Al-Ghufran';777;0
+e;16975938;'L'épître du Pardon';777;0
+e;17204660;'Drapeau de l'Antarctique';777;0
+e;17523602;'Panthera atrox';777;0
+e;17523603;'Lion américain';777;0
+e;17523604;'Lion d'Amérique';777;0

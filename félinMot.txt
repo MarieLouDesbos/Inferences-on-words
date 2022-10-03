@@ -1,0 +1,2438 @@
+e;116032;'félin';1;2304
+e;77424;'oeil';1;3258
+e;19356;'sexe';1;5764
+e;95422;'cou';1;1944
+e;261246;'rugir>17559';1;58;'rugir>animal'
+e;114898;'loup-cervier';1;50
+e;72499;'rétine';1;244
+e;230297;'coussinet>8990';1;10;'coussinet>patte'
+e;109638;'fourrure';1;478
+e;107477;'nez';1;2901
+e;16110;'bouche';1;4324
+e;138092;'pelage';1;324
+e;125745;'coussinet';1;130
+e;218465;'pupille>77424';1;62;'pupille>oeil'
+e;228289;'sexe>218086';1;282;'sexe>organe sexuel'
+e;12566;'mamelle';1;198
+e;241862;'oreille>117095';1;50;'oreille>zoologie'
+e;58876;'cuisse';1;800
+e;165400;'rayures';1;58
+e;103791;'poumon';1;1040
+e;64313;'abdomen';1;512
+e;135652;'viscères';1;104
+e;164433;'canines';1;150
+e;13115;'mâchoire';1;508
+e;114420;'artère';1;578
+e;225770;'organe>112609';1;94;'organe>anatomie'
+e;215534;'cellule>35143';1;148;'cellule>biologie'
+e;63026;'vertèbres';1;120
+e;64354;'mamelles';1;72
+e;141949;'côte';1;3284
+e;14940408;'en:gnathostome';1;0
+e;52413;'carnassier';1;402
+e;267387;'chat nu';1;50
+e;285101;'chat sauvage de la Nouvelle Espagne';777;50
+e;11220545;'chasseur>25019';1;4;'chasseur>prédateur'
+e;71864;'museau';1;356
+e;225786;'nageoire dorsale';1;14
+e;214340;'robe>138092';1;72;'robe>pelage'
+e;1916038;'panthère nébuleuse de Bornéo';1;16
+e;1916037;'léopard tacheté de Bornéo';1;0
+e;175320;'chat-cervier';1;50
+e;286791;'tigre de';777;50
+e;2553103;'chat sauvage européen';1;0
+e;90832;'biosphère';1;98
+e;411824;'Diard';1;50
+e;383747;'tigre de papier';1;50
+e;383749;'tigre royal';1;50
+e;383748;'tigre de poirier';1;50
+e;5814;'animalerie';1;162
+e;120157;'règne animal';1;102
+e;146632;'forêt';1;4583
+e;36886;'faune';1;2225
+e;157132;'félins';1;68
+e;83208;'cirque';1;1818
+e;71624;'être vivant';1;1882
+e;125767;'once';1;68
+e;218193;'once>116032';1;54;'once>félin'
+e;3491;'attitude';1;1712
+e;113160;'perfide';1;74
+e;54771;'ressemblance';1;214
+e;149413;'organes';1;2688
+e;242310;'croc>60902';1;14;'croc>dent'
+e;60902;'dent';1;3450
+e;237765;'patte>141795';1;56;'patte>membre'
+e;139578;'muscle';1;2145
+e;126285;'dos';1;2896
+e;77008;'yeux';1;4519
+e;225127;'fourrure>109785';1;176;'fourrure>peau'
+e;45738;'vibrisse';1;62
+e;215758;'gueule>215755';1;14;'gueule>bouche animale'
+e;109785;'peau';1;3973
+e;77938;'flair';1;74
+e;135591;'poil';1;2680
+e;222595;'mâchoire>112609';1;56;'mâchoire>anatomie'
+e;56280;'oreille';1;1891
+e;233450;'crâne>144846';1;70;'crâne>tête'
+e;52119;'langue';1;4906
+e;97634;'croc';1;396
+e;74846;'corps';1;5234
+e;240720;'squelette>112609';1;152;'squelette>anatomie'
+e;72657;'reins';1;144
+e;2680;'sang';1;3854
+e;221019;'bouche>112609';1;212;'bouche>anatomie'
+e;243696;'vibrisse>117789';1;50;'vibrisse>moustache'
+e;133921;'dentition';1;428
+e;187622;'patte antérieure';1;8
+e;241352;'ventre>112609';1;100;'ventre>anatomie'
+e;32735;'poumons';1;393
+e;213792;'coeur>213791';1;184;'coeur>organe musculaire'
+e;187620;'patte postérieure';1;6
+e;101938;'estomac';1;852
+e;74558;'os';1;3033
+e;86561;'crâne';1;1243
+e;233138;'tête>390963';1;72;'tête>extrémité supérieure du corps'
+e;96211;'coeur';1;2332
+e;126388;'articulation';1;730
+e;45635;'rein';1;382
+e;141814;'vertèbre';1;392
+e;39031;'cerveau';1;2772
+e;219363;'corps>112609';1;188;'corps>anatomie'
+e;130161;'panthère des neiges';1;54
+e;1860906;'::>66:150>17:105889';8;0;'chat [carac] hérissé'
+e;71178;'féloïde';1;50
+e;16718;'comportement';1;3116
+e;93245;'gracieux';1;130
+e;1687054;'félin>171869';1;0;'félin>Adj:'
+e;1687053;'félin>171870';1;0;'félin>Nom:'
+e;143607;'nature';1;3624
+e;246329;'gros chat';1;24
+e;436315;'petit félin';1;52
+e;104695;'croquette';1;136
+e;130882;'ronron';1;112
+e;7225;'litière';1;132
+e;162005;'Oscar';1;2803
+e;228513;'sang>86501';1;296;'sang>hémoglobine'
+e;103311;'système nerveux';1;274
+e;65257;'croupe';1;96
+e;57452;'classification';1;3425
+e;31026;'cryptoprocte féroce';1;50
+e;236473;'tête ronde';1;50
+e;264598;'prédateur>117095';1;74;'prédateur>zoologie'
+e;213644;'os>116980';1;404;'os>squelette'
+e;8990;'patte';1;1766
+e;151867;'pattes';1;2265
+e;12684;'pupille';1;190
+e;216283;'dent>45311';1;278;'dent>dentaire'
+e;77727;'gueule';1;704
+e;144846;'tête';1;5933
+e;214988;'langue>213791';1;242;'langue>organe musculaire'
+e;121057;'taches';1;744
+e;47319;'colonne vertébrale';1;362
+e;83944;'nerf';1;858
+e;139779;'ADN';1;1254
+e;116980;'squelette';1;1226
+e;261225;'pattes>248747';1;56;'pattes>membres inférieurs'
+e;22889;'intestin';1;602
+e;236940;'estomac>112609';1;108;'estomac>anatomie'
+e;108463;'ventre';1;2052
+e;225756;'dos>112609';1;84;'dos>anatomie'
+e;71026;'flanc';1;118
+e;90273;'iris';1;218
+e;58404;'canine';1;1610
+e;106252;'crinière';1;518
+e;108062;'placentaire';1;58
+e;265226;'thérien';1;4
+e;265633;'animal terrestre';1;4
+e;156371;'mamifère';1;50
+e;142832;'souris';1;2549
+e;316850;'entité physique';1;50
+e;58768;'organisme';1;2505
+e;103416;'euthérien';1;60
+e;6737046;'fauve>17559';1;50;'fauve>animal'
+e;32375;'Simon';1;3138
+e;390927;'tête>112609';1;72;'tête>anatomie'
+e;118539;'poils';1;1359
+e;147161;'crocs';1;170
+e;104093;'hypocrite';1;212
+e;396688;'eupléridé';1;50
+e;4303785;'félidé>171869';1;0;'félidé>Adj:'
+e;452536;'fauve>171870';1;50;'fauve>Nom:'
+e;152844;'sang chaud';1;88
+e;326146;'système nerveux en position dorsale';1;56
+e;172737;'Felin';1;50
+e;273828;'felin';777;50
+e;134647;'dispos';1;54
+e;452537;'fauve>171869';1;50;'fauve>Adj:'
+e;309048;'cat';777;50
+e;6825834;'en:cat';1;2
+e;9160331;'en:felis catus';1;0
+e;12771253;'en:CAT';1;0
+e;13783929;'80a espèces félines';1;0
+e;17412738;'::>66:116032>24:17412736';8;0;'félin [peut] déchiqueter [objet] proie'
+e;62985;'déchiqueter';1;118
+e;15328662;'en:cat-like';1;0
+e;15195032;'en:catlike';1;0
+e;14938080;'en:feline';1;0
+e;118203;'corps humain';1;252
+e;15068653;'en:Felis catus';1;0
+e;37229;'se trouver';1;54
+e;16533895;'::>66:116032>24:16533885';8;0;'félin [peut] se trouver [endroit] zoo'
+e;80350;'se trouver dans';1;50
+e;16533898;'::>66:116032>24:16533890';8;0;'félin [peut] se trouver dans [objet] zoo'
+e;49319;'souplesse';1;204
+e;112511;'quadrupède';1;386
+e;102778;'élégance';1;372
+e;153853;'féline';1;146
+e;13369;'être';1;3913
+e;225934;'oeil>330323';1;220;'oeil>organe de la vue'
+e;103057;'cellule';1;2923
+e;152125;'Zoologie';1;210
+e;92662;'aspect';1;2757
+e;6382951;'felis sylvestris catus';1;0
+e;3378470;'chat>63235>116032';1;30;'chat>mammifère>félin'
+e;6389797;'felis domesticus';1;0
+e;215135;'griffe>141705';1;56;'griffe>ongle'
+e;77315;'vitesse';1;3668
+e;245893;'moustache>117095';1;10;'moustache>zoologie'
+e;218471;'tigre de Sibérie';1;2
+e;151897;'sphynx';1;62
+e;219554;'persan>150';1;50;'persan>chat'
+e;114327;'acide désoxyribonucléique';1;140
+e;1636805;'oeil>44335';1;50;'oeil>organe'
+e;5333693;'griffes rétractiles';1;0
+e;6373912;'espèces félines';1;0
+e;76046;'oreilles';1;1663
+e;146331;'ruche';1;380
+e;247836;'griffe rétractile';1;50
+e;234036;'être vivant>123933';1;258;'être vivant>entité'
+e;16747;'adn';1;164
+e;152802;'chats';1;1007
+e;240367;'savane>251735';1;48;'savane>formation végétale'
+e;165743;'souples';1;50
+e;235629;'cougar>17929';1;50;'cougar>puma'
+e;6332534;'felis domestica';1;0
+e;4303784;'félidé>146885';1;0;'félidé>Nom:Mas+SG'
+e;81027;'félidés';1;128
+e;39101;'bête';1;1426
+e;65081;'organisme vivant';1;146
+e;70465;'minet';1;120
+e;48510;'dangereux';1;2357
+e;35143;'biologie';1;3428
+e;122815;'chat-pard';1;50
+e;81664;'manul';1;94
+e;214648;'chat de Pallas';1;50
+e;221711;'angora>150';1;18;'angora>chat'
+e;156160;'tigre du Bengale';1;56
+e;267390;'chat sans queue';1;50
+e;35891;'chartreux';1;58
+e;43729;'médecine vétérinaire';1;72
+e;142235;'Félidés';1;50
+e;57875;'tube digestif';1;118
+e;36548;'rugir';1;312
+e;147184;'dents';1;2388
+e;155117;'chat angora';1;64
+e;113247;'Panthera';1;50
+e;330964;'cordé>117095';1;36;'cordé>zoologie'
+e;331030;'féliforme';1;56
+e;225847;'organisme>71624';1;98;'organisme>être vivant'
+e;237445;'être>68439';1;32;'être>individu'
+e;86046;'proie';1;438
+e;175541;'Felis';1;50
+e;24992;'Felis catus';1;50
+e;175315;'Chat domestique';1;50
+e;148125;'fauves';1;74
+e;71539;'animaux';1;3421
+e;247057;'symétrie bilatérale';1;8
+e;260820;'entité vivante';1;64
+e;329657;'choano-organisme';1;62
+e;391581;'féliné';1;50
+e;6402687;'chats domestiques';1;0
+e;7303;'oriental';1;1881
+e;331034;'féloïdé';1;52
+e;268124;'chat en rut';1;2
+e;175284;'Carnivora';1;50
+e;2950446;'panthérinés';777;4
+e;123774;'lionceau';1;296
+e;52611;'zoo';1;1318
+e;143669;'vertébrés';1;80
+e;51393;'margay';1;54
+e;233618;'lynx pardelle';1;50
+e;117095;'zoologie';1;2378
+e;37935;'abyssin';1;56
+e;215208;'sphynx>150';1;50;'sphynx>chat'
+e;164531;'mammifère carnivore';1;56
+e;29278;'tonkinois';1;50
+e;220342;'fauve>17559>116032';1;28;'fauve>animal>félin'
+e;86640;'vertébré';1;904
+e;152870;'chat de gouttière';1;136
+e;175842;'panthériné';1;50
+e;229001;'tigre>82231';1;84;'tigre>félidé'
+e;247483;'lion>116032';1;104;'lion>félin'
+e;247964;'panthère>82231';1;74;'panthère>félidé'
+e;244011;'jaguar>17559';1;30;'jaguar>animal'
+e;175539;'Felidae';1;50
+e;233133;'animal>117095';1;836;'animal>zoologie'
+e;3169504;'Chat en poche';777;0
+e;2549242;'Bébert';1;0
+e;5560936;'Maru';1;0
+e;260500;'::>66:150>15:52255';8;50;'chat [lieu] arbre'
+e;9374;'greffier';1;138
+e;244349;'tigre de Bali';1;50
+e;55001;'ronronner';1;396
+e;30459;'chasseur';1;1782
+e;218007;'minet>150';1;16;'minet>chat'
+e;240075;'minou>150';1;24;'minou>chat'
+e;244885;'::>66:229001>15:113093';8;50;'tigre>félidé [lieu] jungle'
+e;175319;'chat tigre';1;50
+e;57890;'chat marsupial';1;50
+e;223119;'gros félin';1;62
+e;250127;'chat errant';1;50
+e;149223;'moustaches';1;136
+e;117789;'moustache';1;938
+e;47200;'serval';1;56
+e;151746;'lynx du Canada';1;56
+e;97872;'couguar';1;58
+e;181473;'chat sauvage d'Europe';1;50
+e;216119;'greffier>150';1;16;'greffier>chat'
+e;9159;'siamois';1;204
+e;175318;'chat serval';1;2
+e;153265;'Gros Minet';1;62
+e;244891;'::>66:229001>15:164130';8;50;'tigre>félidé [lieu] musée d'histoire naturelle'
+e;96574;'angora';1;230
+e;217644;'chaton>150';1;76;'chaton>chat'
+e;220038;'siamois>150';1;20;'siamois>chat'
+e;155116;'chat tigré';1;54
+e;321257;'::>66:150>15:145569';8;50;'chat [lieu] gorge'
+e;77890;'matou';1;162
+e;213568;'chatte>150';1;100;'chatte>chat'
+e;153649;'panthère noire';1;104
+e;220343;'fauve>17559>152973';1;20;'fauve>animal>animal sauvage'
+e;261769;'lionne>116032';1;24;'lionne>félin'
+e;234910;'chat haret';1;50
+e;248081;'chordé';1;226
+e;231505;'Hello Kitty';1;50
+e;79841;'Garfield';1;64
+e;34549;'Tom';1;2962
+e;153182;'gros minet';1;140
+e;253867;'minette>11191';1;2;'minette>chatte'
+e;235793;'tigre à dents de sabre';1;50
+e;390797;'tonkinois>150';1;50;'tonkinois>chat'
+e;61525;'tigron';1;164
+e;268963;'matou>150';1;22;'matou>chat'
+e;151637;'tigre d'Amérique';1;50
+e;151745;'lynx roux';1;50
+e;167148;'petit lion';1;50
+e;267386;'manx';1;50
+e;249860;'chartreux>150';1;50;'chartreux>chat'
+e;246750;'::>66:150>0:246748';8;50;'chat [contexte] à l'affut'
+e;79080;'Azraël';1;54
+e;197496;'chat fourré';1;50
+e;155115;'chat persan';1;66
+e;142097;'Hercule';1;346
+e;253302;'petit chat';1;34
+e;279952;'chat de Chester';777;2
+e;110732;'rapide';1;3398
+e;317213;'carnivore>178691';1;44;'carnivore>régime alimentaire'
+e;248855;'chat du Cheshire';1;2
+e;159297;'chat botté';1;88
+e;159580;'chat siamois';1;82
+e;126068;'chat-tigre';1;100
+e;315808;'Hercule>50100';1;4;'Hercule>Pif le chien'
+e;231134;'tigre de l'Amour';1;50
+e;231132;'tigre de Java';1;50
+e;212184;'Shere Khan';1;6
+e;151744;'lynx d'Espagne';1;50
+e;5249;'Félix le chat';1;54
+e;114365;'agile';1;154
+e;4920;'savane';1;848
+e;51470;'canin';1;162
+e;113093;'jungle';1;828
+e;231129;'tigresse>137333';1;4;'tigresse>tigre'
+e;244883;'::>66:86756>15:52611';8;50;'lion [lieu] zoo'
+e;130716;'persan';1;104
+e;236868;'Raoul Chatigré';1;50
+e;155114;'chat noir';1;80
+e;246749;'::>66:150>17:125088';8;50;'chat [carac] moche'
+e;279427;'lynx ibérique';777;50
+e;25363;'cougouar';1;50
+e;343178;'chat à pattes noires';1;50
+e;76247;'vétérinaire';1;610
+e;140089;'Sylvestre';1;72
+e;25019;'prédateur';1;584
+e;113016;'caracal';1;54
+e;80897;'apparence';1;1545
+e;115304;'deutérostomien';1;114
+e;264880;'bilatérien';1;80
+e;142791;'Lion';1;2156
+e;119048;'souple';1;899
+e;264881;'crânié';1;56
+e;265839;'synapside';1;30
+e;101018;'gnathostome';1;84
+e;110773;'amniote';1;82
+e;91794;'tétrapode';1;96
+e;142602;'cordé';1;112
+e;317214;'carnivore>24679';1;24;'carnivore>taxon'
+e;317929;'olfactorien';1;40
+e;264908;'eumétazoaire';1;80
+e;265277;'crâniate';1;58
+e;54794;'eucaryote';1;190
+e;277971;'Félix le Chat';777;50
+e;325741;'choanobionte';1;76
+e;55823;'métazoaire';1;170
+e;325738;'filozoaire';1;84
+e;325736;'holozoaire';1;60
+e;153748;'cougar';1;60
+e;152973;'animal sauvage';1;946
+e;325731;'opisthoconte';1;76
+e;325728;'uniconte';1;42
+e;265220;'épineurien';1;20
+e;48496;'sauvage';1;2444
+e;148387;'griffes';1;324
+e;93920;'tigresse';1;324
+e;11379;'ocelot';1;162
+e;38599;'lionne';1;558
+e;213466;'chat>63235';1;640;'chat>mammifère'
+e;23784;'chat sauvage';1;264
+e;152708;'chat domestique';1;154
+e;113325;'minou';1;346
+e;17929;'puma';1;264
+e;98919;'jaguar';1;236
+e;48855;'carnivore';1;1566
+e;58646;'lynx';1;332
+e;31424;'fauve';1;916
+e;11191;'chatte';1;696
+e;57444;'chaton';1;732
+e;113583;'panthère';1;958
+e;63235;'mammifère';1;3619
+e;32714;'léopard';1;346
+e;86756;'lion';1;3040
+e;137333;'tigre';1;1484
+e;95145;'guépard';1;328
+e;115352;'griffe';1;1090
+e;82231;'félidé';1;824
+e;150;'chat';1;5425
+e;17559;'animal';1;13991
+e;239128;'_COM';36;50
+e;247023;'félin>80897';1;50;'félin>apparence'
+e;247024;'félin>17559';1;64;'félin>animal'
+e;6947917;'en:vertebrata';1;0
+e;32851;'mammifères';1;2107
+e;2586627;'Gender:Mas';4;0
+e;2586629;'Number:Sing';4;0
+e;146885;'Nom:Mas+SG';4;50
+e;146888;'Adj:Mas+SG';4;50
+e;171869;'Adj:';4;50
+e;171870;'Nom:';4;50
+e;107689;'poilu';1;266
+e;38788;'espèce';1;3485
+e;83764;'créature';1;1665
+e;233134;'animal>66517';1;8;'animal>monstre'
+e;396146;'thérapside';1;54
+e;135190;'lieu';1;3861
+e;40056;'couleur';1;5177
+e;140176;'oiseau';1;7450
+e;157284;'lieu>68467';1;58;'lieu>poisson'
+e;94160;'existence';1;2615
+e;157007;'être>146885';1;50;'être>Nom:Mas+SG'
+e;128966;'fissipède';1;50
+e;2464206;'quadripède';1;0
+e;87789;'coelomate';1;52
+e;391009;'célomate';1;50
+e;391010;'coelomé';1;50
+e;101689;'être animé';1;50
+e;14049831;'organisme vivant pluricellulaire hétérotrophe';1;6
+e;14049840;'organisme vivant pluricellulaire';1;0
+e;14049844;'organisme vivant hétérotrophe';1;0
+e;12321907;'en:eukaryote';1;0
+e;2461482;'métazoaire supérieur';1;0
+e;396042;'tétrapode>86640';1;50;'tétrapode>vertébré'
+e;396149;'cynodonte';1;62
+e;436570;'entité biologique';1;50
+e;267642;'organisme animal';1;4
+e;32791;'arête';1;162
+e;92955;'plumes';1;717
+e;148105;'ailes';1;2750
+e;240590;'arête>68467';1;18;'arête>poisson'
+e;152946;'arêtes';1;114
+e;213822;'bois>6550';1;4;'bois>cervidé'
+e;74082;'nageoire';1;316
+e;145553;'crête';1;168
+e;152386;'sabots';1;156
+e;145185;'trompe';1;354
+e;43853;'aile';1;2172
+e;43827;'écailles';1;222
+e;135631;'crin';1;130
+e;140715;'jambes';1;1545
+e;217417;'défense>60902';1;22;'défense>dent'
+e;234390;'corne>117095';1;44;'corne>zoologie'
+e;2587876;'gésier>140176';1;0;'gésier>oiseau'
+e;23876;'carapace';1;334
+e;141883;'boule';1;2059
+e;214995;'main>157827';1;448;'main>partie du corps'
+e;154115;'naseaux';1;86
+e;15782130;'tête Ronde';777;0
+e;159898;'garot';1;50
+e;176189;'système nerveux central';1;80
+e;6807759;'en:liver';1;0
+e;14917526;'en:deoxyribonucleic acid';1;0
+e;15596858;'en:muscle structure';1;0
+e;14950246;'en:musculature';1;0
+e;9939236;'en:muscles';1;0
+e;215896;'aile>117095>140176';1;90;'aile>zoologie>oiseau'
+e;5984733;'teeth';777;2
+e;8535678;'en:spine';1;0
+e;15047666;'en:alimentary canal';1;0
+e;14918011;'en:DNA';1;0
+e;6880460;'en:muscle';1;8
+e;15205595;'en:very muscular';1;0
+e;9023410;'en:teeth';1;0
+e;6800176;'en:heart';1;0
+e;11405719;'heart';1;0
+e;14928588;'en:flair';1;0
+e;149242;'muscles';1;1978
+e;13989631;'muscle>465647';1;72;'muscle>organe contractile'
+e;271596;'intestine';1;50
+e;12033540;'Tête Ronde';777;0
+e;6825673;'en:blood';1;0
+e;10844654;'matrice utérine';1;0
+e;12791689;'acide désoxyribo-nucléique';1;0
+e;398564;'mâchoires';1;50
+e;37997;'musculature';1;294
+e;115155;'foie';1;1393
+e;225604;'foie>112609';1;134;'foie>anatomie'
+e;16899820;'yeux>16899819';1;12;'yeux>organes de la vue'
+e;95256;'queue';1;3266
+e;214602;'queue>214624';1;74;'queue>queue d'animal'
+e;14944748;'en:zoo';1;0
+e;15080161;'en:animal kingdom';1;0
+e;15043901;'en:Felidae';1;0
+e;9160330;'en:family felidae';1;0
+e;15043900;'en:family Felidae';1;0
+e;6913330;'en:felidae';1;0
+e;364788;'monde animal';1;50
+e;6315238;'rotavirus félin';1;0
+e;6325022;'coronavirus entérique félin';1;0
+e;6395293;'lentivirus félin';1;0
+e;6419107;'picornavirus félin';1;0
+e;12203979;'virus syncytial félin ag';1;0
+e;12195640;'mesure de virus syncytial félin ac';1;0
+e;6318731;'granulome éosinophile félin';1;0
+e;6337178;'parvovirus félin';1;0
+e;6388841;'syndrome hyperéosinophilique félin';1;0
+e;6417408;'syndrome urologique félin';1;0
+e;6420956;'sida félin';1;0
+e;12108550;'virus syncytial félin ac';1;0
+e;5809469;'asthme félin';777;0
+e;5809021;'typhus félin';777;0
+e;5809468;'syndrome asthmatiforme félin';777;0
+e;5809088;'complexe granulome éosinophilique félin';777;0
+e;5809655;'calicivirus félin';777;0
+e;5808919;'Virus leucémogène félin';777;0
+e;11233379;'félin hybride';777;0
+e;5809025;'Le coronavirus félin FCoV';777;0
+e;16746690;'félin sauvage';1;0
+e;16769423;'coronavirus félin entérique FECV';1;0
+e;12244966;'mesure de virus syncytial félin ac | technique indéterminée | sérum | ponctuel | résultat numérique | titre';1;0
+e;12244965;'mesure de virus syncytial félin ac | technique indéterminée | sérum | ponctuel | résultat numérique | arbitraire/volume';1;0
+e;12246677;'La Fin du félin';777;0
+e;15748777;'café félin';777;0
+e;151534;'grands félins';1;50
+e;4330921;'virus leucémogène félin';1;0
+e;1730938;'élevage félin';1;0
+e;387122;'virus félin';1;50
+e;261961;'grand félin';1;50
+e;77306;'ciel';1;3498
+e;17936;'terrier';1;338
+e;46497;'refuge';1;1839
+e;121889;'pré';1;894
+e;31750;'culotte';1;446
+e;52255;'arbre';1;5512
+e;73588;'Amérique du Nord';1;134
+e;114090;'Amérique du Sud';1;242
+e;17023;'cage';1;958
+e;64239;'panier';1;534
+e;79444;'campagne';1;3742
+e;20564;'rue';1;6957
+e;45179;'maison';1;12564
+e;35729;'coussin';1;500
+e;35676;'canapé';1;1242
+e;218648;'arbre>136507';1;378;'arbre>végétal'
+e;214526;'cirque>11080943';1;102;'cirque>spectacle itinérant'
+e;144366;'désert';1;2687
+e;225696;'maison>65524';1;212;'maison>bâtiment'
+e;61280;'parc zoologique';1;66
+e;137391;'Afrique';1;3638
+e;32251;'blanche';1;3294
+e;23574;'leste';1;102
+e;71348;'pauvre';1;2269
+e;9941;'coquin';1;266
+e;599490;'domestique>171869';1;0;'domestique>Adj:'
+e;674336;'sauvage>171869';1;0;'sauvage>Adj:'
+e;1484757;'roux>171869';1;0;'roux>Adj:'
+e;141168;'domestique';1;1569
+e;17498;'menacé';1;78
+e;98826;'fourbe';1;118
+e;220341;'fauve>146628';1;52;'fauve>ocre'
+e;118316;'propre';1;3684
+e;224885;'poilu>81436';1;32;'poilu>velu'
+e;19003;'bestial';1;114
+e;15856;'sanguinaire';1;96
+e;20307;'câlin';1;548
+e;151497;'calin';1;182
+e;96920;'joueur';1;3655
+e;68727;'maigre';1;516
+e;156975;'noir>146885';1;50;'noir>Nom:Mas+SG'
+e;10314012;'en:heterotroph';1;0
+e;222644;'gris>40056';1;60;'gris>couleur'
+e;220349;'roux>40056';1;34;'roux>couleur'
+e;2585756;'noir>171869';1;0;'noir>Adj:'
+e;164268;'d'occasion';1;104
+e;105621;'vivipare';1;64
+e;222843;'solitaire>25090';1;82;'solitaire>seul'
+e;99164;'peureux';1;254
+e;86711;'jaune';1;3502
+e;75869;'roux';1;734
+e;50889;'gris';1;2604
+e;143206;'tigré';1;222
+e;81997;'tacheté';1;82
+e;15196;'blanc';1;4721
+e;151856;'noir et blanc';1;286
+e;99220;'hétérotrophe';1;68
+e;22156;'apparu';1;2334
+e;214939;'noir>40056';1;214;'noir>couleur'
+e;74514;'féroce';1;146
+e;64888;'affamé';1;308
+e;129143;'diurne';1;92
+e;133424;'endotherme';1;50
+e;59046;'adorable';1;208
+e;29744;'moustachu';1;110
+e;22262;'solitaire';1;1761
+e;237782;'domestique>88269';1;70;'domestique>apprivoisé'
+e;162606;'apprivoisée';1;90
+e;68881;'affectueux';1;196
+e;88096;'gros';1;3306
+e;108166;'beau';1;2892
+e;72019;'discret';1;290
+e;23178;'grand';1;3846
+e;28466;'jeune';1;3726
+e;122864;'mort';1;7245
+e;261570;'vivant>126414';1;32;'vivant>en vie'
+e;43222;'effrayant';1;292
+e;154501;'dangeureux';1;54
+e;131593;'méchant';1;1170
+e;109931;'castré';1;88
+e;330215;'bilatéralement symétrique';1;22
+e;237774;'sauvage>76227';1;2;'sauvage>farouche'
+e;128961;'mignon';1;498
+e;60448;'mâle';1;2485
+e;10595;'malade';1;3362
+e;129732;'puissant';1;2903
+e;55222;'petit';1;4355
+e;79872;'nyctalope';1;66
+e;1384;'vivant';1;3307
+e;74183;'doux';1;2296
+e;29326;'domestiqué';1;66
+e;23032;'taquin';1;138
+e;64238;'noir';1;4402
+e;89513;'rayé';1;90
+e;217659;'ronronnant';1;60
+e;217380;'blanc>40056';1;208;'blanc>couleur'
+e;142014;'protégé';1;1913
+e;4652;'agressif';1;226
+e;67539;'digitigrade';1;52
+e;237771;'sauvage>129068';1;22;'sauvage>indompté'
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+e;14916413;'Langue:français';18;50
+e;144201;'ocelle';1;52
+e;45393;'bête sauvage';1;68
+e;65932;'bête féroce';1;58
+e;58705;'chacal';1;194
+e;164697;'grand fauve';1;110
+e;142275;'peluche';1;282
+e;268150;'en captivité';1;50
+e;73827;'voler';1;3087
+e;18405;'obéir';1;274
+e;39576;'se cabrer';1;52
+e;59303;'se déplacer';1;696
+e;17412734;'::>13:116032>29:62985';8;0;'déchiqueter [sujet] félin'
+e;105814;'regarder';1;3642
+e;14338;'attaquer';1;1286
+e;47918;'boire';1;4552
+e;130164;'manger';1;10292
+e;237333;'gronder>43106';1;50;'gronder>bruit'
+e;163297;'faire ses griffes';1;56
+e;139304;'s'accoupler';1;164
+e;143986;'s'étirer';1;100
+e;224422;'manger>113902>119570';1;206;'manger>alimentation>absorber'
+e;233198;'boire>86872';1;98;'boire>se désaltérer'
+e;233839;'ronronner>150';1;28;'ronronner>chat'
+e;87221;'griffer';1;326
+e;91932;'se battre';1;516
+e;81191;'lécher';1;370
+e;242894;'nager>11057832';1;34;'nager>se déplacer dans un liquide'
+e;251694;'mourir>126720';1;238;'mourir>cesser de vivre'
+e;253587;'lapper';1;50
+e;259820;'vivre>160251';1;78;'vivre>être en vie'
+e;47540;'miauler';1;430
+e;49560;'cracher';1;236
+e;43601;'se reproduire';1;502
+e;4653;'courir';1;2170
+e;7943;'tuer';1;4408
+e;53455;'déféquer';1;144
+e;124600;'mourir';1;2755
+e;128209;'jouer';1;4457
+e;239012;'jouer>143903';1;132;'jouer>s'amuser'
+e;239950;'mordre>135544';1;72;'mordre>morsure'
+e;59014;'se cacher';1;546
+e;54764;'grogner';1;230
+e;43253;'dormir';1;6562
+e;64513;'mordre';1;604
+e;68979;'ronger';1;194
+e;79364;'sauter';1;1030
+e;106132;'se lécher';1;78
+e;115919;'pisser';1;348
+e;2045;'uriner';1;438
+e;2234;'copuler';1;236
+e;2442;'vivre';1;3276
+e;20911;'nager';1;1388
+e;21168;'faire ses besoins';1;112
+e;33882;'se nourrir';1;436
+e;62933;'bondir';1;156
+e;123094;'laper';1;130
+e;92304;'grimper';1;608
+e;16964;'marcher';1;2562
+e;240814;'courir>59303';1;64;'courir>se déplacer'
+e;327073;'::>14:140100>29:21149';8;50;'dévorer [objet] viande'
+e;327369;'::>13:116032>29:87221';8;50;'griffer [sujet] félin'
+e;327122;'::>16:147184>29:130164';8;50;'manger [avec] dents'
+e;251165;'avoir une vue perçante';1;50
+e;48446;'tricoter';1;500
+e;195297;'::>14:140100>29:21149>13';9;50;'Qui pourrait dévorer une viande ?'
+e;157899;'::>16:147184>29:130164>13';9;50;'Qui pourrait manger avec des dents ?'
+e;86915;'se tapir';1;50
+e;6681658;'manger>113902';1;136;'manger>alimentation'
+e;101631;'se planquer';1;78
+e;140659;'s'embusquer';1;50
+e;15192291;'en:see God';1;0
+e;15266075;'en:to relieve o.s.';1;0
+e;1773695;'rester tapi';1;0
+e;211698;'rester dans l'ombre';1;54
+e;15347452;'en:be lying low';1;0
+e;15057094;'en:lie low';1;0
+e;15432879;'mettre [qqn] au secret';1;0
+e;15562696;'en:let somebody into the secret of something';1;0
+e;15562695;'en:let somebody into a secret';1;0
+e;15562693;'en:hide somebody away completely';1;0
+e;15562692;'en:keep somebody out of sight';1;0
+e;15562694;'mettre quelqu'un au secret';1;0
+e;15083771;'en:copulate';1;0
+e;14922684;'en:have sex';1;0
+e;14918311;'en:hide';1;0
+e;14948968;'en:mew';1;0
+e;15348167;'en:loll back';1;0
+e;15048432;'en:loll';1;0
+e;55489;'celer';1;110
+e;15045620;'en:luxuriate';1;0
+e;14939060;'en:lounge';1;0
+e;15047967;'en:yowl';1;0
+e;15090427;'en:lap up';1;0
+e;15305615;'en:slurp';1;0
+e;2420799;'faire profil bas';1;2
+e;16120;'se voiler';1;52
+e;15196095;'en:bump uglies';1;0
+e;15196094;'en:do the nasty';1;0
+e;15196093;'en:do the horizontal mambo jambo';1;0
+e;15196092;'en:do the hanky panky';1;0
+e;15196091;'en:rub nasties';1;0
+e;15196090;'frotter le lard ensemble';1;0
+e;15266397;'en:chunder';1;0
+e;14958742;'en:regurgitate';1;0
+e;15192290;'sacrifier à Vénus';1;0
+e;98365;'salle de séjour';1;60
+e;15347453;'rester discret';1;0
+e;207747;'se faire oublier';1;80
+e;5061539;'rester caché';1;0
+e;14960089;'en:living room';1;0
+e;15049272;'en:sitting room';1;0
+e;15099850;'en:hunker down';1;0
+e;15083855;'en:hide out';1;0
+e;15323166;'en:go into hiding';1;0
+e;15099852;'en:crouch';1;0
+e;15192292;'en:pray with the knees upward';1;0
+e;232422;'pièce à vivre';1;50
+e;14937757;'en:keep a low profile';1;0
+e;15604693;'en:keep your head down';1;0
+e;16323534;'en:do your business';1;0
+e;16533896;'::>13:116032>29:80350';8;0;'se trouver dans [sujet] félin'
+e;16533893;'::>13:116032>29:37229';8;0;'se trouver [sujet] félin'
+e;15229895;'en:be forgotten, become discreet, hide';1;0
+e;186809;'raser les murs';1;52
+e;240863;'chasser>140429';1;56;'chasser>chasse'
+e;78768;'chasser';1;1086
+e;24388;'régurgiter';1;146
+e;61952;'gronder';1;208
+e;21149;'dévorer';1;768
+e;16533885;'::>31:52611>29:37229';8;0;'se trouver [endroit] zoo'
+e;16533890;'::>14:52611>29:80350';8;0;'se trouver dans [objet] zoo'
+e;17412736;'::>14:86046>29:62985';8;0;'déchiqueter [objet] proie'
+e;35427;'se prélasser';1;92
+e;130299;'feuler';1;58
+e;155861;'manger de la viande';1;106
+e;19153;'castrer';1;114
+e;24646;'attraper';1;838
+e;234280;'piquer>245371';1;18;'piquer>euthanasier'
+e;113792;'empailler';1;146
+e;50739;'caresser';1;1304
+e;61829;'châtrer';1;94
+e;117557;'piquer';1;1126
+e;84399;'puce';1;584
+e;15216207;'en:enterozoon';1;0
+e;262138;'mésoparasite';1;10
+e;164756;'parasite intestinal';1;58
+e;213678;'puce>213676';1;30;'puce>insecte parasite'
+e;102345;'plaisir';1;3731
+e;9864;'désir';1;2782
+e;146357;'envie';1;1658
+e;91691;'surprise';1;2388
+e;26173;'douceur';1;844
+e;49337;'crainte';1;1526
+e;14330;'satisfaction';1;624
+e;28453;'bonheur';1;2796
+e;37298;'amour';1;7149
+e;57221;'joie';1;3920
+e;103405;'indifférence';1;612
+e;626;'peur';1;5405
+e;251716;'_INFO-MONOSEMIC';36;50
+e;317329;'_POLIT_7NOPOL';36;50
+e;15991431;'_ANIME-YES';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;276096;'_INFO-WIKI-YES';36;50
+e;214534;'_INFO-MEANING-FIGURED';36;50
+e;162759;'_INFO-SEM-PLACE';36;504
+e;248197;'_SEX_YES';36;50
+e;191669;'_INFO-SEM-LIVING-BEING';36;160
+e;248198;'_SEX_NO';36;50
+e;217817;'_INFO-POLYSEMIC';36;50
+e;191668;'_INFO-SEM-THING-NATURAL';36;112
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;2585996;'_INFO-CNRTL-YES';36;50
+e;162763;'_INFO-SEM-THING-CONCRETE';36;1238
+e;254876;'_POL-POS_PC';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;223173;'_POL-POS';36;50
+e;35301;'feulement';1;70
+e;2409245;'ron-ron';1;0
+e;158676;'::>13:116032>29:87221>34';9;50;'De quelle manière un félin pourrait griffer ?'
+e;17412735;'::>66:116032>24:62985';8;0;'félin [peut] déchiqueter'
+e;16533897;'::>66:116032>24:80350';8;0;'félin [peut] se trouver dans'
+e;16533894;'::>66:116032>24:37229';8;0;'félin [peut] se trouver'
+e;5516702;'petit mammifère';1;0
+e;71115;'rongeur';1;1006
+e;132479;'marron';1;706
+e;145382;'orange';1;2219
+e;8542;'beige';1;142
+e;45661;'canidé';1;530
+e;453884;':r2495723';10;50
+e;453889;':r2495437';10;50
+e;1370766;':r2171346';10;0
+e;1864472;':r2179006';10;0
+e;4311579;':r96698282';10;0
+e;4311580;':r96698300';10;0
+e;9564523;':r2495481';10;0
+e;15873660;':r413694195';10;0
+e;16414399;':r16008034';10;0
+e;17331073;':r4985715';10;0
+e;445296;':r2516808';10;50
+e;1168275;':r128109';10;0
+e;1864498;':r2172006';10;0
+e;1875346;':r2495444';10;0
+e;2591781;':r2059960';10;0
+e;2591782;':r12200014';10;0
+e;2591783;':r13622007';10;0
+e;2591784;':r13622147';10;0
+e;9564524;':r214844022';10;0
+e;15838278;':r2495408';10;0
+e;454482;':r388812';10;50
+e;454490;':r2516809';10;50
+e;454812;':r2516811';10;50
+e;455190;':r2495641';10;50
+e;9231782;':r2152147';10;0
+e;11268739;':r2145709';10;0
+e;11268740;':r2145708';10;0
+e;14568467;':r369640050';10;0
+e;455093;':r2495456';10;50
+e;445297;':r2516810';10;50
+e;454463;':r388813';10;50
+e;455132;':r2179035';10;50
+e;455141;':r2495449';10;50
+e;455174;':r2495465';10;50
+e;8968384;':r193856400';10;0
+e;10961858;':r2495423';10;0
+e;10961860;':r436755';10;0
+e;10961859;':r242615922';10;0
+e;10961861;':r1601134';10;0
+e;9231783;':r210374787';10;0
+e;15673086;':r402627011';10;0
+e;445851;':r388810';10;50
+e;8968254;':r148654';10;0
+e;11591047;':r2495638';10;0
+e;16473381;':r414100743';10;0
+e;600285;':r2172167';10;0
+e;454476;':r388811';10;50
+e;453894;':r2495421';10;50
+e;601053;':r2495439';10;0
+e;17428992;':r475759560';10;0
+e;600260;':r2495725';10;0
+e;17428990;':r475759558';10;0
+e;601041;':r2495434';10;0
+e;600259;':r2171618';10;0
+e;17428994;':r475759562';10;0
+e;601062;':r2878617';10;0
+e;454494;':r8864295';10;50
+e;600265;':r2156742';10;0
+e;9231781;':r2145998';10;0
+e;15901385;':r414014374';10;0
+e;16285087;':r213913551';10;0
+e;11390619;':r246270928';10;0
+e;16281039;':r216663853';10;0
+e;3327814;':r118372';10;0
+e;3327813;':r134061';10;0
+e;671163;':r11684999';10;0
+e;678727;':r168632';10;0
+e;967939;':r2919171';10;0
+e;1538177;':r24992515';10;0
+e;1563633;':r8980821';10;0
+e;1681389;':r3200477';10;0
+e;1701359;':r2919154';10;0
+e;1767662;':r14421156';10;0
+e;1799120;':r2919169';10;0
+e;1866256;':r3200480';10;0
+e;1860402;':r1988992';10;0
+e;1863862;':r2919157';10;0
+e;1864028;':r2281793';10;0
+e;1864843;':r2919155';10;0
+e;1884082;':r2919152';10;0
+e;1909184;':r2919175';10;0
+e;2317946;':r2162209';10;0
+e;2318035;':r1895139';10;0
+e;2339276;':r29370166';10;0
+e;2371094;':r2919168';10;0
+e;2935360;':r33889714';10;0
+e;3176509;':r29373990';10;0
+e;3177365;':r31813595';10;0
+e;3230226;':r2319798';10;0
+e;9576145;':r113392749';10;0
+e;4388493;':r84947280';10;0
+e;3308929;':r30828349';10;0
+e;3310911;':r82979272';10;0
+e;3324618;':r82979287';10;0
+e;3344966;':r82979273';10;0
+e;3349095;':r82979274';10;0
+e;3398313;':r82979285';10;0
+e;3399554;':r61475344';10;0
+e;3413298;':r82979278';10;0
+e;3451186;':r52578546';10;0
+e;3562980;':r82979279';10;0
+e;3735885;':r3200475';10;0
+e;3736009;':r2919156';10;0
+e;3749807;':r82979277';10;0
+e;4301943;':r71754556';10;0
+e;4309988;':r71833402';10;0
+e;4310085;':r71833401';10;0
+e;5384046;':r61463785';10;0
+e;5383977;':r98301337';10;0
+e;5498337;':r76194621';10;0
+e;15504538;':r392245209';10;0
+e;8906880;':r84561333';10;0
+e;8970084;':r76834263';10;0
+e;9699625;':r82147209';10;0
+e;9755073;':r83291773';10;0
+e;9794480;':r93575419';10;0
+e;10761012;':r253116361';10;0
+e;12111369;':r315480940';10;0
+e;12727908;':r326853429';10;0
+e;14050020;':r355028313';10;0
+e;14050035;':r355028362';10;0
+e;14050091;':r355028269';10;0
+e;14050221;':r355028253';10;0
+e;14050224;':r355028349';10;0
+e;14050272;':r355028360';10;0
+e;14050317;':r355028335';10;0
+e;14050342;':r355028351';10;0
+e;14050345;':r355028293';10;0
+e;14050377;':r355028390';10;0
+e;14050403;':r355028291';10;0
+e;14050408;':r355028392';10;0
+e;14050409;':r355028339';10;0
+e;14050499;':r355028297';10;0
+e;14050705;':r355028669';10;0
+e;14050791;':r355028378';10;0
+e;14050796;':r355028321';10;0
+e;14050898;':r355028275';10;0
+e;14050946;':r355028241';10;0
+e;14051037;':r355028319';10;0
+e;14051133;':r355028311';10;0
+e;14303440;':r364174333';10;0
+e;14535197;':r368726960';10;0
+e;14722451;':r368726953';10;0
+e;14737603;':r374408225';10;0
+e;14780129;':r370545018';10;0
+e;15977016;':r375236807';10;0
+e;14869478;':r365505545';10;0
+e;14876497;':r382061381';10;0
+e;14882561;':r385287438';10;0
+e;15596437;':r364654714';10;0
+e;15943688;':r414839119';10;0
+e;16312447;':r400014870';10;0
+e;16684201;':r375236808';10;0
+e;16607772;':r431688810';10;0
+e;16607958;':r431688813';10;0
+e;16803394;':r387011584';10;0
+e;16803499;':r387011583';10;0
+e;16998028;':r364654713';10;0
+e;16998213;':r365505547';10;0
+e;17001296;':r364654717';10;0
+e;17012147;':r367076346';10;0
+e;17013969;':r367667477';10;0
+e;17351816;':r470503780';10;0
+e;446071;':r200688';10;50
+e;645265;':r2919161';10;0
+e;667516;':r13064812';10;0
+e;669652;':r3200481';10;0
+e;677893;':r9898993';10;0
+e;678455;':r2507217';10;0
+e;682879;':r3200476';10;0
+e;698157;':r428481';10;0
+e;927924;':r9904725';10;0
+e;966530;':r11751238';10;0
+e;977499;':r2919174';10;0
+e;994914;':r3116458';10;0
+e;1158194;':r13450152';10;0
+e;1278960;':r9904723';10;0
+e;1354177;':r2559668';10;0
+e;1364391;':r3200478';10;0
+e;1373700;':r1544736';10;0
+e;1476996;':r12968395';10;0
+e;1487738;':r1552003';10;0
+e;1523787;':r1601133';10;0
+e;1544230;':r14162127';10;0
+e;1562896;':r2520333';10;0
+e;1563023;':r2520352';10;0
+e;1687149;':r2919176';10;0
+e;1793882;':r2919173';10;0
+e;1864239;':r2919158';10;0
+e;1864519;':r3200483';10;0
+e;1864614;':r1935961';10;0
+e;1864733;':r206032';10;0
+e;1887442;':r9904726';10;0
+e;1960321;':r1552009';10;0
+e;2935264;':r33889715';10;0
+e;3131793;':r30828455';10;0
+e;3173621;':r23373909';10;0
+e;3185097;':r33880907';10;0
+e;3290495;':r6031930';10;0
+e;3324523;':r82979284';10;0
+e;3559072;':r83428259';10;0
+e;4948685;':r10014204';10;0
+e;6670649;':r76454411';10;0
+e;15596940;':r364654715';10;0
+e;4566566;':r2186649';10;0
+e;608142;':r257741';10;0
+e;628887;':r18069381';10;0
+e;674806;':r2495583';10;0
+e;675037;':r8940348';10;0
+e;683144;':r1565913';10;0
+e;733870;':r2919164';10;0
+e;924234;':r2919153';10;0
+e;961087;':r3075211';10;0
+e;965008;':r13998463';10;0
+e;978053;':r12475696';10;0
+e;994780;':r14180227';10;0
+e;1161339;':r1573277';10;0
+e;1243630;':r1783625';10;0
+e;1342982;':r3143458';10;0
+e;1364556;':r1756482';10;0
+e;1549203;':r2919163';10;0
+e;1552763;':r3075210';10;0
+e;1578674;':r14421157';10;0
+e;1686742;':r423270';10;0
+e;1696748;':r2919170';10;0
+e;1744993;':r14056781';10;0
+e;4619320;':r25804395';10;0
+e;14569779;':r368946189';10;0
+e;678370;':r431289';10;0
+e;679177;':r115630';10;0
+e;724519;':r2919166';10;0
+e;929969;':r1622287';10;0
+e;961808;':r3075212';10;0
+e;1305197;':r2919162';10;0
+e;13811003;':r347068968';10;0
+e;695225;':r166667';10;0
+e;961643;':r2919178';10;0
+e;1227925;':r2919160';10;0
+e;1549389;':r2877537';10;0
+e;14734604;':r355028356';10;0
+e;678043;':r1799385';10;0
+e;1549290;':r2919159';10;0
+e;10316104;':r246270927';10;0
+e;13763554;':r347068969';10;0
+e;598677;':r116161';10;0
+e;11933088;':r9621601';10;0
+e;2924935;':r30202751';10;0
+e;10729939;':r123054018';10;0
+e;4365501;':r2219361';10;0
+e;4374122;':r10007941';10;0
+e;5502679;':r84997999';10;0
+e;12687354;':r255805725';10;0
+e;1632374;':r2919179';10;0
+e;4357248;':r97421946';10;0
+e;10439067;':r255805724';10;0
+e;1052005;':r9068048';10;0
+e;12827845;':r84947084';10;0
+e;10681364;':r136597';10;0
+e;1966814;':r2441168';10;0
+e;973146;':r3200482';10;0
+e;10961836;':r2349338';10;0
+e;16277448;':r426733307';10;0
+e;973364;':r3075213';10;0
+e;973416;':r2096012';10;0
+e;1966717;':r2919172';10;0
+e;9447902;':r210374788';10;0
+e;10851278;':r269307';10;0
+e;16443247;':r433392608';10;0
+e;16263820;':r426745787';10;0
+e;9265794;':r212801190';10;0
+e;9237355;':r9997523';10;0
+e;9231805;':r209711';10;0
+e;4373538;':r11003402';10;0
+e;3327723;':r1609481';10;0
+e;3328866;':r108739';10;0
+e;664411;':r107543';10;0
+e;3824924;'dbnary:fra:__ws_1_félin__adj__1';444;0
+e;3950507;'dbnary:fra:__ws_3_félin__nom__1';444;0
+e;4000845;'dbnary:fra:__ws_2_félin__adj__1';444;0
+e;3228593;'wiki:@';444;0
+e;3387696;'bn:00032903n';444;0
+e;3387697;'bn:01505552n';444;0
+e;6175211;'umls:C0007450';444;0
+e;2983124;'_SW';36;50
+e;139151;'Tigre';1;1400
+e;22758;'règne';1;3564
+e;271811;'Animalia';777;50
+e;95373;'embranchement';1;94
+e;10956;'sous-embranchement';1;56
+e;176035;'Vertebrata';1;50
+e;142623;'classe';1;3606
+e;175720;'Mammalia';1;50
+e;101009;'sous-classe';1;60
+e;141059;'Ordre';1;2424
+e;123171;'sous-ordre';1;52
+e;143853;'Famille';1;2693
+e;47248;'sous-famille';1;2086
+e;71038;'Pantherinae';1;50
+e;52146;'Felinae';1;50
+e;98300;'famille';1;4932
+e;144590;'Carnivores';1;50
+e;46164;'carnivores';1;56
+e;146085;'Tête';1;225
+e;143537;'Guépard';1;52
+e;9977;'oligocène';1;50
+e;144744;'Genette';1;50
+e;43544;'fossilisation';1;50
+e;175710;'Lynx';1;50
+e;235792;'smilodon';1;50
+e;36228;'ruminant';1;206
+e;265947;'ruminants';1;66
+e;234908;'os hyoïde';1;50
+e;209897;'vision binoculaire';1;52
+e;271117;'prédateurs';1;12
+e;143945;'Homme';1;1947
+e;74860;'homme';1;28850
+e;92493;'nyctalopie';1;52
+e;37812;'bâtonnet';1;82
+e;11503;'cône';1;263
+e;81331;'fovéa';1;52
+e;272197;'organe de Jacobson';777;52
+e;138564;'force d'inertie';1;52
+e;105929;'denture';1;70
+e;183480;'os maxillaire';1;54
+e;234907;'mâchoire supérieure';1;58
+e;227867;'mâchoire inférieure';1;56
+e;137239;'Loup';1;824
+e;229551;'loups';1;58
+e;75069;'incisive';1;1268
+e;155377;'incisives';1;88
+e;59844;'prémolaire';1;664
+e;82129;'molaire';1;1470
+e;165309;'molaires';1;82
+e;84033;'carnassière';1;54
+e;25728;'clavicule';1;98
+e;48225;'échine';1;66
+e;68577;'tendon';1;230
+e;163046;'tendons';1;78
+e;153981;'corde vocale';1;68
+e;152649;'cordes vocales';1;140
+e;9569;'Hertz';1;74
+e;143473;'hertz';1;72
+e;115783;'phéromone';1;128
+e;19307;'phéromones';1;106
+e;133674;'ronronnement';1;126
+e;18687;'nocturne';1;917
+e;39543;'territoire';1;3752
+e;152801;'lions';1;74
+e;272716;'Genre';777;3164
+e;112576;'genre';1;3747
+e;54161;'fossile';1;162
+e;81714;'fossiles';1;1823
+e;49367;'phylogénie';1;72
+e;257480;'dérive génétique';1;52
+e;111149;'divergence';1;192
+e;22335;'gène';1;2612
+e;138326;'gènes';1;2249
+e;82505;'mitochondrie';1;94
+e;114506;'gonosome';1;58
+e;220461;'arbre phylogénétique';1;8
+e;175781;'Neofelis';1;50
+e;214288;'Puma';1;2
+e;21254;'accueil';1;410
+e;2538241;'Serval';1;0
+e;412305;'Caracal';1;50
+e;418908;'Ocelot';1;50
+e;435982;'Machairodontinae';1;50
+e;410189;'Dent';1;50
+e;431563;'Griffe';1;50
+e;1233157;'chat viverrin';1;0
+e;2168669;'digitigrades';2;0
+e;1650864;'genettes';777;0
+e;312790;'ADN mitochondrial';1;50
+e;285548;'vibrisses';777;54
+e;313962;'flehmen';1;50
+e;572472;'tigres à dents de sabre';777;50
+e;274430;'geckos';777;50
+e;2456497;'Tendon';1;0
+e;418708;'Nocturne';1;50
+e;421510;'nocturnes';1;50
+e;277984;'Territoire';777;2363
+e;406271;'territoires';1;3224
+e;289908;'Caracal aurata';777;50
+e;291742;'Felis chaus';777;50
+e;175542;'Felis silvestris';1;44
+e;175316;'Chat sauvage';1;50
+e;407868;'Leopardus';1;50
+e;305151;'Leopardus colocolo';777;50
+e;616854;'Leopardus guigna';777;0
+e;293613;'Leopardus pardalis';777;50
+e;578888;'Leopardus tigrinus';777;0
+e;593513;'Leptailurus';1;0
+e;593512;'Leptailurus serval';777;0
+e;175711;'Lynx canadensis';1;50
+e;298900;'Lynx rufus';777;50
+e;409541;'Otocolobus';1;50
+e;299500;'Otocolobus manul';777;50
+e;1233608;'Prionailurus';1;0
+e;1804367;'Prionailurus bengalensis';777;0
+e;234035;'être vivant>2442';1;4;'être vivant>vivre'
+e;225849;'organisme>86627';1;50;'organisme>organisation'
+e;225846;'organisme>332175';1;54;'organisme>ensemble des organes'
+e;2667666;'chat>143712';1;0;'chat>marine'
+e;2667669;'chat>109899';1;0;'chat>artillerie'
+e;2667668;'chat>149496';1;0;'chat>palatine'
+e;4341752;'rat>83048';1;0;'rat>serrurerie'
+e;4341753;'rat>76617';1;0;'rat>racaille'
+e;4341755;'rat>4341754';1;0;'rat>agent des services fiscaux'
+e;229005;'rat>145605';1;2;'rat>danse'
+e;213588;'rat>13907';1;74;'rat>radin'
+e;3177473;'chaton>102206';1;0;'chaton>médecine'
+e;330570;'chat>215126';1;4;'chat>sexe de la femme'
+e;229002;'tigre>332216';1;50;'tigre>personne cruelle'
+e;229003;'tigre>71926';1;14;'tigre>insecte'
+e;229004;'tigre>12107';1;50;'tigre>danseuse'
+e;225848;'organisme>118203';1;52;'organisme>corps humain'
+e;237441;'être>85728';1;12;'être>exister'
+e;237443;'être>37229';1;66;'être>se trouver'
+e;221713;'angora>117095';1;50;'angora>zoologie'
+e;221712;'angora>94609';1;50;'angora>textile'
+e;316437;'chat>93068';1;50;'chat>enrouement'
+e;258956;'chat>258955';1;50;'chat>machine de siège'
+e;213468;'chat>53314';1;2;'chat>jeu'
+e;213467;'chat>234460';1;86;'chat>communication textuelle'
+e;330963;'cordé>3674';1;50;'cordé>botanique'
+e;11155410;'minette>92878';1;0;'minette>géologie'
+e;11155415;'minette>215126';1;0;'minette>sexe de la femme'
+e;253872;'minette>35885';1;50;'minette>luzerne'
+e;253871;'minette>71346';1;50;'minette>éclairage'
+e;253868;'minette>95245';1;6;'minette>fille'
+e;230298;'coussinet>25800';1;50;'coussinet>chemin de fer'
+e;230300;'coussinet>98040';1;50;'coussinet>architecture'
+e;2924558;'coussinet>3674';1;0;'coussinet>botanique'
+e;230296;'coussinet>35729';1;50;'coussinet>coussin'
+e;230299;'coussinet>67368';1;50;'coussinet>mécanique'
+e;215134;'griffe>143180';1;16;'griffe>marque'
+e;215133;'griffe>140565';1;50;'griffe>style'
+e;215136;'griffe>30843';1;4;'griffe>outil'
+e;235630;'cougar>68675';1;60;'cougar>séductrice'
+e;5326409;'fauve>48496';1;0;'fauve>sauvage'
+e;217641;'chaton>17685';1;2;'chaton>poussière'
+e;217642;'chaton>3674';1;50;'chaton>botanique'
+e;217643;'chaton>93251';1;50;'chaton>joaillerie'
+e;244174;'chaton>213452';1;56;'chaton>terme d'affection'
+e;261768;'lionne>259367';1;56;'lionne>femme de caractère'
+e;2708796;'chatte>111921';1;0;'chatte>chance'
+e;5155354;'Hercule>68439';1;0;'Hercule>individu'
+e;5155355;'Hercule>5155353';1;0;'Hercule>figure imposante'
+e;4309877;'lion>41583';1;0;'lion>ride'
+e;5139347;'lion>5139346';1;0;'lion>Lions Clubs'
+e;3323113;'lynx>18285';1;0;'lynx>papillon'
+e;3323112;'lynx>20164';1;0;'lynx>lapin'
+e;1768142;'souplesse>81445';1;2;'souplesse>flexibilité'
+e;1768141;'souplesse>65767';1;0;'souplesse>moelleux'
+e;1768143;'souplesse>108806';1;0;'souplesse>complaisance'
+e;4388607;'Tigre royal>151696';1;0;'Tigre royal>char d'assaut'
+e;2853809;'guigna>60596';1;0;'guigna>guigner'
+e;216118;'greffier>36686';1;50;'greffier>greffe'
+e;258469;'greffier>68467';1;50;'greffier>poisson'
+e;244012;'jaguar>95706';1;4;'jaguar>automobile'
+e;390795;'tonkinois>126208';1;50;'tonkinois>Tonkin'
+e;390796;'tonkinois>131059';1;50;'tonkinois>dialecte'
+e;218085;'chatte>143712';1;50;'chatte>marine'
+e;213567;'chatte>19356';1;90;'chatte>sexe'
+e;218191;'once>209519';1;64;'once>unité de masse'
+e;218192;'once>25996';1;50;'once>monnaie'
+e;247965;'once>165054';1;50;'once>petite quantité'
+e;219552;'persan>139062';1;52;'persan>Perse'
+e;219553;'persan>52119';1;54;'persan>langue'
+e;438055;'persan>81046';1;50;'persan>tapis'
+e;247963;'panthère>36529';1;50;'panthère>amanite'
+e;263042;'panthère>18285';1;50;'panthère>papillon'
+e;6700525;'tigre royal>69587';1;0;'tigre royal>tank'
+e;318105;'lion>160622';1;50;'lion>signe du zodiaque'
+e;247484;'lion>74860';1;50;'lion>homme'
+e;218008;'minet>213452';1;52;'minet>terme d'affection'
+e;218009;'minet>49420';1;50;'minet>jeune homme'
+e;269225;'Hercule>32303';1;52;'Hercule>mythologie'
+e;269226;'Hercule>118538';1;50;'Hercule>prénom'
+e;269227;'Hercule>16644';1;50;'Hercule>astronomie'
+e;268964;'matou>91594';1;50;'matou>instrument de musique'
+e;231128;'tigresse>61490';1;50;'tigresse>femme'
+e;240076;'minou>14624';1;8;'minou>affection'
+e;249859;'chartreux>111410';1;50;'chartreux>religieux'
+e;317283;'omnivore>178691';1;52;'omnivore>régime alimentaire'
+e;237444;'être>94160';1;62;'être>existence'
+e;233840;'ronronner>4658';1;50;'ronronner>moteur'
+e;233841;'ronronner>5435';1;50;'ronronner>ronfler'
+e;233842;'ronronner>14370';1;50;'ronronner>routine'
+e;261936;'ronronner>104193';1;50;'ronronner>contentement'
+e;220344;'fauve>35841';1;50;'fauve>peinture'
+e;240077;'minou>215126';1;10;'minou>sexe de la femme'
+e;436342;'carnassier>25057';1;56;'carnassier>vorace'
+e;220039;'siamois>63758';1;12;'siamois>jumeaux'
+e;220041;'siamois>220040';1;6;'siamois>Siam'
+e;181472;'chat perché';1;10
+e;14915678;'chat Barbicho';1;0
+e;283589;'Ameiurus melas';777;50
+e;258470;'poisson-chat commun';1;50
+e;283590;'greffier Barbicho';777;52
+e;2425150;'chat bite';1;0
+e;330571;'chat>68467';1;62;'chat>poisson'
+e;2360117;'chat-bite';1;0
+e;2556720;'tigre du platane';1;0
+e;4455;'chien';1;5707
+e;77762;'phoque';1;112
+e;214059;'chien>63235';1;632;'chien>mammifère'
+e;168166;'chat de mer';1;50
+e;242162;'chien>63235>60448';1;58;'chien>mammifère>mâle'
+e;12109610;'chat (albumine sérique) ag';1;0
+e;12201871;'chat (albumine sérique)';1;0
+e;6290681;'lion de mer austral';1;0
+e;216120;'recette de cuisine';1;138
+e;2668669;'chat>143712>30810';1;0;'chat>marine>yacht'
+e;595158;'siamois>171869';1;0;'siamois>Adj:'
+e;674335;'sauvage>171870';1;0;'sauvage>Nom:'
+e;154463;'panthère rose';1;84
+e;5531;'patate';1;474
+e;22842;'hyène';1;126
+e;2479769;'léopon';1;0
+e;2634957;'lipard';777;0
+e;291267;'chat de maison';777;50
+e;290886;'Panthera tigris tigris';777;50
+e;290612;'Panthère longibande';777;50
+e;293614;'Felis pardalis';777;50
+e;295639;'Panthera pardus';777;50
+e;10618626;'tigre celtique';777;0
+e;12986028;'tigre dans la culture';777;0
+e;13284633;'persan gris';1;0
+e;13284634;'persan blanc';1;0
+e;12077791;'chat des steppes';1;0
+e;12077789;'chat d'Arkhangelsk';1;0
+e;12077792;'chat maigre';1;0
+e;12090296;'(chat (squames)+chien (squames)+cobaye (épithélium)+souris+rat) ac ige classification rast';1;0
+e;12077793;'chat sauvage d'Afrique';1;0
+e;9264564;'chat>116032';1;18;'chat>félin'
+e;5809335;'californian rex';777;0
+e;14049958;'Selkirk rex';1;0
+e;2456341;'oriental shorthair';1;0
+e;2386183;'scottish fold';1;0
+e;302315;'lynx boréal';777;50
+e;2508451;'sacré de Birmanie';1;0
+e;14573558;'::>66:150>24:8731956';8;0;'chat [peut] attraper une souris'
+e;14581542;'::>66:150>24:14581540';8;0;'chat [peut] dormir [endroit] canapé'
+e;14581597;'::>66:150>24:14581595';8;0;'chat [peut] chasser [objet] petits animaux'
+e;14386626;'::>66:150>26:50739';8;0;'chat [se faire] caresser'
+e;14531443;'::>66:137333>24:14531441';8;0;'tigre [peut] manger [endroit] jungle'
+e;14718817;'::>66:150>24:14718815';8;0;'chat [peut] pisser [endroit] paillasson'
+e;14726240;'::>66:150>24:14354949';8;0;'chat [peut] dormir [endroit] lit'
+e;14386630;'::>66:150>26:64325';8;0;'chat [se faire] aimer'
+e;14467280;'::>66:150>24:14467278';8;0;'chat [peut] se faire [endroit] tronc'
+e;14467282;'::>66:14467281>15:13744';8;0;'chat [peut] se faire [objet] griffes [lieu] tronc'
+e;14532253;'::>66:150>24:14532251';8;0;'chat [peut] se battre [endroit] jardin'
+e;14532481;'::>66:150>26:14532477';8;0;'chat [se faire] se battre avec'
+e;15189994;'Souricier en chef du Cabinet';777;0
+e;14959875;'en:birman';1;0
+e;14959876;'en:sacred cat of Burma';1;0
+e;14049930;'Burmese';1;0
+e;5809173;'Chief Mouser to the Cabinet Office';777;0
+e;15629133;'::>66:150>24:15629131';8;0;'chat [peut] observer [objet] allées et venues'
+e;16095516;'baume Latrone';777;0
+e;105872;'éléphant';1;880
+e;265692;'coronavirus';1;356
+e;15662942;'Tifil';777;0
+e;15662943;'Tiberth';777;0
+e;10190626;'Tevildo';777;0
+e;16153022;'::>66:150>24:327614';8;0;'chat [peut] manger [objet] viande'
+e;16153024;'::>66:150>24:155861';8;0;'chat [peut] manger de la viande'
+e;16169031;'::>66:150>24:16169029';8;0;'chat [peut] faire caca [endroit] jardin'
+e;16169087;'::>66:150>24:6735';8;0;'chat [peut] squatter'
+e;16169090;'::>66:150>24:16169088';8;0;'chat [peut] squatter [objet] siège'
+e;16170426;'::>66:150>24:14300958';8;0;'chat [peut] perdre ses poils'
+e;36679;'himalayen';1;52
+e;34366;'sibérien';1;58
+e;464997;'Persan';1;54
+e;16136220;'Herpailurus yagouaroundi';777;0
+e;2500;'somali';1;52
+e;155487;'humanoide';1;52
+e;16321816;'::>66:150>24:4388851';8;0;'chat [peut] voler [objet] nourriture'
+e;16321818;'::>66:150>24:4388850';8;0;'chat [peut] voler de la nourriture'
+e;16321861;'::>66:150>24:16321859';8;0;'chat [peut] manger [objet] croquette'
+e;16323832;'::>66:150>24:18886';8;0;'chat [peut] occuper'
+e;16323835;'::>66:150>24:16323833';8;0;'chat [peut] occuper [objet] siège'
+e;14883492;'::>66:150>24:9795796';8;0;'chat [peut] demander à manger'
+e;14883455;'::>66:150>24:14883453';8;0;'chat [peut] se déplacer de façon gracieuse'
+e;16317908;'::>66:150>24:62859';8;0;'chat [peut] passer par'
+e;16317911;'::>66:150>24:16317909';8;0;'chat [peut] passer par [objet] chatière'
+e;16318545;'::>66:150>26:39895';8;0;'chat [se faire] poursuivre'
+e;16318571;'::>66:150>24:16318569';8;0;'chat [peut] rentrer par la fenêtre'
+e;14907640;'::>66:150>24:14907638';8;0;'chat [peut] déféquer [endroit] jardin'
+e;217619;'SAUVAGE';1;50
+e;166755;'Highlander';1;50
+e;13786389;'felis silvestris';1;0
+e;2935045;'panthère longibande';777;0
+e;13782496;'felis pardalis';1;0
+e;13755634;'panthera pardus';1;0
+e;16324567;'::>66:14467281>15:52255';8;0;'chat [peut] se faire [objet] griffes [lieu] arbre'
+e;16324560;'::>66:150>24:16324558';8;0;'chat [peut] grimper à [objet] arbre'
+e;16324563;'::>66:150>24:16324561';8;0;'chat [peut] grimper à un arbre'
+e;16324566;'::>66:150>24:16324564';8;0;'chat [peut] se faire [endroit] arbre'
+e;16324577;'::>66:150>24:16324575';8;0;'chat [peut] se faire [endroit] souche'
+e;16324574;'::>66:150>24:16324572';8;0;'chat [peut] se faire les griffes [endroit] tronc'
+e;16324582;'::>66:150>24:16324580';8;0;'chat [peut] se faire les griffes [endroit] souche'
+e;16324557;'::>66:150>24:15223421';8;0;'chat [peut] grimper à'
+e;16324571;'::>66:150>24:16324569';8;0;'chat [peut] se faire les griffes [endroit] arbre'
+e;16324578;'::>66:14467281>15:104204';8;0;'chat [peut] se faire [objet] griffes [lieu] souche'
+e;2477987;'lynx de Perse';1;0
+e;143540;'bison';1;84
+e;5809797;'chats de l'Ermitage';777;0
+e;5809309;'associations félines';777;0
+e;145670;'sphinx';1;162
+e;2682450;'sphinx>150';1;0;'sphinx>chat'
+e;175841;'Panthère';1;50
+e;5892406;'lion des cavernes européen';777;0
+e;12090294;'(chat (squames)+cheval (squames)+chien (squames)+vache (squames)) ac ige classification rast';1;0
+e;14446668;'::>66:137333>24:2442';8;0;'tigre [peut] vivre'
+e;14446671;'::>66:137333>24:14446669';8;0;'tigre [peut] vivre [endroit] jungle'
+e;14445996;'::>66:150>24:14445994';8;0;'chat [peut] déféquer [endroit] caisse'
+e;14538697;'::>66:150>24:9241576';8;0;'chat [peut] se lécher le cul'
+e;14539946;'::>66:150>24:14113685';8;0;'chat [peut] se prélasser au soleil'
+e;14581544;'::>66:150>24:160597';8;0;'chat [peut] dormir sur le canapé'
+e;14531754;'::>66:150>24:255785';8;0;'chat [peut] faire des câlins'
+e;14531746;'::>66:150>24:47540';8;0;'chat [peut] miauler'
+e;14531445;'::>66:14531444>15:113093';8;0;'tigre [peut] manger [objet] proie [lieu] jungle'
+e;14531444;'::>66:137333>24:14531439';8;0;'tigre [peut] manger [objet] proie'
+e;14759724;'::>66:150>26:130164';8;0;'chat [se faire] manger'
+e;140851;'Chantilly';1;96
+e;2437074;'donskoy';1;0
+e;14962310;'en:donskoy';1;0
+e;14923565;'en:Bengal';1;0
+e;5952256;'Bengal';1;0
+e;14939582;'en:Cymric';1;0
+e;14049937;'Cymric';1;0
+e;15187936;'::>66:150>24:15187934';8;0;'chat [peut] pisser [endroit] plantes'
+e;15587228;'::>66:150>24:15587226';8;0;'chat [peut] vouloir se faire caresser'
+e;14326737;'::>66:150>24:14326735';8;0;'chat [peut] demander [objet] caresses'
+e;14326734;'::>66:150>24:54097';8;0;'chat [peut] demander'
+e;16310954;'::>66:150>24:61794';8;0;'chat [peut] se promener'
+e;16310955;'::>66:150>24:14472976';8;0;'chat [peut] se promener [endroit] jardin'
+e;16308161;'::>66:150>24:15483976';8;0;'chat [peut] se frotter contre'
+e;16308164;'::>66:150>24:16308162';8;0;'chat [peut] se frotter contre [objet] meuble'
+e;16308241;'::>66:150>24:163297';8;0;'chat [peut] faire ses griffes'
+e;16308244;'::>66:150>24:16308242';8;0;'chat [peut] faire ses griffes [endroit] canapé'
+e;10775783;'chat malade';1;0
+e;1455172;'lynx pardinus';777;0
+e;8936990;'en:lynx pardinus';1;0
+e;14304740;'chat hyperdactyle';1;0
+e;14656020;'tigre del río';777;0
+e;14386394;'::>66:150>24:43253';8;0;'chat [peut] dormir'
+e;14386397;'::>66:150>24:14386395';8;0;'chat [peut] dormir [endroit] fauteuil'
+e;14510600;'::>66:137333>24:130164';8;0;'tigre [peut] manger'
+e;14572849;'::>66:150>24:14572847';8;0;'chat [peut] se faire [endroit] canapé'
+e;14572853;'::>66:150>24:245915';8;0;'chat [peut] se faire les griffes'
+e;2499753;'bengal';1;0
+e;14303416;'chat fictif';1;0
+e;2536052;'bombay';1;0
+e;14655870;'::>66:150>24:14655868';8;0;'chat [peut] manger [objet] pâtée'
+e;14638925;'::>66:150>24:222803';8;0;'chat [peut] se rouler par terre'
+e;14925212;'en:highlander';1;0
+e;5881607;'Mandarin';1;0
+e;14926025;'en:Mandarin';1;0
+e;14965202;'en:ragamuffin';1;0
+e;5809207;'ragamuffin';777;0
+e;232163;'Thaï';1;54
+e;16175244;'::>66:150>24:139709';8;0;'chat [peut] s'envoler'
+e;276980;'Oncifelis guigna';777;50
+e;343175;'chat nouveau-né';1;50
+e;5808729;'chat porte-bonheur';777;0
+e;10822404;'chat à poil mi-long';1;0
+e;6373131;'chat américain à poil court';1;0
+e;6388991;'chat anglais à poil court';1;0
+e;6355170;'chat birman';1;0
+e;6343511;'chat bleu russe';1;0
+e;6358420;'chat bobtail japonais';1;0
+e;6408528;'chat chartreux';1;0
+e;6401921;'chat de somali';1;0
+e;6359662;'chat himalayen';1;0
+e;6383566;'chat javanais';1;0
+e;6343261;'chat korat';1;0
+e;6365090;'chat léopard domestique';1;0
+e;6334225;'chat maine coon';1;0
+e;6400086;'chat manul';1;0
+e;6380143;'chat oriental à poil court';1;0
+e;6416755;'chat rex du devon';1;0
+e;6383729;'chat singapura';1;0
+e;6413592;'chat tigre marsupial';1;0
+e;14355275;'::>66:150>24:140993';8;0;'chat [peut] s'installer'
+e;14355278;'::>66:150>24:14355276';8;0;'chat [peut] s'installer [endroit] genoux'
+e;14510602;'::>66:137333>24:327614';8;0;'tigre [peut] manger [objet] viande'
+e;14510607;'::>66:137333>24:14510605';8;0;'tigre [peut] manger [objet] viandes'
+e;14572850;'::>66:14467281>15:35676';8;0;'chat [peut] se faire [objet] griffes [lieu] canapé'
+e;14678460;'::>66:150>24:14678458';8;0;'chat [peut] chier [endroit] plantes'
+e;14926241;'en:Caracal';1;0
+e;14048;'highlander';1;50
+e;14326965;'::>66:150>24:14326963';8;0;'chat [peut] boire [objet] lait'
+e;14326970;'::>66:150>24:14326968';8;0;'chat [peut] se lécher [objet] cul'
+e;214815;'Le Maître chat ou le Chat botté';1;2
+e;90097;'louvoyer';1;78
+e;5892418;'Prionailurus planiceps';777;0
+e;5685948;'Acinonyx';777;0
+e;5892485;'Felis bieti';777;0
+e;14445993;'::>66:150>24:53455';8;0;'chat [peut] déféquer'
+e;14532723;'::>66:150>25:91932';8;0;'chat [objet pour] se battre'
+e;14532718;'::>66:150>24:14532716';8;0;'chat [peut] se battre avec [endroit] jardin'
+e;14532720;'::>66:14532719>15:139575';8;0;'chat [peut] se battre avec [objet] chat [lieu] jardin'
+e;14326967;'::>66:150>24:106132';8;0;'chat [peut] se lécher'
+e;14326962;'::>66:150>24:47918';8;0;'chat [peut] boire'
+e;14952239;'en:Oriental shorthair';1;0
+e;14959208;'en:cornish rex';1;0
+e;14959209;'en:devon rex';1;0
+e;14924095;'en:Burmese';1;0
+e;5809735;'Lil Bub';777;0
+e;7355584;'en:burmese cat';1;0
+e;1761533;'birmans';1;0
+e;600043;'gris>171869';1;0;'gris>Adj:'
+e;254775;'tigre en peluche';1;14
+e;267389;'chat anoure';1;50
+e;267388;'chat sans poils';1;50
+e;1655483;'berbe';1;0
+e;230123;'chat de Schrödinger';1;66
+e;114625;'Humphrey';1;50
+e;393486;'Larry';777;2042
+e;5892607;'Caracal caracal';777;0
+e;6385404;'chat exotique à poil court';1;0
+e;11831698;'chat marsupial à queue tachetée';777;0
+e;5892386;'Pardofelis';777;0
+e;5892420;'Pardofelis badia';777;0
+e;14655867;'::>66:150>24:130164';8;0;'chat [peut] manger'
+e;15781381;'vrai métazoaire';1;0
+e;53957;'safari';1;116
+e;16086860;'::>66:150>24:15013309';8;0;'chat [peut] manger [objet] pâtée pour chat'
+e;15192362;'chat en ligne';1;0
+e;16035610;'chat féral';1;0
+e;15195024;'chat propre';1;0
+e;15567302;'chat retombe toujours sur ses pattes';1;0
+e;15192356;'chat roux';1;0
+e;15910091;'chat sauvage>175542';1;0;'chat sauvage>Felis silvestris'
+e;15910092;'chat sauvage>234910';1;0;'chat sauvage>chat haret'
+e;16096051;'::>66:150>24:16096049';8;0;'chat [peut] manger [objet] croquettes'
+e;16096053;'::>66:150>24:8751138';8;0;'chat [peut] manger des croquettes'
+e;343166;'chat chasteil';1;50
+e;210470;'chat échaudé craint l'eau froide';1;74
+e;2955300;'Chat Diard';777;0
+e;6290417;'chat brun de havane';1;0
+e;6319242;'chat américain à poil dur';1;0
+e;6318764;'chat domestique à poil court';1;0
+e;6295381;'chat malais';1;0
+e;6300940;'chat balinais';1;0
+e;6303022;'chat bombay';1;0
+e;6303333;'chat abyssin';1;0
+e;6311423;'chat tonkinois';1;0
+e;6318031;'chat mau égyptien';1;0
+e;6296764;'chat angora turc';1;0
+e;6321820;'chat manx à poil long';1;0
+e;6322297;'chat scottish fold';1;0
+e;12727880;'tigre noir';1;0
+e;15076353;'en:safari';1;0
+e;14777444;'::>66:150>24:14777442';8;0;'chat [peut] chasser [objet] souris'
+e;126757;'Bombay';1;78
+e;15013314;'::>66:150>24:78635';8;0;'chat [peut] pousser'
+e;15013317;'::>66:150>24:15013315';8;0;'chat [peut] pousser [objet] miaulement'
+e;5892412;'chat de Geoffroy';777;0
+e;16264096;'::>66:150>24:326810';8;0;'chat [peut] griffer [objet] bras'
+e;14581594;'::>66:150>24:78768';8;0;'chat [peut] chasser'
+e;14759608;'::>66:150>24:55001';8;0;'chat [peut] ronronner'
+e;14759544;'::>66:150>24:73827';8;0;'chat [peut] voler'
+e;15876;'Tiffany';1;56
+e;10427054;'::>66:150>17:143206';8;0;'chat [carac] tigré'
+e;16076380;'::>66:150>24:20264';8;0;'chat [peut] faire sa toilette'
+e;15044062;'en:manx cat';1;0
+e;16065933;'::>66:150>24:16065931';8;0;'chat [peut] perdre [objet] poils'
+e;15941820;'::>66:150>24:123094';8;0;'chat [peut] laper'
+e;16065879;'::>66:150>24:56751';8;0;'chat [peut] se mettre en boule'
+e;16065930;'::>66:150>24:23654';8;0;'chat [peut] perdre'
+e;16065935;'::>66:150>24:9967389';8;0;'chat [peut] perdre des poils'
+e;15941840;'::>66:150>24:15941837';8;0;'chat [peut] laper [objet] lait'
+e;15983712;'::>66:150>24:4313527';8;0;'chat [peut] boire du lait'
+e;100625;'vulnérable';1;104
+e;44255;'nycthémère';1;54
+e;94422;'nycthéméral';1;52
+e;86559;'tapir';1;60
+e;273492;'Tapiridés';777;50
+e;82518;'tapirs';1;50
+e;103166;'prédation';1;86
+e;15647;'jaguarondi';1;50
+e;276736;'Puma yagouaroundi';777;50
+e;1438;'eyra';1;50
+e;3064;'kodkod';1;50
+e;276979;'Guiña';777;50
+e;242947;'Calvin et Hobbes';1;50
+e;216202;'Mewtwo';1;50
+e;248472;'nom de code';1;8
+e;271432;'Apache Tomcat';1;50
+e;290611;'panthère nébuleuse';777;72
+e;175783;'Neofelis nebulosa';1;50
+e;168223;'chaus';1;50
+e;291740;'chat des marais';777;50
+e;291741;'chat de jungle';777;50
+e;298901;'Lynx bai';777;50
+e;273800;'quasi menacé';777;50
+e;251834;'Le Tricheur à l'as de carreau';1;2
+e;302316;'Lynx commun';777;50
+e;151743;'lynx d'Eurasie';1;50
+e;305150;'chat des pampas';777;50
+e;168231;'colocolo';1;50
+e;175786;'Neofelis nebulosa nebulosa';1;50
+e;374153;'préoccupation mineure';1;50
+e;462139;'lynx lynx';777;50
+e;169448;'maladie des griffes du chat';1;58
+e;144542;'lymphoréticulose bénigne d'inoculation';1;50
+e;74529;'bobcat';1;50
+e;298838;'Felis irbis';777;50
+e;298839;'Uncia uncia';777;50
+e;272186;'En danger';777;50
+e;427573;'Once';1;50
+e;303889;'Panthera uncia';777;50
+e;73794;'Uncia';1;50
+e;408280;'uncia';1;50
+e;1655666;'lynx bai';1;0
+e;175688;'léopard des neiges';1;50
+e;401087;'irbis';1;50
+e;2872080;'Préoccupation mineure';777;0
+e;2936103;'Lynx d'Eurasie';777;0
+e;3179337;'Lynx roux';777;0
+e;2601675;'Quasi menacé';777;0
+e;3184132;'Léopard des neiges';777;0
+e;3184133;'Irbis';777;0
+e;1655799;'pumapard';1;0
+e;578887;'oncille';777;0
+e;50099;'thésaurus';1;50
+e;297022;'thésaurus de descripteurs';777;50
+e;297023;'thésaurus documentaire';777;50
+e;3676373;'dirofilarioses';777;0
+e;1859378;'maladie des vers du coeur';777;0
+e;289909;'Profelis aurata';777;50
+e;5557773;'chats de navire';777;0
+e;5809418;'21st century tiger';777;0
+e;5809169;'American Bobtail';777;0
+e;5809497;'Bobtail américain';777;0
+e;5809262;'Californian Spangled';777;0
+e;239598;'Ceylan';1;46
+e;236018;'Munchkin';1;2
+e;5809521;'Tournée du Chat noir';777;0
+e;5809714;'ailuromancie';777;0
+e;5809715;'aeluromancy';777;0
+e;5809717;'felidomancie';777;0
+e;5809824;'Coordinating Cat Control Council of Australia';777;0
+e;5809825;'ccca';777;0
+e;5809829;'New Zealand Cat Fancy';777;0
+e;5809830;'nzcf';777;0
+e;5809878;'Pangur Bán';777;0
+e;5892394;'Leopardus pajeros';777;0
+e;461900;'Non évalué';777;50
+e;2936983;'Chat des pampas';777;0
+e;5892395;'Leopardus colocolo pajeros';777;0
+e;5892407;'Homotherium';777;0
+e;5892411;'Leopardus geoffroyi';777;0
+e;5892415;'Prionailurus rubiginosus';777;0
+e;5892416;'chat rubigineux';777;0
+e;5892417;'Chat léopard de l'Inde';777;0
+e;5892421;'Chat bai';777;0
+e;5892422;'Chat doré de Bornéo';777;0
+e;5892432;'Panthera leo melanochaitus';777;0
+e;5892433;'Lion du Cap';777;0
+e;5892469;'Panthera leo leo';777;0
+e;3561222;'Éteint à l'état sauvage';777;0
+e;5892470;'Lion de l'Atlas';777;0
+e;5892471;'Lion de barbarie';777;0
+e;5892472;'Panthera leo europaea';777;0
+e;5892473;'lion européen';777;0
+e;5892474;'lion d'Europe';777;0
+e;5892475;'Panthera spelaea fossilis';777;0
+e;5892476;'lion des cavernes primitif';777;0
+e;5892479;'Panthera leo sinhaleyus';777;0
+e;5892480;'Lion du Sri Lanka';777;0
+e;5892481;'lion de Ceylan';777;0
+e;5892488;'Puma concolor coryi';777;0
+e;5892489;'panthère de Floride';777;0
+e;5892490;'cougar de Floride';777;0
+e;5892491;'puma de Floride';777;0
+e;5892497;'Pardofelis temminckii';777;0
+e;5892498;'Chat de Temminck';777;0
+e;5892499;'Chat doré d'Asie';777;0
+e;5892502;'Dinofelis';777;0
+e;5892507;'Felis silvestris lybica';777;0
+e;5892508;'Chat sauvage d'Afrique';777;0
+e;5892509;'chat ganté';777;0
+e;5892511;'Felis silvestris ornata';777;0
+e;5892512;'chat orné';777;0
+e;5892514;'Proailurinae';777;0
+e;5892515;'Proailurus';777;0
+e;5892516;'Proailurus lemanensis';777;0
+e;5892517;'Panthera pardus fusca';777;0
+e;5892518;'léopard indien';777;0
+e;5892522;'Lynx issiodorensis';777;0
+e;5892523;'lynx d'Issoire';777;0
+e;5892526;'Panthera pardus melas';777;0
+e;2608106;'En danger critique d'extinction';777;0
+e;5892527;'panthère de Java';777;0
+e;5892529;'Panthera pardus saxicolor';777;0
+e;5892530;'Panthère de Perse';777;0
+e;5892531;'Panthera pardus japonensis';777;0
+e;5892532;'panthère de Chine du Nord';777;0
+e;5892533;'Panthera pardus panthera';777;0
+e;5892534;'léopard de Barbarie';777;0
+e;5892535;'Panthera pardus kotiya';777;0
+e;5892536;'Panthère de Ceylan';777;0
+e;5892537;'léopard du Sri Lanka';777;0
+e;5892544;'lynx et loup-cervier';777;0
+e;5892546;'lions du Tsavo';777;0
+e;5892547;'Dinofelis barlowi';777;0
+e;5892564;'Panthera palaeosinensis';777;0
+e;5892565;'Felis palaeosinensis';777;0
+e;5892566;'Panthera tigris palaeosinensis';777;0
+e;5892568;'Felis silvestris gordoni';777;0
+e;5892569;'Chat sauvage de Gordon';777;0
+e;5892575;'Acinonyx pardinensis';777;0
+e;5892576;'guépard géant d'Eurasie';777;0
+e;5892589;'Leopardus guttulus';777;0
+e;5892611;'megantereon';777;0
+e;5892612;'Megantereon cultridens';777;0
+e;5893267;'Nimravus';777;0
+e;5893269;'Nimravidae';777;0
+e;5893270;'nimravidés';777;0
+e;5893271;'paléo-félins';777;0
+e;5893347;'Eusmilis';777;0
+e;15087640;'en:hole up';1;0
+e;7155988;'en:speckled';1;0
+e;15360376;'en:tachetic';1;0
+e;8571113;'Vulnérable';777;0
+e;5892562;'Chat d'Iriomote';777;0
+e;5892561;'Prionailurus bengalensis iriomotensis';777;0
+e;10383470;'Prionailurus iriomotensis';777;0
+e;9267656;'Contenus de qualité';777;0
+e;9267657;'Bons contenus';777;0
+e;5951228;'Sélection';1;0
+e;411314;'Programme';1;1431
+e;10367246;'Panthère des neiges';777;0
+e;127070;'chinchilla';1;78
+e;11479698;'Lion de Ceylan';777;0
+e;11479690;'Lion des cavernes européen';777;0
+e;5809718;'Creme Puff';777;0
+e;1804269;'rosettes';1;0
+e;12694633;'Panthère nébuleuse';777;0
+e;12986015;'tigresse de Champawat';777;0
+e;12986016;'tigre de Champawat';777;0
+e;12986025;'réserve de tigre de Dampa';777;0
+e;5809591;'Tardar Sauce';777;0
+e;5809590;'grumpy cat';777;0
+e;8043704;'en:bengal';1;0
+e;6888918;'en:burmese';1;0
+e;12255552;'Mau arabe';777;0
+e;12255551;'Mau égyptien';777;0
+e;5809344;'mau arabe';777;0
+e;2399110;'mau égyptien';1;0
+e;2469799;'tiffanie';1;0
+e;7355606;'en:ocicat';1;0
+e;14947851;'en:margay';1;0
+e;15291978;'en:give a spring';1;0
+e;15291979;'en:pounce at';1;0
+e;14938813;'en:pounce';1;0
+e;239479;'asiatiques';1;58
+e;14936687;'en:stretch';1;0
+e;15334390;'en:to stretch one's body';1;0
+e;15334391;'en:to have a stretch';1;0
+e;15334392;'en:to stretch o.s. out';1;0
+e;15334393;'en:to stretch o.s.';1;0
+e;15052922;'en:desexualize';1;0
+e;15052927;'en:unsex';1;0
+e;15090933;'en:spay';1;0
+e;153623;'peau de bête';1;56
+e;15072111;'en:skulk';1;0
+e;15227339;'en:to be tucked away';1;0
+e;15211890;'en:to go into hiding';1;0
+e;15211891;'en:to hide o.s.';1;0
+e;15565815;'en:be tucked away';1;0
+e;15565816;'en:hide o.s.';1;0
+e;15105489;'en:caterwaul';1;0
+e;14948969;'en:miaow';1;0
+e;15061230;'en:meow';1;0
+e;14966311;'en:wail';1;0
+e;14924738;'en:buckle';1;0
+e;15080160;'en:animalia';1;0
+e;14159777;'avoir des rapports sexuels';1;0
+e;255697;'avoir des relations sexuelles';1;50
+e;137831;'faire l'amour';1;1962
+e;15050135;'en:chilling';1;0
+e;390956;'baisser la tête';1;56
+e;106288;'tenir bon';1;80
+e;137164;'courber l'échine';1;72
+e;16150153;'en:Puss in boots';1;0
+e;356673;'grands fauves';1;50
+e;202281;'jardin zoologique';1;52
+e;14927763;'en:hairy';1;0
+e;7053316;'en:metazoa';1;0
+e;14948730;'en:mesoparasite';1;0
+e;7123482;'en:veterinary medicine';1;0
+e;15053436;'en:catamount';1;0
+e;14606397;'organisme hétérotrophe';1;2
+e;16761675;'en:Carthusian monk';1;0
+e;2431871;'puhu';1;0
+e;1252446;'tigre de Sumatra';1;0
+e;343168;'chat pard';1;50
+e;343176;'chat souricier';1;50
+e;343167;'chat de ruelle';1;50
+e;343174;'chat irbis';1;50
+e;343177;'chat épineux';1;50
+e;1804317;'chat de Sibérie';1;0
+e;343169;'chat persan roux';1;50
+e;197495;'chat en poche';1;50
+e;3301365;'Azraël>150';1;0;'Azraël>chat'
+e;586982;'tigre de l';777;0
+e;10427005;'::>66:150>17:64238';8;0;'chat [carac] noir'
+e;14941639;'en:havana brown';1;0
+e;14919409;'en:American curl';1;0
+e;14919407;'en:American wirehair';1;0
+e;14919406;'en:American shorthair';1;0
+e;15407112;'Chat ganté';777;0
+e;419634;'pardelle';1;50
+e;151004;'tiglon';1;54
+e;5892384;'Leopardus jacobitus';777;0
+e;5892392;'Pardofelis marmorata';777;0
+e;5892528;'Pseudaelurus';777;0
+e;5892405;'Panthera leo spelaea';777;0
+e;5892591;'Felis lunensis';777;0
+e;7256380;'en:zoology';1;0
+e;15415424;'chat européen';1;0
+e;16014745;'machairodonte';1;0
+e;2621672;'mandragot';777;0
+e;2621671;'chat d'argent';777;0
+e;2927233;'chat noir>115926';1;20;'chat noir>superstition'
+e;2927234;'chat noir>37799';1;0;'chat noir>anarchisme'
+e;2840192;'chinchilla>150';1;0;'chinchilla>chat'
+e;2323902;'chat-léopard';1;0
+e;2345676;'chat de fiction';1;0
+e;2471583;'silver shaded';1;0
+e;2404475;'chat doré africain';1;0
+e;2400461;'chat léopard';1;0
+e;213303;'Safari';666;50
+e;229276;'rhinoceros';666;50
+e;2927232;'chat noir>150';1;0;'chat noir>chat'
+e;12694696;'Chat des sables';777;0
+e;5892379;'chat des sables';777;0
+e;14937016;'en:European shorthair';1;0
+e;11553308;'tigre du poirier';777;0
+e;2405638;'cimrique';1;0
+e;15085126;'en:frightening';1;0
+e;14934846;'en:scary';1;0
+e;15107240;'en:Somalian';1;0
+e;15483549;'en:emersed';1;0
+e;15483548;'en:sprang from';1;0
+e;15483547;'en:sprung from';1;0
+e;15342254;'qui fait peur';1;0
+e;51187;'angoissant';1;96
+e;132281;'flippant';1;60
+e;108476;'inquiétant';1;104
+e;15088586;'en:systema nervosum';1;0
+e;2428584;'machaïrodonte';1;0
+e;215207;'sphynx>145670';1;50;'sphynx>sphinx'
+e;2375485;'chat des forêts norvégiennes';1;0
+e;2381836;'chat des forêts norvégien';1;0
+e;419706;'singapour';1;50
+e;14573357;'::>66:150>24:14573355';8;0;'chat [peut] pisser [endroit] canapé'
+e;6423367;'chat manx';1;0
+e;6800353;'en:nervous system';1;0
+e;120325;'miaou';1;210
+e;65596;'mistigri';1;62
+e;13562;'maraud';1;66
+e;13638029;'::>66:150>17:22262';8;0;'chat [carac] solitaire'
+e;14049919;'American curl';1;0
+e;14049920;'American shorthair';1;0
+e;2555284;'american curl';1;0
+e;14049921;'American wirehair';1;0
+e;2433840;'american shorthair';1;0
+e;2428834;'american wirehair';1;0
+e;14049923;'Australian mist';1;0
+e;14049925;'Bobtail des Kouriles';1;0
+e;5809348;'australian mist';777;0
+e;14049926;'Bobtail japonais';1;0
+e;14049927;'Brazilian shorthair';1;0
+e;2559819;'bobtail des Kouriles';1;0
+e;2517620;'bobtail japonais';1;0
+e;5809356;'brazilian shorthair';777;0
+e;14049933;'Californian spangled';1;0
+e;14049979;'californian spangled';1;0
+e;14049935;'Colorpoint shorthair';1;0
+e;14049936;'Cornish rex';1;0
+e;5809336;'colorpoint shorthair';777;0
+e;14049980;'cornish rex';1;0
+e;14049939;'European shorthair';1;0
+e;14049940;'Exotic shorthair';1;0
+e;5808811;'european shorthair';777;0
+e;2424112;'exotic shorthair';1;0
+e;14049949;'Norvégien ou Skogkatt';1;0
+e;14049951;'Ojos azules';1;0
+e;5809291;'ojos azules';777;0
+e;14049983;'norvégien ou Skogkatt';1;0
+e;14049963;'Turc de Van';1;0
+e;14049964;'Ural rex';1;0
+e;2460800;'turc de Van';1;0
+e;5809473;'ural rex';777;0
+e;13796367;'panthera uncia';1;0
+e;13739879;'chat de pallas';1;0
+e;2427596;'chat-tigre du Bengale';1;0
+e;10906691;'chat de mer>77762';1;0;'chat de mer>phoque'
+e;10906689;'chat de mer>68467';1;0;'chat de mer>poisson'
+e;13638031;'::>66:150>17:9903';8;0;'chat [carac] galeux'
+e;14561129;'::>66:150>24:14561127';8;0;'chat [peut] se lécher [objet] patte'
+e;14561176;'::>66:150>24:129502';8;0;'chat [peut] faire caca'
+e;14561179;'::>66:150>24:14561177';8;0;'chat [peut] faire caca [endroit] caisse'
+e;14631050;'::>66:150>24:8739456';8;0;'chat [peut] quémander de la nourriture'
+e;14631045;'::>66:150>24:92078';8;0;'chat [peut] quémander'
+e;4388608;'Tigre royal>116032';1;0;'Tigre royal>félin'
+e;13744972;'neofelis nebulosa';1;0
+e;14631048;'::>66:150>24:14631046';8;0;'chat [peut] quémander [objet] nourriture'
+e;15192364;'en:ordinary cat';1;0
+e;2457337;'rex de Cornouailles';1;0
+e;2487798;'miron';1;0
+e;2321605;'Léopard';1;0
+e;2488909;'york chocolat';1;0
+e;10998503;'chat castré';1;0
+e;10998552;'chat obèse';1;0
+e;11360888;'Chat du désert';777;0
+e;5892381;'chat du désert';777;0
+e;11479612;'léopard>116032';1;4;'léopard>félin'
+e;2434197;'american wire-hair';1;0
+e;5892496;'Felis nigripes';777;0
+e;12109614;'chat rfel d4 (recombinant) ag';1;0
+e;12109613;'chat rfel d1 (recombinant) ag';1;0
+e;12109612;'chat (squames) nfel d1 (natif) ag';1;0
+e;12109611;'chat (squames) ag';1;0
+e;12109252;'(chat (squames)+chien (squames)+cobaye (épithélium)+souris+rat) ag';1;0
+e;12109251;'(chat (squames)+cheval (squames)+chien (squames)+vache (squames)) ag';1;0
+e;12092963;'chat rfel d4 (recombinant) ac ige classification rast';1;0
+e;12092961;'chat rfel d1 (recombinant) ac ige classification rast';1;0
+e;12092958;'chat (squames) libération des leucotriènes';1;0
+e;12092957;'chat (squames) activation des basophiles';1;0
+e;12092956;'chat (squames) ac igg4';1;0
+e;12092955;'chat (squames) ac igg';1;0
+e;12092954;'chat (squames) ac ige classification rast';1;0
+e;12092952;'chat (albumine sérique) ac ige classification rast';1;0
+e;12202218;'(chat (squames)+chien (squames)+cobaye (épithélium)+souris+rat)';1;0
+e;12202186;'chat rfel d1 (recombinant)';1;0
+e;12202085;'chat (squames) nfel d1 (natif)';1;0
+e;12202084;'chat rfel d4 (recombinant)';1;0
+e;12202029;'(chat (squames)+cheval (squames)+chien (squames)+vache (squames))';1;0
+e;12201518;'chat (squames)';1;0
+e;12986031;'tigre de Tipu';777;0
+e;12986030;'tigre de Tippu';777;0
+e;13655701;'con de chat';1;0
+e;14049965;'York chocolat';1;0
+e;14270346;'Lynx boréal';777;0
+e;14346981;'::>66:150>24:87221';8;0;'chat [peut] griffer'
+e;14467275;'::>66:150>24:90891';8;0;'chat [peut] se faire'
+e;12462851;'en:exotic shorthaired cat';1;0
+e;14532719;'::>66:150>24:14532715';8;0;'chat [peut] se battre avec [objet] chat'
+e;14532724;'::>66:150>24:14532722';8;0;'chat [peut] se battre [avec] chat'
+e;14536513;'::>66:150>24:14536511';8;0;'chat [peut] se cacher sous un lit'
+e;14536651;'::>66:150>24:14536649';8;0;'chat [peut] dormir en boule [endroit] lit'
+e;302102;'caracal caracal';777;50
+e;13786022;'felis nigripes';1;0
+e;3422247;'York Chocolat';777;0
+e;17412737;'::>66:86046>26:62985';8;0;'proie [se faire] déchiqueter'
+e;14871391;'::>66:150>24:14871389';8;0;'chat [peut] manger [objet] souris'
+e;2438967;'Seychellois';1;0
+e;2413561;'Balinais';1;0
+e;76929;'Savannah';1;52
+e;406604;'Anatoli';1;50
+e;208188;'Sibérien';1;50
+e;173408;'Siamois';1;50
+e;14303418;'Garfield>10756';1;0;'Garfield>personnage'
+e;15106514;'en:Bengal tiger';1;0
+e;14951919;'en:snow leopard';1;0
+e;14919905;'en:wild animal';1;0
+e;15044064;'en:Burmese cat';1;0
+e;15413415;'animal en liberté';1;0
+e;15413421;'en:feral animal';1;0
+e;15413422;'en:free animal';1;0
+e;15413416;'en:unrestrained animal';1;0
+e;15413417;'en:free-range animal';1;0
+e;15413418;'en:free-ranging animal';1;0
+e;15413419;'en:animal that is free to roam';1;0
+e;15413420;'en:stray animal';1;0
+e;232580;'animal errant';1;10
+e;15413427;'en:wild beast';1;0
+e;7610607;'en:ounce';1;0
+e;14961101;'en:serval';1;0
+e;15192363;'en:online chat';1;0
+e;16341493;'::>66:150>24:32550';8;0;'chat [peut] respirer'
+e;16533886;'::>66:52611>30:37229';8;0;'zoo [lieu pour] se trouver'
+e;16533891;'::>66:52611>26:80350';8;0;'zoo [se faire] se trouver dans'
+e;16574743;'::>66:150>24:124836';8;0;'chat [peut] croquer'
+e;16574746;'::>66:150>24:16574744';8;0;'chat [peut] croquer [objet] poussin'
+e;16574730;'::>66:137333>24:101548';8;0;'tigre [peut] se jeter'
+e;16574733;'::>66:137333>24:16574731';8;0;'tigre [peut] se jeter [endroit] proie'
+e;16574735;'::>66:137333>24:318416';8;0;'tigre [peut] se jeter sur'
+e;16574738;'::>66:137333>24:16574736';8;0;'tigre [peut] se jeter sur [objet] proie'
+e;2358414;'tigreau';1;0
+e;16595168;'::>66:137333>24:130299';8;0;'tigre [peut] feuler'
+e;16596072;'::>66:150>26:24646';8;0;'chat [se faire] attraper'
+e;16596197;'::>66:150>24:16596195';8;0;'chat [peut] attraper [objet] souris>rongeur'
+e;16596201;'::>66:150>24:16596199';8;0;'chat [peut] croquer [objet] souris>rongeur'
+e;16596203;'::>66:150>24:41971';8;0;'chat [peut] avaler'
+e;16596206;'::>66:150>24:16596204';8;0;'chat [peut] avaler [objet] souris>rongeur'
+e;16596582;'::>66:150>24:14338';8;0;'chat [peut] attaquer'
+e;16596585;'::>66:150>24:16596583';8;0;'chat [peut] attaquer [objet] souris'
+e;16596594;'::>66:150>24:16596592';8;0;'chat [peut] s'installer [endroit] siège'
+e;16596602;'::>66:150>24:16596600';8;0;'chat [peut] pisser [endroit] siège'
+e;16596605;'::>66:150>24:16596603';8;0;'chat [peut] attraper [objet] mulots'
+e;16596606;'::>66:16596605>15:139575';8;0;'chat [peut] attraper [objet] mulots [lieu] jardin'
+e;16596611;'::>66:150>24:16596609';8;0;'chat [peut] attraper [objet] oiseau'
+e;16596612;'::>66:16596611>15:139575';8;0;'chat [peut] attraper [objet] oiseau [lieu] jardin'
+e;16596616;'::>66:150>26:78823';8;0;'chat [se faire] flatter'
+e;16596766;'::>66:150>26:34284';8;0;'chat [se faire] brosser'
+e;16597682;'::>66:150>24:16597680';8;0;'chat [peut] se lécher [objet] queue'
+e;16596775;'::>66:9264564>26:34284';8;0;'chat>félin [se faire] brosser'
+e;16596783;'::>66:9264564>26:112269';8;0;'chat>félin [se faire] câliner'
+e;16596788;'::>66:9264564>26:50739';8;0;'chat>félin [se faire] caresser'
+e;16596793;'::>66:9264564>26:47466';8;0;'chat>félin [se faire] nourrir'
+e;16596798;'::>66:9264564>26:86306';8;0;'chat>félin [se faire] prendre'
+e;16608607;'::>66:150>24:14465363';8;0;'chat [peut] manger [endroit] cuisine'
+e;16608612;'::>66:150>24:16608610';8;0;'chat [peut] manger des croquettes [endroit] cuisine'
+e;16608608;'::>66:16096051>15:16033';8;0;'chat [peut] manger [objet] croquettes [lieu] cuisine'
+e;16717054;'::>66:150>24:35427';8;0;'chat [peut] se prélasser'
+e;16587642;'chat à la boule au bout de la queue';777;0
+e;16746621;'tigre de feu';777;0
+e;16599286;'::>66:137333>24:7943';8;0;'tigre [peut] tuer'
+e;16777417;'::>66:137333>24:16777415';8;0;'tigre [peut] tuer [objet] touriste'
+e;16794376;'::>66:150>24:33981';8;0;'chat [peut] raffoler'
+e;16794379;'::>66:150>24:16794377';8;0;'chat [peut] raffoler [objet] croquettes'
+e;14627282;'Chaus';1;0
+e;17109790;'::>66:150>24:270315';8;0;'chat [peut] faire un câlin'
+e;2772;'ounce';1;50
+e;17178245;'::>66:150>24:54764';8;0;'chat [peut] grogner'
+e;17178247;'::>66:150>24:138923';8;0;'chat [peut] râler'
+e;17178250;'::>66:150>24:154604';8;0;'chat [peut] faire du bruit'
+e;17178253;'::>66:150>24:1649873';8;0;'chat [peut] courir partout'
+e;17178257;'::>66:150>24:79364';8;0;'chat [peut] sauter'
+e;17178259;'::>66:150>24:62933';8;0;'chat [peut] bondir'
+e;17178271;'::>66:150>24:33082';8;0;'chat [peut] crier'
+e;16881576;'chat (morsure de)';1;0
+e;17398509;'::>66:150>24:17398507';8;0;'chat [peut] attraper [objet] rongeur'
+e;17398512;'::>66:150>24:17398510';8;0;'chat [peut] griffer [objet] canapé'
+e;17398513;'::>66:150>24:14365488';8;0;'chat [peut] attraper [objet] proie'
+e;17398515;'::>66:150>24:11057780';8;0;'chat [peut] attraper une proie'
+e;17450470;'::>66:150>24:17450468';8;0;'chat [peut] se faire [endroit] meuble'
+e;17450471;'::>66:14467281>15:36899';8;0;'chat [peut] se faire [objet] griffes [lieu] meuble'
+e;17450475;'::>66:150>24:17450473';8;0;'chat [peut] se faire les griffes [endroit] meuble'
+e;17450480;'::>66:150>24:17450478';8;0;'chat [peut] se faire [endroit] tapis'
+e;17450481;'::>66:14467281>15:81046';8;0;'chat [peut] se faire [objet] griffes [lieu] tapis'
+e;17450485;'::>66:150>24:17450483';8;0;'chat [peut] se faire les griffes [endroit] tapis'
+e;17450488;'::>66:150>24:17450486';8;0;'chat [peut] se faire [endroit] tronc d'arbre'
+e;17450489;'::>66:14467281>15:154094';8;0;'chat [peut] se faire [objet] griffes [lieu] tronc d'arbre'
+e;17450493;'::>66:150>24:17450491';8;0;'chat [peut] se faire les griffes [endroit] tronc d'arbre'
+e;21532;'chat à neuf queues';1;66
+e;3387711;'puma>116032';1;0;'puma>félin'
+e;332651;'félines';1;50
+e;2418690;'chat des égouts';1;0
+e;63309;'rat';1;1422
+e;39377;'minette';1;144
+e;308175;'chat sylvestre';777;50
+e;97643;'raminagrobis';1;56
+e;5809085;'Madchat';777;0
+e;5809489;'chat rex';777;0
+e;5809368;'Cath Paluc';777;0
+e;5809706;'chat à poil court';777;0
+e;9808585;'chat d'Arnold';777;0
+e;9268384;'chat de laboratoire';1;0
+e;9698655;'chat mouillé';1;0
+e;9699603;'chat à pieds noirs>171870';1;0;'chat à pieds noirs>Nom:'
+e;10001836;'chat de race';1;0
+e;3378471;'chat>63235>60448';1;0;'chat>mammifère>mâle'
+e;181474;'chat-parde';1;50
+e;2483762;'chat bleu';1;0
+e;5056303;'chat de Biet';1;0
+e;5056347;'Chat de Biet';777;0
+e;5809333;'chat polydactyle';777;0
+e;5809568;'Unsinkable Sam';777;0
+e;5809366;'Capalu';777;0
+e;5892419;'chat à tête plate';777;0
+e;5892404;'tigre de Chine méridionale';777;0
+e;5892390;'chat tig';777;0
+e;5989267;'Lynx pardelle';777;0
+e;15205227;'en:fat cat';1;0
+e;11554411;'Singapura';1;0
+e;14964710;'en:paper tiger';1;0
+e;2534317;'chat forestier européen';1;0
+e;2519537;'chat des rues';1;0
+e;2432678;'chat nageur';1;0
+e;5809144;'Mrs. Chippy';777;0
+e;5809490;'chat à poil frisé';777;0
+e;5892385;'Chat des Andes';777;0
+e;5892478;'tigre de la Caspienne';777;0
+e;404463;'Chartreux';1;50
+e;12698635;'Korat';1;0
+e;92372;'Serengeti';1;50
+e;2926724;'Sphynx';777;0
+e;6888909;'en:asian';1;0
+e;2510198;'persan chinchilla';1;0
+e;2424202;'américain à poils courts';1;0
+e;175275;'Canidé';1;50
+e;2536778;'chat léopard du Bengale';1;0
+e;2460357;'chat chrysanthème';1;0
+e;2434578;'chat espagnol';1;0
+e;2408373;'chat-léopard du Bengale';1;0
+e;1804368;'Chat léopard du Bengale';777;0
+e;566561;'Chat aux pattes noires';777;50
+e;1804366;'Chat-léopard';777;0
+e;5892563;'chat de Kellas';777;0
+e;2515299;'Abyssin';1;0
+e;2506510;'laPerm';1;0
+e;2459199;'munchkin';1;0
+e;13787736;'chat de bombay';1;0
+e;13780967;'chat du bengale';1;0
+e;268097;'chatte en chaleur';1;6
+e;318456;'Tigre royal';777;50
+e;2927827;'Lynx d'Espagne';777;0
+e;2526630;'chat du lac de Van';1;0
+e;2387919;'chat des rochers';1;0
+e;2539424;'chat astrakan';1;0
+e;2419719;'chat-rochier';1;0
+e;5333696;'tigre albinos';1;0
+e;1468146;'lynx du désert';777;0
+e;5711548;'chat événementiel';777;0
+e;5892592;'Chat de Martelli';777;0
+e;5892506;'tigre de Malaisie';777;2
+e;6426253;'chat rex de cornouailles';1;0
+e;15235825;'en:freckled';1;0
+e;1395235;'être>171870';1;0;'être>Nom:'
+e;9773307;'en:leopardus wiedii';1;0
+e;10444401;'Asian';1;0
+e;10551291;'Donskoy';1;0
+e;5996476;'Manx';1;0
+e;1854647;'Snowshoe';1;0
+e;5809472;'minskin';777;0
+e;2510433;'peterbald';1;0
+e;12080404;'panthère d'Afrique';1;0
+e;14532247;'::>66:150>24:91932';8;0;'chat [peut] se battre'
+e;14532479;'::>66:150>24:14532477';8;0;'chat [peut] se battre avec'
+e;13803012;'lynx d'espagne';1;0
+e;13790688;'chat pêcheur';1;0
+e;13755463;'chat de temminck';1;0
+e;13755462;'chat doré d'asie';1;0
+e;13796610;'chat marbré';1;0
+e;5809178;'American Wirehair';777;0
+e;14947711;'en:Manx';1;0
+e;14921278;'en:Asian';1;0
+e;8936992;'en:bobcat';1;0
+e;15206831;'en:sabre-toothed tiger';1;0
+e;15107241;'en:Somali';1;0
+e;25570;'Persique';1;50
+e;17249813;'Tigre de Malaisie';777;0
+e;436343;'carnassier>48855';1;60;'carnassier>carnivore'
+e;2955274;'Lynx du Canada';777;0
+e;2469322;'chat des chartreux';1;0
+e;2393075;'chat rochier';1;0
+e;599254;'carnassier>171869';1;0;'carnassier>Adj:'
+e;5334014;'tigre birman';1;0
+e;1889885;'Chat du Chili';777;0
+e;5809567;'Sam l'insubmersible';777;0
+e;5809372;'chat à poil long';777;0
+e;5892338;'tigre blanc royal';777;0
+e;5892513;'tigre doré';777;0
+e;5989265;'Lynx ibérique';777;0
+e;6450938;'chat indigène de l'est';1;0
+e;2521039;'korat';1;0
+e;2522197;'ocicat';1;0
+e;2520403;'snowshoe';1;0
+e;113084;'thaï';1;156
+e;15044063;'en:Manx cat';1;0
+e;247485;'lion>1816';1;50;'lion>héraldique'
+e;213940;'rat>71115';1;170;'rat>rongeur'
+e;1859363;'chat d'oeuvre';777;0
+e;2477223;'chat de Chine';1;0
+e;4407;'omnivore';1;104
+e;191256;'chat marin';1;50
+e;5498322;'chat en poche>146889';1;0;'chat en poche>Adv:'
+e;5809343;'Orangey';777;0
+e;5809370;'Cath Balug';777;0
+e;5892484;'tigre d'Indochine';777;0
+e;2453226;'burmilla';1;0
+e;2437565;'savannah';1;0
+e;75419;'seychellois';1;50
+e;2365558;'tiffany';1;0
+e;5892393;'Chat marbré';777;0
+e;2462071;'Somali';1;0
+e;2480279;'asian';1;0
+e;2505055;'nebelung';1;0
+e;2542036;'pixie-bob';1;0
+e;2528934;'sokoké';1;0
+e;5809251;'toyger';777;0
+e;343179;'chat doré';1;50
+e;269863;'chat blanc';1;54
+e;308174;'chat forestier';777;50
+e;1233443;'Prionailurus viverrinus';777;0
+e;5631085;'tigre qui pleure';777;0
+e;5558161;'Wilberforce';1;0
+e;5809334;'hyperdactyle';777;0
+e;5892486;'Felis silvestris bieti';777;0
+e;6445530;'chat doré d'afrique';1;0
+e;6428914;'chat domestique à poil long';1;0
+e;2469232;'serengeti';1;0
+e;5809332;'skookum';777;0
+e;1768144;'souplesse>51834';1;0;'souplesse>agilité'
+e;362977;'mammifère quadrupède';1;50
+e;2490605;'chat des bois norvégien';1;0
+e;2420191;'chat de Malte';1;0
+e;1233442;'Chat pêcheur';777;0
+e;5809367;'Capalus';777;0
+e;5809364;'chat ailé';777;0
+e;6424534;'chat colourpoint à poil court';1;0
+e;6700535;'tigre royal>116032';1;0;'tigre royal>félin'
+e;2510580;'burmese';1;0
+e;56698;'chantilly';1;196
+e;73205;'mandarin';1;672
+e;2483089;'singapura';1;0
+e;15548063;'en:frog in the throat';1;0
+e;15423445;'en:Russian Blue';1;0
+e;2547375;'chat du Bengale';1;0
+e;2539545;'chat loutre';1;0
+e;2923052;'Chat viverrin';777;0
+e;155192;'ceylan';1;50
+e;2399133;'chausie';1;0
+e;2566215;'cymric';1;0
+e;3266418;'anatoli';777;0
+e;14049924;'Bleu russe';1;0
+e;2448955;'bleu russe';1;0
+e;2558084;'chat de Bombay';1;0
+e;4898722;'chat dans la gorge';1;0
+e;14925211;'en:British longhair';1;0
+e;2478484;'chat oriental';1;0
+e;5498321;'chat en poche>171870';1;0;'chat en poche>Nom:'
+e;44104;'liard';1;50
+e;5809369;'Cath Palug';777;0
+e;5892337;'tigre blanc';777;0
+e;14924170;'en:kitten';1;0
+e;15430214;'en:white tiger';1;0
+e;15417050;'en:zoological gardens';1;0
+e;15214359;'en:big cats';1;0
+e;14937883;'en:Persian';1;0
+e;12005357;'Havana Brown';777;0
+e;2439923;'chat sauvage de la Nouvelle-Espagne';1;0
+e;12077790;'chat de l'île de Man';1;0
+e;14049928;'British longhair';1;0
+e;2446890;'british longhair';1;0
+e;14049942;'Havana brown';1;0
+e;5809298;'havana brown';777;0
+e;14049982;'khao Manee';1;0
+e;2853810;'guigna>116032';1;0;'guigna>félin'
+e;320312;'Tigre à dents de sabre';666;50
+e;147474;'balinais';1;50
+e;6399949;'chat de l'île de man';1;0
+e;15195028;'en:chinchilla cat';1;0
+e;2457268;'chat chinchilla';1;0
+e;5809047;'Khao Manee';777;0
+e;2542063;'bobtail américain';1;0
+e;14049948;'Nebelung';1;0
+e;14049952;'Oriental shorthair';1;0
+e;14049956;'Ragdoll';1;0
+e;14049931;'Burmilla';1;0
+e;14049943;'Highland fold11';1;0
+e;14049945;'LaPerm';1;0
+e;14049947;'Minskin';1;0
+e;14049953;'Peterbald';1;0
+e;14049955;'Ragamuffin';1;0
+e;14049959;'Skookum';1;0
+e;14049960;'Sokoké';1;0
+e;261939;'ronronner de plaisir';1;50
+e;317284;'omnivore>17559';1;52;'omnivore>animal'
+e;3705986;'donner à manger au chat';1;8
+e;14049932;'Californian rex';1;0
+e;14049934;'Chausie';1;0
+e;14049944;'Himalayen';1;0
+e;14049950;'Ocicat';1;0
+e;14049954;'Pixie-bob';1;0
+e;14049961;'Tonkinois';1;0
+e;14049962;'Toyger';1;0
+e;2853803;'nourrir le chat';1;54
+e;271689;'herpestidé';1;52
+e;14593925;'espèce carnivore';1;2
+e;14637107;'régime>178691>113902';1;0;'régime>régime alimentaire>alimentation'
+e;13143243;'queue d'un animal';1;0
+e;14680419;'tirer la queue du chat';1;4
+e;269371;'chat musqué';1;50
+e;156664;'::>13:86756>29:36548>15';9;50;'Où un lion pourrait rugir ?'
+e;326609;'::>13:86756>29:36548';8;50;'rugir [sujet] lion'
+e;5989266;'Lynx pardinus';777;0
+e;2521085;'catrole';1;0
+e;415811;'guigna';1;50
+e;16769761;'Tigre de Bali';777;0
+e;246740;'::>66:115352>17:4598';8;50;'griffe [carac] rétractile'
+e;3706251;'se faire griffer par le chat';1;0
+e;14467281;'::>66:150>24:14467276';8;0;'chat [peut] se faire [objet] griffes'
+e;16794493;'::>66:150>24:39840';8;0;'chat [peut] adorer'
+e;105784;'chatterie';1;66
+e;3322289;'ragdoll>150';1;0;'ragdoll>chat'
+e;7376190;'en:caracal';1;0
+e;14049946;'Maine coon';1;0
+e;14331285;'::>66:150>24:24646';8;0;'chat [peut] attraper'
+e;14331291;'::>66:14331287>15:120416';8;0;'chat [peut] attraper [objet] souris [lieu] grenier'
+e;14331346;'::>66:150>24:14331341';8;0;'chat [peut] grignoter [objet] souris>gigot'
+e;14331347;'::>66:14331346>15:89591';8;0;'chat [peut] grignoter [objet] souris>gigot [lieu] table'
+e;14464432;'::>66:150>24:14464430';8;0;'chat [peut] se lécher [objet] couilles'
+e;14883725;'::>66:150>24:113767';8;0;'chat [peut] monter'
+e;16794491;'::>66:150>24:16794489';8;0;'chat [peut] aimer [objet] croquettes'
+e;155694;'tigrou';1;120
+e;579328;'chat foreign';1;0
+e;14327137;'::>66:150>24:119520';8;0;'chat [peut] chier'
+e;14331328;'::>66:150>24:14331326';8;0;'chat [peut] attraper [objet] souris grise'
+e;14331345;'::>66:150>24:14331343';8;0;'chat [peut] grignoter [endroit] table'
+e;14350670;'::>66:150>24:14350668';8;0;'chat [peut] griffer [objet] fauteuil'
+e;14572856;'::>66:150>24:14572854';8;0;'chat [peut] se faire les griffes [endroit] canapé'
+e;14573354;'::>66:150>24:115919';8;0;'chat [peut] pisser'
+e;15629130;'::>66:150>24:139386';8;0;'chat [peut] observer'
+e;14880417;'::>66:150>24:14880415';8;0;'chat [peut] pisser [endroit] lit'
+e;15625013;'::>66:150>24:2642';8;0;'chat [peut] péter'
+e;16591420;'::>66:150>26:52004';8;0;'chat [se faire] écraser'
+e;16717055;'::>66:150>24:14331368';8;0;'chat [peut] se prélasser [endroit] lit'
+e;16794494;'::>66:150>24:16794385';8;0;'chat [peut] adorer [objet] croquettes'
+e;17347993;'::>66:150>24:92304';8;0;'chat [peut] grimper'
+e;231575;'chat-château';1;50
+e;98263;'haret';1;102
+e;14324414;'::>66:150>24:21149';8;0;'chat [peut] dévorer'
+e;14327145;'::>66:150>24:14327143';8;0;'chat [peut] vomir [endroit] tapis'
+e;14331287;'::>66:150>24:11289122';8;0;'chat [peut] attraper [objet] souris'
+e;14331295;'::>66:150>24:14331293';8;0;'chat [peut] attraper [endroit] jardin'
+e;14331296;'::>66:14331287>15:139575';8;0;'chat [peut] attraper [objet] souris [lieu] jardin'
+e;14331300;'::>66:150>24:14331298';8;0;'chat [peut] attraper [objet] mulot'
+e;14331301;'::>66:14331300>15:139575';8;0;'chat [peut] attraper [objet] mulot [lieu] jardin'
+e;14331340;'::>66:150>24:38723';8;0;'chat [peut] grignoter'
+e;14331362;'::>66:150>26:185863';8;0;'chat [se faire] courir après'
+e;14346984;'::>66:150>24:14346982';8;0;'chat [peut] griffer [avec] griffes'
+e;14536645;'::>66:150>24:14536643';8;0;'chat [peut] dormir en boule'
+e;14536648;'::>66:150>24:14536646';8;0;'chat [peut] dormir en boule [endroit] canapé'
+e;15013358;'::>66:150>24:59014';8;0;'chat [peut] se cacher'
+e;16794488;'::>66:150>24:64325';8;0;'chat [peut] aimer'
+e;17347996;'::>66:150>24:17347994';8;0;'chat [peut] grimper [endroit] sapin'
+e;14327140;'::>66:150>24:14327138';8;0;'chat [peut] chier [endroit] jardin'
+e;14327142;'::>66:150>24:116746';8;0;'chat [peut] vomir'
+e;14331290;'::>66:150>24:14331288';8;0;'chat [peut] attraper [endroit] grenier'
+e;14331329;'::>66:14331328>15:120416';8;0;'chat [peut] attraper [objet] souris grise [lieu] grenier'
+e;14334673;'::>66:150>24:24388';8;0;'chat [peut] régurgiter'
+e;130656;'Chat Botté';1;50
+e;14883728;'::>66:150>24:14883726';8;0;'chat [peut] monter [endroit] arbre'
+e;15150838;'en:black panther';1;0
+e;7355612;'en:siamese cat';1;0
+e;17025501;'Maine Coon';777;0
+e;3706332;'céder au chat qui redemande à manger';1;0
+e;2427198;'golden shaded';1;0
+e;14334676;'::>66:150>24:14334674';8;0;'chat [peut] régurgiter [endroit] tapis'
+e;2849067;'régime carnivore';1;42
+e;14531689;'mon minou';1;0
+e;8991744;'en:ocelot';1;0
+e;2549865;'maine coon';1;0
+e;3223812;'Petit lion';777;0
+e;3323111;'lynx>116032';1;8;'lynx>félin'
+e;3157118;'an:4455:51470:150:?';12;50
+e;2389138;'ragdoll';1;0
+e;291410;'chat Diard';777;50
+e;212540;'Chat botté';666;50
+e;2466839;'selkirk rex';1;0
+e;2397423;'Sacré de Birmanie';1;0
+e;7355607;'en:persian cat';1;0
+e;15331525;'en:puss in boots';1;0
+e;3706253;'engueuler le chat';1;0
+e;3706331;'ne pas céder au chat qui redemande à manger';1;2
+e;14049957;'Scottish fold';1;0
+e;15333684;'en:once bitten, twice shy';1;0
+e;17025648;'Scottish Fold';777;0
+e;2417865;'rex devon';1;0
+e;16601947;'::>66:137333>15:113093';8;0;'tigre [lieu] jungle'
+e;15195026;'en:Puss in Boots';1;0
+e;212183;'Bagheera';1;16
+e;15192359;'en:tabby cat';1;0
+e;152662;'leopard';1;50
+e;14925213;'en:British shorthair';1;0
+e;15079661;'en:Persian cat';1;0
+e;15195027;'en:Siamese cat';1;0
+e;5129556;'propreté de chatte';1;0
+e;16769770;'Panthère nébuleuse de Bornéo';777;0
+e;9157254;'en:leopard';1;0
+e;16769882;'Chat à pieds noirs';777;0
+e;1655525;'chat doré de Bornéo';1;0
+e;566560;'chat à pieds noirs';777;50
+e;2927640;'Tigre de Java';777;0
+e;15010181;'Félin hybride';777;0
+e;15367819;'en:bay cat';1;0
+e;16601946;'::>66:137333>15:164130';8;0;'tigre [lieu] musée d'histoire naturelle'
+e;1655524;'chat bai';1;0
+e;175696;'lion du Transvaal';1;50
+e;169908;'Jaguar';1;56
+e;14049941;'German rex';1;0
+e;14937962;'en:big cat';1;0
+e;2428010;'german rex';1;0
+e;14170065;'tigre blanc de l'Ouest';777;0
+e;10314499;'tigre blanc de l'ouest';777;0
+e;14049922;'Angora turc';1;0
+e;2430745;'angora turc';1;0
+e;14049938;'Devon rex';1;0
+e;14049929;'British shorthair';1;0
+e;2390814;'british shorthair';1;0
+e;2551953;'devon rex';1;0

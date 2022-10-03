@@ -1,0 +1,569 @@
+e;eid;'name';type;w;'formated name'
+e;140962;'piston';1;128
+e;316850;'entité physique';1;50
+e;139768;'artéfact';1;142
+e;28686;'connu';1;3830
+e;75331;'triche';1;154
+e;233938;'cylindre>204066';1;6;'cylindre>moteur à explosion'
+e;69182;'partir';1;3868
+e;49679;'part';1;3796
+e;398886;'coulissante';1;50
+e;22648;'coulissant';1;50
+e;367219;'offre de service';1;50
+e;15444181;'en:services offered';1;0
+e;214495;'aire de service';1;50
+e;15206848;'en:motorway service station';1;0
+e;15206846;'en:service area';1;0
+e;15206847;'en:motorway services';1;0
+e;15206849;'en:service plaza';1;0
+e;214494;'aire d'autoroute';1;34
+e;81662;'accointance';1;52
+e;24247;'service';1;3715
+e;7997550;'en:services';1;0
+e;33701;'soutien';1;3139
+e;29433;'Piston';1;50
+e;74572;'patronage';1;52
+e;74182;'pitaine';1;50
+e;165514;'recommandations';1;58
+e;9115679;'en:combine';1;0
+e;584111;'centralien>171869';1;0;'centralien>Adj:'
+e;15462750;'en:student of/at the Ecole Centrale';1;0
+e;14916755;'en:valve';1;0
+e;15193404;'en:string-pulling';1;0
+e;15106535;'en:poppet';1;0
+e;14931818;'en:plunger';1;0
+e;14954994;'en:piston valve';1;0
+e;14954992;'en:Perinet valve';1;0
+e;6876635;'en:influence';1;0
+e;38344;'sociologie';1;2117
+e;49450;'aide';1;2943
+e;86976;'appui';1;104
+e;63471;'protection';1;3475
+e;696867;'moteur à boule chaude';777;0
+e;57957;'coup de pouce';1;98
+e;15020885;'Ecole centrale';1;0
+e;9401;'parrainage';1;64
+e;231457;'recommendation';1;50
+e;76827;'accointances';1;50
+e;584110;'centralien>171870';1;0;'centralien>Nom:'
+e;122978;'faveur';1;3137
+e;36071;'relation';1;3497
+e;129036;'centralien';1;50
+e;41994;'intervention';1;2156
+e;246742;'moteur à pistons';1;50
+e;141534;'combine';1;64
+e;3384557;'Coup de pouce';777;0
+e;134886;'plomberie';1;364
+e;68976;'instruments de musique';1;84
+e;37731;'injustice';1;520
+e;79255;'enseignement';1;1991
+e;71659;'pistonner';1;78
+e;95706;'automobile';1;3274
+e;146050;'militaire';1;3686
+e;42774;'armement';1;232
+e;144850;'armée';1;3547
+e;124166;'services';1;3553
+e;7053874;'en:recommendation';1;0
+e;14954993;'en:piston';1;0
+e;56405;'capiston';1;50
+e;144032;'cylindre';1;1305
+e;67368;'mécanique';1;3334
+e;91594;'instrument de musique';1;538
+e;87987;'France';1;4525
+e;261731;'locomotive>5425';1;50;'locomotive>machine'
+e;93100;'capitaine';1;3078
+e;13701;'technique';1;3729
+e;241621;'moteur en étoile';1;2
+e;246870;'objet>109527';1;200;'objet>chose'
+e;237;'objet';1;3470
+e;70527;'musique';1;9936
+e;4658;'moteur';1;3467
+e;216183;'pièce mécanique';1;10
+e;127846;'recommandation';1;126
+e;239128;'_COM';36;50
+e;259861;'piston>93100';1;50;'piston>capitaine'
+e;259860;'piston>70527';1;50;'piston>musique'
+e;259858;'piston>127846';1;62;'piston>recommandation'
+e;259859;'piston>216183';1;50;'piston>pièce mécanique'
+e;595087;'piston>171870';1;0;'piston>Nom:'
+e;595088;'piston>171869';1;0;'piston>Adj:'
+e;7187002;'en:music';1;0
+e;316416;'music';777;664
+e;2586628;'Gender:Fem';4;0
+e;171869;'Adj:';4;50
+e;2586627;'Gender:Mas';4;0
+e;2586629;'Number:Sing';4;0
+e;146885;'Nom:Mas+SG';4;50
+e;171870;'Nom:';4;50
+e;15538356;'zone de service';1;0
+e;17039817;'prestations de services';1;0
+e;93370;'clientélisme';1;54
+e;44241;'favoritisme';1;82
+e;64227;'anomalie';1;867
+e;20795;'tuba';1;158
+e;215393;'tube>116053';1;38;'tube>conduit'
+e;134899;'tube';1;3121
+e;105716;'tuyau';1;634
+e;96851;'pièce';1;3994
+e;25856;'valve';1;138
+e;117604;'mécanisme';1;2674
+e;106265;'appareil';1;2573
+e;14944897;'en:cylinder head gasket';1;0
+e;202357;'joint de culasse';1;52
+e;114109;'culasse';1;62
+e;225215;'moteur>5425';1;140;'moteur>machine'
+e;155305;'locomotive à vapeur';1;84
+e;6890;'voiture';1;11676
+e;97701;'locomotive';1;506
+e;15016687;'Wright R-1820-77';1;0
+e;256309;'essoreuse à salade';1;18
+e;15207600;'en:salad spinner';1;0
+e;365139;'moteur à piston';1;108
+e;15393731;'en:radial engine';1;0
+e;15193400;'en:piston motor';1;0
+e;15193401;'en:piston engine';1;0
+e;8568752;'moteur à pistons alternatifs';1;0
+e;79324;'cuivres';1;86
+e;14012441;'piston racleur';777;0
+e;6331718;'signe du piston';1;0
+e;14225356;'avoir du piston';1;2
+e;13538416;'dôme en piston';1;0
+e;5574039;'moteur à piston camless';777;0
+e;15327955;'jouer du piston';1;0
+e;15193394;'axe de piston';1;0
+e;15193402;'alésage de piston';1;0
+e;16036959;'vis-piston';1;0
+e;11341279;'piston rotatif';1;0
+e;11341281;'piston triangulaire';1;0
+e;15306643;'accumulateur à piston';1;0
+e;5537516;'architecture des moteurs à piston';777;0
+e;12790759;'pipette à piston';777;0
+e;16085474;'mouvement ascendant du piston';1;0
+e;2477665;'compresseur à piston';1;0
+e;12765632;'piston à simple effet';1;0
+e;12765633;'piston à double effet';1;0
+e;15356197;'claquement du piston';1;0
+e;365140;'moteur à piston rotatif';1;50
+e;345380;'crosse de piston';1;50
+e;370601;'piston de seringue';1;50
+e;371809;'pompe à piston tournant';1;50
+e;356835;'grippage de piston';1;50
+e;370602;'piston de pompe';1;50
+e;360483;'jupe de piston';1;50
+e;355616;'fusil à piston';1;50
+e;334516;'aiguille à piston';1;50
+e;385522;'tête de piston';1;50
+e;379133;'segment de piston';1;50
+e;216211;'cornet à piston';1;50
+e;241124;'cafetière à piston';1;6
+e;179197;'coup de piston';1;60
+e;267514;'monté comme un piston';1;50
+e;136461;'cylindrique';1;116
+e;153591;'lubrifié';1;76
+e;54671;'déplacé';1;254
+e;17982;'recherché';1;202
+e;139388;'mobile';1;2520
+e;247812;'non vivant';1;58
+e;119838;'solidaire';1;108
+e;14285;'relié';1;1394
+e;7332979;'Langue:anglais';18;50
+e;172428;'Langage:populaire';18;50
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;14916413;'Langue:français';18;50
+e;2578964;'Langage:vieilli';18;0
+e;172435;'Langage:familier';18;50
+e;2767138;'Langage:didactique';18;50
+e;325213;'rentrer dans la vie active';1;64
+e;593999;'entrer dans la vie active';1;10
+e;130196;'rechercher';1;1654
+e;14276270;'rechercher>14275186';1;2;'rechercher>chercher à obtenir'
+e;101793;'déplacer';1;2220
+e;91691;'surprise';1;2392
+e;14330;'satisfaction';1;624
+e;28453;'bonheur';1;2804
+e;103405;'indifférence';1;612
+e;254878;'_POL-NEG_PC';36;50
+e;276096;'_INFO-WIKI-YES';36;50
+e;15991432;'_ANIME-NO';36;50
+e;15991431;'_ANIME-YES';36;50
+e;162761;'_INFO-SEM-PERS';36;732
+e;191669;'_INFO-SEM-LIVING-BEING';36;160
+e;1912917;'_INFO-COUNTABLE-YES';36;0
+e;254876;'_POL-POS_PC';36;50
+e;191667;'_INFO-SEM-THING-ARTEFACT';36;242
+e;223172;'_POL-NEG';36;50
+e;214534;'_INFO-MEANING-FIGURED';36;50
+e;191672;'_INFO-SEM-ACTION';36;36
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;217817;'_INFO-POLYSEMIC';36;50
+e;2585996;'_INFO-CNRTL-YES';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;223173;'_POL-POS';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;269561;'sans couleur';1;50
+e;50889;'gris';1;2604
+e;3492087;':r368938';10;0
+e;3492088;':r57568996';10;0
+e;3492089;':r79958667';10;0
+e;3492090;':r79962549';10;0
+e;17277875;':r14699100';10;0
+e;4649911;':r9994675';10;0
+e;16554034;':r10001335';10;0
+e;15590318;':r399685927';10;0
+e;15518494;':r397073672';10;0
+e;8873150;':r149284546';10;0
+e;15545513;':r398243441';10;0
+e;16257187;':r426578251';10;0
+e;16182370;':r307603863';10;0
+e;5844071;':r114036548';10;0
+e;8568753;':r149284545';10;0
+e;9834044;':r149284553';10;0
+e;1707065;':r27795673';10;0
+e;1541448;':r1983101';10;0
+e;16497429;':r395681173';10;0
+e;16553347;':r2392878';10;0
+e;974995;':r14676271';10;0
+e;1314597;':r1994676';10;0
+e;16260268;':r382572955';10;0
+e;15811188;':r398555953';10;0
+e;16260664;':r397921265';10;0
+e;8873146;':r149284558';10;0
+e;5859921;':r114182378';10;0
+e;16270918;':r398010487';10;0
+e;3788837;'dbnary:fra:__ws_7_piston__nom__1';444;0
+e;3812534;'dbnary:fra:__ws_8_piston__nom__1';444;0
+e;3836194;'dbnary:fra:__ws_9_piston__nom__1';444;0
+e;3838263;'dbnary:fra:__ws_10_piston__nom__1';444;0
+e;3861841;'dbnary:fra:__ws_11_piston__nom__1';444;0
+e;4110507;'dbnary:fra:__ws_12_piston__adj__1';444;0
+e;4133755;'dbnary:fra:__ws_13_piston__adj__1';444;0
+e;4154829;'dbnary:fra:__ws_1_piston__nom__1';444;0
+e;4178347;'dbnary:fra:__ws_2_piston__nom__1';444;0
+e;4202082;'dbnary:fra:__ws_3_piston__nom__1';444;0
+e;4225588;'dbnary:fra:__ws_4_piston__nom__1';444;0
+e;4248863;'dbnary:fra:__ws_5_piston__nom__1';444;0
+e;4272338;'dbnary:fra:__ws_6_piston__nom__1';444;0
+e;3393630;'bn:00062630n';444;0
+e;3393632;'bn:04756173n';444;0
+e;3228593;'wiki:@';444;0
+e;3393631;'bn:00245187n';444;0
+e;2983124;'_SW';36;50
+e;93081;'segment';1;1984
+e;108504;'racler';1;86
+e;23195;'emploi';1;2263
+e;143063;'Entreprise';1;50
+e;30030;'entreprise';1;3231
+e;101155;'candidat';1;3118
+e;105854;'employeur';1;156
+e;34468;'synonyme';1;1905
+e;11921;'cooptation';1;50
+e;121765;'Centre national de la recherche scientifique';1;50
+e;144315;'CNRS';1;248
+e;275204;'Centre national de ressources textuelles et lexicales';777;50
+e;275203;'CNRTL';1;50
+e;115748;'ISSN';1;50
+e;411618;'Emploi';1;54
+e;302545;'International Standard Serial Number';777;50
+e;2099106;'recrutée';2;0
+e;2937025;'Synonyme';777;2
+e;152349;'Musique';1;3582
+e;163103;'sons';1;2833
+e;3307252;'Cuivre';1;0
+e;426288;'Tuba';1;50
+e;3576919;'Trompette';777;0
+e;135594;'trompette';1;713
+e;367775;'orgue hydraulique';1;50
+e;409802;'Orgue';1;50
+e;52443;'orgue';1;1287
+e;146341;'Alexandrie';1;939
+e;409118;'Distributeur';1;50
+e;26125;'trombone';1;74
+e;91557;'chromatique';1;1073
+e;2004013;'barillets';2;0
+e;168875;'euphonium';1;50
+e;103586;'brasure';1;50
+e;88226;'épaulement';1;52
+e;220729;'Force';1;2907
+e;83445;'poussée';1;1860
+e;20534;'ressort';1;2264
+e;142720;'feutre';1;518
+e;139217;'nacre';1;78
+e;32948;'Bourvil';1;68
+e;13991;'Terence Young';1;50
+e;419327;'Cylindre';1;52
+e;90075;'chambre';1;5318
+e;431789;'Pression';1;50
+e;46706;'pression';1;3610
+e;152550;'Automobile';1;108
+e;401988;'Pompe';1;50
+e;149767;'pompes';1;124
+e;91898;'amortisseurs';1;52
+e;141356;'Travail';1;1971
+e;70283;'travail';1;5146
+e;5720759;'Dynamique';1;0
+e;32468;'Acier';1;50
+e;146358;'acier';1;932
+e;126963;'grec';1;3688
+e;103604;'Espagne';1;3503
+e;205861;'pompe aspirante';1;50
+e;86891;'Bolsena';1;50
+e;67036;'clapet';1;58
+e;238270;'Denis Papin';1;62
+e;4275652;'Vide';1;0
+e;144943;'vide';1;3101
+e;301960;'Thomas Newcomen';777;50
+e;67885;'Evangelista Torricelli';1;50
+e;17357;'Otto von Guericke';1;50
+e;59282;'soupape';1;70
+e;116577;'exhaure';1;50
+e;362592;'machine soufflante';1;50
+e;5122535;'hauts fourneaux';1;0
+e;187451;'James Watt';1;8
+e;28636;'janvier';1;3950
+e;201375;'gaz de houille';1;50
+e;4934410;'Hispano-Suiza';1;0
+e;95561;'aluminium';1;298
+e;69409;'alliages';1;54
+e;136790;'cuivre';1;2573
+e;433600;'Nickel';1;50
+e;84631;'nickel';1;154
+e;64912;'silicium';1;96
+e;72823;'usinage';1;76
+e;204068;'moteur Diesel';1;50
+e;140079;'Joule';1;52
+e;2053248;'joules';2;0
+e;28405;'joule';1;60
+e;4322810;'Chemise';1;0
+e;70606;'chemise';1;1252
+e;5999341;'Combustible';1;0
+e;78365;'gaz';1;3577
+e;325085;'clapet anti-retour';1;50
+e;84056;'Nissan';1;80
+e;3342578;'Combustion';777;0
+e;60312;'combustion';1;1963
+e;16181;'convexe';1;70
+e;11501;'soupapes';1;50
+e;5980289;'affolement de soupapes';777;0
+e;134635;'graphite';1;84
+e;389189;'échange thermique';1;50
+e;236148;'huile moteur';1;54
+e;67358;'usure';1;254
+e;17027;'étanchéité';1;78
+e;426075;'Huile';1;50
+e;141971;'huile';1;2224
+e;86055;'Carter';1;1795
+e;146265;'carter';1;56
+e;3317148;'Rendement';1;0
+e;88848;'rendement';1;2037
+e;89654;'lubrification';1;84
+e;113778;'frottements';1;52
+e;75606;'g';1;3460
+e;5046075;'moteur V8';1;0
+e;138264;'Formule 1';1;82
+e;133722;'tribologie';1;52
+e;158036;'rugueuse';1;76
+e;250613;'traitement de surface';1;50
+e;197935;'constante de Planck';1;66
+e;5978580;'Vibration';1;0
+e;399907;'vibrations';1;60
+e;1854182;'ultrasoniques';1;0
+e;10862606;'Aluminium';1;0
+e;10941104;'Gravitation';1;0
+e;5934675;'Candidat';1;0
+e;10179026;'Employeur';1;0
+e;11160642;'Clapet';1;0
+e;11755903;'Alliage';777;0
+e;12053599;'John Wilkinson';777;0
+e;12246139;'Moteur V8';777;0
+e;2937303;'Cuivres';777;0
+e;5724522;'Hauteur';777;1079
+e;58170;'hauteur';1;3367
+e;51528;'son';1;3925
+e;56323;'facture';1;326
+e;5721319;'Trombone';1;0
+e;90647;'harmoniques';1;52
+e;102811;'demi-ton';1;52
+e;10092777;'Barillet';1;0
+e;419715;'Translation';1;50
+e;129622;'translation';1;54
+e;10970106;'Épaulement';1;0
+e;301849;'trompette piccolo';777;50
+e;11544980;'Étienne Lorin';777;0
+e;10159852;'Blanc comme neige';777;0
+e;399282;'thermiques';1;50
+e;16760028;'Moteur Diesel';777;0
+e;14483351;'Amortisseur';1;0
+e;204071;'moteur thermique';1;60
+e;14540438;'Traitement thermique';777;0
+e;14123728;'Lexique de la fontainerie';777;0
+e;14469658;'Janvier 1807';777;0
+e;14070245;'chambres de combustion';1;0
+e;15627137;'Graphite';1;0
+e;16074117;'Recrutement';1;0
+e;246871;'objet>54490';1;52;'objet>grammaire'
+e;246872;'objet>26845';1;50;'objet>objectif'
+e;246873;'objet>28044';1;50;'objet>cause'
+e;436518;'objet>104993';1;50;'objet>informatique'
+e;1876488;'solliciter>122978';1;16;'solliciter>faveur'
+e;130885;'volume';1;3405
+e;2212;'bimoteur';1;134
+e;27572;'hormis';1;88
+e;99767;'maneton';1;58
+e;136100;'transvasement';1;50
+e;2476227;'PMB';1;0
+e;16980587;'twin parallèle';777;0
+e;311505;'rapport volumétrique';777;50
+e;85339;'amorce';1;126
+e;427561;'dente';1;50
+e;303792;'processus isochore';777;50
+e;264242;'Axe';666;50
+e;230745;'bougie de préchauffage';666;50
+e;14916954;'en:acquaintance';1;0
+e;15242346;'en:plunger coffee maker';1;0
+e;15242345;'en:press pot';1;0
+e;15242344;'en:coffee press';1;0
+e;15242343;'en:French coffee maker';1;0
+e;15242342;'en:French press';1;0
+e;15242341;'en:cafetiere';1;0
+e;15378713;'en:a little kid';1;0
+e;184508;'tête blonde';1;50
+e;97756;'avion';1;5819
+e;31704;'pistonnage';1;50
+e;48851;'vilebrequin';1;62
+e;68907;'saxhorn';1;50
+e;222101;'maître-cylindre';1;50
+e;16032102;'servovérin';1;0
+e;168824;'cornet à pistons';1;2
+e;129836;'cylindrée';1;52
+e;50731;'bugle';1;52
+e;130808;'course';1;3348
+e;14222315;'protection>34933';1;54;'protection>moyen'
+e;20595;'admission';1;80
+e;590974;'bugle>146885';1;0;'bugle>Nom:Mas+SG'
+e;197117;'bout de chou';1;50
+e;15490895;'en:piece of cabbage';1;0
+e;15215796;'en:little kid';1;0
+e;14949114;'en:cutie';1;0
+e;15226269;'en:little tot';1;0
+e;348692;'débouchoir à ventouse';1;50
+e;15426083;'en:four-cycle engine';1;0
+e;15523988;'en:four stroke engine';1;0
+e;15419003;'en:four-stroke';1;0
+e;15662904;'en:four-stroke cycle engine';1;0
+e;14222339;'protection>34933>116477';1;0;'protection>moyen>personne'
+e;14225326;'être pistonné';1;2
+e;14273019;'admission>204066';1;0;'admission>moteur à explosion'
+e;236145;'moteur à quatre temps';666;22
+e;226033;'bugle>152866';1;50;'bugle>instrument à vent'
+e;113679;'instruments';1;3083
+e;1765738;'appui>63471';1;2;'appui>protection'
+e;2245405;'pistonne';2;0
+e;400042;'pistons';1;50
+e;221180;'course>42109';1;50;'course>mouvement'
+e;236160;'système pneumatique';1;50
+e;84491;'solliciter';1;124
+e;254014;'faire marcher son réseau';1;14
+e;15349340;'en:air pistol';1;0
+e;15472463;'en:two-stroke cycle engine';1;0
+e;15472462;'en:two-cycle engine';1;0
+e;14602952;'moteur deux temps';1;0
+e;232127;'pistolet à air comprimé';1;62
+e;1876487;'solliciter>116477';1;8;'solliciter>personne'
+e;236144;'moteur à deux temps';666;10
+e;15340465;'en:two-stroke engine';1;0
+e;10425586;'obtenir un avantage';1;0
+e;234276;'faire une piqûre';1;64
+e;254017;'faire du réseau';1;8
+e;254018;'réseauter';1;12
+e;183968;'rampe commune à haute pression';1;50
+e;254024;'réseautage';1;8
+e;14960732;'en:piston ring';1;0
+e;236146;'cycle de Beau de Rochas';1;10
+e;21780;'bloc-moteur';1;50
+e;15048882;'en:crosshead';1;0
+e;14924289;'en:cylinder block';1;0
+e;53888;'bloc-cylindres';1;50
+e;14930153;'en:cronyism';1;0
+e;15402629;'en:brass instruments';1;0
+e;15109119;'en:steam locomotive';1;0
+e;14946733;'en:steam engine';1;0
+e;15142693;'en:head gasket';1;0
+e;8994;'piste';1;2625
+e;15086723;'en:terete';1;0
+e;15318148;'en:cylindriform';1;0
+e;13264;'bielle';1;68
+e;63722;'gnome';1;114
+e;263952;'cycle à quatre temps';1;60
+e;12918;'tourillon';1;56
+e;273943;'batterie d'accumulateurs';777;50
+e;4245;'batterie';1;2943
+e;103057;'cellule';1;2923
+e;228085;'batterie électrique';1;50
+e;76860;'tubiste';1;50
+e;37544;'hydraulique';1;66
+e;60421;'clairon';1;64
+e;140602;'Clairon';1;50
+e;145373;'pompe';1;866
+e;68553;'pomper';1;162
+e;648;'morse';1;100
+e;3931;'Odobenus rosmarus';1;50
+e;278848;'Ctésibios d'Alexandrie';777;50
+e;81063;'Ctésibios';1;50
+e;9317;'chromage';1;50
+e;278992;'chromage décoratif';777;50
+e;278993;'chromage dur';777;50
+e;94750;'motorisation';1;188
+e;88135;'Joseph Bramah';1;50
+e;282900;'Holt Forest';777;50
+e;283670;'Société des Moteurs Gnome et Rhône';777;50
+e;283671;'Le Rhône';777;50
+e;30678;'briquet';1;808
+e;173824;'point mort';1;50
+e;132689;'propulsion';1;913
+e;270556;'moteur arrière';1;50
+e;284925;'locomotives à';777;50
+e;50913;'thermodynamique';1;1403
+e;52297;'mitrailleuse';1;106
+e;64318;'seringue';1;348
+e;286333;'rotule à doigt';777;50
+e;74260;'liaison';1;3059
+e;80943;'pivot';1;92
+e;81867;'marteau-pilon';1;54
+e;290787;'saxhorns';777;50
+e;13288;'copinage';1;66
+e;93532;'attelle';1;96
+e;169358;'trombone à coulisse';1;50
+e;169359;'trombone à pistons';1;50
+e;103464;'tromboniste';1;50
+e;129414;'isochore';1;50
+e;134443;'Thomas Savery';1;50
+e;168814;'cor d'harmonie';1;4
+e;305209;'sons bouchés';777;50
+e;168815;'cor moderne';1;50
+e;364515;'mitrailleuse légère';1;50
+e;364514;'mitrailleuse lourde';1;50
+e;399239;'mitrailleuses';1;50
+e;404354;'Briquet';1;50
+e;123523;'mitraillage';1;52
+e;24410;'calage';1;50
+e;696868;'à bulbe chaud';777;0
+e;64178;'semi-diesel';1;50
+e;168819;'cor naturel';1;50
+e;398865;'trompettes';1;50
+e;5982736;'système bielle-manivelle';777;0
+e;9614679;'liaison mécanique';777;2
+e;11119742;'Joseph Piston';777;0
+e;188362;'George Walker Bush';1;50
+e;169460;'George W. Bush';1;70
+e;48171;'buccin';1;54
+e;55448;'distributeur';1;174
+e;139985;'octave';1;66
+e;16239202;'alternances de parties coniques et de parties cylindriques';777;0
+e;111751;'cor';1;106
+e;344391;'contact direct';1;50
+e;16780570;'points de contact';777;0
+e;16780571;'normale de contact';777;0
+e;16780572;'liaisons élémentaires';777;0
+e;16780573;'direction de la liaison';777;0
+e;14712008;'anti-rotation';1;0

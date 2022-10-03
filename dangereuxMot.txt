@@ -1,0 +1,1929 @@
+e;48510;'dangereux';1;2359
+e;37211;'grand requin blanc';1;72
+e;15085126;'en:frightening';1;0
+e;14934846;'en:scary';1;0
+e;7036371;'en:violent';1;0
+e;2484387;'traîtreux';1;0
+e;15342254;'qui fait peur';1;0
+e;132281;'flippant';1;60
+e;51187;'angoissant';1;98
+e;145324;'aventuré';1;52
+e;9161112;'sport dangereux';1;6
+e;32321;'témérité';1;160
+e;186558;'ne pas avoir froid aux yeux';1;56
+e;259315;'risquer sa vie';1;34
+e;186389;'jouer avec le feu';1;24
+e;7846149;'sport à risque';1;8
+e;236786;'courir un risque';1;60
+e;256436;'être imprudent';1;58
+e;197809;'commettre une imprudence';1;60
+e;234384;'risquer sa peau';1;42
+e;71668;'climatérique';1;50
+e;140019;'glissant';1;74
+e;83246;'savonneux';1;54
+e;82533;'escarpé';1;76
+e;122237;'insalubre';1;192
+e;15742;'comminatoire';1;50
+e;14308;'grondant';1;50
+e;64691;'hasardé';1;56
+e;105456;'vénéneux';1;142
+e;58274;'traître';1;158
+e;126270;'nocif';1;78
+e;43222;'effrayant';1;292
+e;129231;'sérieux';1;2031
+e;10798;'sinistre';1;296
+e;83762;'tueur';1;1112
+e;160449;'violente';1;1612
+e;595048;'délicate>171869';1;0;'délicate>Adj:'
+e;677455;'meurtrier>171869';1;0;'meurtrier>Adj:'
+e;1898184;'tueur>171869';1;0;'tueur>Adj:'
+e;1783747;'fou>171869';1;0;'fou>Adj:'
+e;20046;'inapplicable';1;56
+e;89581;'mortel';1;358
+e;101701;'terrible';1;1970
+e;42040;'pernicieux';1;60
+e;124864;'scabreux';1;52
+e;77755;'impraticable';1;60
+e;43319;'brûlant';1;222
+e;19764;'fou';1;2245
+e;153344;'méchante';1;236
+e;3557102;'virulent>171869';1;0;'virulent>Adj:'
+e;672334;'glissante>171869';1;0;'glissante>Adj:'
+e;597345;'traitre>171869';1;0;'traitre>Adj:'
+e;455892;'malheureuse>171869';1;50;'malheureuse>Adj:'
+e;1976011;'risqué>171869';1;0;'risqué>Adj:'
+e;590256;'nuisible>171869';1;0;'nuisible>Adj:'
+e;599708;'grave>171869';1;0;'grave>Adj:'
+e;456533;'aléatoire>171869';1;50;'aléatoire>Adj:'
+e;1795643;'accidenté>171869';1;0;'accidenté>Adj:'
+e;45509;'hasardeux';1;76
+e;133853;'impur';1;76
+e;56087;'effroyable';1;88
+e;113005;'toxique';1;1020
+e;11797;'grave';1;2911
+e;124742;'meurtrier';1;880
+e;113160;'perfide';1;74
+e;41972;'compromettant';1;54
+e;148308;'glissante';1;80
+e;5498704;'aventureux>171869';1;0;'aventureux>Adj:'
+e;604891;'méchante>171869';1;0;'méchante>Adj:'
+e;600543;'délicat>171869';1;0;'délicat>Adj:'
+e;599453;'imprudent>171869';1;0;'imprudent>Adj:'
+e;1800646;'sérieux>171869';1;0;'sérieux>Adj:'
+e;674604;'méchant>171869';1;0;'méchant>Adj:'
+e;97757;'audacieux';1;146
+e;79026;'indécis';1;124
+e;110700;'inaccessible';1;126
+e;143229;'malaisé';1;64
+e;76216;'abrupt';1;88
+e;89134;'contagieux';1;192
+e;90776;'morbide';1;92
+e;108476;'inquiétant';1;106
+e;119625;'mauvais';1;2971
+e;125181;'malfaisant';1;100
+e;121080;'violent';1;1444
+e;39819;'préjudiciable';1;58
+e;226454;'en traitre';1;50
+e;236068;'hotspot';1;50
+e;238003;'malheureuse';1;26
+e;439630;'chaud>171869';1;50;'chaud>Adj:'
+e;3340713;'nocif>171869';1;0;'nocif>Adj:'
+e;157025;'chaud>146888';1;50;'chaud>Adj:Mas+SG'
+e;452265;'difficile>171869';1;50;'difficile>Adj:'
+e;597098;'chanceux>171869';1;0;'chanceux>Adj:'
+e;15306670;'en:fraught with danger';1;0
+e;14931667;'en:unsafe';1;0
+e;14931666;'en:treacherous';1;0
+e;14931665;'en:perilous';1;0
+e;14931664;'en:hazardous';1;0
+e;14931663;'en:harmful';1;0
+e;14931662;'en:dangerous';1;0
+e;38344;'sociologie';1;2117
+e;16367062;'doivent être effectuées avec du matériel adapté et avec précaution';777;0
+e;139964;'s'échauffer';1;62
+e;100040;'prendre feu';1;58
+e;76822;'exploser';1;370
+e;62783;'inabordable';1;100
+e;68593;'irréalisable';1;98
+e;145727;'élevé';1;3253
+e;95327;'destructeur';1;90
+e;152080;'brulant';1;64
+e;600613;'agressif>171869';1;0;'agressif>Adj:'
+e;597541;'vilain>171869';1;0;'vilain>Adj:'
+e;599978;'perfide>171869';1;0;'perfide>Adj:'
+e;596708;'brûlant>171869';1;0;'brûlant>Adj:'
+e;591245;'casse-gueule>171869';1;0;'casse-gueule>Adj:'
+e;32619;'crucial';1;92
+e;36435;'décisif';1;82
+e;41485;'impénétrable';1;110
+e;4652;'agressif';1;226
+e;39714;'imminent';1;82
+e;20007;'incommodant';1;66
+e;62502;'délétère';1;60
+e;238626;'critique>48510';1;6;'critique>dangereux'
+e;37647;'dramatique';1;2634
+e;311612;'hot spot';777;60
+e;42093;'fâcheux';1;86
+e;1898142;'vénéneux>171869';1;0;'vénéneux>Adj:'
+e;25842;'intrépide';1;132
+e;61724;'immoral';1;84
+e;127016;'poison';1;968
+e;153193;'traitre';1;78
+e;260923;'point chaud';1;54
+e;3313052;'en traitre>171869';1;0;'en traitre>Adj:'
+e;593402;'violente>171869';1;0;'violente>Adj:'
+e;1487244;'mauvais>171869';1;0;'mauvais>Adj:'
+e;599904;'violent>171869';1;0;'violent>Adj:'
+e;2345445;'hasardé>171869';1;0;'hasardé>Adj:'
+e;157670;'fou>146885';1;50;'fou>Nom:Mas+SG'
+e;597661;'fâcheux>171869';1;0;'fâcheux>Adj:'
+e;104757;'délicat';1;272
+e;89066;'impossible';1;2954
+e;99253;'malsain';1;132
+e;115138;'néfaste';1;116
+e;27583;'dommageable';1;58
+e;14300;'maléfique';1;114
+e;74514;'féroce';1;146
+e;14462;'formidable';1;168
+e;50868;'virulent';1;68
+e;224743;'vilain>48510';1;52;'vilain>dangereux'
+e;218666;'délicate';1;92
+e;1456931;'critique>171869';1;0;'critique>Adj:'
+e;597334;'traître>171869';1;0;'traître>Adj:'
+e;597054;'casse-cou>171869';1;0;'casse-cou>Adj:'
+e;125049;'maladif';1;108
+e;139424;'alarme';1;416
+e;106738;'difficulté';1;2889
+e;106207;'impréparation';1;68
+e;132900;'tragique';1;1001
+e;117095;'zoologie';1;2392
+e;21071;'alarmant';1;60
+e;19150;'chaud';1;2761
+e;117828;'difficile';1;3461
+e;70655;'vilain';1;256
+e;86698;'malheureux';1;264
+e;57434;'coûteux';1;184
+e;599467;'malheureux>171869';1;0;'malheureux>Adj:'
+e;672078;'sinistre>171869';1;0;'sinistre>Adj:'
+e;597565;'dramatique>171869';1;0;'dramatique>Adj:'
+e;129779;'désaxé';1;56
+e;131593;'méchant';1;1170
+e;82943;'casse-cou';1;116
+e;83035;'nuisible';1;108
+e;114438;'téméraire';1;184
+e;24949;'accidenté';1;152
+e;136554;'hardi';1;92
+e;46091;'critique';1;3453
+e;66712;'imprudence';1;132
+e;153758;'dangereuse';1;124
+e;60573;'chanceux';1;164
+e;15086;'aléatoire';1;2001
+e;110144;'imprudent';1;114
+e;133360;'redoutable';1;58
+e;57835;'affect';1;90
+e;166225;'sport de combat';1;102
+e;76692;'funeste';1;160
+e;56041;'casse-gueule';1;54
+e;6514;'avertissement';1;258
+e;95706;'automobile';1;3276
+e;33530;'prévention';1;1887
+e;56865;'sport';1;5429
+e;207950;'se risquer à';1;54
+e;136786;'ville';1;9193
+e;240128;'danger>17991';1;78;'danger>péril'
+e;251700;'mortel>251699';1;58;'mortel>susceptible de mourir'
+e;92085;'aventureux';1;60
+e;57933;'guerre';1;6280
+e;98504;'risquer';1;196
+e;33136;'vague';1;2539
+e;42145;'prendre des risques';1;142
+e;146105;'mer';1;9338
+e;97756;'avion';1;5821
+e;91378;'se risquer';1;58
+e;22326;'menaçant';1;180
+e;1055;'quartier';1;3469
+e;121678;'route';1;4574
+e;17991;'péril';1;182
+e;229492;'danger de mort';1;32
+e;146003;'risque';1;3474
+e;387100;'virage dangereux';1;94
+e;360078;'jeu dangereux';1;104
+e;80915;'risqué';1;222
+e;12655;'danger';1;2869
+e;12500;'périlleux';1;154
+e;239128;'_COM';36;50
+e;7785099;'dangereux>80915';1;54;'dangereux>risqué'
+e;7785100;'dangereux>22326';1;18;'dangereux>menaçant'
+e;13701;'technique';1;3729
+e;2586629;'Number:Sing';4;0
+e;2586627;'Gender:Mas';4;0
+e;2586630;'Number:Plur';4;0
+e;147151;'Adj:Mas+PL';4;50
+e;146888;'Adj:Mas+SG';4;50
+e;146892;'Adj:Mas+InvPL';4;50
+e;171869;'Adj:';4;50
+e;15784400;'en:dreaded';1;0
+e;115663;'avantageux';1;142
+e;116020;'innocent';1;428
+e;65051;'anodin';1;84
+e;63114;'sain';1;342
+e;117786;'assuré';1;1810
+e;126997;'paisible';1;160
+e;144480;'bénin';1;138
+e;144229;'bon';1;3572
+e;16550;'inoffensif';1;82
+e;145752;'sûr';1;238
+e;42992;'calme';1;2260
+e;6334707;'rejet de produits biologiques dangereux';1;0
+e;6335833;'dépôts de déchets dangereux';1;0
+e;6344389;'libération de produits chimiques dangereux';1;0
+e;6348120;'déchetterie pour déchets dangereux';1;0
+e;6359443;'rejet accidentel de produits biologiques dangereux';1;0
+e;6310099;'déchets radioactifs dangereux';1;0
+e;14558224;'virus dangereux';1;0
+e;14869161;'Regard dangereux';777;0
+e;6351539;'agents chimiques dangereux';1;0
+e;6333662;'site dangereux';1;0
+e;6379861;'sites de stockage de déchets dangereux';1;0
+e;10664547;'Le destin des dangereux';777;0
+e;6294962;'libération accidentelle de produits biologiques dangereux';1;0
+e;6284672;'site de communication dangereux';1;0
+e;6430751;'libération de produits biologiques dangereux';1;0
+e;10591449;'Suspect dangereux';777;0
+e;10989671;'Le Château dangereux';777;0
+e;13518438;'Le Destin des dangereux';777;0
+e;13518437;'Rapides et dangereux 6';777;0
+e;13518436;'Rapides et dangereux 5';777;0
+e;13518433;'Rapides et dangereux 4';777;0
+e;13518393;'Rapides et dangereux 2';777;0
+e;6431136;'composés chimiques dangereux';1;0
+e;10599797;'Un bienfait dangereux';777;0
+e;6440751;'rejet d'agents chimiques dangereux';1;0
+e;6423605;'rejet de produits chimiques dangereux';1;0
+e;10743447;'Mariage dangereux';777;0
+e;11076772;'Les hommes morts sont dangereux';777;0
+e;15225893;'déchet dangereux';1;0
+e;15225897;'déchets ménagers dangereux';1;0
+e;15225899;'déchets non dangereux';1;0
+e;1832288;'donneur dangereux';1;0
+e;11407871;'métier dangereux';1;0
+e;12048828;'éliminer des déchets dangereux';1;0
+e;12048829;'éliminer des déchets non dangereux';1;0
+e;1827044;'alcoolique dangereux';1;0
+e;6428495;'rechercher des objets dangereux';1;0
+e;15252738;'avortement dangereux';1;0
+e;5982681;'Convention de Bâle sur le contrôle des mouvements transfrontières de déchets dangereux et de leur élimination';777;0
+e;6012720;'objet potentiellement dangereux';777;0
+e;11147619;'installation de stockage de déchets non dangereux';777;0
+e;11147617;'installation de stockage de déchets dangereux';777;0
+e;11147601;'déchets dangereux en quantités dispersées';777;0
+e;15354683;'une route pleine de virages dangereux';1;0
+e;16825174;'état dangereux';1;0
+e;16880368;'état dangereux dangerous state agressivité et criminologie, dangerosité en psychiatrie';1;0
+e;15463197;'être dangereux pour les consommateurs';1;0
+e;10046507;'L'Homme le plus dangereux du monde';777;0
+e;11147600;'déchets dangereux diffus';777;0
+e;11147599;'déchet non dangereux inerte';777;0
+e;15483083;'site de stockage de déchets non dangereux';1;0
+e;5810954;'très dangereux';777;0
+e;10047256;'présumé dangereux';777;0
+e;10190025;'Un jeu dangereux';777;0
+e;10189729;'Johnny le dangereux';777;0
+e;10383699;'Tony Rome est dangereux';777;0
+e;15523114;'s'aventurer en terrain dangereux';1;0
+e;6432198;'libération d'agents chimiques dangereux';1;0
+e;11254520;'dangereux pour l'homme';1;0
+e;15762984;'route pleine de virages dangereux';1;0
+e;11158807;'Un jouet dangereux';777;0
+e;5982515;'déchet dangereux diffus';777;0
+e;15397717;'gestion des déchets dangereux';1;0
+e;15463199;'jouer un jeu dangereux';1;0
+e;15417792;'l'abus d'alcool est dangereux pour la santé';1;0
+e;6526091;'sites dangereux';1;0
+e;5901259;'Loi no 54-439 du 15 avril 1954 sur le traitement des alcooliques dangereux pour autrui';777;0
+e;10592812;'Rendez-vous dangereux';777;0
+e;12245935;'astéroïdes potentiellement dangereux';777;0
+e;12662602;'Rapides et dangereux';777;0
+e;12714546;'pas dangereux pour l'homme';1;0
+e;13752539;'92 sites dangereux';1;0
+e;15251517;'Il est dangereux de doubler sur cette route.';1;0
+e;15331943;'C'est dangereux pour les petits enfants.';1;0
+e;16072125;'Animal dangereux';1;0
+e;15460386;'dangereux pour les consommateurs';1;0
+e;16509436;'Présumé dangereux';777;0
+e;17235643;'Souhaits dangereux';777;0
+e;17268218;'Les Plaisirs dangereux';777;0
+e;3491281;'effets dangereux';1;0
+e;5046137;'déchet non dangereux';777;0
+e;4891735;'animal dangereux';1;0
+e;3289311;'panneau de virage dangereux';1;0
+e;1763420;'produit chimique dangereux pour l'environnement';1;18
+e;1379697;'endroit dangereux';1;0
+e;3673617;'lieu dangereux';1;0
+e;351502;'en terrain dangereux';1;50
+e;384188;'tournant dangereux';1;50
+e;346054;'dangereux terroriste';1;50
+e;346053;'dangereux malfaiteur';1;50
+e;374094;'précédent dangereux';1;50
+e;348743;'déchets dangereux';1;50
+e;252608;'dangereux pour la santé';1;6
+e;260864;'terrain dangereux';1;50
+e;261435;'fou dangereux';1;50
+e;121978;'Virage dangereux';1;50
+e;298883;'Confessions d'un homme dangereux';777;50
+e;301345;'Jeux dangereux';777;50
+e;310301;'terrains dangereux';777;50
+e;112409;'cancérigène';1;208
+e;110085;'cancérogène';1;78
+e;3576104;'Morpho:nospace';18;50
+e;14916413;'Langue:français';18;50
+e;3575927;'Morpho:min';18;50
+e;98224;'dangerosité';1;52
+e;128749;'anaconda';1;70
+e;159244;'serpent à sonnette';1;56
+e;183482;'ours brun';1;40
+e;144172;'aigle';1;556
+e;72426;'vautour';1;166
+e;23066;'épaulard';1;60
+e;38485;'baleine';1;448
+e;81288;'grizzli';1;54
+e;136624;'alligator';1;92
+e;115128;'caïman';1;96
+e;128913;'grizzly';1;70
+e;148125;'fauves';1;74
+e;153649;'panthère noire';1;104
+e;13284;'abeille';1;898
+e;143156;'reptiles';1;629
+e;111092;'faucon';1;106
+e;85263;'babouin';1;66
+e;2561276;'araigne';1;0
+e;80829;'iguane';1;70
+e;2686795;'cobra royal';1;0
+e;15195525;'en:poisonous snake';1;0
+e;11286210;'malade mental>116695';1;4;'malade mental>imbécile'
+e;3320647;'rouge 2G';1;0
+e;3320652;'brun FK';1;0
+e;3322395;'brun chocolat HT';777;0
+e;3346931;'Écarlate GN';777;0
+e;5828472;'vert solide FCF';777;0
+e;5828264;'Ponceau 6R';777;0
+e;14530978;'Noir de carbone';777;0
+e;14321333;'tricot rayé>325754';1;0;'tricot rayé>serpent marin'
+e;14304697;'intersection>106211';1;0;'intersection>carrefour'
+e;8646392;'en:venomous snake';1;0
+e;15042583;'en:carbon black';1;0
+e;15385686;'en:shard of glass';1;0
+e;6293380;'éclat de verre';1;0
+e;15419821;'en:splinter of glass';1;0
+e;15413420;'en:stray animal';1;0
+e;15413419;'en:animal that is free to roam';1;0
+e;15413417;'en:free-range animal';1;0
+e;15413416;'en:unrestrained animal';1;0
+e;13273327;'en:hazmat';1;0
+e;15207561;'en:marine mammal';1;0
+e;15419663;'en:sea mammal';1;0
+e;15309720;'en:hazardous material';1;0
+e;14946760;'en:malicious software';1;0
+e;7420612;'en:lawnmower';1;0
+e;14940700;'en:great white shark';1;0
+e;16759625;'Laurylsulfate de sodium';777;0
+e;15433411;'en:dangerous substance';1;0
+e;15413418;'en:free-ranging animal';1;0
+e;15419822;'en:sliver of glass';1;0
+e;267482;'choc électrique';1;10
+e;162003;'rapides';1;2260
+e;15083686;'en:sea animal';1;0
+e;15083684;'en:marine animal';1;0
+e;15413415;'animal en liberté';1;0
+e;14958918;'en:tiger shark';1;0
+e;3346187;'E236';1;0
+e;3346191;'E240';1;0
+e;3346470;'E636';1;0
+e;3318993;'E558';1;0
+e;3346542;'E956';1;0
+e;3346473;'E639';1;0
+e;14917551;'en:methanoic acid';1;0
+e;15195699;'en:cliff road';1;0
+e;14919905;'en:wild animal';1;0
+e;232580;'animal errant';1;10
+e;15413427;'en:wild beast';1;0
+e;15412182;'en:adeps lanae';1;0
+e;15412181;'en:refined wool fat';1;0
+e;10646;'formol';1;52
+e;15046367;'en:formalin';1;0
+e;15414244;'en:the Abominable Snowman';1;0
+e;15414245;'en:Yeti';1;0
+e;15661319;'en:Abominable Snowman';1;0
+e;15413421;'en:feral animal';1;0
+e;15413422;'en:free animal';1;0
+e;52753;'triangle';1;2521
+e;153441;'ours blanc';1;116
+e;20153;'crotale';1;76
+e;215276;'raie manta';1;54
+e;135926;'araignée';1;752
+e;59582;'moustique';1;800
+e;17929;'puma';1;264
+e;149697;'piraya';1;50
+e;221983;'homme>24956';1;218;'homme>être humain'
+e;14462676;'Insecte social';777;0
+e;72908;'phénomène';1;3455
+e;17206;'ours';1;970
+e;39072;'dogue';1;78
+e;32714;'léopard';1;346
+e;142195;'python';1;142
+e;51000;'rapaces';1;56
+e;14530844;'Serpent venimeux';777;0
+e;16035309;'abominable Homme des Neiges';1;0
+e;48500;'boa';1;360
+e;51054;'rapace';1;430
+e;110812;'scolopendre';1;54
+e;37264;'cobra';1;140
+e;112724;'veuve noire';1;73
+e;113583;'panthère';1;958
+e;48334;'laser';1;1812
+e;118707;'orque';1;138
+e;56153;'repris de justice';1;62
+e;136617;'tarentule';1;104
+e;30070;'queue-de-poisson';1;50
+e;318337;'médicament sur ordonnance';1;18
+e;113628;'ouananiche';1;50
+e;196135;'asilidés';1;52
+e;146328;'Diptères';1;56
+e;220357;'courbe>41787';1;62;'courbe>virage'
+e;55326;'ninja';1;62
+e;225792;'métier>103465';1;162;'métier>profession'
+e;24997;'médicament';1;3620
+e;120261;'naja';1;86
+e;233355;'serpent>99719';1;92;'serpent>reptile'
+e;226569;'pneu lisse';1;64
+e;228691;'Mediator';1;6
+e;16512;'gangster';1;136
+e;247024;'félin>17559';1;64;'félin>animal'
+e;127320;'neurotoxique';1;54
+e;3345992;'brun chocolat ht';1;0
+e;29877;'formaldéhyde';1;52
+e;3345954;'acétate d'ammonium';1;0
+e;3346641;'malate d'ammonium';1;0
+e;3323011;'azodicarbonamide';1;0
+e;599220;'mercenaire>171869';1;0;'mercenaire>Adj:'
+e;340434;'brouillard épais';1;50
+e;5564573;'Acide formique';777;0
+e;175316;'Chat sauvage';1;50
+e;8646308;'en:piranha';1;0
+e;8027083;'en:journalist';1;0
+e;25345;'quidam';1;536
+e;275080;'bacteria';777;50
+e;118324;'astéroïde';1;180
+e;143408;'milieu';1;3692
+e;156322;'gros con';1;142
+e;106270;'arthropode';1;304
+e;69840;'fourmi';1;414
+e;116032;'félin';1;2304
+e;213466;'chat>63235';1;646;'chat>mammifère'
+e;38784;'naufrage';1;582
+e;57809;'labyrinthe';1;264
+e;11959;'chauffeur';1;752
+e;103527;'nucléaire';1;3218
+e;57724;'lieu de culte';1;82
+e;70782;'pompier';1;674
+e;101083;'policier';1;2804
+e;26855;'gendarme';1;666
+e;237809;'pirate>39621';1;38;'pirate>marin'
+e;96912;'murène';1;56
+e;401842;'hyperammoniémie';1;50
+e;259799;'ligne à haute tension';1;50
+e;244620;'être humain>74860';1;146;'être humain>homme'
+e;2560061;'macaret';1;0
+e;260315;'troll>83764';1;52;'troll>créature'
+e;3346707;'rouge 2g';1;0
+e;3346626;'jaune de gardénia';1;0
+e;160708;'acide formique';1;80
+e;6128;'lanoline';1;50
+e;3346726;'sirop de polyglycitol';1;0
+e;30492;'mercenaire';1;180
+e;222563;'onagre>48795';1;16;'onagre>âne'
+e;252351;'animaux venimeux';1;6
+e;131127;'diptères';1;56
+e;55935;'assassin';1;1318
+e;101472;'digitaline';1;50
+e;235579;'insecte social';1;56
+e;33822;'requin blanc';1;152
+e;141885;'DDT';1;162
+e;120288;'criminel';1;1026
+e;143540;'bison';1;84
+e;65097;'flic';1;540
+e;122864;'mort';1;7245
+e;3346011;'citranaxanthin';1;0
+e;3346662;'orthophosphate diammonié';1;0
+e;319464;'bromate de potassium';1;50
+e;3345980;'azoformamide';1;0
+e;453402;'onagre>146885';1;50;'onagre>Nom:Mas+SG'
+e;35778;'troll';1;230
+e;142572;'gage';1;86
+e;7062417;'en:medicament';1;2
+e;6932256;'en:formaldehyde';1;0
+e;7088480;'en:ouabain';1;0
+e;143703;'feu';1;4345
+e;233133;'animal>117095';1;836;'animal>zoologie'
+e;110993;'front';1;2902
+e;40286;'queue de poisson';1;84
+e;317281;'sélachimorphe';1;2
+e;160586;'sables mouvants';1;60
+e;319062;'auto-médication';1;14
+e;135153;'uranium';1;450
+e;99719;'reptile';1;784
+e;250192;'aliment contaminé';1;10
+e;674;'grenade';1;200
+e;207328;'route en corniche';1;50
+e;236463;'métier à risques';1;52
+e;46317;'motard';1;366
+e;269165;'Myrmica rubra';1;50
+e;87767;'cascadeur';1;104
+e;114895;'cachalot';1;96
+e;171006;'requin tigre';1;32
+e;244011;'jaguar>17559';1;30;'jaguar>animal'
+e;331034;'féloïdé';1;52
+e;172636;'wolvérène';1;50
+e;42683;'parasites';1;1091
+e;2459953;'nouvel animal de compagnie';1;0
+e;3346658;'orange cgn';1;0
+e;3346750;'vert solide fcf';1;0
+e;3346591;'formiate de sodium';1;0
+e;3346019;'citrate de magnésium';1;0
+e;3346727;'stéarate de polyoxyéthylène 8';1;0
+e;9105;'bentonite';1;50
+e;3345978;'aspartame de sodium';1;0
+e;3346606;'gomme benjoin';1;0
+e;3346667;'oxyde de chlorine';1;0
+e;57512;'sanglier';1;320
+e;309514;'radioactivité alpha';777;2
+e;6994174;'en:uranium';1;0
+e;7344736;'en:citranaxanthin';1;0
+e;8373642;'en:naja';1;0
+e;5722635;'Guêpe';1;0
+e;15039548;'chiens errants';1;0
+e;240367;'savane>251735';1;48;'savane>formation végétale'
+e;81320;'escalier';1;910
+e;213331;'marteau>30843';1;44;'marteau>outil'
+e;14724535;'pit-bull';1;0
+e;93766;'proxénète';1;298
+e;14926288;'en:carcajou';1;0
+e;85722;'rayonnement';1;2774
+e;17562818;'projectile non éclaté';1;0
+e;17562819;'projectiles non éclatés';1;0
+e;106211;'carrefour';1;426
+e;220144;'turbulence de sillage';1;50
+e;214059;'chien>63235';1;636;'chien>mammifère'
+e;250938;'conserve avariée';1;52
+e;253955;'route verglacée';1;58
+e;246191;'crocodile>99719';1;56;'crocodile>reptile'
+e;218940;'poisson>17559';1;590;'poisson>animal'
+e;255865;'prédateur sexuel';1;30
+e;2308;'climat';1;3048
+e;245129;'youpala';1;50
+e;198238;'danger public';1;50
+e;161492;'sable mouvant';1;60
+e;229002;'tigre>332216';1;50;'tigre>personne cruelle'
+e;52598;'chantier';1;1575
+e;25164;'Peau-Rouge';1;54
+e;102633;'soldat';1;2602
+e;82231;'félidé';1;824
+e;1133475;'hippo';1;0
+e;153147;'mammifère marin';1;114
+e;220899;'glouton>63235';1;4;'glouton>mammifère'
+e;143260;'ouabaïne';1;50
+e;3346006;'chrysoïne s';1;0
+e;3320391;'orthophénylphénate de sodium';1;0
+e;3346614;'heptonolactone';1;0
+e;3319050;'sulfate d'ammonium';1;4
+e;3345966;'alitame';1;0
+e;3346603;'glycérol de diamidon acétylé';1;0
+e;77949;'parapente';1;56
+e;24956;'être humain';1;818
+e;116477;'personne';1;10307
+e;10936;'glouton';1;102
+e;140238;'pirate';1;584
+e;320151;'radioactivité bêta';1;50
+e;162593;'medicament';1;52
+e;9108669;'en:parasites';1;0
+e;221291;'comportements';1;1824
+e;12321566;'en:bacterium';1;0
+e;245311;'précédent>39088';1;50;'précédent>jurisprudence'
+e;86879;'débris';1;120
+e;91936;'déchet';1;348
+e;63425;'objets';1;3478
+e;111314;'raccourci';1;126
+e;231647;'Hannibal Lecter';1;56
+e;152212;'Chimie';1;156
+e;139116;'crs';1;62
+e;325131;'organisme parasite';1;50
+e;245243;'parasite>459758>35143';1;38;'parasite>vivre aux dépens de>biologie'
+e;86040;'automédication';1;142
+e;145948;'arme';1;3563
+e;135674;'squale';1;82
+e;46742;'logiciel';1;3442
+e;260912;'taïpan du désert';1;50
+e;250862;'engin de plage';1;4
+e;125936;'iceberg';1;236
+e;241039;'pouilleux massacreur';1;50
+e;237642;'chute de pierres';1;50
+e;139426;'peau-rouge';1;50
+e;150;'chat';1;5437
+e;23022;'méduse';1;270
+e;269028;'produit nettoyant';1;8
+e;214054;'sanglier>63235';1;52;'sanglier>mammifère'
+e;331030;'féliforme';1;56
+e;2417770;'ouabaine';1;0
+e;4455;'chien';1;5715
+e;2545932;'sanglier commun';1;0
+e;225916;'personne>24956';1;720;'personne>être humain'
+e;3288040;'myrmica rubra';1;0
+e;3345993;'brun fk';1;0
+e;3346695;'propylparabène sodique';1;0
+e;3313129;'maltol';1;52
+e;3346602;'glycérol de diamidon';1;0
+e;3320732;'amidon oxydé acétylé';1;0
+e;144138;'courbe';1;2915
+e;98919;'jaguar';1;236
+e;23784;'chat sauvage';1;264
+e;6994200;'en:chlorine';1;0
+e;6924447;'en:bentonite';1;0
+e;6826373;'en:bacteria';1;0
+e;613178;'boucher>171870';1;0;'boucher>Nom:'
+e;232459;'acide méthanoïque';1;6
+e;222208;'loup garou';1;66
+e;7423;'CRS';1;290
+e;32614;'saurien';1;72
+e;35789;'parasite';1;826
+e;152629;'animal marin';1;244
+e;227310;'gage>53314';1;50;'gage>jeu'
+e;41368;'acide';1;2638
+e;46728;'chimie';1;3528
+e;60285;'lycanthrope';1;60
+e;78504;'garde du corps';1;78
+e;143042;'pilote';1;3099
+e;31312;'astronaute';1;219
+e;105872;'éléphant';1;880
+e;246298;'::>66:111137>17:3176';8;50;'fil électrique [carac] dénudé'
+e;110180;'pari';1;196
+e;218750;'boucher>129100';1;52;'boucher>barbare'
+e;3230889;'Roulette russe';777;0
+e;3346659;'orseille orcéine';1;0
+e;3346590;'formiate de calcium';1;0
+e;143062;'carbonate';1;64
+e;3346735;'sulfate de cuivre ii';1;0
+e;3346615;'hexacyanoman fer';1;0
+e;6726;'alanine';1;50
+e;3346564;'ester de colophane';1;0
+e;142257;'chlore';1;230
+e;3346604;'glycérol de diamidon hydroxypropylé';1;0
+e;176043;'wolverène';1;50
+e;279312;'radioactivité gamma';777;50
+e;157620;'fleuve>146885';1;50;'fleuve>Nom:Mas+SG'
+e;6826433;'en:bison';1;0
+e;413895;'Bactérie';1;50
+e;68727;'maigre';1;516
+e;10085054;'GBL';777;0
+e;2417971;'tricot rayé';1;0
+e;42275;'loup-garou';1;398
+e;265078;'animal parasite';1;50
+e;273460;'animal venimeux';1;2
+e;30814;'liche';1;52
+e;152265;'arme de poing';1;94
+e;108144;'K2';1;56
+e;231278;'tesson de bouteille';1;50
+e;144366;'désert';1;2687
+e;84384;'boxe';1;1081
+e;131523;'journaliste';1;3242
+e;142558;'dragon';1;2177
+e;7643;'pieuvre';1;270
+e;119584;'obus';1;136
+e;154212;'sac plastique';1;94
+e;267782;'méduse>17559';1;52;'méduse>animal'
+e;151695;'tondeuse à gazon';1;86
+e;151648;'geek';1;190
+e;2596789;'Donald Trump';666;38
+e;2554001;'chymie';1;0
+e;232542;'rhinocéros>63235';1;4;'rhinocéros>mammifère'
+e;396247;'individu>24956';1;134;'individu>être humain'
+e;312866;'lepénisme';1;50
+e;3372203;'polyphosphate de calcium';1;0
+e;204407;'noir de carbone';1;54
+e;3345989;'bleu de gardénia';1;0
+e;3346628;'lactate d'ammonium';1;0
+e;3319323;'bêta-cyclodextrine';1;0
+e;322286;'sulfate de magnésium';1;50
+e;3320813;'poly-1-décène hydrogéné';1;0
+e;3346010;'cire son de riz';1;0
+e;3345991;'bromate de calcium';1;0
+e;3345969;'amidon acétylé à acétate de vinyle';1;0
+e;334712;'alcool benzylique';1;50
+e;3544848;'Danger public';777;0
+e;1930962;'mercenaire>68439';1;42;'mercenaire>individu'
+e;68439;'individu';1;6130
+e;160691;'boucher>146885';1;50;'boucher>Nom:Mas+SG'
+e;12632;'onagre';1;72
+e;311008;'serpent venimeux';1;56
+e;7170469;'en:alitame';1;0
+e;8994;'piste';1;2625
+e;132542;'arme blanche';1;412
+e;317280;'taïpan';1;52
+e;213336;'requin>68467';1;140;'requin>poisson'
+e;243517;'manque de visibilité';1;4
+e;34021;'Godzilla';1;64
+e;107557;'kraken';1;50
+e;157995;'roulette russe';1;98
+e;61183;'mascaret';1;60
+e;237525;'frelon asiatique';1;6
+e;146050;'militaire';1;3686
+e;233910;'dragon>215202';1;34;'dragon>animal fantastique'
+e;385;'carcajou';1;52
+e;2586041;'gulo gulo';1;0
+e;3346558;'écarlate gn';1;0
+e;3346693;'ponceau 6r';1;0
+e;3346642;'manascorubine';1;0
+e;3346664;'orthophosphate monoammonié';1;0
+e;120449;'abominable homme des neiges';1;54
+e;45133;'boucher';1;776
+e;3775038;'hydrargyrothérapie';1;0
+e;235312;'Nagini';1;10
+e;9241292;'verre ébréché';1;0
+e;7192232;'en:ponceau 6r';1;0
+e;6926584;'en:alanine';1;0
+e;113669;'Russie';1;3633
+e;4920;'savane';1;848
+e;220343;'fauve>17559>152973';1;20;'fauve>animal>animal sauvage'
+e;220342;'fauve>17559>116032';1;28;'fauve>animal>félin'
+e;6926193;'en:formic acid';1;0
+e;436143;'lanceur de balle de défense';1;50
+e;133208;'précédent';1;3415
+e;219206;'sport extrême';1;30
+e;13808636;'milieux pollué';1;0
+e;262172;'matière dangereuse';1;50
+e;142599;'grippe';1;908
+e;10157;'parachutiste';1;122
+e;3346635;'l-leucine';1;0
+e;7309820;'en:maltol';1;0
+e;329642;'naufrage>143712';1;18;'naufrage>marine'
+e;223502;'aspic>91153';1;12;'aspic>serpent'
+e;62165;'rugby';1;3090
+e;1380283;'::>66:126724>17:48510';8;0;'métier [carac] dangereux'
+e;3180557;'Taïpan du désert';777;0
+e;3322977;'laurylsulfate de sodium';1;0
+e;4324749;'parasite>459758';1;36;'parasite>vivre aux dépens de'
+e;14679588;'chient errant';1;0
+e;6329;'récifs';1;52
+e;225671;'vipère>91153';1;24;'vipère>serpent'
+e;122669;'ennemi';1;2181
+e;65149;'virus';1;2816
+e;268238;'pit bull';1;50
+e;268237;'pit bulldog';1;50
+e;104855;'hippopotame';1;158
+e;8785735;'islamisme terroriste';1;0
+e;5067271;'fausses nouvelles';1;2
+e;10993197;'pourriciel';777;0
+e;305560;'requin-tigre';777;50
+e;95145;'guépard';1;328
+e;235414;'maliciel';1;50
+e;183058;'logiciel malveillant';1;30
+e;10993196;'programme malveillant';777;0
+e;6884;'aspic';1;72
+e;8872558;'explosif primaire';1;0
+e;148387;'griffes';1;324
+e;3400974;'logiciel nuisible';777;0
+e;22602;'psychopathe';1;290
+e;80892;'terroriste';1;810
+e;249133;'malware';1;88
+e;95659;'marteau';1;1321
+e;73126;'requin';1;654
+e;138508;'homme d'affaires';1;106
+e;453182;'expédition>143529';1;54;'expédition>voyage'
+e;42301;'guêpe';1;436
+e;233947;'sport>233029';1;430;'sport>activité physique'
+e;53314;'jeu';1;5572
+e;146632;'forêt';1;4583
+e;579525;'personnage>219531';1;6;'personnage>personne originale'
+e;40670;'molosse';1;72
+e;223044;'quartier>219810';1;174;'quartier>partie de ville'
+e;233346;'route>215052';1;206;'route>voie de circulation'
+e;1125;'loup';1;2125
+e;122503;'radioactivité';1;270
+e;57784;'homme de main';1;88
+e;72678;'tyrannosaure';1;78
+e;247483;'lion>116032';1;104;'lion>félin'
+e;6100932;'quidam>68439';1;18;'quidam>individu'
+e;15493;'silure';1;70
+e;41787;'virage';1;254
+e;126724;'métier';1;2809
+e;215971;'fleuve>137865';1;130;'fleuve>cours d'eau'
+e;58277;'bacille';1;138
+e;130400;'maladie';1;8502
+e;72892;'truand';1;206
+e;251764;'insecte>17559';1;384;'insecte>animal'
+e;71926;'insecte';1;3750
+e;36886;'faune';1;2225
+e;74860;'homme';1;28860
+e;243670;'éléphant>17559';1;38;'éléphant>animal'
+e;220133;'piste>107179';1;56;'piste>ski'
+e;1753939;'milieu>38344';1;14;'milieu>sociologie'
+e;10756;'personnage';1;3654
+e;63902;'braqueur';1;102
+e;105567;'bandit';1;718
+e;110823;'clébard';1;68
+e;32610;'couteau';1;4092
+e;80449;'déchets';1;1881
+e;152973;'animal sauvage';1;946
+e;94271;'dictateur';1;735
+e;68467;'poisson';1;7106
+e;17559;'animal';1;14017
+e;69943;'fleuve';1;3454
+e;253238;'molosse>4455';1;62;'molosse>chien'
+e;70072;'prisonnier';1;2512
+e;6482;'bactérie';1;832
+e;233151;'jeu>98630';1;350;'jeu>divertissement'
+e;57051;'excursion';1;88
+e;99;'expédition';1;2642
+e;229001;'tigre>82231';1;84;'tigre>félidé'
+e;78520;'barracuda';1;50
+e;91153;'serpent';1;1887
+e;94164;'buffle';1;90
+e;31424;'fauve';1;916
+e;254100;'forêt>254099';1;140;'forêt>terrain planté d'arbres'
+e;137865;'cours d'eau';1;508
+e;28993;'taureau';1;880
+e;25019;'prédateur';1;584
+e;110750;'crocodile';1;328
+e;44606;'fugu';1;64
+e;72888;'piranha';1;70
+e;235582;'fourmi rouge';1;56
+e;142384;'rhinocéros';1;112
+e;105307;'mygale';1;130
+e;29028;'pitbull';1;94
+e;1632;'frelon';1;198
+e;6737046;'fauve>17559';1;50;'fauve>animal'
+e;42059;'scorpion';1;434
+e;86756;'lion';1;3040
+e;137333;'tigre';1;1484
+e;49210;'vipère';1;456
+e;17927;'haine';1;1984
+e;7040874;'en:generalized anxiety disorder';1;0
+e;7029778;'en:frustration';1;2
+e;7029852;'en:shame';1;0
+e;1856173;'trouble anxieux généralisé';777;0
+e;91691;'surprise';1;2394
+e;68421;'honte';1;832
+e;37163;'embarras';1;274
+e;49337;'crainte';1;1530
+e;82489;'frustration';1;548
+e;23114;'anxiété';1;836
+e;60835;'terreur';1;1317
+e;4552;'inquiétude';1;846
+e;144681;'angoisse';1;1858
+e;120892;'méfiance';1;726
+e;90830;'dégoût';1;854
+e;20202;'tristesse';1;2622
+e;22264;'colère';1;2464
+e;626;'peur';1;5423
+e;317329;'_POLIT_7NOPOL';36;50
+e;248197;'_SEX_YES';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;317322;'_POLIT_1ECO';36;50
+e;317327;'_POLIT_6FN';36;50
+e;248198;'_SEX_NO';36;50
+e;317326;'_POLIT_5UMP';36;50
+e;276096;'_INFO-WIKI-YES';36;50
+e;217817;'_INFO-POLYSEMIC';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;191741;'_INFO-VOC-COMMON';36;50
+e;2585996;'_INFO-CNRTL-YES';36;50
+e;254878;'_POL-NEG_PC';36;50
+e;223172;'_POL-NEG';36;50
+e;15438074;'en:have a boo boo';1;0
+e;15438073;'en:have a hurt';1;0
+e;2460331;'avoir bobo';1;0
+e;15367758;'en:be upset';1;0
+e;15196792;'en:be offended';1;0
+e;15427368;'en:be hurt';1;0
+e;15427366;'en:hurt yourself';1;0
+e;15196791;'mal le prendre';1;0
+e;15700593;'en:injure o.s.';1;0
+e;15699180;'en:do o.s. an injury';1;0
+e;15204717;'en:to do o.s. an injury';1;0
+e;15204716;'en:to injure o.s.';1;0
+e;15456592;'regretter [qch]';1;0
+e;15456593;'regretter d'avoir fait [qch]';1;0
+e;15763007;'regretter quelque chose';1;0
+e;15763010;'regretter d'avoir fait quelque chose';1;0
+e;15221446;'essuyer un affront';1;0
+e;15684297;'en:cause somebody sorrow';1;0
+e;15684296;'en:make somebody upset';1;0
+e;15519875;'en:make somebody sad';1;0
+e;15298025;'en:be sorry';1;0
+e;1733460;'avoir du chagrin';1;4
+e;15196794;'en:take it the wrong way';1;0
+e;15196793;'en:take it wrong';1;0
+e;15278973;'regretter d'avoir fait qch';1;0
+e;113764;'être désolé';1;56
+e;115735;'chute';1;3293
+e;2951673;'se méfier>116608';1;8;'se méfier>faire attention'
+e;133059;'prendre des précautions';1;102
+e;115096;'se méfier';1;274
+e;107795;'meurtre';1;2503
+e;1530;'incendie';1;2130
+e;143577;'accident';1;3098
+e;231415;'sinistre>143577';1;64;'sinistre>accident'
+e;320116;'rupture>97858';1;56;'rupture>cassure'
+e;49103;'drame';1;2442
+e;102475;'rupture';1;2639
+e;145768;'catastrophe';1;2188
+e;237465;'chute>8661';1;182;'chute>tomber'
+e;31858;'se tuer';1;282
+e;26915;'garde-fou';1;54
+e;152096;'victimes';1;3190
+e;116608;'faire attention';1;444
+e;218541;'lésion physique';1;166
+e;131414;'se blesser';1;532
+e;251697;'arrêt de la vie';1;4
+e;61147;'blessure';1;2492
+e;241081;'dégoupillé';1;50
+e;9005291;':r12067171';10;0
+e;9005292;':r14792064';10;0
+e;650836;':r471525';10;0
+e;965802;':r2506738';10;0
+e;995627;':r11524024';10;0
+e;1328042;':r22320979';10;0
+e;1331677;':r1969201';10;0
+e;1359732;':r1694658';10;0
+e;1473893;':r24393027';10;0
+e;1637918;':r3196349';10;0
+e;1644604;':r2505222';10;0
+e;1692114;':r2488101';10;0
+e;1695723;':r1856632';10;0
+e;1703640;':r10569433';10;0
+e;1703782;':r24808445';10;0
+e;1734236;':r22320807';10;0
+e;1747779;':r273521';10;0
+e;1754816;':r25072418';10;0
+e;1790318;':r23404227';10;0
+e;1819998;':r29737031';10;0
+e;1898857;':r24808447';10;0
+e;1915073;':r12457833';10;0
+e;2319328;':r14800489';10;0
+e;2336303;':r1844510';10;0
+e;2352410;':r34748813';10;0
+e;2353910;':r35283426';10;0
+e;2354454;':r38474940';10;0
+e;2354930;':r43647148';10;0
+e;2580132;':r52999151';10;0
+e;2584157;':r24808448';10;0
+e;2596984;':r55015513';10;0
+e;2619585;':r58153360';10;0
+e;2779771;':r63755564';10;0
+e;2858825;':r70095647';10;0
+e;2908631;':r71300183';10;0
+e;2927857;':r71779571';10;0
+e;2933568;':r72008207';10;0
+e;2934376;':r72056055';10;0
+e;2936413;':r72229584';10;0
+e;2936436;':r72229877';10;0
+e;2953978;':r73000176';10;0
+e;3066800;':r74864043';10;0
+e;3099047;':r75126726';10;0
+e;3245905;':r3220684';10;0
+e;3262411;':r1765305';10;0
+e;3307851;':r14806412';10;0
+e;3317464;':r82359676';10;0
+e;3391521;':r53831693';10;0
+e;3557562;':r71572855';10;0
+e;3557541;':r3049439';10;0
+e;3572086;':r86127694';10;0
+e;3654512;':r34656254';10;0
+e;3680161;':r3154565';10;0
+e;3686066;':r52215008';10;0
+e;3686979;':r13407004';10;0
+e;3737197;':r2384303';10;0
+e;3737957;':r12133614';10;0
+e;3742981;':r34656253';10;0
+e;4303886;':r34656261';10;0
+e;9930516;':r86127734';10;0
+e;9930510;':r86127733';10;0
+e;8693713;':r2555103';10;0
+e;8743094;':r176823853';10;0
+e;9002879;':r34656246';10;0
+e;9021089;':r195488058';10;0
+e;9267812;':r2519981';10;0
+e;9373777;':r2503942';10;0
+e;9537311;':r126455220';10;0
+e;9692864;':r91723874';10;0
+e;11301431;':r289145630';10;0
+e;13639081;':r345994812';10;0
+e;14321386;':r364452479';10;0
+e;14610621;':r371282158';10;0
+e;16325604;':r1963636';10;0
+e;16960951;':r121821908';10;0
+e;17588348;':r479643240';10;0
+e;332919;':r12475275';10;50
+e;608092;':r2490438';10;0
+e;672230;':r2480506';10;0
+e;685486;':r5020081';10;0
+e;985341;':r2480567';10;0
+e;1243441;':r22320980';10;0
+e;1255900;':r3082621';10;0
+e;1272853;':r18672345';10;0
+e;1277923;':r3216822';10;0
+e;1329566;':r9329182';10;0
+e;1449599;':r23404264';10;0
+e;1452634;':r121657';10;0
+e;1566617;':r23404263';10;0
+e;1568441;':r159407';10;0
+e;1649976;':r23404297';10;0
+e;1670757;':r3195289';10;0
+e;1675261;':r1850928';10;0
+e;1694141;':r13717305';10;0
+e;1699715;':r2495497';10;0
+e;1736196;':r2336643';10;0
+e;1739413;':r24808444';10;0
+e;1753202;':r23404225';10;0
+e;1753294;':r23404226';10;0
+e;1762346;':r28965023';10;0
+e;1766938;':r29060960';10;0
+e;1798155;':r29456141';10;0
+e;1799733;':r2514609';10;0
+e;1901734;':r1812372';10;0
+e;1901849;':r2489834';10;0
+e;1969332;':r22324033';10;0
+e;3328504;':r76393014';10;0
+e;3676666;':r24808452';10;0
+e;8968284;':r24930609';10;0
+e;9241293;':r210643183';10;0
+e;9591337;':r215470988';10;0
+e;11254502;':r288424827';10;0
+e;11955980;':r308513288';10;0
+e;17588349;':r479643246';10;0
+e;653540;':r2480059';10;0
+e;671981;':r2497731';10;0
+e;995803;':r11524175';10;0
+e;1045612;':r8915345';10;0
+e;1058541;':r10569674';10;0
+e;1270904;':r9021532';10;0
+e;1290713;':r13705796';10;0
+e;1327089;':r14179172';10;0
+e;1333219;':r2495191';10;0
+e;1360367;':r2505116';10;0
+e;1462913;':r1969033';10;0
+e;1530342;':r1773982';10;0
+e;1530396;':r24896423';10;0
+e;1541357;':r2210129';10;0
+e;1645083;':r10568748';10;0
+e;1783796;':r380727';10;0
+e;2355057;':r1853093';10;0
+e;9021091;':r24808439';10;0
+e;11301438;':r289146517';10;0
+e;12497460;':r1713500';10;0
+e;12826822;':r329175576';10;0
+e;12826824;':r329175709';10;0
+e;13808637;':r349001277';10;0
+e;15039552;':r392356647';10;0
+e;967598;':r1917163';10;0
+e;1153129;':r11612481';10;0
+e;1534863;':r3633021';10;0
+e;1556545;':r23404266';10;0
+e;1644491;':r24808441';10;0
+e;1754768;':r25070946';10;0
+e;8737319;':r168164773';10;0
+e;13140991;':r335882451';10;0
+e;15013306;':r392093959';10;0
+e;600284;':r2493987';10;0
+e;685259;':r2479949';10;0
+e;971001;':r2055855';10;0
+e;1309014;':r2596857';10;0
+e;1679481;':r2504804';10;0
+e;14679590;':r373238657';10;0
+e;16533994;':r434748296';10;0
+e;1352677;':r3017067';10;0
+e;8969250;':r126455221';10;0
+e;11000972;':r278155971';10;0
+e;12977732;':r55270927';10;0
+e;9021090;':r34656265';10;0
+e;8969251;':r24808466';10;0
+e;8905701;':r192875506';10;0
+e;8968202;':r193853756';10;0
+e;13639076;':r345994722';10;0
+e;9002880;':r194976650';10;0
+e;8873372;':r190781289';10;0
+e;1380284;':r23404784';10;0
+e;8968216;':r24808440';10;0
+e;4011265;'dbnary:fra:__ws_2_dangereux__adj__1';444;0
+e;4254672;'dbnary:fra:__ws_1_dangereux__adj__1';444;0
+e;3388682;'bn:00030747n';444;0
+e;7785056;'bn:00100895a';444;0
+e;3228593;'wiki:@';444;0
+e;7785057;'bn:00104007a';444;0
+e;7785058;'bn:13760852a';444;0
+e;2983124;'_SW';36;50
+e;265327;'signalisation routière';1;6
+e;139188;'Sens commun';1;50
+e;12345;'sens commun';1;76
+e;146499;'Mort';1;2865
+e;137220;'Peur';1;50
+e;145439;'Prudence';1;50
+e;122955;'prudence';1;338
+e;71267;'courage';1;2000
+e;116005;'sûreté';1;94
+e;88901;'sécurité';1;3590
+e;176784;'sécurité alimentaire';1;38
+e;152486;'Industrie';1;717
+e;118876;'industrie';1;2094
+e;107084;'inventaire';1;76
+e;84466;'gravité';1;2458
+e;152214;'Urbanisme';1;146
+e;133093;'urbanisme';1;448
+e;102497;'Accident';1;52
+e;155532;'Prévention';1;50
+e;152882;'Assurance';1;50
+e;414509;'Danger';1;50
+e;433840;'Risque';1;50
+e;413347;'Courage';1;50
+e;404869;'Enjeu';1;50
+e;408792;'Cartographie';1;50
+e;22461;'biologique';1;2465
+e;123153;'chimique';1;3224
+e;62998;'climatique';1;86
+e;146571;'majeur';1;3299
+e;8794;'sismique';1;60
+e;8578;'volcanique';1;158
+e;292126;'International Standard Book Number';777;56
+e;142939;'ISBN';1;3627
+e;71244;'notion';1;3496
+e;63736;'imaginaire';1;3323
+e;425525;'Individu';1;50
+e;166609;'Michel Foucault';1;54
+e;416899;'Linguiste';1;50
+e;415255;'linguistes';1;52
+e;243756;'DGCCRF';1;8
+e;35219;'Surveiller et punir';1;50
+e;219657;'TV5';1;52
+e;416623;'Financier';1;50
+e;89050;'Majeur';1;50
+e;138050;'Politique';1;3223
+e;403636;'Professionnel';1;50
+e;155113;'du travail';1;50
+e;404632;'Protection';1;615
+e;428988;'Sauvetage';1;50
+e;227153;'Carrefour';1;98
+e;71654;'intersection';1;92
+e;5636141;'Feu de signalisation routier';777;0
+e;2447546;'feux de signalisation lumineux';1;0
+e;87987;'France';1;4535
+e;41700;'Code de la route';1;50
+e;153976;'code de la route';1;186
+e;214305;'Saint-Valentin';1;14
+e;103604;'Espagne';1;3503
+e;67315;'Portugal';1;3458
+e;12713212;'Escamotage';1;0
+e;12442;'escamotage';1;68
+e;8973519;'Tramway';1;0
+e;2098787;'tramways';2;0
+e;12374397;'rond-points';1;0
+e;153926;'France Inter';1;148
+e;35722;'GPS';1;162
+e;136774;'Nicolas Sarkozy';1;276
+e;68804;'Toulouse';1;3309
+e;88255;'Metz';1;2643
+e;113317;'Paris';1;3888
+e;104569;'Nancy';1;2662
+e;284405;'Ni-Cd';777;50
+e;14153284;'Batterie au plomb';777;0
+e;230178;'Lithium';666;50
+e;71287;'lithium';1;84
+e;14572532;'batteries Li-ion';1;0
+e;284926;'National Aeronautics and Space Administration';777;50
+e;144025;'NASA';1;1385
+e;10645;'satellites';1;2365
+e;15406427;'Cristaux';1;0
+e;58182;'cristaux';1;1614
+e;121485;'cadmium';1;56
+e;3298430;'Électrode';1;0
+e;14167639;'Volt';1;0
+e;165772;'V';1;3749
+e;5809854;'Cristallisation';777;0
+e;23848;'cristallisation';1;62
+e;11137675;'Pile Bichromate';777;0
+e;11137691;'Bichromate';1;0
+e;145434;'Mercure';1;2429
+e;5388977;'Pile Weston';777;0
+e;4311918;'rouge>104417';1;2;'rouge>déficit'
+e;4311963;'rouge>205525';1;0;'rouge>physique des particules'
+e;4311881;'rouge>109533';1;0;'rouge>pizza'
+e;4311882;'rouge>76169';1;12;'rouge>cosmétique'
+e;4311883;'rouge>55876';1;8;'rouge>amérindien'
+e;4311919;'rouge>3674';1;2;'rouge>botanique'
+e;4311880;'rouge>10576';1;0;'rouge>politique'
+e;4311915;'rouge>7769';1;6;'rouge>canard'
+e;216724;'rouge>216723';1;50;'rouge>matière colorante'
+e;216719;'rouge>46594';1;50;'rouge>cutané'
+e;216718;'rouge>86713';1;52;'rouge>incandescent'
+e;248880;'rouge>187627';1;50;'rouge>feu de signalisation'
+e;216722;'rouge>128208';1;32;'rouge>vin rouge'
+e;216717;'rouge>40056';1;418;'rouge>couleur'
+e;1764083;'inabordable>110700>116477';1;0;'inabordable>inaccessible>personne'
+e;3172735;'chaud>40056';1;2;'chaud>couleur'
+e;3172737;'chaud>95181';1;2;'chaud>compliqué'
+e;3172736;'chaud>49461';1;0;'chaud>récent'
+e;3172738;'chaud>73937';1;0;'chaud>radioactif'
+e;3172739;'chaud>40853';1;0;'chaud>sanglant'
+e;3172740;'chaud>107310';1;2;'chaud>colérique'
+e;3172734;'chaud>351336';1;0;'chaud>en rut'
+e;240129;'danger>143712';1;50;'danger>marine'
+e;240130;'danger>45749';1;54;'danger>inconvénient'
+e;241263;'pollution>70631';1;50;'pollution>éjaculation'
+e;241262;'pollution>73890';1;50;'pollution>religion'
+e;241264;'pollution>117325';1;180;'pollution>environnement'
+e;2950273;'crocodile>25800';1;0;'crocodile>chemin de fer'
+e;246192;'crocodile>109785';1;50;'crocodile>peau'
+e;246193;'crocodile>106265';1;50;'crocodile>appareil'
+e;255065;'crocodile>120500';1;4;'crocodile>bonbon'
+e;5326409;'fauve>48496';1;0;'fauve>sauvage'
+e;224741;'vilain>19554';1;50;'vilain>paysan'
+e;2928780;'vilain>6894';1;0;'vilain>désobéissant'
+e;224739;'vilain>26650';1;14;'vilain>méprisable'
+e;224742;'vilain>112165';1;54;'vilain>désagréable'
+e;224740;'vilain>37632';1;10;'vilain>laid'
+e;220341;'fauve>146628';1;52;'fauve>ocre'
+e;220344;'fauve>35841';1;50;'fauve>peinture'
+e;2583911;'formidable>162802';1;2;'formidable>chope de bière'
+e;3223299;'scabreux>13423';1;0;'scabreux>rude'
+e;3223300;'scabreux>55507';1;0;'scabreux>mycologie'
+e;3223297;'scabreux>99016';1;2;'scabreux>inconvenant'
+e;240055;'chaud>6885';1;50;'chaud>chaotique'
+e;240056;'chaud>52757';1;58;'chaud>enthousiaste'
+e;240058;'chaud>114276';1;52;'chaud>sensuel'
+e;240054;'chaud>40531';1;134;'chaud>température'
+e;270523;'venimeux>117095';1;6;'venimeux>zoologie'
+e;226901;'taré>3841';1;50;'taré>mesuré'
+e;322310;'formidable>27530';1;62;'formidable>extraordinaire'
+e;12087954;':gRUS';1002;0
+e;11136749;':gLeandro';1002;0
+e;124812;'croco';1;66
+e;17855;'circonspection';1;96
+e;10754;'ouolof';1;50
+e;12457;'canaillocratie';1;50
+e;30030;'entreprise';1;3231
+e;1127;'Bélisaire';1;50
+e;1371;'ruralisme';1;50
+e;3099;'faux croup';1;50
+e;7823;'mentalement';1;64
+e;16736;'escient';1;50
+e;19772;'avertisseur';1;62
+e;20062;'aigrir';1;66
+e;37366;'vindicatif';1;104
+e;38011;'dévoreur';1;58
+e;41992;'objectivement';1;56
+e;43456;'trompe-la-mort';1;56
+e;57779;'incontestablement';1;54
+e;59214;'panonceau';1;50
+e;67107;'fulminate';1;50
+e;72530;'terrir';1;54
+e;73798;'lahar';1;50
+e;118320;'spirituellement';1;52
+e;124826;'peroxyder';1;74
+e;153222;'incontrolable';1;50
+e;2412841;'amargue';1;0
+e;2437783;'moucre';1;0
+e;2450502;'bulgarophilie';1;0
+e;2455856;'cancérigènement';1;0
+e;16718254;'La course de la Pyrenayca';777;0
+e;16718255;'Le Trail du Madres';777;0
+e;2570627;'MIDND';1;0
+e;3951588;'armé comme un porte-avions';1;0
+e;6392526;'maladies de la volaille';1;0
+e;16991231;'pseudo-traitements contre le coronavirus';777;0
+e;5535916;'fluide respiratoire';777;0
+e;17121050;'Colonel Poloinet';777;0
+e;116826;'neutraliser';1;82
+e;2511958;'que Dieu ait pitié de nous';1;0
+e;3289987;'antinationalisme';1;2
+e;568620;'variables environnementales';777;50
+e;247496;'::>66:146025>17:1240';8;50;'air [carac] patibulaire'
+e;2587;'intoxication';1;324
+e;15320036;'en:rhinocerous';1;0
+e;14959246;'en:rhinoceros';1;0
+e;299784;'papillomavirus';777;14
+e;236234;'papillomavirus humain';666;50
+e;249383;'SWAT';666;2
+e;123385;'incinération';1;152
+e;12456753;'en:quicksand';1;0
+e;14943915;'en:hurtful';1;0
+e;15045161;'en:hit man';1;0
+e;15526450;'en:incommoding';1;0
+e;15480370;'en:discommoding';1;0
+e;15363639;'en:insanitation';1;0
+e;15147919;'en:dismaying';1;0
+e;15332657;'en:unsettling';1;0
+e;15332658;'en:discomposing';1;0
+e;14943491;'en:disquieting';1;0
+e;14920352;'en:worrisome';1;0
+e;98181;'psychanalyse';1;919
+e;15386177;'en:incautiously';1;0
+e;6821519;'en:appendicitis';1;0
+e;8845984;'en:craggy';1;0
+e;15416741;'en:combat sports';1;0
+e;20662;'infaisable';1;154
+e;15050135;'en:chilling';1;0
+e;891;'psychiatrie';1;428
+e;253105;'conjurer le mauvais sort';1;28
+e;15532152;'en:damagable';1;0
+e;15271080;'en:wanted to police';1;0
+e;15271079;'en:sought by police';1;0
+e;15271078;'en:wanted by the police';1;0
+e;264428;'zone sensible';1;50
+e;14602674;'malade mentale';1;4
+e;15317232;'en:anchorage point';1;0
+e;266724;'faune sauvage';1;4
+e;14947581;'en:unhealthy';1;0
+e;14927763;'en:hairy';1;0
+e;14932355;'en:noxious';1;0
+e;15428101;'en:dangerous zone';1;0
+e;15428100;'en:dangerous area';1;0
+e;15428099;'en:dangerous terrain';1;0
+e;15428098;'en:dangerous ground';1;0
+e;162521;'malfaisante';1;54
+e;89604;'mal à propos';1;50
+e;6990257;'en:somatotropin';1;0
+e;1841228;'personnalité sociopathique';1;0
+e;16865195;'en:dangerous donor';1;0
+e;15297363;'VENENEUX';1;0
+e;15460387;'en:risk to users';1;0
+e;15063834;'en:white shark';1;0
+e;186857;'risquer le paquet';1;50
+e;16057039;'sale fer';1;0
+e;387098;'vipère lubrique';1;50
+e;16044979;'être un danger public';1;0
+e;132916;'guêpier';1;50
+e;270798;'course landaise';666;50
+e;126598;'dangereusement';1;96
+e;16029360;'c'est de la folie furieuse';1;0
+e;594476;'formidable>171869';1;0;'formidable>Adj:'
+e;1883621;'venimeux>171869';1;0;'venimeux>Adj:'
+e;90377;'isoler';1;216
+e;7256380;'en:zoology';1;0
+e;1456930;'critique>171870';1;0;'critique>Nom:'
+e;225190;'Sanofi';666;64
+e;15503869;'à hauts risques';1;0
+e;15225885;'en:dangerous play';1;0
+e;15133040;'en:unworkable';1;0
+e;15335210;'en:impracticable';1;0
+e;15335207;'en:unrealisable';1;0
+e;15335208;'en:irrealizable';1;0
+e;15335209;'en:irrealisable';1;0
+e;15361523;'en:unrealizable';1;0
+e;2058163;'grondante';2;0
+e;15331944;'en:It's dangerous for small children.';1;0
+e;15251879;'point d'embouteillage';1;0
+e;381545;'substance vénéneuse';1;50
+e;160469;'somatotropine';1;54
+e;15094093;'en:sociopathic personality';1;0
+e;13185959;'en:pre-eclampsia';1;0
+e;7340581;'en:inflammable material';1;0
+e;15465663;'hot-spot';1;0
+e;14935297;'en:poisonous';1;0
+e;15258258;'en:no swimming';1;0
+e;1764064;'inabordable>110700';1;6;'inabordable>inaccessible'
+e;14943314;'en:imprudently';1;0
+e;16045934;'glandilleux';1;0
+e;75176;'craignos';1;70
+e;24459;'taré';1;116
+e;14936815;'en:rashly';1;0
+e;14215767;'isoler>48769';1;6;'isoler>mettre à part'
+e;14253777;'homme redouté';1;0
+e;14871619;'::>66:152973>24:14389024';8;0;'animal sauvage [peut] traverser [objet] route'
+e;68620;'moto';1;2454
+e;65932;'bête féroce';1;58
+e;15151790;'en:high-risk';1;0
+e;396265;'arme à double tranchant>396264';1;50;'arme à double tranchant>moyen risqué'
+e;16057389;'separanda';1;0
+e;83457;'chèque en blanc';1;80
+e;3307527;'You Only Live Once';1;0
+e;595502;'taré>171869';1;0;'taré>Adj:'
+e;254656;'baignade interdite';1;24
+e;230692;'sociopathe';1;88
+e;3232452;'Baignade interdite';777;0
+e;15205455;'en:wild animals';1;0
+e;14943497;'en:recklessly';1;0
+e;322311;'formidable>43222';1;50;'formidable>effrayant'
+e;241082;'dégoupillée';1;50
+e;4389079;'CBPLFN';1;0
+e;96935;'venimeux';1;198
+e;228363;'vigilance orange';1;4
+e;270524;'venimeux>78005';1;52;'venimeux>malveillant'
+e;3223298;'scabreux>48510';1;0;'scabreux>dangereux'
+e;86356;'rouge';1;5574
+e;11837507;'dangeureux pour des enfants';1;0
+e;15335255;'en:scolecitis';1;0
+e;15335256;'en:scolecoiditis';1;0
+e;15335254;'en:epityphlitis';1;0
+e;14949362;'en:squalor';1;0
+e;15204675;'en:orange vigilance level';1;0
+e;15390254;'en:value his/her life';1;0
+e;15275293;'en:risk his/her life';1;0
+e;15474208;'en:thundering';1;0
+e;15199150;'en:combat sport';1;0
+e;15438756;'en:ward off bad luck';1;0
+e;15432026;'en:seize an opportunity';1;0
+e;231925;'point d'ancrage';1;50
+e;15417531;'en:great white';1;0
+e;15317233;'en:anchor point';1;0
+e;15465662;'en:wifi hot spot';1;0
+e;15465661;'en:wi-fi hot spot';1;0
+e;15465660;'en:Wi-Fi hot spot';1;0
+e;15465659;'en:wifi hotspot';1;0
+e;15465658;'en:wi-fi hotspot';1;0
+e;15270469;'en:Wi-Fi hotspot';1;0
+e;67660;'appendicite';1;100
+e;3307524;'YOLO';1;0
+e;240057;'chaud>12500';1;50;'chaud>périlleux'
+e;191374;'braque allemand à poil court';1;50
+e;249621;'matière inflammable';1;50
+e;1764090;'inabordable>110700>135190';1;0;'inabordable>inaccessible>lieu'
+e;17439;'élapidés';1;50
+e;1792594;'risquée';1;16
+e;4311922;'rouge>12655';1;0;'rouge>danger'
+e;14925504;'en:plot';1;0
+e;5802;'verglas';1;452
+e;268815;'dangereuses';1;50
+e;152125;'Zoologie';1;210
+e;6805845;'en:toxicity';1;0
+e;7042958;'en:hazardous waste';1;0
+e;15205829;'payer d'audace';1;0
+e;240359;'saisir sa chance';1;52
+e;15692343;'en:at your own peril';1;0
+e;15574528;'en:at its own peril';1;0
+e;15574527;'en:for its own account and risk';1;0
+e;15574526;'en:at his/her own risks';1;0
+e;226900;'taré>19764';1;58;'taré>fou'
+e;237509;'prime de risque';1;50
+e;99532;'pollution';1;2044
+e;267011;'être vigilant';1;184
+e;7183580;'en:psychology';1;0
+e;7157449;'en:psychoanalysis';1;0
+e;7226119;'en:psychiatry';1;0
+e;15574533;'en:at your own risk';1;0
+e;15692344;'à ses risques et ses périls';1;0
+e;171220;'à ses risques et périls';1;20
+e;326420;'mauvais pour la santé';1;50
+e;15144008;'en:cliff-hanging';1;0
+e;15306729;'en:nail-biting';1;0
+e;15574532;'à tes risques et périls';1;0
+e;6594411;'pratique à risque';1;0
+e;312559;'arme à double tranchant';1;50
+e;197025;'boîte de Pandore';1;50
+e;258592;'peur de l'inconnu';1;8
+e;332792;'recherché par la police';1;50
+e;19271;'lunatique';1;170
+e;332679;'avoir chaud aux plumes';1;4
+e;32606;'hors-piste';1;58
+e;215120;'hors piste';1;56
+e;95805;'Boîte de Pandore';1;50
+e;1764253;'maladie psychiatrique';1;0
+e;27093;'microbe';1;224
+e;14363956;'trottinette électrique';1;2
+e;265398;'dépression clinique';1;50
+e;2373959;'paraquat';1;0
+e;1598734;'conjurer le danger';1;0
+e;14775239;'conjurer le sort';1;0
+e;259314;'au péril de sa vie';1;52
+e;15015231;'à vos risques et périls';1;0
+e;16158697;'attention au chien';1;0
+e;14753143;'être en péril';1;0
+e;11938723;'braver le danger';1;0
+e;93867;'mortifère';1;116
+e;2365788;'fluquinconazole';1;0
+e;106665;'imprudemment';1;70
+e;4313838;'requin à deux têtes';1;0
+e;123749;'périple';1;88
+e;151966;'mangeur d'homme';1;66
+e;26120;'toxicité';1;186
+e;436354;'personnage malfaisant';1;50
+e;311939;'vénéneuse';1;50
+e;4339403;'savants fous';1;0
+e;15485735;'en:gas leak';1;0
+e;208957;'terrain glissant';1;50
+e;56876;'plot';1;60
+e;246836;'fuite de gaz';1;88
+e;99786;'venin';1;616
+e;2365371;'attrapaïres';1;0
+e;370556;'piqûre de serpent';1;50
+e;158404;'hormone de croissance';1;110
+e;183880;'produit chimique';1;184
+e;6991095;'en:growth hormone';1;0
+e;14964581;'en:therapist';1;0
+e;15459942;'en:chemical product';1;0
+e;6905800;'en:chemical';1;0
+e;15053332;'en:human growth hormone';1;0
+e;15456786;'en:HGH';1;0
+e;15225896;'en:dispersed hazardous waste';1;0
+e;14943379;'en:inappropriately';1;0
+e;324144;'::>66:20564>17:324143';8;50;'rue [carac] désertée'
+e;259312;'s'exposer au risque';1;50
+e;14943315;'en:unwisely';1;0
+e;237299;'DEHP';1;52
+e;10848130;'Mamba Noir';777;0
+e;62470;'intéressant';1;2196
+e;239233;'à mauvais escient';1;24
+e;15211203;'en:ill-advisedly';1;0
+e;235054;'mamba noir';1;52
+e;370095;'peur viscérale';1;50
+e;316279;'::>66:17991>17:39714';8;50;'péril [carac] imminent'
+e;2362920;'phosphure de zinc';1;0
+e;7743174;'en:taser';1;0
+e;15297987;'à suspense';1;0
+e;103349;'captivant';1;110
+e;15297989;'plein de suspense';1;0
+e;15324055;'en:enthraling';1;0
+e;15304386;'en:engrossing';1;0
+e;15309108;'en:captivating';1;0
+e;15324056;'en:riveting';1;0
+e;14935584;'en:engaging';1;0
+e;15425304;'en:risk ruin';1;0
+e;15425305;'en:head for a fall';1;0
+e;15425306;'en:head for ruin';1;0
+e;44853;'fascinant';1;60
+e;15220102;'point d'attaque';1;0
+e;392139;'ne tenir qu'à un cheveu';1;50
+e;250865;'surveillant de plage';1;50
+e;322878;'être allergique';1;60
+e;116698;'bête fauve';1;50
+e;16158696;'danger : chien méchant';1;0
+e;17143;'passionnant';1;140
+e;15297988;'en:suspenseful';1;0
+e;15425333;'en:put yourself at risk';1;0
+e;330027;'état critique';1;54
+e;9023613;'en:critical condition';1;0
+e;390382;'état désespéré';1;50
+e;15072769;'en:psycho';1;0
+e;247029;'prendre un risque';1;96
+e;15246203;'courir à la ruine';1;0
+e;15425332;'en:put yourself in danger';1;0
+e;15428750;'en:harmful to your health';1;0
+e;15428751;'en:bad for your health';1;0
+e;315096;'pré-éclampsie';1;2
+e;315097;'prééclampsie';1;52
+e;238717;'chien errant';1;4
+e;5419712;'pollution>5419711';1;4;'pollution>phénomène perturbateur'
+e;15320950;'en:stray dog';1;0
+e;7445256;'en:psychiatrist';1;0
+e;102939;'insalubrité';1;80
+e;165046;'taser';1;78
+e;212697;'Taser';1;50
+e;7130090;'en:psychologist';1;0
+e;14957037;'en:psychoanalyst';1;0
+e;167107;'place du mort';1;54
+e;88932;'psy';1;210
+e;46467;'courir un danger';1;66
+e;15041904;'en:take a chance';1;0
+e;15200456;'en:risk your life';1;0
+e;15200455;'risquer ta peau';1;0
+e;15041903;'en:run a risk';1;0
+e;15205830;'en:take a risk';1;0
+e;15420251;'en:risk one's neck';1;0
+e;15428749;'en:harmful to health';1;0
+e;15058135;'en:poisonous substance';1;0
+e;250844;'être en danger de mort';1;50
+e;15223560;'en:toxic matter';1;0
+e;15431609;'en:front passenger seat';1;0
+e;244090;'substance toxique';1;66
+e;15420258;'en:value your life';1;0
+e;15243546;'en:passenger seat';1;0
+e;1183315;'siège passager';1;0
+e;14885063;'tenir à sa peau';1;18
+e;16437710;'Animaux sauvages';777;0
+e;164364;'animaux sauvages';1;84
+e;260282;'à haut risque';1;50
+e;7015625;'en:hot spot';1;0
+e;2446632;'traitreux';1;2
+e;5573277;'syndrome nerveux des hautes pressions';777;0
+e;5573278;'SNHP';777;0
+e;14943948;'en:innocuous';1;0
+e;15315368;'en:healthful';1;0
+e;154198;'saine';1;106
+e;227748;'innocente';1;144
+e;266321;'bon pour la santé';1;18
+e;15315369;'bénéfique pour la santé';1;0
+e;14960100;'en:salutary';1;0
+e;32847;'salutaire';1;54
+e;15315370;'en:health-giving';1;0
+e;41055;'salubre';1;56
+e;152150;'animal de compagnie';1;572
+e;94958;'poulain';1;256
+e;137390;'zèbre';1;218
+e;122821;'poussin';1;906
+e;14758;'chiot';1;300
+e;145295;'mouton';1;1656
+e;57444;'chaton';1;732
+e;246198;'petit oiseau';1;110
+e;93872;'chèvre';1;816
+e;20164;'lapin';1;1322
+e;112699;'colibri';1;118
+e;33611;'gerbille';1;96
+e;12374;'oisillon';1;324
+e;74657;'pigeon';1;906
+e;56172;'poisson rouge';1;206
+e;37194;'poule';1;1848
+e;18285;'papillon';1;1702
+e;1274;'libellule';1;148
+e;9463;'rouge-gorge';1;138
+e;40368;'mulot';1;276
+e;42001;'bébé';1;4088
+e;9101356;'marteau>73126';1;0;'marteau>requin'
+e;142832;'souris';1;2549
+e;84441;'gazelle';1;132
+e;92189;'nounours';1;290
+e;36294;'herbivore';1;232
+e;138501;'vache';1;2726
+e;10862;'moineau';1;330
+e;69280;'hamster';1;476
+e;111012;'ver de terre';1;112
+e;54165;'plongeur';1;212
+e;214304;'vache>17559';1;230;'vache>animal'
+e;221671;'bambi';1;52
+e;171003;'requin pèlerin';1;4
+e;159250;'crevette rose';1;90
+e;248866;'mégère>18285';1;62;'mégère>papillon'
+e;230612;'jeu sérieux';1;20
+e;212461;'JeuxDeMots';666;26
+e;213736;'morpion>88245';1;62;'morpion>pou'
+e;229004;'tigre>12107';1;50;'tigre>danseuse'
+e;52232;'tiroir';1;632
+e;244450;'tiroir>36899';1;74;'tiroir>meuble'
+e;12843;'raie';1;196
+e;17955;'sardinelle';1;50
+e;170998;'perche du Nil';1;50
+e;102641;'voleur';1;2232
+e;108673;'énergie';1;3081
+e;214894;'fou>52745';1;56;'fou>démesuré'
+e;130737;'cache-cache';1;114
+e;54522;'tipule';1;70
+e;119973;'carpe';1;252
+e;141883;'boule';1;2059
+e;153791;'lieu noir';1;54
+e;118812;'photographe';1;2096
+e;14500;'sida';1;364
+e;155959;'assistante maternelle';1;126
+e;179843;'carpocapse des pommes et des poires';1;50
+e;179874;'bupreste du rosier';1;50
+e;155573;'chauffeur de bus';1;104
+e;114428;'diptère';1;148
+e;139629;'julienne';1;56
+e;29308;'garou';1;144
+e;226957;'atomique>120135';1;52;'atomique>élémentaire'
+e;214689;'baleine>153147';1;92;'baleine>mammifère marin'
+e;240906;'porcelaine>18285';1;2;'porcelaine>papillon'
+e;168170;'dorade royale';1;50
+e;43887;'cantinier';1;54
+e;213332;'marteau>19764';1;50;'marteau>fou'
+e;157252;'serpent à sonnettes';1;60
+e;160502;'ours polaire';1;114
+e;69935;'doberman';1;80
+e;194405;'pétrel soyeux';1;50
+e;191916;'accenteur de Radde';1;50
+e;192470;'cariama huppé';1;50
+e;78737;'Maurice Schumann';1;50
+e;194051;'passerin arc-en-ciel';1;50
+e;213633;'secrétaire>140176';1;50;'secrétaire>oiseau'
+e;192920;'faucon chicquera';1;50
+e;392320;'Éric-Emmanuel Schmitt';1;50
+e;230376;'Robert Merle';666;2
+e;191302;'requin-chabot';1;50
+e;192970;'fou masqué';1;50
+e;477;'Antonio Allegri';1;52
+e;124318;'fiscaliste';1;50
+e;189758;'Carl Von Clausewitz';1;50
+e;131577;'crustacé';1;486
+e;159076;'serpent à lunettes';1;60
+e;311440;'Richard Allen York';777;50
+e;136237;'Pier Luigi Nervi';1;50
+e;13457;'jeunet';1;104
+e;2483921;'Mahou';1;0
+e;194417;'râle des prés';1;50
+e;2506047;'Montligeonnais';1;0
+e;2502785;'Veaunois';1;0
+e;14709;'coelacanthe';1;50
+e;232843;'virus>104993';1;14;'virus>informatique'
+e;66013;'brème';1;52
+e;239282;'maigre>117095>113017';1;50;'maigre>zoologie>sciène'
+e;155946;'chien méchant';1;126
+e;110910;'chaleur';1;3138
+e;153477;'poisson d'eau douce';1;146
+e;180662;'acide fort';1;50
+e;179922;'lomechusa';1;50
+e;69988;'développeur';1;74
+e;150808;'syrphe';1;58
+e;236018;'Munchkin';1;2
+e;183198;'merlan de Paris';1;50
+e;102935;'chlorique';1;50
+e;112208;'atomique';1;2823
+e;10571;'nitrate';1;68
+e;159891;'hôtesse de l'air';1;142
+e;179924;'lyctus';1;50
+e;9212023;'en:tablet';1;0
+e;10070407;'en:pill';1;0
+e;51923;'chlorine';1;52
+e;3178868;'Cours d'eau';777;0
+e;14939365;'en:fugu';1;0
+e;14942105;'en:hippo';1;0
+e;6913155;'en:diptera';1;0
+e;9938548;'en:breasts';1;0
+e;381552;'substance médicamenteuse';1;50
+e;15419152;'en:lamp black';1;0
+e;6891932;'en:magnesium citrate';1;0
+e;6961067;'en:ammonium acetate';1;0
+e;16852584;'en:trapdoor spider';1;0
+e;16850483;'en:dangerous material';1;0
+e;16845531;'en:hyperammoniaemia';1;0
+e;6972802;'en:digitalin';1;0
+e;15211098;'en:rock fall';1;0
+e;10715;'astéride';1;52
+e;73959;'médicaments';1;2324
+e;6847746;'en:medication';1;0
+e;3346431;'E544';1;0
+e;16309736;'E452(iv)';1;0
+e;676912;'marteau>171870';1;0;'marteau>Nom:'
+e;613179;'boucher>171869';1;0;'boucher>Adj:'
+e;160692;'boucher>146888';1;50;'boucher>Adj:Mas+SG'
+e;15473708;'astéroïde>117095';1;0;'astéroïde>zoologie'
+e;3346119;'E1519';1;0
+e;3346109;'E1451';1;0
+e;3346107;'E1443';1;0
+e;3346103;'E1423';1;0
+e;3346094;'E1411';1;0
+e;3346549;'E964';1;0
+e;3346516;'E927a';1;0
+e;3346515;'E927';1;0
+e;3346512;'E924b';1;0
+e;3346511;'E924a';1;0
+e;3346510;'E924';1;0
+e;3346500;'E913';1;0
+e;3346494;'E907';1;0
+e;3346475;'E641';1;0
+e;3346472;'E638';1;0
+e;3346409;'E518';1;0
+e;3319051;'E517';1;0
+e;3346389;'E487';1;0
+e;3346275;'E349';1;0
+e;3346274;'E345';1;0
+e;3346242;'E328';1;0
+e;3346205;'E264';1;0
+e;3346189;'E238';1;0
+e;3346188;'E237';1;0
+e;3322357;'E232';777;0
+e;3346176;'E217';1;0
+e;3346153;'E165';1;0
+e;3346152;'E164';1;0
+e;3320890;'E155';1;0
+e;3320976;'E154';1;0
+e;3346120;'E152';1;0
+e;3346104;'E143';1;0
+e;3346082;'E130';1;0
+e;3346081;'E128';1;0
+e;5942;'malade mental';1;126
+e;242509;'sport de l'extrême';1;50
+e;15375468;'en:wake turbulence';1;0
+e;15375469;'en:wake vortex';1;0
+e;15375470;'en:trail turbulence';1;0
+e;15365730;'en:public danger';1;0
+e;465778;'sel d'Epsom';777;50
+e;1845432;'sulfate de magnésie';1;0
+e;15396164;'en:shells';1;0
+e;15372161;'en:self-treatement';1;0
+e;7331401;'en:medicine';1;0
+e;684775;'courbe>171869';1;0;'courbe>Adj:'
+e;15322456;'en:lack of visibility';1;0
+e;115238;'voisinage';1;1504
+e;7274088;'en:self-treatment';1;0
+e;14926182;'en:hood';1;0
+e;14957497;'en:fishtail';1;0
+e;12503940;'en:river';1;0
+e;15193044;'en:extreme sport';1;0
+e;6934959;'en:benzyl alcohol';1;0
+e;14916900;'en:yeti';1;0
+e;14921000;'en:handgun';1;0
+e;15341544;'en:the abominable snowman';1;0
+e;14916899;'en:abominable snowman';1;0
+e;97482;'yéti';1;74
+e;14922043;'en:self-medication';1;0
+e;9264356;'en:stream';1;0
+e;15046703;'en:rugby';1;0
+e;15046704;'en:rugger';1;0
+e;15301138;'en:bomb-shell';1;0
+e;15375111;'en:high-voltage power line';1;0
+e;15352386;'en:rockfall';1;0
+e;15314427;'en:falling rocks';1;0
+e;14946896;'en:werewolf';1;0
+e;166561;'ligne haute tension';1;52
+e;14959715;'en:rugby football';1;0
+e;6927537;'en:sodium lauryl sulfate';1;0
+e;45393;'bête sauvage';1;68
+e;15026319;'airbags';1;0
+e;6952774;'en:radioactivity';1;0
+e;15359480;'en:hooters';1;0
+e;79894;'nénés';1;76
+e;15479148;'en:ammonium sulphate';1;0
+e;15256263;'en:radioaction';1;0
+e;158389;'ballons';1;56
+e;15266770;'en:fun bags';1;0
+e;15266771;'en:funbags';1;0
+e;247661;'gros seins';1;228
+e;50869;'seins';1;658
+e;9928893;'nibards';1;22
+e;86657;'lolos';1;80
+e;126613;'nichons';1;92
+e;247217;'sac en plastique';1;14
+e;15346528;'en:plastic bag';1;0
+e;6910741;'en:magnesium sulfate';1;0
+e;15429442;'en:magnesium sulphate';1;0
+e;250996;'faux sucre';1;30
+e;15561088;'en:carcinogenic agent';1;0
+e;154501;'dangeureux';1;54
+e;136949;'s'affliger';1;52
+e;229068;'en avoir gros sur le coeur';1;4
+e;90669;'se désoler';1;62
+e;15348840;'en:be sad';1;0
+e;15538772;'excuser quelqu'un';1;0
+e;15449742;'excuser [qqn]';1;0
+e;15763009;'en:regret doing something';1;0
+e;15702391;'en:suffer an indignity';1;0
+e;15221448;'en:to suffer an indignity';1;0
+e;229789;'brouillard givrant';666;2
+e;230046;'coumaphène';666;50
+e;24008;'avalanche';1;248
+e;100534;'autoroute';1;1474
+e;170201;'situation dramatique';1;50
+e;50764;'prévision';1;290
+e;121129;'bouchon';1;614
+e;36075;'téléphonie mobile';1;60
+e;272741;'téléphonie cellulaire';777;50
+e;276324;'Numéro';777;50
+e;180688;'acide muriatique';1;50
+e;5876;'zirconium';1;52
+e;250757;'coping';1;50
+e;281166;'Stress chez l'humain';777;50
+e;196129;'ascendance thermique';1;50
+e;282836;'bulle de convection';777;50
+e;286040;'sécurité en laboratoire';777;50
+e;47827;'préventive';1;58
+e;155304;'acide chlorhydrique';1;70
+e;217105;'substance chimique';1;6
+e;293303;'substance pure';777;50
+e;57334;'traçabilité';1;80
+e;297389;'nécessaire et suffisante';777;50
+e;297390;'du berceau jusqu'à la tombe';777;50
+e;297391;'de la fourche à la fourchette';777;50
+e;117264;'muriatique';1;50
+e;125852;'taille-haie';1;80
+e;306289;'banals';777;50
+e;306290;'déchets industriels';777;50
+e;181972;'déchet industriel banal';1;50
+e;264020;'dépôt de munitions';1;50
+e;260953;'bouchons';1;60
+e;321314;'produits chimiques';1;2
+e;351950;'enquête publique';1;50
+e;394240;'santé-environnement';1;50
+e;404982;'Sécurité';1;2056
+e;427973;'Dangerous';1;50
+e;643456;'Prevention';1;0
+e;161407;'caisses';1;70
+e;13312;'caissette';1;50
+e;100865;'parapentiste';1;50
+e;1866459;'chien des refuges';777;0
+e;1866460;'chien de refuge';777;0
+e;310281;'chien de sauvetage';777;50
+e;2391386;'corps chimique';1;2
+e;2446568;'Bouchon';1;0
+e;2955936;'DIB';777;0
+e;2962641;'taille haie';1;0
+e;3174209;'stress chez l'humain';777;0
+e;5539026;'emballage des médicaments';777;0
+e;4023;'avant';1;3877
+e;48733;'dommage';1;162
+e;38157;'santé';1;3439
+e;6994176;'en:zirconium';1;0
+e;6876619;'en:health';1;0
+e;5995988;'health';1;0
+e;2557177;'esprit de sel';1;0
+e;414277;'et/ou';1;50
+e;10850135;'La Loi de la pudeur';777;0
+e;10864906;'fiche de données de sécurité';777;0
+e;5621117;'FDS';777;0
+e;10992125;'déchet militaire';777;0
+e;11147855;'Plan régional d'élimination des déchets industriels spéciaux';777;0
+e;11147856;'PREDD';777;0
+e;11539779;'recyclage des batteries';777;0
+e;10937151;'vigilance météorologique de Météo-France';777;0
+e;5536212;'Cette section ne cite pas suffisamment ses sources';777;0
+e;2568220;'RFID';1;2
+e;20965;'nourriture';1;3820
+e;5570501;'Nourriture';1;0
+e;16777387;'Principe pollueur-payeur';777;0
+e;5832960;'Suivi';1;0
+e;16777680;'Principe de prévention';777;0
+e;8917642;'Cette section doit être actualisée';777;0

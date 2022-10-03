@@ -1,0 +1,4161 @@
+e;121817;'producteur';1;3121
+e;239128;'_COM';36;50
+e;1919926;':r637091';10;0
+e;2983124;'_SW';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;225916;'personne>24956';1;720;'personne>être humain'
+e;29592;'film';1;7953
+e;396247;'individu>24956';1;134;'individu>être humain'
+e;24742;'cinéma';1;7207
+e;244620;'être humain>74860';1;146;'être humain>homme'
+e;24956;'être humain';1;818
+e;116477;'personne';1;10307
+e;260820;'entité vivante';1;64
+e;68439;'individu';1;6130
+e;237445;'être>68439';1;32;'être>individu'
+e;13369;'être';1;3929
+e;65081;'organisme vivant';1;146
+e;223173;'_POL-POS';36;50
+e;225847;'organisme>71624';1;98;'organisme>être vivant'
+e;71321;'producteur de fruits';1;50
+e;81412;'producteur exécutif';1;50
+e;125923;'producteur délégué';1;50
+e;271658;'producteur de cinéma';1;50
+e;215857;'producteur de gomme';1;54
+e;234036;'être vivant>123933';1;258;'être vivant>entité'
+e;318786;'petit producteur';1;120
+e;330160;'producteur de musique';777;50
+e;249371;'animateur-producteur';1;50
+e;373366;'producteur privé';1;50
+e;373364;'producteur local';1;50
+e;373360;'producteur de film';1;50
+e;13444;'production';1;3703
+e;373372;'producteur laitier';1;50
+e;50567;'agriculture';1;2138
+e;373359;'producteur de beurre';1;50
+e;369401;'pays producteur';1;50
+e;357986;'horizon producteur';1;50
+e;373370;'producteur de tomates';1;50
+e;373355;'producteur agricole';1;50
+e;373374;'producteur ovin';1;50
+e;373371;'producteur de viande';1;50
+e;373357;'producteur céréalier';1;50
+e;373356;'producteur bovin';1;50
+e;369400;'pays producteur de pétrole';1;50
+e;373361;'producteur de lait';1;50
+e;373358;'producteur d'artichaux';1;50
+e;373367;'producteur associé';1;50
+e;381421;'studio producteur';1;50
+e;373368;'producteur de fromages';1;50
+e;373363;'producteur de télévision';1;50
+e;373362;'producteur de radio';1;50
+e;373431;'producteur familial';1;50
+e;373365;'producteur mondial';1;50
+e;8008;'agriculteur';1;918
+e;14474621;'::>66:121817>24:14474619';8;0;'producteur [peut] vendre [endroit] marché'
+e;14474618;'::>66:121817>24:54438';8;0;'producteur [peut] vendre'
+e;97606;'éleveur';1;262
+e;7817;'cultivateur';1;398
+e;96182;'fournisseur';1;104
+e;4247;'cinéaste';1;1972
+e;45052;'auteur';1;3569
+e;76066;'créateur';1;2724
+e;171870;'Nom:';4;50
+e;1636669;':r14004614';10;0
+e;55133;'industriel';1;2822
+e;225792;'métier>103465';1;162;'métier>profession'
+e;171869;'Adj:';4;50
+e;59993;'réalisateur';1;3527
+e;216196;'Phil Spector';1;2
+e;93782;'productif';1;58
+e;254877;'_POL-NEUTRE_PC';36;50
+e;20076;'élaborateur';1;50
+e;1867706;'Marcel Herskovits';777;0
+e;1636664;':r14004624';10;0
+e;1636665;':r13983269';10;0
+e;1636668;':r14004604';10;0
+e;1636666;':r9328387';10;0
+e;1636667;':r9328386';10;0
+e;1867707;'Dorcel';1;0
+e;1973681;'Alfred Joseph Hitchcock';777;0
+e;53027;'initiateur';1;54
+e;13346;'générateur';1;74
+e;89147;'inventeur';1;2089
+e;1867705;'Marc Dorcel';1;0
+e;105150;'fécond';1;68
+e;1785989;'producteur de cinéma français';1;0
+e;54438;'vendre';1;2316
+e;215008;'cinéma>3695';1;1520;'cinéma>art'
+e;14474619;'::>31:146274>29:54438';8;0;'vendre [endroit] marché'
+e;42963;'produire';1;3260
+e;32667;'produit';1;3768
+e;191898;'Patrick Swayze';1;54
+e;238845;'Takahata';1;50
+e;126253;'Ridley Scott';1;56
+e;284702;'Robert Lee Zemeckis';777;50
+e;30710;'Harrison Ford';1;54
+e;60071;'Jean-Paul Belmondo';1;80
+e;5864;'Orson Welles';1;52
+e;392872;'Alan J. Pakula';777;50
+e;119506;'Buster Keaton';1;62
+e;393208;'Victor Robert Nataf';777;50
+e;288484;'Ivan Reitman';777;50
+e;308499;'Lars Trier';777;50
+e;62757;'Michael Curtiz';1;50
+e;151445;'Brian De Palma';1;58
+e;112827;'William Wyler';1;50
+e;232971;'Joey Starr';1;52
+e;438030;'David O. Russell';777;50
+e;289669;'Cecil B. DeMille';777;52
+e;5340;'Zeffirelli';1;50
+e;275674;'Jean-François Davy';777;50
+e;312346;'John Woo';1;50
+e;319799;'Franco Zefirelli';1;52
+e;35407;'Samuel Goldfish';1;50
+e;427946;'Kellner';1;50
+e;98521;'Polanski';1;82
+e;236582;'Billy Crystal';1;20
+e;188469;'Francis Ford Coppola';1;56
+e;286222;'David Fincher';777;52
+e;188994;'Victor Lanoux';1;50
+e;74211;'John Sturges';1;50
+e;284948;'Joseph L. Mankiewicz';777;50
+e;289954;'Manó Kertész Kaminer';777;50
+e;122923;'Sydney Pollack';1;78
+e;116722;'Kubrick';1;116
+e;393661;'Robert Altman';1;50
+e;573190;'Tsai';1;50
+e;60505;'Jules Dassin';1;50
+e;93183;'Cimino';1;50
+e;105899;'Fred Niblo';1;50
+e;272914;'Delmer Daves';777;50
+e;1007586;'Darren Bennett Star';777;0
+e;272860;'Rudolph Maté';777;50
+e;2369965;'Howard Hawks';1;0
+e;3172951;'Wesley Earl Craven';777;0
+e;126724;'métier';1;2809
+e;436570;'entité biologique';1;50
+e;144916;'argent';1;7286
+e;87286;'fruit';1;6285
+e;35112;'Stanley Kubrick';1;148
+e;188676;'Harisson Ford';1;50
+e;229255;'Pedro Almodovar';1;20
+e;236727;'Wes Craven';1;80
+e;242961;'Charles Crichton';1;52
+e;50790;'Joseph Leo Mankiewicz';1;50
+e;393286;'Wilhelm Weiller';777;50
+e;413815;'Zemeckis';1;50
+e;4831;'Kurosawa Akira';1;50
+e;121202;'Scorsese';1;50
+e;30633;'Merian C. Cooper';1;50
+e;272908;'Joseph Pevney';777;50
+e;582330;'Soderbergh';1;0
+e;276211;'Timothy William Burton';777;50
+e;3320749;'du producteur au consommateur';1;2
+e;144991;'français';1;3914
+e;88767;'fermier';1;740
+e;146770;'Luc Besson';1;124
+e;66341;'Robert De Niro';1;58
+e;252306;'Tony Scott';1;4
+e;218272;'Martin Scorsese';1;2
+e;292468;'Frank Russell Capra';777;50
+e;330188;'Richard Attenborough';1;50
+e;263431;'Alain Corneau';1;8
+e;189696;'Lars von Trier';1;50
+e;286217;'James Francis Cameron';777;50
+e;267546;'John Boorman';1;2
+e;291448;'Michael Cimino';777;50
+e;329574;'John Carpenter';1;50
+e;109726;'Alberto Lattuada';1;50
+e;223347;'Tod Browning';1;52
+e;404512;'Cuarón';1;50
+e;413389;'Fincher';1;50
+e;59513;'Frears';1;50
+e;23385;'Stephen Frears';1;50
+e;275657;'Simon Curtis';777;50
+e;47003;'Losey';1;50
+e;40060;'Alessandro Blasetti';1;54
+e;1545682;'Ken Russel';1;0
+e;111503;'Frank Martin';1;50
+e;2343582;'John Conway';777;0
+e;49207;'acteur';1;4257
+e;77417;'Achod Malakian';1;50
+e;271235;'Robert Zemeckis';1;52
+e;227009;'Francis Veber';1;10
+e;308458;'Pedro Almodóvar Caballero';777;50
+e;325099;'Frank Darabont';777;50
+e;235586;'Dominique Farrugia';1;70
+e;189654;'Bertrand Tavernier';1;50
+e;286026;'John Schlesinger';777;50
+e;301757;'Franklin J. Schaffner';777;50
+e;101828;'Claude Lelouch';1;50
+e;243597;'Tay Garnett';1;50
+e;312318;'Cédric Klapisch';777;52
+e;297668;'Julius Dassin';777;50
+e;587159;'Claude Berel Langmann';777;0
+e;126453;'Zinnemann';1;50
+e;274326;'Ernest B. Schoedsack';777;50
+e;135976;'Malec';1;50
+e;1639159;'Bernado Rossi';777;0
+e;1639157;'Jean Bastide';777;0
+e;1532803;'Léonard Nimoy';1;0
+e;136339;'Anatole Litvak';1;50
+e;288455;'Clarence Brown';777;50
+e;88106;'Hal Roach';1;50
+e;228436;'Giorgio Moroder';1;2
+e;146888;'Adj:Mas+SG';4;50
+e;2585996;'_INFO-CNRTL-YES';36;50
+e;188489;'Tom Cruise';1;72
+e;49956;'George Lucas';1;64
+e;289598;'Steven Allan Spielberg';777;50
+e;248578;'Robert Rodriguez';1;34
+e;319485;'Eddie Murphy';1;2
+e;273085;'Joseph Frank Keaton Junior';777;52
+e;323942;'Mike Newell';777;52
+e;287783;'Christopher Nolan';777;52
+e;63078;'Don Siegel';1;50
+e;393528;'Jim Henson';777;52
+e;393788;'Neil Burger';777;50
+e;394577;'Michel Brault';1;50
+e;312266;'Alfonso Cuarón Orozco';777;50
+e;108060;'Ken Russell';1;50
+e;1637429;'Emile Ardolino';777;0
+e;1639158;'Fred Wilson';777;0
+e;281519;'Marino Girolami';777;50
+e;1004764;'Rudolf Mayer';777;0
+e;146885;'Nom:Mas+SG';4;50
+e;3320148;'producteur de betteraves';1;0
+e;5517202;'producteur indépendant';1;0
+e;73519;'belge';1;3370
+e;11467;'américain';1;3814
+e;233212;'John Malkovich';1;50
+e;50421;'Roman Polanski';1;118
+e;110801;'Bertrand Blier';1;66
+e;330596;'Timothy Walter Burton';777;50
+e;133229;'Steven Spielberg';1;66
+e;285723;'Oliver Stone';1;50
+e;70967;'Claude Berri';1;58
+e;115262;'James Cameron';1;56
+e;438029;'David Owen Russell';777;50
+e;312267;'Alfonso Cuarón';777;50
+e;402508;'Darabont';1;50
+e;582329;'Steven Soderbergh';777;2
+e;295447;'Don Taylor';777;50
+e;95597;'John Guillermin';1;50
+e;2343581;'Jack Conway';1;0
+e;300039;'Harry Eugene Roach';777;50
+e;5526065;'Manoj Nelliyattu Shyamalan';777;0
+e;316850;'entité physique';1;50
+e;212464;'Tim Burton';666;68
+e;64603;'Jean-Luc Godard';1;56
+e;392871;'Alan Jay Pakula';777;50
+e;212321;'Jean-Marie Poiré';1;50
+e;292467;'Francesco Rosario Capra';777;50
+e;272868;'Stanley Earl Kramer';777;50
+e;225945;'Claude Chabrol';1;46
+e;312079;'Danny Boyle';1;50
+e;285724;'William Oliver Stone';777;50
+e;108996;'Franklin Schaffner';1;50
+e;271173;'Michel Hazanavicius';666;18
+e;250114;'Paul Thomas Anderson';1;50
+e;8933;'Carol Reed';1;52
+e;70644;'Pietro Germi';1;50
+e;396300;'Adrian Lyne';777;50
+e;435589;'tsai';1;50
+e;13517;'Mihály Kertész';1;52
+e;287569;'Ariel Zeitoun';777;50
+e;427232;'Hou';1;50
+e;297766;'Alexandre Korda';777;50
+e;165244;'Rocco Siffredi';1;162
+e;219912;'Henri Verneuil';1;14
+e;330594;'Sir Alfred Joseph Hitchcock';777;50
+e;273367;'Anthony David Scott';777;50
+e;105351;'Stanley Kramer';1;50
+e;134176;'Rouben Mamoulian';1;50
+e;324670;'Ang Lee';777;50
+e;312136;'Peter Weir';777;50
+e;319320;'David Cronenberg';777;2
+e;243596;'Bob Rafelson';1;50
+e;393346;'Henry Leopold de Fiennes';777;50
+e;295322;'Henry Hathaway';777;50
+e;287784;'Christopher Jonathan James Nolan';777;50
+e;392913;'Harry Connick';777;50
+e;397808;'Pakula';1;50
+e;423097;'Kurosawa';1;50
+e;188976;'Akira Kurosawa';1;50
+e;51219;'Franco Zeffirelli';1;50
+e;91944;'Cecil Blount deMille';1;50
+e;101790;'Jack Clayton';1;50
+e;188536;'Cecil Blount De Mille';1;50
+e;274810;'Darren Star';777;50
+e;1011841;'Franco Martinelli';777;0
+e;288451;'Robert Zigler Leonard';777;50
+e;28390;'De Palma';1;50
+e;241304;'Michael Radford';1;50
+e;188881;'Peter Jackson';1;50
+e;1963;'Alfred Hitchcock';1;170
+e;214684;'Quentin Tarantino';1;104
+e;224588;'Bruce Lee';666;18
+e;167497;'Fred Zinnemann';1;50
+e;393131;'Pedro Almodóvar';1;12
+e;128450;'Donald Siegel';1;50
+e;437724;'Jeroen Krabbé';1;50
+e;288165;'Michael Winterbottom';777;50
+e;572845;'Tsai Ming-liang';777;50
+e;2840;'Joseph Losey';1;50
+e;34298;'Ernest Beaumont Schoedsack';1;50
+e;1135416;'Philippe Lioret';1;0
+e;96321;'Curtiz';1;50
+e;118549;'Hou Hsiao-hsien';1;50
+e;3173981;'Robert Rodríguez';777;0
+e;125224;'AEG';1;52
+e;162761;'_INFO-SEM-PERS';36;732
+e;272911;'H. Bruce Humberstone';777;50
+e;3179252;'Sándor László';777;0
+e;244704;'Jean-Pierre Dionnet';1;82
+e;3339780;'Jean-Pierre Dardenne';777;0
+e;4995937;'Franklin James Schaffner';777;0
+e;274351;'U.S. Steel';777;50
+e;298577;'Allgemeine Elektricitäts-Gesellschaft';777;50
+e;5563115;'Im Sang-soo';777;0
+e;310472;'Bethlehem Steel Corporation';777;50
+e;5524943;'Tsui';777;0
+e;5521426;'J. J. Abrams';777;0
+e;461782;'BHP Billiton';777;50
+e;5900936;'Paul Jaboulet aîné';777;0
+e;5900935;'M. Chapoutier';777;0
+e;3261430;'Ludwig Berger';777;0
+e;5921685;'Karan Johar';777;0
+e;5911095;'Reemtsma Cigarettenfabriken GmbH';777;0
+e;5778182;'RGV';777;0
+e;5979545;'EDF Luminus';777;0
+e;5778181;'Ram Gopal Varma';777;0
+e;5677989;'George Miller';777;0
+e;5802113;'Efes Beverage Group';777;0
+e;92206;'UEM';1;50
+e;5678282;'Louis Leterrier';777;0
+e;5678272;'Chris Columbus';777;0
+e;5791465;'Appleton Estate';777;0
+e;167567;'John B. Root';1;50
+e;5919589;'VAM Drilling';777;0
+e;5688368;'Tony Richardson';777;0
+e;37254;'Ennio Morricone';1;50
+e;461291;'Reign';777;50
+e;9002961;'producteur de pétrole';1;0
+e;9002997;'producteur de $x';1;0
+e;9962365;'auteur-producteur';777;0
+e;11025107;'théorie néo-classique du producteur';777;0
+e;12729000;'animal producteur d'ivoire';1;0
+e;16254030;'+ producteur associé';777;0
+e;16783351;'comme producteur';777;0
+e;17040918;'Comme producteur';777;0
+e;3112871;'Tom Tykwer';1;0
+e;5678925;'Richard Donner';777;0
+e;1636679;':r3056238';10;0
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;6950261;'en:producer';1;0
+e;118876;'industrie';1;2094
+e;134536;'économie';1;2856
+e;3179253;'Sándor László Kellner';777;0
+e;75492;'Dave Fleischer';1;50
+e;5977335;'producteur de disques';1;0
+e;272979;'Don Sharp';777;50
+e;219336;'producteur>24742';1;68;'producteur>cinéma'
+e;219337;'producteur>50567';1;6;'producteur>agriculture'
+e;2586629;'Number:Sing';4;0
+e;16780856;'metteur en scène et producteur';777;0
+e;2586627;'Gender:Mas';4;0
+e;10144985;'producteur de spectacle vivant';777;0
+e;14653995;'réalisateur-producteur';1;0
+e;15773917;'nom du producteur';777;0
+e;16047124;'non producteur d'indole';1;0
+e;16237822;'poste producteur de rayons X';1;0
+e;15461912;'producteur d'indole';1;0
+e;15356559;'producteur de tissu squelettique';1;0
+e;15461914;'producteur des ressorts';1;0
+e;219338;'producteur>118876';1;50;'producteur>industrie'
+e;10446768;'producteur de jeu vidéo';777;0
+e;10459257;'producteur musical';777;0
+e;10508523;'producteur de télévision et de cinéma';1;0
+e;308131;'Eugene Curran Kelly';777;50
+e;14609123;'éleveur-producteur';1;0
+e;3695171;'Kanye Omari West';777;0
+e;219339;'producteur>42963';1;62;'producteur>produire'
+e;439662;'producteur>171869';1;50;'producteur>Adj:'
+e;439661;'producteur>171870';1;50;'producteur>Nom:'
+e;10525001;'producteur de théâtre';777;0
+e;11237754;'producteur de cinéma et de télévision';1;0
+e;60929;'Alexander Korda';1;50
+e;10777476;'producteur de rock';1;0
+e;11147623;'responsabilité élargie du producteur';777;0
+e;1636685;':r2741922';10;0
+e;11834633;'producteur de cirque';1;0
+e;1919925;':r2102789';10;0
+e;227581;'frères Coen';1;50
+e;10558036;'producteur américain';1;0
+e;12080989;'producteur d'appoint';1;0
+e;12080988;'producteur d'ajustement';1;0
+e;397887;'Shin';1;50
+e;225934;'oeil>330323';1;224;'oeil>organe de la vue'
+e;77424;'oeil';1;3278
+e;10040593;'César du meilleur producteur';777;0
+e;10745381;'producteur de musique électronique';1;0
+e;12069161;'producteur bio';1;0
+e;12883816;'producteur de vin';1;0
+e;3576104;'Morpho:nospace';18;50
+e;217817;'_INFO-POLYSEMIC';36;50
+e;191669;'_INFO-SEM-LIVING-BEING';36;160
+e;236524;'Régis Wargnier';1;50
+e;1875110;'réalisateur artistique';1;0
+e;142086;'jambe';1;3395
+e;1636805;'oeil>44335';1;50;'oeil>organe'
+e;5387515;':r83967069';10;0
+e;15224920;'en:producing';1;0
+e;11027123;'producteur de télévision français';1;0
+e;12087596;'le premier producteur d'huile d'olive du monde';777;0
+e;3357631;'George Roy Hill';1;0
+e;140715;'jambes';1;1549
+e;11783741;'surplus du producteur';777;0
+e;14330;'satisfaction';1;626
+e;19554;'paysan';1;1004
+e;110427;'intermédiaire';1;2318
+e;16110;'bouche';1;4340
+e;144846;'tête';1;5937
+e;9981325;'+ producteur';777;0
+e;10596745;'producteur de bière';1;0
+e;317590;'produit éthique';1;6
+e;3228593;'wiki:@';444;0
+e;24295;'laborieux';1;68
+e;30529;'actif';1;2787
+e;20583;'pétrole';1;3045
+e;118238;'radiotélévision';1;54
+e;134387;'accomplissement';1;128
+e;141342;'verger';1;544
+e;674290;'éleveur>171870';1;0;'éleveur>Nom:'
+e;574328;'élaborateur>171869';1;50;'élaborateur>Adj:'
+e;134959;'affameur';1;52
+e;10588124;'Ruban d'argent du meilleur producteur';777;0
+e;11030236;'producteur d'acier';1;0
+e;3575927;'Morpho:min';18;50
+e;140318;'parler';1;4471
+e;124600;'mourir';1;2755
+e;251694;'mourir>126720';1;238;'mourir>cesser de vivre'
+e;259820;'vivre>160251';1;78;'vivre>être en vie'
+e;43253;'dormir';1;6578
+e;2442;'vivre';1;3276
+e;43601;'se reproduire';1;502
+e;327715;'::>14:29592>29:105814';8;50;'regarder [objet] film'
+e;223198;'::>14:29592>29:105814>13';9;50;'Qui pourrait regarder un film ?'
+e;328840;'::>14:66909>29:94183';8;50;'créer [objet] spectacle'
+e;229318;'::>14:66909>29:94183>13';9;50;'Qui pourrait créer un spectacle ?'
+e;53609;'postsynchroniser';1;50
+e;80655;'gaver';1;122
+e;4528;'réaliser';1;3179
+e;105814;'regarder';1;3658
+e;14474617;'::>13:121817>29:54438';8;0;'vendre [sujet] producteur'
+e;254876;'_POL-POS_PC';36;50
+e;80362;'appliqué';1;1643
+e;41191;'salarié';1;390
+e;117760;'auteurs';1;3346
+e;1745584;'Fally Ipupa';777;0
+e;593004;'inventeur>171870';1;0;'inventeur>Nom:'
+e;65750;'commerçant';1;446
+e;77008;'yeux';1;4539
+e;16747;'adn';1;164
+e;11775392;'est un producteur et DJ de musique électronique américain';777;0
+e;14916413;'Langue:français';18;50
+e;130831;'camembert';1;456
+e;166311;'productrice';1;106
+e;13886533;':r351467473';10;0
+e;100150;'nutritif';1;96
+e;66731;'travailleur';1;572
+e;440690;'initiateur>171869';1;50;'initiateur>Adj:'
+e;31771;'consommateur';1;182
+e;95327;'destructeur';1;90
+e;81934;'main';1;6788
+e;96211;'coeur';1;2342
+e;145953;'visage';1;3047
+e;114327;'acide désoxyribonucléique';1;140
+e;15325270;'producteur de blé';1;0
+e;317582;'produit solidaire';1;52
+e;3407936;'bn:15369139n';444;0
+e;30348;'studieux';1;172
+e;5703812;'Alex Bakara';777;0
+e;1171460;'industriel>171870';1;0;'industriel>Nom:'
+e;603506;'cultivateur>171869';1;0;'cultivateur>Adj:'
+e;588019;'générateur>171870';1;0;'générateur>Nom:'
+e;440689;'initiateur>171870';1;50;'initiateur>Nom:'
+e;66909;'spectacle';1;2864
+e;10955;'hôtellerie';1;158
+e;74846;'corps';1;5240
+e;1384;'vivant';1;3307
+e;103405;'indifférence';1;612
+e;1919924;':r28428780';10;0
+e;5387516;':r84008061';10;0
+e;7291058;'en:production';1;0
+e;14939352;'en:productive';1;0
+e;7096226;'en:generator';1;0
+e;96670;'opérateur';1;1358
+e;674291;'éleveur>171869';1;0;'éleveur>Adj:'
+e;588020;'générateur>171869';1;0;'générateur>Adj:'
+e;71624;'être vivant';1;1888
+e;34898;'pied';1;4548
+e;107477;'nez';1;2903
+e;139779;'ADN';1;1254
+e;26363;'bras';1;4155
+e;221019;'bouche>112609';1;214;'bouche>anatomie'
+e;95422;'cou';1;1944
+e;240720;'squelette>112609';1;152;'squelette>anatomie'
+e;228289;'sexe>218086';1;284;'sexe>organe sexuel'
+e;219363;'corps>112609';1;190;'corps>anatomie'
+e;122864;'mort';1;7245
+e;112243;'cinématographique';1;2253
+e;147213;'achète';1;684
+e;1171461;'industriel>171869';1;0;'industriel>Adj:'
+e;574327;'élaborateur>171870';1;50;'élaborateur>Nom:'
+e;9575;'tourisme';1;2930
+e;1920542;'domaine du spectacle';1;0
+e;251137;'spectacles';1;1911
+e;2586628;'Gender:Fem';4;0
+e;603505;'cultivateur>171870';1;0;'cultivateur>Nom:'
+e;593005;'inventeur>171869';1;0;'inventeur>Adj:'
+e;453357;'créateur>171870';1;50;'créateur>Nom:'
+e;453358;'créateur>171869';1;50;'créateur>Adj:'
+e;101689;'être animé';1;50
+e;1395235;'être>171870';1;0;'être>Nom:'
+e;213977;'bassin>112609';1;20;'bassin>anatomie'
+e;94431;'neck';1;52
+e;12791689;'acide désoxyribo-nucléique';1;0
+e;11008328;'ADN>30051';1;8;'ADN>code génétique'
+e;13884776;'producteur de ciment';777;0
+e;14639020;'important producteur';1;0
+e;14653027;'producteur de cigarettes';1;0
+e;11057259;'::>14:147183>29:29926';8;0;'acheter [objet] pommes'
+e;11057266;'::>14:87286>29:29926';8;0;'acheter [objet] fruit'
+e;11057270;'::>14:89760>29:29926';8;0;'acheter [objet] fruits'
+e;276096;'_INFO-WIKI-YES';36;50
+e;15991431;'_ANIME-YES';36;50
+e;1912917;'_INFO-COUNTABLE-YES';36;0
+e;228566;'plat cuisiné';1;212
+e;261639;'plat cuisiné surgelé';1;50
+e;332491;'Là-bas si j'y suis';1;50
+e;260332;'succès commercial';1;114
+e;15200479;'en:ready-made meal';1;0
+e;15413508;'en:ready-cooked dish';1;0
+e;104856;'consciencieux';1;76
+e;69797;'ouvrier';1;1899
+e;3743172;'John Badham';1;0
+e;93754;'nourricier';1;80
+e;12948;'manoeuvre';1;122
+e;298507;'Shelton Jackson Lee';777;50
+e;217201;'film>217196';1;1844;'film>oeuvre cinématographique'
+e;95605;'champ';1;3475
+e;395984;'Xavier Dolan';1;50
+e;65844;'Mervyn LeRoy';1;50
+e;312171;'Jacques Rouffio';777;50
+e;1129851;'Roger Donaldson';777;0
+e;272904;'George Sherman';777;50
+e;298506;'Spike Lee';1;50
+e;286239;'Paul William Scott Anderson';777;50
+e;393498;'Rodney Moore';1;50
+e;392892;'Gary Ross';777;50
+e;5387514;':r56830531';10;0
+e;305478;'Jean Guilloré';777;50
+e;248198;'_SEX_NO';36;50
+e;248197;'_SEX_YES';36;50
+e;5387513;':r58575251';10;0
+e;120603;'légume';1;2736
+e;18283;'céréale';1;622
+e;4328000;'Wes Anderson';1;0
+e;88728;'Lee';1;3122
+e;188132;'réalisatrice';1;64
+e;6802231;'en:eye';1;0
+e;148104;'eye';1;50
+e;174120;'il';1;1932
+e;5387517;':r56393294';10;0
+e;5517854;'Samuel Marshall Raimi';777;0
+e;4874081;'Spike Jonze';1;0
+e;188580;'Dr. Dre';1;50
+e;13001;'Mexique';1;3467
+e;224704;'prod';1;52
+e;29897;'biens';1;3188
+e;16040721;'bien de';1;0
+e;51589;'finance';1;1078
+e;3298195;'pinardier>30171';1;0;'pinardier>navire'
+e;5094704;'Rupert Wyatt';1;0
+e;9608518;'Matthew Vaughn';777;0
+e;410694;'Wiley';1;50
+e;7336113;'en:agriculture';1;0
+e;195072;'exploitant agricole';1;52
+e;62880;'économique';1;3694
+e;23705;'productivité';1;66
+e;153176;'Agriculture';1;1183
+e;29786;'ferme';1;3030
+e;264917;'hétérotrophes';1;54
+e;234941;'enregistrement sonore';1;50
+e;111867;'enregistrement';1;867
+e;52079;'musique électronique';1;94
+e;90256;'hip-hop';1;102
+e;132817;'compositeur';1;3491
+e;12127;'interprète';1;2233
+e;110925;'vendeur';1;646
+e;3322090;'Organisme';1;0
+e;397264;'Économie';1;3585
+e;415522;'Production';1;3090
+e;426151;'Paysan';1;50
+e;405505;'Ferme';1;50
+e;332631;'programmation concurrente';1;50
+e;152349;'Musique';1;3582
+e;70527;'musique';1;9940
+e;578707;'mixage audio';777;0
+e;2540695;'mastering';1;0
+e;188626;'Brian Eno';1;50
+e;76315;'Beatles';1;1291
+e;58768;'organisme';1;2509
+e;117305;'enregistrer';1;300
+e;2456523;'multipiste';1;0
+e;216232;'mur de son';1;68
+e;5713468;'George Martin';777;0
+e;5713646;'Max Martin';777;0
+e;292126;'International Standard Book Number';777;56
+e;142939;'ISBN';1;3627
+e;397711;'Blues';1;2226
+e;11577630;'Electronica';1;0
+e;141159;'Funk';1;50
+e;6068302;'Gospel';1;0
+e;138536;'Jazz';1;2369
+e;10324230;'Musique country';777;0
+e;402166;'Pop';1;1153
+e;415526;'Rap';1;50
+e;428761;'Reggae';1;50
+e;10046265;'RnB contemporain';777;0
+e;231432;'Rock';666;3002
+e;408336;'Arrangement';1;50
+e;5687416;'Artists and Repertoire';777;0
+e;10944003;'Disquaire';1;0
+e;403504;'Instrument';1;984
+e;5813185;'Producteur';1;1654
+e;2931443;'Programmation';1;0
+e;140017;'Major';1;1050
+e;311230;'Sony Music Entertainment';777;50
+e;9967106;'Universal Music Group';777;0
+e;9600777;'Warner Music Group';777;0
+e;419705;'Album';1;2008
+e;10552005;'Compilation';1;0
+e;5997494;'Remix';1;0
+e;12903791;'Extended play';777;0
+e;397084;'Single';1;50
+e;9962640;'American Music Awards';777;0
+e;10459246;'ARIA Music Awards';777;0
+e;9962651;'Billboard Music Awards';777;0
+e;5521904;'Brit Awards';777;0
+e;6003391;'Diapason';777;0
+e;10459303;'Golden Disk Awards';777;0
+e;10459304;'Gramophone Classical Music Awards';777;0
+e;393439;'Grammy Awards';1;52
+e;10459305;'Kora Awards';777;0
+e;14030543;'Latin Grammy Award';777;0
+e;5954322;'Latin Grammy Awards';777;0
+e;5704054;'MTV Europe Music Awards';777;0
+e;9962694;'MTV Video Music Awards';777;0
+e;10459313;'MuchMusic Video Awards';777;0
+e;10546769;'MOBO Awards';777;0
+e;10459320;'MOJO Awards';777;0
+e;9962735;'NRJ Music Awards';777;0
+e;10459325;'TEC Awards';777;0
+e;254982;'Victoires de la musique';1;4
+e;9962751;'World Music Awards';777;0
+e;14153741;'Trace Awards';777;0
+e;1965397;'Classements';1;0
+e;10083732;'ARIA Charts';777;0
+e;10458884;'Canadian Hot 100';777;0
+e;12776191;'GfK Entertainment';777;0
+e;10458906;'MegaCharts';777;0
+e;10458897;'Ö3 Austria Top 40';777;0
+e;3322473;'Certifications';1;0
+e;10133346;'Australian Recording Industry Association';777;0
+e;10086607;'ARIA';1;0
+e;10133366;'Belgian Entertainment Association';777;0
+e;391809;'BEA';1;50
+e;10133348;'British Phonographic Industry';777;0
+e;233235;'BPI';1;50
+e;10133359;'Bundesverband Musikindustrie';777;0
+e;10133360;'BVMI';777;0
+e;10458882;'Argentine Chamber of Phonograms and Videograms Producers';777;0
+e;572310;'Music Canada';777;50
+e;10458903;'Irish Recorded Music Association';777;0
+e;5894152;'Recording Industry Association of America';777;0
+e;13198642;'RIAA';777;0
+e;10133361;'Recorded Music NZ';777;0
+e;10133362;'RMNZ';777;0
+e;253282;'Fnac';1;4
+e;10352765;'HMV';1;0
+e;9024206;'Virgin Megastore';777;0
+e;9962462;'Black Entertainment Television';777;0
+e;9962470;'Country Music Television';777;0
+e;10459331;'Fuse TV';777;0
+e;3335860;'Popstars';777;0
+e;225492;'Star Academy';1;52
+e;10459334;'The Music Factory';777;0
+e;6008800;'The X Factor';777;0
+e;10845451;'VIVA';1;0
+e;1636681;':r2891412';10;0
+e;5387518;':r97793000';10;0
+e;237444;'être>94160';1;62;'être>existence'
+e;4467189;'Darabont Ferenc Árpád';777;0
+e;2951484;'Cecil Blount DeMille';777;0
+e;2946917;'Claude Langmann';777;0
+e;28453;'bonheur';1;2804
+e;1636670;':r14186428';10;0
+e;1636671;':r14186236';10;0
+e;1636672;':r3052368';10;0
+e;1636673;':r3046191';10;0
+e;1636674;':r2825100';10;0
+e;1636675;':r2762884';10;0
+e;1636676;':r2678404';10;0
+e;1636677;':r14812939';10;0
+e;1636678;':r2948162';10;0
+e;1636680;':r2976489';10;0
+e;1636682;':r2914106';10;0
+e;1636683;':r2963227';10;0
+e;1636684;':r2751401';10;0
+e;1636686;':r2776658';10;0
+e;1636687;':r2737537';10;0
+e;1636688;':r2728779';10;0
+e;1636689;':r2714815';10;0
+e;1636690;':r2684028';10;0
+e;1636691;':r2754856';10;0
+e;1636692;':r2730344';10;0
+e;1636693;':r15870992';10;0
+e;1636694;':r14711836';10;0
+e;1636695;':r2861676';10;0
+e;1636696;':r2829949';10;0
+e;1636697;':r2768895';10;0
+e;1636698;':r2815571';10;0
+e;1636699;':r2818280';10;0
+e;5974073;'Dan Curtis';777;0
+e;80117;'Neilson';1;50
+e;5801362;'Desnoes and Geddes Limited';777;0
+e;287038;'James Mangold';777;50
+e;326500;'William Daniels';777;50
+e;14918011;'en:DNA';1;0
+e;91691;'surprise';1;2394
+e;3133289;'Prince>2149';1;0;'Prince>gâteau'
+e;3133290;'Prince>7970';1;0;'Prince>titre'
+e;2725035;'miel>127270';1;2;'miel>merde'
+e;244983;'miel>40056';1;50;'miel>couleur'
+e;2725034;'miel>11525';1;0;'miel>agrément'
+e;5307728;'Christian Fechner';1;0
+e;14928296;'en:filmmaker';1;0
+e;15050585;'en:film maker';1;0
+e;15050586;'en:movie maker';1;0
+e;15250065;'en:moviemaker';1;0
+e;15250067;'en:cineaste';1;0
+e;1919927;':r25788109';10;0
+e;1005859;':r13268293';10;0
+e;1331006;':r1906742';10;0
+e;1341022;':r2336546';10;0
+e;225846;'organisme>332175';1;54;'organisme>ensemble des organes'
+e;225848;'organisme>118203';1;52;'organisme>corps humain'
+e;237441;'être>85728';1;12;'être>exister'
+e;237443;'être>37229';1;66;'être>se trouver'
+e;5675404;'Albert Hughes';777;0
+e;1355551;':r10674840';10;0
+e;1565961;':r13268301';10;0
+e;4642037;':r10220683';10;0
+e;5678914;'John Musker';777;0
+e;5678913;'Ron Clements';777;0
+e;5678862;'Robert Clouse';777;0
+e;5678849;'Pete Docter';777;0
+e;5678845;'Roy Ward Baker';777;0
+e;5678445;'Ronald Neame';777;0
+e;5678328;'Norman J. Warren';777;0
+e;5678215;'Stephen Sommers';777;0
+e;5678168;'Mike Hodges';777;0
+e;5678138;'Uwe Boll';777;0
+e;5678090;'Lawrence Kasdan';777;0
+e;5678086;'Neil Marshall';777;0
+e;5678073;'Rob S. Bowman';777;0
+e;5678048;'Daniel Espinosa';777;0
+e;5678033;'Justin Lin';777;0
+e;5678023;'James Ponsoldt';777;0
+e;5678021;'Gerry Anderson';777;0
+e;5677990;'George Miliotis';777;0
+e;5677853;'José Padilha';777;0
+e;5677760;'tarsem';777;0
+e;5677454;'James Gunn';777;0
+e;5677317;'Doug Liman';777;0
+e;5676495;'Frank Miller';777;0
+e;5676316;'Guillermo del Toro';777;0
+e;5675585;'Edgar Wright';777;0
+e;5675502;'James DeMonaco';777;0
+e;5675495;'Len Ryan Wiseman';777;0
+e;5675492;'Alejandro Amenábar';777;0
+e;5675474;'Andrew Stanton';777;0
+e;5675461;'Jorge Torregrossa';777;0
+e;5675458;'Peter Berg';777;0
+e;5675450;'Andrew Niccol';777;0
+e;5675447;'Shawn Levy';777;0
+e;5675432;'Jon Favreau';777;0
+e;5675423;'Mike Cahill';777;0
+e;5675421;'George Nolfi';777;0
+e;5675405;'Allen Hughes';777;0
+e;5675399;'McG';777;0
+e;5675395;'David DeCoteau';777;0
+e;5675394;'Vincenzo Natali';777;0
+e;5675390;'Noboru Iguchi';777;0
+e;5675366;'Alex Rivera';777;0
+e;5675355;'Robert Wise';777;0
+e;5675353;'Scott Derrickson';777;0
+e;5675351;'Matt Reeves';777;0
+e;5675282;'Joss Whedon';777;0
+e;5675256;'Roland Emmerich';777;0
+e;5675249;'Alex Proyas';777;0
+e;5675247;'Omar Naim';777;0
+e;5675225;'Jonathan Mostow';777;0
+e;5675186;'John McTiernan';777;0
+e;5675147;'James Wong';777;0
+e;5675133;'Roman Coppola';777;0
+e;5675057;'Roger Spottiswoode';777;0
+e;5668161;'Haruki Kadokawa';777;0
+e;5564270;'John Singleton';777;0
+e;5563876;'Shin Sang-ok';777;0
+e;5563116;'Lim Sang-soo';777;0
+e;5526066;'M. Night Shyamalan';777;0
+e;5517855;'Sam Raimi';777;0
+e;5677746;'Tarsem Dhandwar Singh';777;0
+e;157007;'être>146885';1;50;'être>Nom:Mas+SG'
+e;117604;'mécanisme';1;2676
+e;1017200;':r13276203';10;0
+e;1762425;':r18233312';10;0
+e;1775469;':r22232141';10;0
+e;14657944;':r372511665';10;0
+e;225849;'organisme>86627';1;50;'organisme>organisation'
+e;396248;'individu>69012';1;50;'individu>statistique'
+e;396250;'individu>35143';1;56;'individu>biologie'
+e;5677747;'Tarsem Singh';777;0
+e;5675398;'Joseph McGinty Nichol';777;0
+e;151532;'Bob';1;2957
+e;6798394;'en:neck';1;0
+e;2317642;':r33163069';10;0
+e;2317643;':r33163074';10;0
+e;2317644;':r33163079';10;0
+e;5387519;':r14842454';10;0
+e;5790972;':r111318007';10;0
+e;10871956;':r255087036';10;0
+e;11057265;':r280134016';10;0
+e;11057269;':r280134208';10;0
+e;11057272;':r280134257';10;0
+e;12247432;':r317743553';10;0
+e;3774559;'dbnary:fra:__ws_1_producteur__adj__1';444;0
+e;3859601;'dbnary:fra:__ws_3_producteur__nom__1';444;0
+e;4268354;'dbnary:fra:__ws_2_producteur__nom__1';444;0
+e;225793;'métier>47535';1;54;'métier>expérience'
+e;225794;'métier>117604';1;50;'métier>mécanisme'
+e;234035;'être vivant>2442';1;4;'être vivant>vivre'
+e;3170279;'individu>25345';1;8;'individu>quidam'
+e;396249;'individu>64226';1;54;'individu>administration'
+e;57221;'joie';1;3928
+e;251716;'_INFO-MONOSEMIC';36;50
+e;102345;'plaisir';1;3741
+e;3778909;'nuciculteur';1;0
+e;222232;'Hugh Laurie';1;56
+e;62930;'Tarantino';1;120
+e;1476134;'castanéiculteur';666;0
+e;14917526;'en:deoxyribonucleic acid';1;0
+e;226401;'Henri-Georges Clouzot';1;16
+e;4328001;'Owen Wilson';1;0
+e;252337;'marchand de légumes';1;12
+e;189694;'John Travolta';1;138
+e;251389;'oeuf frais';1;50
+e;15201675;'en:fresh egg';1;0
+e;264159;'rôle principal';1;70
+e;15137351;'en:title role';1;0
+e;80338;'Frank Capra';1;50
+e;312662;'Harvey Keitel';666;50
+e;264171;'premier rôle';1;56
+e;15429822;'en:lead role';1;0
+e;15227387;'en:leading role';1;0
+e;188330;'David Bowie';1;74
+e;15205210;'en:main part';1;0
+e;164871;'Paul Newman';1;106
+e;8854250;'Fred Silverman';777;0
+e;39425;'Bimal Roy';1;50
+e;226609;'Vincent Cassel';1;64
+e;15224922;'en:movie producer';1;0
+e;15050587;'en:film producer';1;0
+e;67482;'rôle-titre';1;50
+e;15397942;'en:oil-producing country';1;0
+e;222775;'Guy Lux';1;28
+e;254782;'Rahan';666;20
+e;2558955;'cidrier';1;0
+e;5535044;'Guy Job';777;0
+e;2395731;'asparagiculteur';1;0
+e;2442094;'chanvier';1;0
+e;35508;'betteravier';1;50
+e;213281;'Leonardo DiCaprio';666;2
+e;2420767;'chou-fleuriste';1;0
+e;101129;'John Ford';1;54
+e;10033777;'Trey Edward Shults';777;0
+e;2450887;'nawakiste';1;0
+e;3298200;'légumier>5901';1;2;'légumier>maraîcher'
+e;69510;'volailleur';1;50
+e;10034641;'Al Christie';777;0
+e;10034631;'George Melford';777;0
+e;10003661;'Evan Goldberg';777;0
+e;10001465;'Phil Karlson';777;0
+e;2459462;'pruniculteur';1;0
+e;213207;'Nemo';666;32
+e;10085137;'Christophe Gans';777;0
+e;10007763;'Charles F. Riesner';777;0
+e;10001477;'R. G. Springsteen';777;0
+e;2564603;'théiculteur';1;0
+e;1706362;'réalisateurs';1;965
+e;11397968;'scène de film';1;0
+e;299480;'réclamation client';777;50
+e;10423255;'Serge Roullet';777;0
+e;10158397;'Farid Dms Debah';777;0
+e;10094194;'Brian Trenchard-Smith';777;0
+e;10141285;'Rob Reiner';777;0
+e;10118249;'Anthony Minghella';777;0
+e;10091456;'Frank Launder';777;0
+e;10085203;'Carlo Lizzani';777;0
+e;10069686;'Jon Turteltaub';777;0
+e;10049556;'Charles Marcus Matthau';777;0
+e;10035026;'David Yates';777;0
+e;10033779;'David Ayer';777;0
+e;10033765;'Joe Carnahan';777;0
+e;10033174;'Carlos Saldanha';777;0
+e;10033121;'Paul Feig';777;0
+e;10026077;'David Miller';777;0
+e;10026062;'John H. Auer';777;0
+e;10018842;'Edward Sloman';777;0
+e;10018827;'George Terwilliger';777;0
+e;10014762;'Albert Lewin';777;0
+e;10008312;'James W. Horne';777;0
+e;10001501;'Dick Lowry';777;0
+e;10000640;'Nicholas Corea';777;0
+e;9998782;'John Krokidas';777;0
+e;9994030;'James Bobin';777;0
+e;9990191;'Martin Villeneuve';777;0
+e;9969346;'Henry Selick';777;0
+e;9968285;'Jan Coenen';777;0
+e;9968105;'S. Sylvan Simon';777;0
+e;9968101;'Zoltán Kellner';777;0
+e;9967699;'Del Lord';777;0
+e;9967639;'Roy Del Ruth';777;0
+e;88887;'cimentier';1;76
+e;15224921;'en:associate producer';1;0
+e;15224929;'en:executive producer';1;0
+e;10180728;'Luca Guadagnino';777;0
+e;10363057;'Martin Brest';777;0
+e;10328237;'Pere Portabella i Ràfols';777;0
+e;10365233;'Ryan Murphy';777;0
+e;10385471;'Brett Ratner';777;0
+e;10178537;'Jerry Belson';777;0
+e;10176552;'Jon Cassar';777;0
+e;10174444;'Grégory Levasseur';777;0
+e;10161535;'Gian Vittorio Baldi';777;0
+e;10159956;'Léo Joannon';777;0
+e;10071052;'Alastair Fothergill';777;0
+e;10139775;'Jerry Thorpe';777;0
+e;10139374;'Jonathan Parker Read Jr';777;0
+e;10138961;'Paul Haggis';777;0
+e;10138868;'Michael Paseornek';777;0
+e;10138181;'Richard Brooks';777;0
+e;10132941;'John Cornell';777;0
+e;10083080;'Aaron Rosenberg';777;0
+e;10071940;'Rob Minkoff';777;0
+e;10037038;'Oscar Devereaux Micheaux';777;0
+e;10036705;'Ernest Pintoff';777;0
+e;10036466;'Robert North Bradbury';777;0
+e;10035414;'Benjamin Stoloff';777;0
+e;10035297;'Alan Rudolph';777;0
+e;10033768;'Zachary Edward Snyder';777;0
+e;10032454;'Julien Seri';777;0
+e;10028773;'Bryan Singer';777;0
+e;10028774;'Bryan Jay Singer';777;0
+e;10028712;'Lee Chang-dong';777;0
+e;10027341;'Louis Gasnier';777;0
+e;10027342;'Louis J. Gasnier';777;0
+e;10027307;'Edwin S. Porter';777;0
+e;10027289;'Fred J. Balshofer';777;0
+e;10026088;'Sidney Salkow';777;0
+e;10025517;'Nuri Bilge Ceylan';777;0
+e;10018841;'George Abbott';777;0
+e;10016473;'Gene Reynolds';777;0
+e;10014806;'Irwin Allen';777;0
+e;10011838;'Gilles Legrand';777;0
+e;10008622;'Mike Figgis';777;0
+e;10008599;'Henry Levin';777;0
+e;10008560;'Jack Bernhard';777;0
+e;10008542;'Elmer Clifton';777;0
+e;10007762;'Charles Reisner';777;0
+e;10004627;'Robert Halmi Sr';777;0
+e;10003945;'James Goldstone';777;0
+e;10003848;'Todd Phillips';777;0
+e;10001428;'Don Hartman';777;0
+e;10000602;'Enzo G. Castellari';777;0
+e;9984477;'Oscar Boetticher Jr';777;0
+e;9982812;'Karim Dridi';777;0
+e;9981302;'B. Reeves Eason';777;0
+e;9968232;'David Butler';777;0
+e;9968176;'Paul Rex Goldstein';777;0
+e;9968157;'R. William Neill';777;0
+e;9968023;'Arthur Lubin';777;0
+e;2484545;'melonnier';1;0
+e;274823;'Patrick Wayne Swayze';777;50
+e;7033;'Michel Piccoli';1;72
+e;232389;'Mel Brooks';1;24
+e;10428198;'Frank Erwin';777;0
+e;10343089;'Robert Iscove';777;0
+e;10328195;'Mutz Greenbaum';777;0
+e;10315278;'Pete Walker';777;0
+e;10385095;'John Madden';777;0
+e;10197250;'Renny Harlin';777;0
+e;10190204;'Moussa Touré';777;0
+e;10187610;'Alain Maline';777;0
+e;10180426;'David Goyer';777;0
+e;10178733;'Frank Marshall';777;0
+e;10162601;'Hiner Saleem';777;0
+e;10161507;'Jacques Robiolles';777;0
+e;10159882;'Roger Le Bon';777;0
+e;10137495;'Harley Knoles';777;0
+e;10126781;'Manuel Sanchez';777;0
+e;10105812;'George Ridgewell';777;0
+e;10100050;'Gus Meins';777;0
+e;10096532;'Rolfe Thiele';777;0
+e;10090249;'Viv Thomas';777;0
+e;10078785;'Josh Schwartz';777;0
+e;10078279;'Timour Nourouakhitovitch Bekmambetov';777;0
+e;10068461;'Taika Cohen';777;0
+e;10061756;'Jean-Claude Brisseau';777;0
+e;10054764;'Vincent McEveety';777;0
+e;10049545;'Albert Pyun';777;0
+e;10047039;'Sergio Gobbi';777;0
+e;10036171;'Peter Roger Hunt';777;0
+e;10010409;'Alan Crosland';777;0
+e;10028837;'Alejandro González Iñárritu';777;0
+e;10028744;'Chris Weitz';777;0
+e;10028713;'Shekhar Kapur';777;0
+e;10027398;'William C. de Mille';777;0
+e;10026072;'William Nigh';777;0
+e;10025527;'Aki Olavi Kaurismäki';777;0
+e;10010208;'Sam Taylor';777;0
+e;10003583;'Neil LaBute';777;0
+e;10002301;'Judd Apatow';777;0
+e;10000605;'Enzo Girolami';777;0
+e;9992308;'Gary Nelson';777;0
+e;9990962;'André Hugon';777;0
+e;9988774;'Sidney Gilliat';777;0
+e;9984479;'Lewis R. Foster';777;0
+e;9984476;'Budd Boetticher';777;0
+e;9983607;'Felix Feist';777;0
+e;9981833;'John N.B. Villiers-Farrow';777;0
+e;9981812;'David Howard';777;0
+e;9968923;'Chris Renaud';777;0
+e;9968219;'Roy Rowland';777;0
+e;9968024;'Serge Bromberg';777;0
+e;2359497;'endivier';1;0
+e;19315;'Éric Rohmer';1;50
+e;922639;'Maurice Schérer';777;0
+e;214349;'Eric Rohmer';1;52
+e;10428855;'Arthur David Hilton';777;0
+e;10426073;'Joseph Henabery';777;0
+e;10426066;'Edward José';777;0
+e;10421165;'James Wan';777;0
+e;10421151;'Marcus Dunstan';777;0
+e;10352572;'Michael Apted';777;0
+e;10347442;'Fred LeRoy Granville';777;0
+e;10328208;'Anthony Kimmins';777;0
+e;10328196;'Max Greene';777;0
+e;10327948;'Stephan Elliott';777;0
+e;10328061;'Larry Bishop';777;0
+e;10190333;'Jon Avnet';777;0
+e;10327842;'Wojciech Jerzy Has';777;0
+e;10326005;'Anthony Pelissier';777;0
+e;10314411;'Eduardo Sánchez';777;0
+e;10311958;'Arthur Lamothe';777;0
+e;10196940;'John Rich';777;0
+e;10189932;'Bernard Émond';777;0
+e;10186412;'Jean-Luc Bertrand';777;0
+e;10188547;'Karey Kirkpatrick';777;0
+e;10180427;'David Samuel Goyer';777;0
+e;10179573;'Michael Caton-Jones';777;0
+e;10179565;'Barney Platts-Mills';777;0
+e;10178542;'Robert Butler';777;0
+e;10178521;'Walter Hill';777;0
+e;10178374;'Gilbert Cates';777;0
+e;10178372;'Ulu Grosbard';777;0
+e;10178049;'Philippe Godeau';777;0
+e;10174340;'Uberto Pasolini dall'Onda';777;0
+e;10162602;'Azad Shero Selim';777;0
+e;10161035;'Christian Macari Ledru';777;0
+e;10160582;'Jérôme Enrico';777;0
+e;10145055;'Paul Powell';777;0
+e;10046706;'Jean-François Lepetit';777;0
+e;10138879;'Scott Frank';777;0
+e;10139392;'F. Hugh Herbert';777;0
+e;10138884;'Terrence Malick';777;0
+e;10138664;'Bruce Anslie Evans';777;0
+e;10138593;'Bruce Beresford';777;0
+e;10138590;'John Milius';777;0
+e;10138173;'Lewis Gilbert';777;4
+e;10138104;'Emeric Pressburger';777;0
+e;10138084;'Charles MacArthur';777;0
+e;10137629;'Yash Chopra';777;0
+e;10135503;'Kim Nguyen';777;0
+e;10133416;'Michael Powell';777;0
+e;10105811;'George Ridgwell';777;0
+e;10100101;'Sherman A. Todd';777;0
+e;10100042;'Robert F. McGowan';777;0
+e;10097029;'Alan Ball';777;0
+e;10092488;'Nick Grinde';777;0
+e;10139767;'Alan David Yorkin';777;0
+e;10085140;'Kader Ayd';777;0
+e;10078499;'Christopher Robert Miller';777;0
+e;10074312;'Mario Caiano';777;0
+e;10070974;'Kevin Patrick Smith';777;0
+e;10070014;'Michael Tiddes';777;0
+e;10070015;'30 octobre 1975';777;0
+e;10070002;'Ruben Fleischer';777;0
+e;10069554;'Glenn Ficarra';777;0
+e;10068063;'Edward Zwick';777;0
+e;10061781;'Edwin Baily';777;0
+e;10058391;'David Alan Mamet';777;0
+e;10049555;'Charles Matthau';777;0
+e;10045962;'Steven Andrew Soderbergh';777;0
+e;10045566;'David Crane';777;0
+e;10044495;'Arnold Glimcher';777;0
+e;10038905;'Barry Shear';777;0
+e;10037039;'Leigh Jason';777;0
+e;10034168;'Christopher Edward Nolan';777;0
+e;10033778;'Trey Shults';777;0
+e;10033110;'Greg Mottola';777;0
+e;10025938;'William H. Daniels';777;0
+e;10004611;'Tad Stones';777;0
+e;10004610;'Toby Shelton';777;0
+e;10002859;'Fred Dekker';777;0
+e;9997786;'Henri Diamant-Berger';777;0
+e;9997787;'Henri Simon Diamantberger';777;0
+e;9997773;'Jacques de Baroncelli';777;0
+e;9997774;'9e marquis de Baroncelli-Javon';777;0
+e;9997720;'Léonce Perret';777;0
+e;9997578;'Taylor Hackford';777;0
+e;9990602;'Alain Jessua';777;0
+e;9989980;'Paul Vecchiali';777;0
+e;9989612;'Walter Summers';777;0
+e;9988377;'Alfred L. Werker';777;0
+e;9987580;'Claude Howard Binyon';777;0
+e;9987338;'Allan Aloysius Dwan';777;0
+e;9983621;'Ford Beebe';777;0
+e;9983616;'Along Came Ruth';777;0
+e;9983617;'Edward F. Cline';777;0
+e;9983606;'Felix E. Feist';777;0
+e;9983496;'Albert Parker';777;0
+e;9983124;'Victor Saville';777;0
+e;9981832;'John Farrow';777;0
+e;9980472;'Tommy Wirkola';777;0
+e;9968243;'Djamel Bensalah';777;0
+e;9968175;'Mark Sandrich';777;0
+e;9968156;'Roy William Neill';777;0
+e;9968159;'Roy Neill';777;0
+e;9968068;'Xavier Giannoli';777;0
+e;9968020;'Lee Daniels';777;0
+e;9967844;'Robert Stevenson';777;0
+e;9967761;'Charles Lamont';777;0
+e;5837889;'Robert Florey';777;0
+e;5836929;'Gordon Douglas';777;0
+e;9984948;'René Alexis Plaissetty';777;0
+e;130406;'Samuel Goldwyn';1;50
+e;10428857;'Arthur D. Hilton';777;0
+e;10426093;'Frank R. Strayer';777;0
+e;10425172;'Robert Shaye';777;0
+e;10425245;'Basil Coleman';777;0
+e;10425246;'Basil Woore Coleman';777;0
+e;10363055;'Michael Schultz';777;0
+e;10369413;'Masao Maruyama';777;0
+e;10352594;'Frédéric Goureau';777;0
+e;10352595;'Fred Coppula';777;0
+e;10328197;'Max Greenbaum';777;0
+e;10327778;'Jerry Jameson';777;0
+e;10324988;'Ernst Marischka';777;0
+e;10316875;'John Meredyth Lucas';777;0
+e;10315337;'Marshall Michael Brickman';777;0
+e;10313170;'Charles Brabant';777;0
+e;10312165;'Glen Morgan';777;0
+e;10312163;'Kim Manners';777;0
+e;10197251;'Renny Lauri Mauritz Harjola';777;0
+e;10195537;'George McCowan';777;0
+e;10195032;'Roland Suso Richter';777;0
+e;10191374;'Robert William Young';777;0
+e;10191309;'Olivier Bourbeillon';777;0
+e;10188675;'Steve Hickner';777;0
+e;10187848;'Victor Hugo Halperin';777;0
+e;10178762;'Chuck McCann';777;0
+e;10174362;'Pablo Trapero';777;0
+e;10178681;'David Seltzer';777;0
+e;10178529;'Mark L. Lester';777;0
+e;10177183;'Matthew Robbins';777;0
+e;10176555;'Étienne Faure';777;0
+e;10174359;'Alejandro de la Iglesia Mendoza';777;0
+e;10161526;'René Féret';777;0
+e;10160932;'Max Pécas';777;0
+e;10159955;'Léon Joannon';777;0
+e;10145057;'J. Gordon Edwards';777;0
+e;10036703;'Paul Krasny';777;0
+e;10090215;'Ralph L. Thomas';777;0
+e;10141965;'Robert Hamer';777;0
+e;10141286;'Robert Reiner';777;0
+e;10139993;'Herb Ross';777;0
+e;10139375;'J. Parker Read Jr';777;0
+e;10139082;'James Allen Mangold';777;0
+e;10138997;'John Patrick Shanley';777;0
+e;10138068;'Ian Murray Dalrymple';777;0
+e;10137242;'Brian Desmond Hurst';777;0
+e;10135907;'Rodrigo Cortés';777;0
+e;10135364;'Samuel Alexander Mendes';777;0
+e;10135365;'Sam Mendes';777;0
+e;10133433;'David MacDonald';777;0
+e;10133417;'Stuart Walker';777;0
+e;10132970;'Morgan O'Neill';777;0
+e;10106443;'Brad Mirman';777;0
+e;10096178;'Nicolas Winding Refn';777;0
+e;10093067;'Grover Jones';777;0
+e;10092487;'Harry A. Grinde';777;0
+e;10090206;'Lee Aronsohn';777;0
+e;10139768;'Bud Yorkin';777;0
+e;10078840;'Greg Daniels';777;0
+e;10078299;'Gary Winick';777;0
+e;10072718;'Albert Capellani';777;0
+e;10070984;'Steve Conrad';777;0
+e;10070973;'Kevin Smith';777;0
+e;10069785;'Eric Bress';777;0
+e;10069679;'Wallace Wolodarsky';777;0
+e;10069571;'Vianney Lebasque';777;0
+e;10069555;'John Requa';777;0
+e;10068460;'Taika Waititi';777;0
+e;10068429;'John Ottman';777;0
+e;10064261;'James Hong';777;0
+e;10060946;'André Zwobada';777;0
+e;10049510;'J. Lee Thompson';777;0
+e;10047040;'Sergio Ehrlich';777;0
+e;10047037;'Francis Girod';777;0
+e;10037035;'Oscar Micheaux';777;0
+e;10036468;'Herbert Reginald Gaston Blaché-Bolton';777;0
+e;10025940;'Wm. H. Daniels';777;0
+e;9987579;'Claude Binyon';777;0
+e;9981821;'Howard Bretherton';777;0
+e;9981814;'David Paget Davis III';777;0
+e;9980080;'Rob Burnett';777;0
+e;9968284;'Jan Kounen';777;0
+e;9968144;'Jean-François Richet';777;0
+e;9968099;'Zoltan Korda';777;0
+e;9968042;'George Sidney';777;0
+e;9967854;'Malcolm St. Clair';777;0
+e;9967758;'Albert S. Rogell';777;0
+e;9967620;'Sam Newfield';777;0
+e;189614;'Aaron Spelling';1;50
+e;9935364;'Gabriel Axel';777;0
+e;5837280;'Bernard Borderie';777;0
+e;5675493;'Len Wiseman';777;0
+e;5675066;'Gregory Hoblit';777;0
+e;164881;'producteurs';1;2198
+e;213219;'Vingt mille lieues sous les mers';666;30
+e;10427749;'Justin Smith';777;0
+e;10334515;'Jerry London';777;0
+e;10195517;'Howard W. Koch';777;0
+e;10325434;'Monte Hellman';777;0
+e;10385581;'Jon Chu';777;0
+e;10385580;'Jonathan Murray Chu';777;0
+e;10174358;'Álex de la Iglesia';777;0
+e;10160550;'Richard T. Heffron';777;0
+e;10061249;'Tom Gries';777;0
+e;10139992;'Herbert Ross';777;0
+e;10135233;'Ron Shelton';777;0
+e;10133425;'Basil Dean';777;0
+e;10100099;'Sherman Avery Todd';777;0
+e;10100007;'Clarence G. Badger';777;0
+e;10070518;'Michael Lehmann';777;0
+e;10061776;'Malik Chibane';777;0
+e;10055549;'Barrie M. Osborne';777;0
+e;10049551;'Sidney J. Furie';777;0
+e;10044496;'Arne Glimcher';777;0
+e;10040780;'Jean Benoit-Lévy';777;0
+e;10037977;'Harry Joe Brown';777;0
+e;10036467;'Herbert Blaché';777;0
+e;10025939;'Wm. Daniels';777;0
+e;3443489;'de Palma';777;0
+e;124089;'décès';1;3082
+e;10335259;'John Marcum Wells';777;0
+e;10384976;'Scott Z. Burns';777;0
+e;10179583;'Richard LaGravenese';777;0
+e;10072728;'Sol Lesser';777;0
+e;10141282;'Andrew Bergman';777;0
+e;10100100;'Sherman Todd';777;0
+e;10057095;'Kirk DeMicco';777;0
+e;10038898;'Melville Shavelson';777;0
+e;272160;'États-Unis mexicains';777;50
+e;181647;'commerce équitable';1;34
+e;98724;'vidéaste';1;50
+e;212536;'Doc Gynéco';666;50
+e;10078745;'Greg Berlanti';777;0
+e;10160612;'Adolph Zukor';777;0
+e;2252280;'productrices';2;0
+e;195228;'réalisateur de film';1;52
+e;14626532;'travaux agricoles';1;0
+e;14637149;'nourrir les poules';1;4
+e;14629315;'travaux de la terre';1;0
+e;14627001;'traire les vaches';1;16
+e;9002960;'producteurs de pétrole';1;0
+e;5517449;'thriller érotique';1;0
+e;296992;'Électricité de France';777;50
+e;2596789;'Donald Trump';666;38
+e;31864;'kiwi';1;258
+e;109528;'Karel Reisz';1;50
+e;189779;'Wim Wenders';1;50
+e;188846;'Dustin Hoffman';1;54
+e;234852;'Alain Chabat';1;94
+e;165194;'Michael Crichton';1;86
+e;1503030;'adapté au cinéma';1;0
+e;264166;'cinéma grand public';1;2
+e;14488408;'se faire un ciné';1;0
+e;1859326;'production de films';1;0
+e;8551544;'Sam Shepard';1;0
+e;1701090;'Eddie Barclay';1;0
+e;282255;'Harvey Phillip Spector';777;50
+e;1129872;'Mark Wahlberg';666;0
+e;5837207;'Rudolf Ising';777;0
+e;57923;'Alain Sarde';1;50
+e;6283812;'Fabian Bohn';777;0
+e;5688649;'Arthur Joffé';777;0
+e;5678434;'Donald G. Jackson';777;0
+e;5678170;'Stuart Gordon';777;0
+e;5981528;'Bob Barker';777;0
+e;5975304;'Norman René';777;0
+e;5937666;'Carmen Finestra';777;0
+e;15218500;'en:oil-producing';1;0
+e;15227356;'en:leading part';1;0
+e;14933569;'en:director';1;0
+e;15227392;'rôle titre';1;0
+e;1133227;'Seth Gordon';777;0
+e;5973880;'Peter-Paul Pigmans';777;0
+e;274337;'Schmuel Gelbfisz';777;50
+e;42177;'films';1;3595
+e;244982;'miel>11358';1;138;'miel>substance'
+e;10341408;'Jean Chalopin';777;0
+e;5985769;'Byron Kennedy';777;0
+e;5984519;'Fred Guiol';777;0
+e;49409;'EDF';1;178
+e;5802103;'Écusson';777;0
+e;117867;'Richard Wilson';1;50
+e;5565256;'Harley Edward Streten';777;0
+e;2949554;'Compagnie Nationale du Rhône';777;0
+e;10420735;'Todd Robinson';777;0
+e;10191501;'Noel Marshall';777;0
+e;10194662;'Sam Spiegel';777;0
+e;10186282;'Carl Laemmle';777;0
+e;10138892;'Jim Taylor';777;0
+e;9644768;'Jules Bass';777;0
+e;5981140;'Phil Thornalley';777;0
+e;5837323;'Aaron Russo';777;0
+e;5703813;'Sacha Nudamko';777;0
+e;1857692;'Goodwin';1;0
+e;10426020;'Sevillana-Endesa';777;0
+e;10426036;'Acerinox';777;0
+e;10385091;'Steven E. de Souza';777;0
+e;10193378;'Erwin C. Dietrich';777;0
+e;10313468;'Roméo Beaudry';777;0
+e;10174360;'Imanol Uribe';777;0
+e;10177055;'Luciano Martino';777;0
+e;10177615;'Ray Stark';777;0
+e;10177708;'Bill Melendez';777;0
+e;10177773;'John Foreman';777;0
+e;10177818;'John Calley';777;0
+e;10178549;'Bert Granet';777;0
+e;10178550;'Sid Rogell';777;0
+e;10047696;'Alain Poiré';777;2
+e;10054897;'Samuel Hadida';777;0
+e;10094033;'Norm Prescott';777;0
+e;10094800;'Jerry Wald';777;0
+e;10100091;'Avrom Hirsch Goldbogen';777;0
+e;10138079;'Sidney Buchman';777;0
+e;10138421;'Stanley Mann';777;0
+e;10138560;'Steve Shagan';777;0
+e;10138575;'Larry Gelbart';777;0
+e;9951546;'Herbert Brenon';777;0
+e;5837206;'Rudolph Carl Ising';777;0
+e;5680952;'Tarsem';1;0
+e;5678265;'Douglas Aarniokoski';777;0
+e;85949;'Kirk Douglas';1;52
+e;10427621;'Robert Sparks';777;0
+e;10428882;'Bruce Bilson';777;0
+e;10425594;'Lazar Linsor Wechsler';777;0
+e;10384791;'George R. Batcheller';777;0
+e;10384805;'Maury M. Cohen';777;0
+e;10335241;'Joseph Papp';777;0
+e;10329447;'Jack Laird';777;0
+e;10328259;'Frank Yablans';777;0
+e;10188534;'Antoine Delesvaux';777;0
+e;10188970;'Huber Chonzu';777;0
+e;10188969;'BRH';777;0
+e;10188968;'Bruno-René Huchez';777;0
+e;10194760;'Theo Nabuurs';777;0
+e;10194759;'Mental Theo';777;0
+e;10196729;'Scott Litt';777;0
+e;10299461;'Arnold Kopelson';777;0
+e;10314005;'Martin Fuss';777;0
+e;10314004;'Ross Hunter';777;0
+e;10314860;'Robert Kaufman';777;0
+e;10315326;'Harve Bennett';777;0
+e;10317175;'Andrew Loog Oldham';777;0
+e;10325415;'Henry Blanke';777;0
+e;10325435;'David A. Prior';777;0
+e;10327530;'Joseph Edward Levine';777;0
+e;10327529;'Joseph E. Levine';777;0
+e;10187609;'Franck Llopis';777;0
+e;10177046;'Antonio Avati';777;0
+e;10177053;'David Colby';777;0
+e;10177052;'Larry Ludman';777;0
+e;10177051;'Fabrizio De Angelis';777;0
+e;10177420;'János Rózsa';777;0
+e;10178541;'Mel Damski';777;0
+e;10049472;'Yoram Globus';777;0
+e;10050592;'Peter Vincent Douglas';777;0
+e;10050701;'Tom Leetch';777;0
+e;10054769;'Bill Anderson';777;0
+e;10054768;'William Hillyard Anderson';777;0
+e;10055789;'Mark Daniel Ronson';777;0
+e;10057098;'David Lawrence Geffen';777;0
+e;10057105;'Jeffrey Katzenberg';777;0
+e;10069339;'Gérard Louvin';777;0
+e;10069515;'Pierre-Ange Le Pogam';777;0
+e;10072965;'Michel Bernstein';777;0
+e;10084992;'Jack Giarraputo';777;0
+e;10086991;'Dick Wolf';777;0
+e;10086990;'Richard Anthony Wolf';777;0
+e;10089554;'Albert S. Ruddy';777;0
+e;10094245;'Iain Smith';777;0
+e;10103419;'Gilbert Hecquet';777;0
+e;10103418;'Gilbert Richard';777;0
+e;10105743;'David Kohan';777;0
+e;10105744;'Max Mutchnick';777;0
+e;10128976;'Pete Heller';777;0
+e;10138155;'Anthony Havelock-Allan';777;0
+e;10139053;'Terence Winter';777;0
+e;9944436;'Maurice Cloche';777;0
+e;5984730;'Phil Rosen';777;0
+e;5984096;'Frank McDonald';777;0
+e;5983329;'Jay Roach';777;0
+e;5974074;'Daniel Mayer Cherkoss';777;0
+e;5688659;'Charles Sturridge';777;0
+e;5566139;'Ricardo Villalobos';777;0
+e;188417;'Emmanuel Chain';1;52
+e;102553;'légumier';1;96
+e;136055;'miel';1;1468
+e;10347634;'Sam Mercer';777;0
+e;10314786;'Ehren Kruger';777;0
+e;10364838;'Don Murphy';777;0
+e;10372767;'Corey Soljan';777;0
+e;10383426;'Jonathan Kneath';777;0
+e;10383425;'DJ Sharkey';777;0
+e;10384996;'Michael De Luca';777;0
+e;10385005;'Walter Mortimer Mirisch';777;0
+e;10385878;'Michael Len Williams II';777;0
+e;10421265;'Mark Rosman';777;0
+e;10385877;'Mike Will Made It';777;0
+e;10341017;'Sean Daniel';777;0
+e;10341305;'Valéry Zeitoun';777;0
+e;10343090;'Richard N. Gladstein';777;0
+e;10344106;'Glen Murakami';777;0
+e;10298036;'Craig Van Sickle';777;0
+e;10299028;'Donatan';777;0
+e;10310922;'Arnon Milchan';777;0
+e;10311521;'Paul Dini';777;0
+e;10312894;'Jim Abbiss';777;0
+e;10314662;'Rock Demers';777;0
+e;10187941;'Joseph Mallozzi';777;0
+e;10178724;'David Kirschner';777;0
+e;10179898;'Tony Bongiovi';777;0
+e;10176799;'Ferry Corsten';777;0
+e;10177803;'Martin Ransohoff';777;0
+e;10044202;'Cyril Colbeau-Justin';777;0
+e;10044615;'James Allan Schamus';777;0
+e;10044646;'DJ Paul';777;0
+e;10044645;'DJ Paul Elstak';777;0
+e;10044644;'Paul Roger Elstak';777;0
+e;10044643;'Paul Elstak';777;0
+e;10044715;'Paul Epworth';777;0
+e;10046630;'Édouard Weil';777;0
+e;10046631;'Bertrand Burgalat';777;0
+e;9732703;'Ryutaro Nakahara';777;0
+e;594923;'Ferry Salee';777;0
+e;594922;'DJ Gizmo';777;0
+e;9208335;'Jean-Guillaume Cabanne';777;0
+e;9071686;'Joe Rock';777;0
+e;9024569;'Harvey Weinstein';1;0
+e;6282750;'Paul Arnold Clarke';777;0
+e;6080435;'Sebastian Hoff';777;0
+e;6010863;'Bertrand Brocard';777;0
+e;5983356;'Mark Achbar';777;0
+e;5974183;'Norman Panama';777;0
+e;5937665;'Matt Williams';777;0
+e;5703827;'Tony Visconti';777;0
+e;5681263;'Ryan Lewis';777;0
+e;5516505;'D-Passion';777;0
+e;3298196;'pinardier>31285';1;0;'pinardier>marchand'
+e;3133288;'Prince>73457';1;0;'Prince>artiste'
+e;319720;'commerce alternatif';1;6
+e;10773681;'Sylvain Guy';777;0
+e;9591645;'Star Price';777;0
+e;9211308;'Yoshinori Ono';777;0
+e;9041167;'Mark Burg';777;0
+e;6527611;'John Lasseter';777;0
+e;5985627;'Graeme Ferguson';777;0
+e;5985898;'Frank Vitale';777;0
+e;5985044;'Carlos Sorín';777;0
+e;5984316;'Robert Day';777;0
+e;5955493;'Jean-Christophe Hembert';777;0
+e;5899072;'Sam Simon';777;0
+e;5688373;'William Friedkin';777;0
+e;307860;'Jonas Erik Altberg';777;50
+e;9780283;'Alain Berliner';777;0
+e;9666899;'Jack Gold';777;0
+e;5955157;'Aaron Norris';777;0
+e;9474350;'Geoff Workman';777;0
+e;8967891;'Eddie Romero';777;0
+e;461294;'E-Man';777;50
+e;9944258;'Barry Levinson';777;0
+e;6528154;'André de Toth';777;0
+e;5986717;'Filoteo Alberini';777;0
+e;5983736;'Zalman King';777;0
+e;5979400;'Usine d'électricité de Metz';777;0
+e;5919969;'Borealis AG';777;0
+e;5900930;'Tenuta San Guido';777;0
+e;5805276;'Bart De Pauw';777;0
+e;5703791;'Christian Lara';777;0
+e;5688654;'Vincent Ward';777;0
+e;12247332;'Jon M. Chu';777;0
+e;9608519;'Matthew De Vere Drummond';777;0
+e;9260412;'Carter Bays';777;0
+e;9252095;'Jean-Louis Lahaye';777;0
+e;9213396;'DJ Dione';777;0
+e;8875165;'Marco Collini';777;0
+e;9951343;'Wilhelm Dieterle';777;0
+e;6083496;'Javi Boss';777;0
+e;5998745;'Promo';1;0
+e;6065369;'Élie Chouraqui';777;0
+e;6017058;'Lenny Dee';777;0
+e;5986195;'Chesapeake Energy';777;0
+e;5987074;'Mark Neveldine';777;0
+e;5985425;'Walon Green';777;0
+e;5984836;'Rick Venable';777;0
+e;5985078;'Robert William Paul';777;0
+e;5946862;'Fred Schepisi';777;0
+e;5899081;'Don Hewitt';777;0
+e;5803694;'William Heise';777;0
+e;5752346;'Baldev Raj Chopra';777;0
+e;5688511;'Jacques Doillon';777;0
+e;5678926;'Richard Donald Schwartzberg';777;0
+e;5564093;'Don McGill';777;0
+e;5524944;'Tsui Hark';777;0
+e;5521428;'Brad Bird';777;0
+e;5521427;'Jeffrey Jacob Abrams';777;0
+e;236270;'Patrick Sébastien';666;50
+e;9571338;'Ruben de Almeida';777;0
+e;9571223;'Kura';777;0
+e;9176485;'DJ Furax';777;0
+e;6283811;'Brennan Heart';777;0
+e;5986111;'Jess Robbins';777;0
+e;5984752;'Nick Bird';777;0
+e;5977072;'Giles Martin';777;0
+e;5974050;'Erle C. Kenton';777;0
+e;5964799;'Kenneth John Ortega';777;0
+e;5897879;'William Neilson Dairy Limited';777;0
+e;5829894;'narco-économie en Afghanistan';777;0
+e;5688715;'Marvin J. Chomsky';777;0
+e;5521429;'Christopher McQuarrie';777;0
+e;67795;'Hollywood';1;2018
+e;15445280;'en:dairy producer';1;0
+e;9520644;'en:dairy farmer';1;0
+e;15791413;'en:small producer';1;0
+e;183235;'metteuse en scène';1;50
+e;6905374;'en:principal';1;0
+e;15229819;'en:feather in your cap';1;0
+e;9728423;'Mario Kassar';777;0
+e;9580639;'Kenny Larkin';777;0
+e;3225153;'Dione';777;0
+e;8875160;'Alien T';777;0
+e;9930403;'Robert C. Cooper';777;0
+e;9828293;'Hilton A. Green';777;0
+e;9951342;'William Dieterle';777;0
+e;6528837;'Ben Stassen';777;0
+e;6527801;'Jan Pinkava';777;0
+e;6282749;'DJ Dougal';777;0
+e;5985422;'Sid Davis';777;0
+e;5984327;'Ken Burns';777;0
+e;5985124;'James H. White';777;0
+e;5984838;'James Patrick Hogan';777;0
+e;5981945;'Alexandre Rockwell';777;0
+e;5979323;'George Stevens';777;0
+e;5937667;'Stephen McEveety';777;0
+e;5919551;'réserves de pétrole au Koweït';777;0
+e;5686776;'Santiago Amigorena';777;0
+e;252580;'locavorisme';1;60
+e;10773903;'Les Mayfield';777;0
+e;250266;'industrie cinématographique';1;4
+e;231262;'Pixar';1;12
+e;991064;'Films à venir';777;0
+e;3175188;'Film inachevé';777;0
+e;5675314;'Julien Leclercq';777;0
+e;10908054;'Lou Antonio';777;0
+e;10896652;'Léon Gabriel Paul Joannon';777;0
+e;10840418;'Philip David Segal';777;0
+e;10840419;'Showrunner de Doctor Who';777;0
+e;10835426;'Sandy Collora';777;0
+e;9981347;'Charles Marquis Warren';777;0
+e;10002218;'Peter Segal';777;0
+e;10003842;'Eddy Matalon';777;0
+e;10027353;'George Fitzmaurice';777;0
+e;3442968;'Pierre Chevalier';1;0
+e;9607967;'Richard Kylea Cowie';777;0
+e;9580385;'Jimmy Jay';777;0
+e;9047045;'B. Cox';777;0
+e;138444;'Miro';1;52
+e;6083498;'Francisco Javier García Ramón';777;0
+e;6080434;'DJ Promo';777;0
+e;6068766;'George B. Seitz';777;0
+e;5984681;'Stephen Altobello';777;0
+e;5981539;'Colin Low';777;0
+e;5980485;'Mitsuo Terada';777;0
+e;5974474;'Gaspar Noé';777;0
+e;5973983;'Lou Scheimer';777;0
+e;5973769;'Gilles Carle';777;0
+e;5838493;'Paul Anthony Rothchild';777;0
+e;5794654;'brasserie Ekers';777;0
+e;5703811;'Gérard Kikoïne';777;0
+e;29632;'pinardier';1;50
+e;409099;'Source';1;2850
+e;14318135;'Francis Paul Veber';777;0
+e;14584422;'Film de l'année';777;0
+e;14584423;'Hollywood Movie of the Year';777;0
+e;10027340;'Mack Sennett';777;0
+e;10160931;'Laurent Boutonnat';777;0
+e;10008929;'William A. Seiter';777;0
+e;11972350;'Jacques Plait';777;0
+e;11956034;'Lam Ling-tung';777;0
+e;9268103;'Yeon';1;0
+e;73317;'Gary';1;2114
+e;413064;'Matt';1;539
+e;10990132;'Olivier Libaux';777;0
+e;10870802;'Amir Bar-Lev';777;0
+e;10839916;'Barry Letts';777;0
+e;10828219;'Italo Zingarelli';777;0
+e;9827429;'George Henry Martin';777;0
+e;9580384;'Christophe Viguier';777;0
+e;9213397;'Erik Ypma';777;0
+e;9176486;'Alexandre Schippers';777;0
+e;8979227;'Karsh Kale';777;0
+e;2934545;'Andre Romelle Young';777;0
+e;461293;'Jack Lucifer';777;50
+e;9828405;'Nunnally Johnson';777;0
+e;6083497;'DJ Javi Boss';777;0
+e;5688370;'Cecil Antonio Richardson';777;0
+e;5944355;'Sydney Cecil Newman';777;0
+e;5901309;'Maison Louis Max';777;0
+e;5678135;'Luc Wiseman';777;0
+e;5516506;'Rik Gieling';777;0
+e;41426;'Walt Disney';1;156
+e;230544;'Kool Shen';666;50
+e;10085009;'Peter Gallagher';777;0
+e;9982792;'Luis Guzmán';777;0
+e;5675294;'Michael Benjamin Bay';777;0
+e;273751;'Biographie';777;3503
+e;15019116;'Jake Kasdan';777;0
+e;14876565;'Paul Claudon';777;0
+e;288452;'Robert Z. Leonard';777;50
+e;412748;'Années';1;3901
+e;14669122;'Coquille d'or au Festival de Saint-Sébastien';777;0
+e;14669123;'Prix de la mise en scène au Festival de Cannes 1979';777;0
+e;14669124;'Meilleur réalisateur par New York Film Critics Circle';777;0
+e;14669125;'Ours d'or à la Berlinale 1999';777;0
+e;14669126;'Palme d'or au Festival de Cannes 2011';777;0
+e;14655422;'Réacs Sion';777;0
+e;396007;'Anne Dorval';1;50
+e;14599323;'John Villiers Farrow';777;0
+e;419155;'Humanité';1;50
+e;14596927;'Frank Sivero';777;0
+e;14596928;'Harry Northup';777;0
+e;120632;'Lucas';1;1608
+e;14584424;'Meilleure réalisation';777;0
+e;14584425;'Réalisateur de l'année';777;0
+e;11773572;'Birdman';777;0
+e;425246;'Créateurs';1;50
+e;2100287;'recyclée';2;0
+e;11597560;'Jean-François Maurice';1;0
+e;14026282;'Xavier Dolan-Tadros';777;0
+e;5521371;'Mick Garris';777;0
+e;156626;'Alexandre Astier';1;62
+e;12701003;'José Montes-Baquer';777;0
+e;13642496;'Bernard H. Hyman';777;0
+e;5814762;'Luminus';1;0
+e;13596675;'Dominique Othenin-Girard';777;0
+e;13587909;'Branko Lustig';777;0
+e;13535252;'Rémy Belvaux';777;0
+e;13519519;'F. Gary Gray';777;0
+e;13445319;'Jörn Johan Donner';777;0
+e;10788286;'Peter Berneis';777;0
+e;12784774;'Lee Jun-fan';777;0
+e;12716682;'Dan Harmon';777;0
+e;12700986;'Frank Kramer';777;0
+e;12700987;'Cehett Grooper';777;0
+e;12700988;'Robert F. Atkinson';777;0
+e;12700989;'Frank Littlewords';777;0
+e;12700990;'Frank Littlewood';777;0
+e;12696778;'Harry Saltzman';1;0
+e;12617069;'Toshio Suzuki';777;0
+e;12069507;'Bruce Geller';777;0
+e;8853110;'Ringo Lam';777;0
+e;5677987;'Colin Trevorrow';777;0
+e;11826585;'Jean-Claude Lord';777;0
+e;11825467;'Antonio Campos';777;0
+e;11825465;'Boaz Yakin';777;0
+e;11812798;'Régis Talar';777;0
+e;11807485;'Justin Kelly';777;0
+e;11807111;'Sergueï Vladimirovitch Bodrov';777;0
+e;11782417;'Nicolas Wadimoff';777;0
+e;11782414;'Yeon Sang-ho';777;0
+e;138065;'Emile';1;1252
+e;11773172;'Josh Lieb';777;0
+e;11773111;'Donick Cary';777;0
+e;11773170;'Jack Brath';777;0
+e;13517450;'Pohjolan Voima';777;0
+e;11589670;'Steve Suissa';777;0
+e;11502966;'Euan Lloyd';777;0
+e;11305876;'Croky';1;0
+e;9998821;'Brad Furman';777;0
+e;226681;'Kurtz';1;2
+e;10033655;'Claude Gagnon';777;0
+e;169597;'Neste';1;50
+e;11361080;'Philip Bradley Bird';777;0
+e;11361022;'Dan Fogelman';777;0
+e;11358468;'Michael Bay';777;0
+e;11356739;'Tim Berg';777;0
+e;11354807;'Jean-Daniel Cadinot';777;0
+e;287148;'Walter Elias Disney';777;50
+e;11343173;'Sir Ridley Scott';777;0
+e;11250234;'Luis Llosa Urquidi';777;0
+e;11179350;'Àlex Pastor';777;0
+e;11179005;'Jean-Jacques Andrien';777;0
+e;11178994;'Roland Verhavert';777;0
+e;11178990;'Alphonse Marie Rademakers';777;0
+e;11178991;'Fons Rademakers';777;0
+e;11174475;'Schuberth';777;0
+e;11161432;'David Semel';777;0
+e;11157078;'Frédéric Laffont';777;0
+e;11147766;'Ross Duffer';777;0
+e;312778;'Steven Tyler';777;52
+e;1735625;'Axl Rose';1;0
+e;11105085;'Irakli Mikhailovich Kvirikadze';777;0
+e;11101216;'Jay Kogen';777;0
+e;11062837;'Pascal Sid';777;0
+e;10936561;'Sam Phillips';777;0
+e;10908055;'Louis Demetrios Antonio';777;0
+e;10904229;'Paul Aaron';777;0
+e;10904397;'Javier Fuentes-León';777;0
+e;10904341;'Lee Joon-ik';777;0
+e;10443377;'Jack Bender';777;0
+e;10898605;'Nelson McCormick';777;0
+e;10878352;'Eryk Rocha';777;0
+e;10878259;'Gianfranco Parolini';777;0
+e;10874992;'Mark Penney';777;0
+e;10873322;'Perce Pearce';777;0
+e;10866543;'Patrice Cabanel';777;0
+e;10863663;'Avicii';1;0
+e;10852097;'Peter Kim';777;0
+e;10846596;'Davis Guggenheim';777;0
+e;10840243;'Mark Strickson';777;0
+e;10346871;'Russell T Davies';777;0
+e;10829220;'John Gorman';777;0
+e;10829217;'Emmett J. Flynn';777;0
+e;10829212;'T. Hayes Hunter';777;0
+e;10829206;'Edwin Carewe';777;0
+e;10829203;'John Stuart Robertson';777;0
+e;10828482;'Daniel Attias';777;0
+e;10823135;'Reza Dormishian';777;0
+e;10823084;'Nagesh Kukunoor';777;0
+e;10583247;'Rabah Ameur-Zaïmeche';777;0
+e;10579405;'Henry Lehrman';777;0
+e;10577043;'Hervé-Pierre Gustave';777;0
+e;10577044;'hpg';777;0
+e;10576890;'Rémy Grumbach';777;0
+e;10559229;'Francis Renaud';777;0
+e;10558184;'Jean-Marie Pallardy';777;0
+e;10525141;'Mario Zampi';777;0
+e;10525146;'Robert S. Baker';777;0
+e;10525135;'Roy Boulting';777;0
+e;10518368;'Stuart Millar';777;0
+e;5974340;'Jerry Zucker';777;0
+e;10515736;'Nippon Steel Corporation';777;0
+e;10514407;'Michael Carreras';777;0
+e;10513151;'Hugh Welchman';777;0
+e;10512721;'Tommy Wiseau';777;0
+e;10512722;'Piotr Wieczorkiewicz';777;0
+e;10138414;'Peter Bryant';777;0
+e;10509723;'Buddy Adler';777;0
+e;189248;'John Moore';1;50
+e;10506714;'Mehboob Khan';777;0
+e;10461560;'Kim Ki-duk';777;0
+e;10460403;'Myroslav Slaboshpytskiy';777;0
+e;10459076;'Chester Erskine';777;0
+e;10459077;'Chester Erskin';777;0
+e;10456735;'Jon Amiel';777;0
+e;10447155;'James Glickenhaus';777;0
+e;10443270;'Peter O'Fallon';777;0
+e;10428197;'Hans Wolff';777;0
+e;10833925;'Thomas Schlamme';777;0
+e;10834411;'Trevor Nunn';777;0
+e;10835259;'Florian Henckel von Donnersmarck';777;0
+e;10835427;'Santo Joseph Collora';777;0
+e;9987213;'Raoul Peck';777;0
+e;9963432;'Gary Goldman';777;0
+e;5676996;'Marc Forster';777;0
+e;124945;'Vilmorin';1;50
+e;9949864;'David Zucker';777;0
+e;9967109;'James Burrows';777;0
+e;9968277;'Walter Wanger';777;0
+e;9968320;'Christophe Rossignon';777;0
+e;9968896;'Joe Roth';777;0
+e;9969100;'Jimmy Miller';777;0
+e;9969117;'Arthur Freed';777;0
+e;9981147;'Leon Schlesinger';777;0
+e;9983657;'Fred Quimby';777;0
+e;9984478;'Frank Ross';777;0
+e;9988521;'Beverley's';777;0
+e;9988520;'Leslie Kong';777;0
+e;10001949;'Hunt Stromberg';777;0
+e;10003628;'Nicholas Hytner';777;0
+e;10003746;'Neil Simon';777;0
+e;10004910;'Kenneth MacGowan';777;0
+e;10004909;'Kenneth Macgowan';777;0
+e;10010421;'Samuel Marx';777;0
+e;10019082;'Harry Cohn';777;0
+e;10028656;'Saul Zaentz';777;0
+e;10028663;'Jeremy Thomas';777;0
+e;10035680;'Dore Schary';777;0
+e;10040452;'Gabriel Pascal';777;0
+e;286714;'Sidney Franklin';777;50
+e;5534759;'ton neutre';777;0
+e;3259522;'Zoltán';777;0
+e;9961663;'Daniel Carson Goodman';777;0
+e;9961378;'James Lawrence Brooks';777;0
+e;9961335;'Felix Gary Gray';777;0
+e;9961105;'Peter Gould';777;0
+e;9960725;'Vince Gilligan';777;0
+e;9959616;'Frank Lloyd';777;0
+e;9593213;'Guy Ritchie';777;0
+e;9584872;'Menahem Golan';777;0
+e;9576311;'Gregory La Cava';777;0
+e;9563814;'Gary Kurtz';777;0
+e;9573827;'Gavin O'Connor';777;0
+e;9260269;'Wallace Fox';777;0
+e;9258788;'Marin Karmitz';777;0
+e;9102379;'Abby Terkuhle';777;0
+e;9047044;'Bryan-Michael Cox';777;0
+e;461290;'Stickhead';777;50
+e;10044717;'Seth MacFarlane';777;0
+e;6528404;'Georges Lacroix';777;0
+e;5986049;'Herbert M. Dawley';777;0
+e;5985735;'William C. McGann';777;0
+e;5985132;'Chris Ohlson';777;0
+e;5982255;'Stan Brakhage';777;0
+e;5973881;'3 Steps Ahead';777;0
+e;5937668;'David McFadzean';777;0
+e;5893766;'Luc Plamondon';777;0
+e;235666;'Hal Ashby';1;2
+e;16170621;'Michael Dinner';777;0
+e;10004829;'Henry Koster';777;0
+e;10004831;'Herman Kosterlitz';777;0
+e;10588135;'Fabio Conversi';777;0
+e;188454;'George Clooney';1;58
+e;10343627;'Don Cheadle';777;0
+e;15017911;'Jean-Louis Porchet';777;0
+e;14779973;'Eyal Sivan';777;0
+e;324972;'Gus Van Sant';1;50
+e;14154139;'Danny Francis Boyle';777;0
+e;14753489;'Martin Charles Scorsese';777;0
+e;14746676;'Quentin Jerome Tarantino';777;0
+e;2953144;'Titres';777;761
+e;14741643;'Le Poulet';777;0
+e;14741644;'Les Baisers';777;0
+e;14741645;'La Chance et l'amour';777;0
+e;14741646;'Le Vieil homme et l'enfant';777;0
+e;14741647;'Mazel Tov ou le Mariage';777;0
+e;10624509;'Le Pistonné';777;0
+e;324710;'Le Cinéma de papa';777;50
+e;9962834;'Manuel Tadros';777;0
+e;5620853;'Suzanne Clément';1;0
+e;14599950;'Antoine-Olivier Pilon';777;0
+e;10670487;'Patricia Tulasne';777;0
+e;10311563;'Pierre-Yves Cardinal';777;0
+e;14599331;'Alexander Emerick Jones';777;0
+e;10092564;'Alex Jones';777;0
+e;2338917;'Joe Pesci';1;0
+e;5562839;'Meilleur réalisateur';777;0
+e;10137373;'L'école des sorciers';777;0
+e;10137374;'La Chambre des secrets';777;0
+e;10137375;'Le Prisonnier d'Azkaban';777;0
+e;10137376;'La Coupe de feu';777;0
+e;14507029;'L'Ordre du Phénix';777;0
+e;10137378;'Le Prince de sang-mêlé';777;0
+e;11035124;'Liste non exhaustive';777;0
+e;10004597;'Jean Image';777;0
+e;10004598;'Émeric André Hajdu';777;0
+e;10004599;'Imre Hajdú';777;0
+e;14476893;'Joe Johnston';777;0
+e;14451668;'Burt Topper';777;0
+e;14446422;'George Hickenlooper';777;0
+e;14446419;'Christopher Columbus';777;0
+e;14424243;'Eugene Reynolds Blumenthal';777;0
+e;14416985;'Rob Cohen';777;0
+e;425415;'Entretiens';1;50
+e;14381735;'Rob Houwer';777;0
+e;14334848;'Harry L. Fraser';777;0
+e;11827298;'Hans Weingartner';777;0
+e;14207808;'Elbe Stevens';777;0
+e;14201167;'Steve Binder';777;0
+e;395010;'Wilhelm';1;2587
+e;14173367;'Roberto Santos';777;0
+e;14162249;'John Wells';777;0
+e;14161204;'Richard J. Thomson';777;0
+e;14161205;'Julien Richard-Thomson';777;0
+e;14153616;'James L. Brooks';777;0
+e;14096807;'Harmon Jones';777;0
+e;14095843;'John Elder';777;0
+e;14095841;'Anthony Hinds';777;0
+e;14078179;'Zeki Demirkubuz';777;0
+e;14062456;'David Mamet';777;0
+e;14053519;'Zack Snyder';777;0
+e;14013047;'BHP Group';777;0
+e;14002170;'William Horberg';777;0
+e;13992224;'Philippe Carcassonne';777;0
+e;13884176;'Frank R. Capra';777;0
+e;13866097;'Mark 'Oh';777;0
+e;13855934;'Steven Caple Jr';777;0
+e;13853570;'George Cooper Stevens';777;0
+e;13822680;'Brad Peyton';777;0
+e;13738140;'Franko Neymar Lustig';777;0
+e;13657063;'H.B. Parkinson';777;0
+e;13644147;'Jom Tob Azulay';777;0
+e;13643557;'Lee Mendelson';777;0
+e;13642315;'Henry de La Falaise';777;0
+e;13638885;'Brad Wright';777;0
+e;13630586;'Neil Thompson';777;0
+e;13627421;'Orascom Construction Industries';777;0
+e;13614722;'Michael Gregg Wilson';777;0
+e;13595870;'Yves Riesel';777;0
+e;13594674;'Merv Griffin';777;0
+e;13588746;'Paul Lederman';777;0
+e;13545931;'Dale Rosenbloom';777;0
+e;13541287;'Bill Brind';777;0
+e;13534103;'Sherwood Schwartz';777;0
+e;13535005;'Terrence Parker';777;0
+e;13524925;'Jean-Philippe Perrot';777;0
+e;13517339;'Ralph Levy';777;0
+e;13441411;'Fabien Constant';777;0
+e;13445741;'Émile Vladimirovitch Lotianou';777;0
+e;13334571;'Jonathan Krisel';777;0
+e;13140840;'Tsui Man-kong';777;0
+e;13092061;'Fred Rister';777;0
+e;13048460;'Sir Alfred Hitchcock';777;0
+e;11442630;'Wu Yu-seng';777;0
+e;13015551;'Masaichi Nagata';777;0
+e;13008865;'Kevin Williamson';777;0
+e;12990853;'Albert E. Smith';777;0
+e;12987819;'Gabriel Pontello';777;0
+e;12905176;'André Verdet-Kléber';777;0
+e;12863974;'Jacques Dorfmann';777;0
+e;12862266;'Hugo Gélin';777;0
+e;12773501;'Percival Rubens';777;0
+e;10052980;'Yim';1;0
+e;12730423;'Yim Pil-sung';777;0
+e;12730424;'Lim Pil-seong';777;0
+e;12730425;'Im pil-seong';777;0
+e;12718098;'J. Stuart Blackton';777;0
+e;12718097;'James Stuart Blackton';777;0
+e;12724446;'Bill Guttentag';777;0
+e;12712779;'Edwin Stanton Porter';777;0
+e;12700991;'John Francis Littlewords';777;0
+e;12691465;'Alex Kurtzman';777;0
+e;12696789;'Israel Harris Saltzman';777;0
+e;11838251;'Olivier Vidal';777;0
+e;12644130;'Goffredo Alessandrini';777;0
+e;12600413;'David Madden';777;0
+e;10069545;'Xavier Gens';777;0
+e;12302224;'Donovan Germain';777;0
+e;12279293;'Kevin Sullivan';777;0
+e;12247510;'Luiz Roberto Bolognesi';777;0
+e;12247503;'Roar Uthaug';777;0
+e;12247498;'Yarrow Cheney';777;0
+e;12247480;'Ferdinando Vicentini Orgnani';777;0
+e;12247336;'Jonás Cuarón';777;0
+e;12247333;'John Chu';777;0
+e;12247266;'Christian Ditter';777;0
+e;10049964;'Ken Scott';777;0
+e;12209485;'Vilmorin SA';777;0
+e;12058461;'Ian Bryce';777;0
+e;11997797;'Robert Benmussa';777;0
+e;13517567;'Chris Goss';777;0
+e;12262918;'Avi Nesher';777;0
+e;11974485;'DJ Buzz Fuzz';777;0
+e;11974484;'Buzz Fuzz';777;0
+e;11974488;'Robert Gillmore';777;0
+e;11974487;'Rob Gee';777;0
+e;11974514;'DJ Dano';777;0
+e;11974516;'Dov J. Elkabas';777;0
+e;11974546;'Scott Brown';777;0
+e;11974563;'Juan Manuel Almiñana';777;0
+e;11974562;'DJ Juanma';777;0
+e;11974566;'Filippo Calcagni';777;0
+e;11974565;'DJ Mad Dog';777;0
+e;11974571;'Wesley van Swol';777;0
+e;11974575;'Jim Hermsen';777;0
+e;11974574;'Tha Playah';777;0
+e;11974576;'Omar Santana';777;0
+e;11974584;'Francesco Lapicca';777;0
+e;11974583;'Un3xist';777;0
+e;11974645;'Richard Koek';777;0
+e;11974650;'DJ Outblast';777;0
+e;11974608;'Juanma';1;0
+e;11974655;'Outblast';1;0
+e;11974652;'Marc Out';777;0
+e;11974579;'Matthieu Fournier';777;0
+e;11974515;'The Prophet';777;0
+e;11974581;'Tomasso Marra';777;0
+e;11974486;'Mark Vos';777;0
+e;11974548;'Bart Kok';777;0
+e;11833605;'Moustapha Akkad';777;0
+e;11831140;'Nesuhi Ertegün';777;0
+e;11829898;'Jody Hill';777;0
+e;11827861;'Colas Ricard';777;0
+e;11826539;'Jack Cummings';777;0
+e;10044939;'Dominique Guillo';777;0
+e;11822398;'Norman Lear';777;0
+e;11821047;'Jeffrey Bell';777;0
+e;11783938;'Rodney Roy Jerkins';777;0
+e;11783827;'Robin Spry';777;0
+e;11782415;'Pablo Larraín';777;0
+e;11779247;'Pierre Lamy';777;0
+e;11773126;'Joshua Sternin';777;0
+e;11773127;'Jeffrey Robert Ventimilia';777;0
+e;11773139;'Brian K. Roberts';777;0
+e;11773168;'Jace Richdale';777;0
+e;10585582;'Matthew Samuels';777;0
+e;11773559;'Emile Haynie';777;0
+e;290198;'Miroslav Pajic';777;50
+e;11753443;'Benoit Cohen';777;0
+e;11698073;'Joseph Lai';777;0
+e;11693447;'Francis Boespflug';777;0
+e;11691590;'Damon Laurence Lindelof';777;0
+e;11691604;'Yann Piquer';777;0
+e;11585943;'Gary Glasberg';1;0
+e;11559595;'Ragnar Bragason';777;0
+e;10089817;'Anthony Hickox';777;0
+e;11533617;'Phalon Alexander';777;0
+e;11539542;'Dana Stinson';777;0
+e;11539561;'Ryan Raddon';777;0
+e;11539820;'Humphrey Longan';777;0
+e;11539819;'J. Lee Donan';777;0
+e;5986704;'Mino Loy';777;0
+e;11533616;'Jazze Pha';777;0
+e;11520008;'Telephone Jim Jesus';777;0
+e;11520033;'George Chadwick';777;0
+e;11518983;'Jean-Marc Dumontet';777;0
+e;11518149;'Maxime Giroux';777;0
+e;11505009;'Laurent Bouzereau';777;0
+e;11504323;'Willi Wyler';777;0
+e;11503239;'Sébastien Devaud';777;0
+e;11503296;'George Loening Hickenlooper';777;0
+e;11492305;'Conrad Hoyer';777;0
+e;5894596;'Ophidian';777;0
+e;11454971;'Olivier de Vilmorin';777;0
+e;11454970;'Olivier Marie Philippe Levêque de Vilmorin';777;0
+e;11412340;'Marvin Neil Simon';777;0
+e;11407245;'Yorgos Miliotis';777;0
+e;11392453;'Jean-Pierre Seck';777;0
+e;11356740;'Tom Hangs';777;0
+e;11334311;'Jacques Bobet';777;0
+e;11329652;'David Gitlis';777;0
+e;11315033;'Jean-Marie Teno';777;0
+e;10966013;'Daniel Toscan du Plantier';1;0
+e;11137741;'Pierre Schwab';777;0
+e;312780;'Joe Perry';777;52
+e;11132716;'Stevie Young';777;0
+e;235302;'Angus Young';1;8
+e;11077148;'Jel';777;0
+e;10935525;'David Benioff';777;0
+e;10933791;'Douglas Petrie';777;0
+e;10929438;'Gabriel Ripstein';777;0
+e;10929433;'Corneliu Porumboiu';777;0
+e;10928985;'Abdelkrim Mohamed Derkaoui';777;0
+e;10439132;'Will Vinton';777;0
+e;10904444;'Guðmundur Arnar Guðmundsson';777;0
+e;10904350;'Murali K. Thalluri';777;0
+e;10904257;'John Greyson';777;0
+e;10904207;'Leopoldo Torre Nilsson';777;0
+e;10902136;'Robin St. Clair Rimington Hardy';777;0
+e;10901912;'Bryan Foy';777;0
+e;10899855;'Jon Watts';777;0
+e;10896325;'Anthony David Leighton Scott';777;0
+e;10878410;'Adolphe Osso';777;0
+e;10872589;'Fernand Melgar';777;0
+e;5688568;'Raoul Lévy';777;0
+e;10868067;'Thomas Lacoste';777;0
+e;10865594;'Simon Kinberg';777;0
+e;10823127;'Andrew Neel';777;0
+e;10809504;'Burton L. King';777;0
+e;10507121;'Peter Medak';777;0
+e;10790077;'Gene Levitt';777;0
+e;10777143;'J.P. McGowan';777;0
+e;10776544;'François Margolin';777;0
+e;10772941;'Destin Daniel Cretton';777;0
+e;10761413;'Luis Ospina';777;0
+e;10752742;'Michel Poulette';777;0
+e;10746019;'Ciro Guerra';777;0
+e;10774038;'Sam Esmail';777;0
+e;10740552;'Marcus Nispel';777;0
+e;10736469;'Tom Ropelewski';777;0
+e;10733695;'Scott Hicks';777;0
+e;10665747;'Cervélo Cycles';777;0
+e;10665958;'Jerrold Freedman';777;0
+e;10665951;'Robert Michael Lewis';777;0
+e;10665953;'Robert Lewis';777;0
+e;10665379;'Jérôme Diamant-Berger';777;0
+e;10624508;'Mohammed Lakhdar-Hamina';777;0
+e;10624013;'Steven S. Wilson';777;0
+e;5688644;'Antoine Perset';777;0
+e;10619954;'Shankar Shanmugham';777;0
+e;10619955;'S. Shankar';777;0
+e;41014;'Shankar';1;50
+e;10619951;'Gopala Ratnam Subramaniam';777;0
+e;10618979;'Bryan Fogel';777;0
+e;10618413;'Francis Bordeleau';777;0
+e;10617655;'Courtney Solomon';777;0
+e;10605528;'Scott Storch';777;0
+e;10605928;'Takao Shimizu';777;0
+e;10608932;'Kyle Newman';777;0
+e;10608056;'Peter Luisi';777;0
+e;10600559;'Gene Fowler Jr';777;0
+e;10600331;'Frédéric Pelle';777;0
+e;10598436;'Bakhtiar Khudojnazarov';777;0
+e;10590651;'Franck Mancuso';777;0
+e;10587829;'Anglo platinum';777;0
+e;10585135;'John Emerson';777;0
+e;10577670;'Benoît Cohen';777;0
+e;10559140;'Jacques Scandelari';777;0
+e;10559141;'Marvin Merkins';777;0
+e;10558731;'Pierre Zimmer';777;0
+e;10558202;'Jean Luret';777;0
+e;10558193;'Norbert Terry';777;0
+e;10552514;'Guillaume de Fondaumière';777;0
+e;10550151;'Ronny Yu Yan-tai';777;0
+e;10549888;'Malcolm D. Lee';777;0
+e;10549511;'Gilbert Boka';777;0
+e;10549510;'Gilbert Bokanowski';777;0
+e;10549830;'Roger Birnbaum';777;0
+e;10549434;'Claude Makovski';777;0
+e;10525145;'Monty Berman';777;0
+e;10525403;'Leonard Freeman';777;0
+e;10525078;'Stuart E. McGowan';777;0
+e;10525008;'William Asher';777;0
+e;10524691;'Michel Gohou Doukrou';777;0
+e;10526740;'Samuel Gamliel Engel';777;0
+e;10526741;'Samuel G. Engel';777;0
+e;10519846;'Todd J. Greenwald';777;0
+e;10518383;'Tony Wharmby';777;0
+e;5984693;'Lawrence Schiller';777;0
+e;10516450;'Derek Norman Twist';777;0
+e;10516451;'Derek N. Twist';777;0
+e;10516452;'Derek Twist';777;0
+e;10515979;'John Lafia';777;0
+e;10515970;'Ed Solomon';777;0
+e;10515621;'Jonathan Reuven Rotem';777;0
+e;10515620;'J.R. Rotem';777;0
+e;10514460;'Alvin Ganzer';777;0
+e;10514455;'Frank Wisbar';777;0
+e;10514456;'Frank Wysbar';777;0
+e;10512275;'Daniel Dubiecki';777;0
+e;10513850;'Robert Jay Roth';777;0
+e;10513851;'Bobby Roth';777;0
+e;10498106;'Tate Taylor';777;0
+e;10511368;'Innes Lloyd';777;0
+e;10511370;'Derrick Sherwin';777;0
+e;10511208;'Sidney Cole';777;0
+e;10511360;'Gabriele Mainetti';777;0
+e;10510518;'Marcel Hyacinth Le Bozec';777;0
+e;10510519;'Marcel Varnel';777;0
+e;10510166;'Bernard McEveety';777;0
+e;10508894;'Ward Lascelle';777;0
+e;10509032;'Richard Samuel Attenborough';777;0
+e;10508664;'Friedrich Zelnik';777;0
+e;10508232;'Nellee Hooper';777;0
+e;132892;'John Davis';1;50
+e;10507934;'Chester Mortimer Franklin';777;0
+e;10507935;'Chester M. Franklin';777;0
+e;10506748;'Vikas Bahl';777;0
+e;10507134;'Walter F. Parkes';777;0
+e;10506698;'Chetan Anand';777;0
+e;10506439;'David Heyman';777;0
+e;10503879;'Lynn Reynolds';777;0
+e;10503882;'Lynn Fairfield Reynolds';777;0
+e;10502725;'Asif Kapadia';777;0
+e;10457642;'Tim Bergling';777;0
+e;10457650;'Joel Thomas Zimmerman';777;0
+e;10457685;'Danny Masseling';777;0
+e;10457697;'Barry Drooger';777;0
+e;10457700;'Koen Bauweraerts';777;0
+e;10458195;'Diego Miranda';777;0
+e;10458198;'Gerardo Roschini';777;0
+e;10458204;'Justin Blau';777;0
+e;10458217;'Joram Metekohy';777;0
+e;10458233;'Netsky';777;0
+e;10458232;'Boris Daenen';777;0
+e;10458267;'Dmitri Almasov';777;0
+e;10095534;'Flume';1;0
+e;10459161;'Danny Bilson';777;0
+e;10460405;'Jean-François Porry';777;0
+e;10460404;'Jean-Luc Azoulay';777;0
+e;10460972;'Jean Labadie';777;0
+e;10498007;'Krzysztof Zanussi';777;0
+e;10428856;'Arthur Hilton';777;0
+e;10435888;'Leonardo Favio';777;0
+e;10441342;'George Armitage';777;0
+e;10439564;'Larry Charles';777;0
+e;5688646;'Leslie Megahey';777;0
+e;6087301;'Charles Russell';777;0
+e;10951713;'Bashar Shbib';777;0
+e;230677;'Chris Carter';1;50
+e;10777656;'George Tillman Jr';777;0
+e;10435419;'David André';777;0
+e;10834334;'Bill Laswell';777;0
+e;10436924;'Richard Whorf';777;0
+e;10436884;'Adam Davidson';777;0
+e;10787685;'Joseph Arthur Rank';777;0
+e;10044378;'David Foster';777;0
+e;286376;'Hubert Besson';777;50
+e;12075665;'Veit Helmer';777;0
+e;9931778;'Artiom Stoliarov';777;0
+e;9944439;'Michael Tollin';777;0
+e;9945256;'Jean-Martial Lefranc';777;0
+e;9955437;'Claude-Michel Schönberg';777;0
+e;9957092;'Harold Hecht';777;0
+e;9961375;'Tom Shadyac';777;0
+e;9963941;'Bill Roper';777;0
+e;9963829;'Avi Arad';777;0
+e;9966952;'Brian Grazer';777;0
+e;9982287;'Val Lewton';777;0
+e;9984707;'Denis Freyd';777;0
+e;9984712;'Alain Rocca';777;0
+e;9988450;'Anthony Ryan Leslie';777;0
+e;9988448;'Ryan Leslie';777;0
+e;9990153;'Natan Tannenzaft';777;0
+e;9990152;'Bernard Natan';777;0
+e;9990738;'Yves Rousset-Rouard';777;0
+e;9992292;'Bill Walsh';777;0
+e;10001500;'Roy Huggins';777;0
+e;10002861;'Andrew Scheinman';777;0
+e;10002894;'Troy Miller';777;0
+e;10009994;'John Lee Mahin';777;0
+e;10014816;'Hall Bartlett';777;0
+e;10025785;'Georges Benayoun';777;0
+e;10026130;'Paul Wendkos';777;0
+e;116258;'lui-même';1;3631
+e;10028676;'Peter Aalbæk Jensen';777;0
+e;10028710;'Takashige Ichise';777;0
+e;10028714;'Marco Müller';777;0
+e;10029469;'Humbert Balsan';777;0
+e;10033040;'Lorne Michaels';777;0
+e;10033403;'Alan Zweibel';777;0
+e;10033893;'Scott Rudin';777;0
+e;10035593;'Marc du Pontavice';777;0
+e;10040365;'Didier Brunner';777;0
+e;10041804;'Charles Gassot';777;0
+e;10043322;'Richard Grandpierre';777;0
+e;10043815;'Jean-Pierre Guérin';777;0
+e;10044205;'Jean-Baptiste Dupont';777;0
+e;9999548;'Ronald Chammah';777;0
+e;10010217;'F. Richard Jones';777;0
+e;5973779;'Richard Marquand';777;0
+e;9248308;'Manuel Valls Bernat';777;0
+e;461292;'Steve Shit';777;50
+e;15688866;'Krzysztof Pius Zanussi';777;0
+e;15693510;'Jonathan Barré';777;0
+e;6528370;'Jérôme de Noirmont';777;0
+e;5803897;'Charles Urban';777;0
+e;17590155;'Joseph Daniel Sargent';777;0
+e;17590156;'Giuseppe Danielle Sorgente';777;0
+e;570751;'Michael Winner';777;50
+e;5562838;'Meilleur film';777;0
+e;31388;'États-Unis';1;3911
+e;10299470;'Michael Paul Chan';777;0
+e;27131;'Tarzan';1;168
+e;10040278;'Bruno Chiche';777;0
+e;77571;'Fantômas';1;54
+e;17256430;'Tomasz Wieczorkiewicz';777;0
+e;5678031;'Denis Villeneuve';777;0
+e;17235036;'Michael Louis Reiss';777;0
+e;17232276;'Sergueï Aleksandrovitch Soloviov';777;0
+e;17229193;'Sergueï Alexandrovitch Soloviov';777;0
+e;10028715;'Neil Jordan';777;0
+e;17213253;'Art Linson';777;0
+e;271137;'Yves Robert';1;50
+e;1561922;'Damien Chazelle';1;0
+e;17138763;'Meilleur scénario adapté';777;0
+e;17138764;'Meilleur film dramatique';777;0
+e;17138765;'Meilleur scénario';777;0
+e;17138766;'Meilleur film musical ou comédie';777;0
+e;235329;'Dogma';1;2
+e;27687;'Superman';1;76
+e;90809;'Prince';1;3058
+e;170716;'Le Seigneur des Anneaux';1;10
+e;5516503;'La Passion du Christ';777;0
+e;11392572;'Xavier Matthieu';777;0
+e;15782508;'Timbaland';1;0
+e;16269716;'Jerry G. Zucker';777;0
+e;16327015;'Robert Alan Ezrin';777;0
+e;16512096;'OCI';1;0
+e;16766191;'John Langley';777;0
+e;16767909;'Société nouvelle de distribution';777;0
+e;16774260;'Julian Cobb';777;0
+e;16898008;'Dr. Macabre';777;0
+e;16898007;'Renegade Legion';777;0
+e;16898005;'Guillaume Leroux';777;0
+e;16904303;'Radical Redemption';777;0
+e;15167712;'Arty';1;0
+e;16904308;'Dmitry Almazov';777;0
+e;15474817;'David S. Goyer';777;0
+e;16920667;'Joseph Cates';777;0
+e;16935326;'Natan Tannenzapf';777;0
+e;16575028;'Pierre Sarkozy';777;0
+e;17037317;'Donald Herman Sharp';777;0
+e;9950727;'Paul Greengrass';777;0
+e;14476170;'Années 1960';777;0
+e;11033829;'Années 1970';777;0
+e;11033830;'Années 1980';777;0
+e;11033831;'Années 1990';777;0
+e;11768827;'Années 2000';777;0
+e;11033832;'Années 2010';777;0
+e;16985115;'Timour Bekmambetov';777;0
+e;16979473;'Cantung Mine';777;0
+e;111394;'département';1;3888
+e;16972446;'Milton Katselas';777;0
+e;11773141;'Robert Cohen';777;0
+e;410879;'Films';1;2405
+e;413015;'Budget';1;50
+e;87987;'France';1;4535
+e;146141;'Monde';1;3451
+e;11971058;'Romuald Boulanger';777;0
+e;16945167;'Ennio De Concini';777;0
+e;16942040;'Peter Robert Jackson';777;0
+e;10070981;'Craig Gillespie';777;0
+e;16921903;'infowars';777;0
+e;12980105;'Récompensé';777;0
+e;16904304;'Joey van Ingen';777;0
+e;16900562;'William Fruet';777;0
+e;16898006;'Lunatic Asylum';777;0
+e;16886469;'Ken Hughes';777;0
+e;16802340;'Scott Kosar';777;0
+e;14548463;'Filmographie de Henri Verneuil sur jpbox-office.com';777;0
+e;9961395;'Jason Reitman';777;0
+e;16765699;'Mark Radcliffe';777;0
+e;9967800;'Rachid Bouchareb';777;0
+e;10069558;'Rachid Dhibou';777;0
+e;16747328;'John Grierson';777;0
+e;16746957;'Andreas Kleerup';777;0
+e;11329526;'Nonzee Nimibutr';777;0
+e;16609623;'Joshua Safran';777;0
+e;16596397;'Joseph Frank Keaton';777;0
+e;9968289;'Olivier Nakache';777;0
+e;16576551;'Bill Holderman';777;0
+e;16575958;'Tyler Perry';777;0
+e;10095397;'Raffaello Matarazzo';777;0
+e;5516508;'Gérard Courant';777;0
+e;12625431;'Cet article est à actualiser';777;0
+e;1460884;'David Hare';1;0
+e;116518;'groupe électrogène';1;50
+e;16319688;'Laurence Olivier Award for Outstanding Achievement';777;0
+e;16319689;'Laurence Olivier Award for Best Director- Summerfolk / The Merchant of Venice / Troilus and Cressida';777;0
+e;16319690;'Laurence Olivier Award for Best Director- The Merchant of Venice / Summerfolk';777;0
+e;16314517;'Ed Naha';777;0
+e;8962063;'Projets';1;0
+e;13935;'Ronin';1;50
+e;16309395;'Balada triste de trompeta';777;0
+e;5946843;'Crimes à Oxford';777;0
+e;5955187;'Le Crime farpait';777;0
+e;10743059;'800 balles';777;0
+e;5954670;'Mes chers voisins';777;0
+e;10902323;'Morts de rire';777;0
+e;16309396;'Perdita Durango';777;0
+e;16308484;'Norman John Warren';777;0
+e;79219;'David Lean';1;50
+e;16269721;'Andrew Renzi';777;0
+e;16269714;'John D. Hancock';777;0
+e;9968406;'John Landis';777;0
+e;16243374;'Prix SIGNIS';777;0
+e;16238931;'John Daniel Singleton';777;0
+e;5675301;'Richard Linklater';777;0
+e;16237672;'Hans Pos';777;0
+e;16235905;'Frank Árpád Darabont';777;0
+e;16182187;'Merian Caldwell Cooper';777;0
+e;15685875;'Randy's';777;0
+e;15685874;'Clive Chin';777;0
+e;15685877;'Augustus Gussie Clarke';777;0
+e;15686614;'King Jammy';777;0
+e;15686613;'Prince Jammy';777;0
+e;15686612;'Lloyd James';777;0
+e;15754733;'Chuck Traynor';777;0
+e;15754732;'Charles Everett Traynor';777;0
+e;15781603;'Erwin L. Verity';777;0
+e;15783132;'Dennis Copier';777;0
+e;1665370;'Panic';1;0
+e;5904250;'Törley';1;0
+e;15937491;'John-Paul Pirrello';777;0
+e;11303824;'Outbreak';1;0
+e;16144009;'Kalkito';777;0
+e;16144007;'Paul Kalkbrenner';777;0
+e;16162205;'British Plaster Board';777;0
+e;16162440;'Anthony John Dyson';777;0
+e;16166419;'une synthèse des connaissances sur un sujet';777;0
+e;16171309;'Ryan Coogler';777;0
+e;16170622;'Medák Péter';777;0
+e;230682;'The Man Who Sold the World';666;52
+e;16139933;'David Maxwell Kirschner';777;0
+e;16144008;'Paul dB+';777;0
+e;10097947;'Ed Wood';777;0
+e;414394;'Note';1;2930
+e;13588488;'Zambia Electricity Supply Corporation Limited';1;0
+e;16071800;'Ralph Rosenblum';777;0
+e;16070917;'Don Gilmore';777;0
+e;10003624;'Baz Luhrmann';777;0
+e;15952773;'Prix Dadasaheb Phalke';777;0
+e;10035163;'Filmfare Awards';777;0
+e;10035175;'IIFA Awards';777;0
+e;10035106;'Zee Cine Awards';777;0
+e;15952791;'Prix Star Screen du meilleur film';777;0
+e;15950335;'Mike Reiss';777;0
+e;189341;'François Ozon';1;96
+e;15950153;'Réalité virtuelle';777;0
+e;15950154;'Data Genéral';777;0
+e;10424730;'Fosters';1;0
+e;162905;'Coca cola';1;68
+e;15950155;'Adidas predator';777;0
+e;10033170;'Alexander Payne';777;0
+e;15834026;'Thijs Ploegmakers';777;0
+e;5680749;'Patlabor';1;0
+e;217936;'Bob Morane';1;54
+e;15804691;'Onimusha';777;0
+e;15804692;'Le Cavalier suédois';777;0
+e;69957;'Corto Maltese';1;70
+e;10457680;'Greg McLean';777;0
+e;312143;'Ron Howard';777;2
+e;14763827;'Ronald William Howard';777;0
+e;1117;'John Frankenheimer';1;50
+e;15789210;'Pour la Biograph';777;0
+e;15789211;'Pour la Keystone';777;0
+e;15789212;'Pour la L-KO';777;0
+e;15789214;'Pour Henry Lehrman Comedies';777;0
+e;15789215;'Pour Diverses Productions';777;0
+e;15789213;'Pour Sunshine Comedies';777;0
+e;15787034;'+Scénariste';777;0
+e;15785867;'Dave Schram';777;0
+e;15783131;'DJ Panic';777;0
+e;15774870;'Gianluigi Braschi';777;0
+e;141034;'Créateur';1;50
+e;15778237;'L'École des sorciers';777;0
+e;14096832;'Richard Jones';777;0
+e;14571671;'Lars Sven Hallström';777;0
+e;14571672;'Lasse Hallström';777;0
+e;5675914;'Joel Schumacher';777;10
+e;188651;'Colin Farrell';1;50
+e;189641;'Kiefer Sutherland';1;50
+e;15778050;'Shea Whigham';777;0
+e;189501;'Julia Roberts';1;52
+e;188959;'Nicole Kidman';1;54
+e;138614;'Légendes';1;50
+e;15776192;'Lauri Mauritz Harjola';777;0
+e;15773710;'Oz Scott';777;0
+e;15772179;'Huner Selîm';777;0
+e;10174382;'Prix du public';777;0
+e;15772180;'Prix San Marco';777;0
+e;4502;'Grand Prix';1;54
+e;15772181;'Ici et Ailleurs';777;0
+e;9961415;'Billy Ray';777;0
+e;111483;'Claude Zidi';1;50
+e;14588176;'Claude Raymond Zidi';777;0
+e;11787623;'Michel Gast';777;0
+e;15461879;'Simon Green';777;0
+e;15014500;'Van Ling';777;0
+e;2953504;'The Revenant';1;0
+e;14470207;'Tony Carrera';777;0
+e;14428613;'Michael Laughlin';777;0
+e;14095842;'Tony Hinds';777;0
+e;13994655;'Willis Conover';777;0
+e;13985854;'Gian Franco Corsi Zeffirelli';777;0
+e;13594599;'Kevin McClory';777;0
+e;13445740;'Emil Loteanu';777;0
+e;13092062;'Frédéric Riesterer';777;0
+e;11442631;'Ng Yu-sum';777;0
+e;12991909;'Néjib Ayed';777;0
+e;13988749;'Jack Barry';777;0
+e;10594031;'Eugène Lépicier';777;0
+e;10588470;'Orrin Keepnews';777;0
+e;10118168;'Edward Selzer';777;0
+e;10177075;'Renzo Rossellini';777;0
+e;10586384;'Albert Band';777;0
+e;10595380;'René Thévenet';777;0
+e;11147767;'frères Duffer';777;0
+e;10513309;'l'améliorer';777;0
+e;10585615;'Ivan Calbérac';777;0
+e;10591638;'Ron Underwood';777;0
+e;10590650;'François Mancuso';777;0
+e;136284;'italique';1;62
+e;10601660;'Ben Edlund';777;0
+e;10602632;'Nicolas Bary';777;0
+e;5553081;'notes de bas de page';777;0
+e;5534855;'citer vos sources';777;0
+e;56362;'gras';1;2597
+e;191712;'citations';1;54
+e;66372;'texte';1;3570
+e;30472;'titres';1;3409
+e;5534983;'page de discussion';777;0
+e;9634975;'listes à puces';777;0
+e;272730;'doit être supprimée immédiatement';777;50
+e;14874379;'Rúben de Almeida Barbeiro';777;0
+e;10619950;'Mani Ratnam';777;0
+e;10589977;'Hampton Del Ruth';777;0
+e;14573624;'Séries télévisées';777;0
+e;3102844;'Téléfilms';777;0
+e;14655174;'Gérard Fromont';777;0
+e;14585465;'Lucas Secon';777;0
+e;113317;'Paris';1;3888
+e;14451459;'Mark Burnett';777;0
+e;14451465;'Joseph Henri Burnett';777;0
+e;14451464;'T-Bone Burnett';777;0
+e;14431596;'Philippe Langlois';777;0
+e;14431609;'Marc Voinchet';777;0
+e;5536212;'Cette section ne cite pas suffisamment ses sources';777;0
+e;14474620;'::>66:146274>30:54438';8;0;'marché [lieu pour] vendre'
+e;14387349;'Nick Hamm';777;0
+e;14381736;'Robert Piet Houwer';777;0
+e;14347379;'Marius de Vries';777;0
+e;14271105;'Jonathan Bourne';777;0
+e;14155068;'John Sacret Young';777;0
+e;14094229;'Steven Long Mitchell';777;0
+e;10069607;'laboratoires Boiron';777;0
+e;13866098;'Marko Albrecht';777;0
+e;13865264;'Peter Farrelly';777;0
+e;13053356;'Gil Norton';777;0
+e;12961440;'Garfield Kennedy';777;0
+e;12882706;'Rich Harrison';777;0
+e;5559884;'donner votre avis ici';777;0
+e;12696855;'Michael G. Wilson';777;0
+e;6015857;'Dougal';1;0
+e;12626623;'Lawrence Charles Lasker';777;0
+e;12626622;'Lawrence Lasker';777;0
+e;12612393;'Marc Trauner';777;0
+e;12612392;'Marc Acardipane';777;0
+e;12614711;'Alan Sacks';777;0
+e;12379719;'Stephen Slesinger';777;0
+e;12247299;'Hubert Toint';777;0
+e;12087559;'Gerard Requena';777;0
+e;12069436;'Kevin S. Bright';777;0
+e;11833466;'Toshihiro Nagoshi';777;0
+e;11829896;'Thomas Tull';777;0
+e;11826500;'Abel Nahmias';777;0
+e;11785138;'Andrucha Waddington';777;0
+e;11782087;'Sheldon Lettich';777;0
+e;11776027;'Allen Funt';777;0
+e;11406040;'Rémi Herbulot';777;0
+e;11393413;'Bunny Lee';777;0
+e;11393412;'Edward O'Sullivan Lee';777;0
+e;5526813;'Diego Buffoni';777;0
+e;5526812;'DJ D';777;0
+e;11325481;'Ryan Foltz';777;0
+e;11252773;'Salvatore Argento';777;0
+e;11251532;'Daniel Técoult';777;0
+e;11237285;'Hubert de Clausade';777;0
+e;11237284;'Roland Hubert';777;0
+e;11233098;'Gilbert Couiller';777;0
+e;11219600;'Buck Houghton';777;0
+e;11219674;'Pierre Hébert';777;0
+e;11181914;'Irwin Winkler';777;0
+e;11175175;'Linwood Dalton';777;0
+e;11175174;'Linwood Boomer';777;0
+e;11132715;'Bruce Fairbairn';777;0
+e;11089868;'Tim Cain';777;0
+e;11089867;'Timothy Cain';777;0
+e;11077080;'Jeffrey James Logan';777;0
+e;50062;'Friedrich Krupp';1;50
+e;11026882;'Carl Colpaert';777;0
+e;10991768;'Dallas Austin';777;0
+e;10985784;'Pascal Bataille de Baget';777;0
+e;10985783;'Pascal Bataille';777;0
+e;10985788;'Cyril Viguier';777;0
+e;10970447;'économie du Guatemala';777;0
+e;10972146;'Orlando Arriagada';777;0
+e;10942566;'Stephen Street';777;0
+e;10936073;'Jean-Claude Camus';777;0
+e;10935523;'Ram Bergman';777;0
+e;10943085;'Large Professor';777;0
+e;10513751;'Bruce Joel Rubin';777;0
+e;10429533;'Marc Beaudet';777;0
+e;10901470;'Salaam Remi Gibbs';777;0
+e;10874520;'Thomas Bourguignon';777;0
+e;10873323;'Anthony Nelson Keys';777;0
+e;10383214;'David Loughery';777;0
+e;10864222;'Ernest Shipman';777;0
+e;10862137;'The Headbanger';777;0
+e;10862136;'Rob Fabrie';777;0
+e;10847522;'Ananda Project';777;0
+e;10847521;'Wamdue Project';777;0
+e;10847520;'Chris Brann';777;0
+e;10838517;'Sébastien Farran';777;0
+e;10830380;'Joseph Merhi';777;0
+e;10776420;'Akitoshi Kawazu';777;0
+e;10752738;'Denis Héroux';777;0
+e;10751016;'Steven Ellison';777;0
+e;10751015;'FlyLo';777;0
+e;10751014;'Flying Lotus';777;0
+e;10745326;'Luis Fernando Vager';777;0
+e;10675438;'David Poirot';777;0
+e;10676243;'Nadir Khayat';777;0
+e;10663374;'Philippe Rousselet';777;0
+e;10621438;'Vincent Lombard';777;0
+e;10618909;'Eric Fellner';777;0
+e;10605449;'Alex Berger';777;0
+e;10605721;'Just Blaze';777;0
+e;10607987;'Yosei Watanabe';777;0
+e;10607986;'m1dy';777;0
+e;10607995;'Yutaka Yamashita';777;0
+e;10607994;'DJ TECHNORCH';777;0
+e;10607993;'DJ Technorch';777;0
+e;10604540;'David Sacks';777;0
+e;10604637;'Pascal Lamour';777;0
+e;10604652;'Gábor Csupó';777;0
+e;10598753;'Denis Pineau-Valencienne';777;0
+e;10598925;'Michael Zager';777;0
+e;10186578;'Jeff Fisher';777;0
+e;10588177;'Andrew Harries';777;0
+e;10585477;'Selwyn Bogard';777;0
+e;10585476;'The 4th Disciple';777;0
+e;10585561;'Mike Dean';777;0
+e;10585575;'Sandy Rivera';777;0
+e;10586307;'Tom Fontana';777;0
+e;10585251;'Timothy Zachery Mosley';777;0
+e;10583603;'Neil Davidge';777;0
+e;10582963;'Maurice Bernart';777;0
+e;10576762;'David Giler';777;0
+e;10556883;'Abraham Braune';777;0
+e;10512305;'James B. Harris';777;0
+e;10457651;'deadmau5';777;0
+e;10448341;'Peter Guber';777;0
+e;10448342;'Jon Peters';777;0
+e;10443207;'Thibaut de Chateleux';777;0
+e;10443206;'Thibaut Chatel';777;0
+e;10435588;'John McNamara';777;0
+e;10090354;'Code Black';777;0
+e;10761226;'Claude Godbout';777;0
+e;10958285;'Julien Cuny';777;0
+e;10835445;'Martin Birch';777;0
+e;10834722;'Tom Ruegger';777;0
+e;10834417;'Daniel Sackheim';777;0
+e;10943086;'William Paul Mitchell';777;0
+e;10011858;'Étienne Comar';777;0
+e;236183;'Marilyn Manson';666;20
+e;96725;'Joseph Levitch';1;50
+e;15238101;'éleveur laitier';1;0
+e;8055924;'en:headmaster';1;0
+e;8055921;'en:headmistress';1;0
+e;346634;'danseur étoile';1;58
+e;14961824;'en:soloist';1;0
+e;15354904;'en:prima ballerina';1;0
+e;15561904;'en:lead dancer';1;0
+e;15445281;'productrice laitière';1;0
+e;15791414;'petite productrice';1;0
+e;15221877;'en:principal dancer';1;0
+e;15413936;'en:headmaster/headmistress';1;0
+e;15076530;'en:head teacher';1;0
+e;15427009;'en:headteacher';1;0
+e;226514;'danseuse étoile';1;84
+e;258148;'chef d'établissement';1;22
+e;210657;'directeur d'école';1;90
+e;132381;'principale';1;3481
+e;212537;'Joeystarr';666;2
+e;223391;'Terence Hill';666;50
+e;221983;'homme>24956';1;218;'homme>être humain'
+e;224921;'Bollywood';666;2
+e;74860;'homme';1;28862
+e;17590116;'The Four Seasons Partnership';777;0
+e;17590115;'Frankie Valli and The Four Seasons';777;0
+e;10547148;'Brighton Port Authority';777;0
+e;10547147;'Norman Cook';777;0
+e;10547149;'Quentin Leo Cook';777;0
+e;10547146;'Fatboy Slim';777;0
+e;5983377;'Off the Wall';777;0
+e;17253305;'Rollin' with Leo';777;0
+e;10456714;'Robert Michael Nesmith';777;0
+e;12770883;'Pitbull';1;0
+e;10866509;'Pascal Lokua Kanza';777;0
+e;10866508;'Lokua Kanza';777;0
+e;17193377;'Maurice Joseph Francois Engelen';777;0
+e;17193375;'Praga Khan';777;0
+e;17178058;'lizzo';777;0
+e;17178057;'Melissa Viviane Jefferson';777;0
+e;5713276;'Chris Martin';777;0
+e;17146907;'Christopher Anthony John Martin';777;0
+e;16985413;'Kingpin';777;0
+e;10944002;'Sköld';1;0
+e;5987561;'Gil Sharone';777;0
+e;16978760;'Singles en 2020';777;0
+e;16978759;'Singles en 2018';777;0
+e;16978758;'Singles en 2015';777;0
+e;16978757;'kofs';777;0
+e;16978756;'Foued Nabba';777;0
+e;16976529;'Anne-Fontaine Sibertin-Blanc';777;0
+e;10733515;'GZA';777;0
+e;10302635;'Novembre 1978';777;0
+e;16967042;'Nas Escobar';777;0
+e;16967041;'Nasty Nas';777;0
+e;2086360;'validées';2;0
+e;14779733;'et identifier les mesures de maîtrise';777;0
+e;266408;'spécifiques';1;2808
+e;14779732;'BPH demandant une attention particulière';777;0
+e;62992;'CCP';1;52
+e;14779731;'niveau acceptable';777;0
+e;14779730;'Mesures de maîtrise';777;0
+e;14779729;'Maîtriser';777;0
+e;414509;'Danger';1;50
+e;16921683;'Bonnes pratiques d'hygiène';777;0
+e;2539680;'HACCP';1;0
+e;16921682;'système d'analyse des risques et de maîtrise des points critiques';777;0
+e;15501592;'groupe d'appareils';1;0
+e;2584019;'Lindsey Buckingham';1;0
+e;11830376;'Lindsey Adams Buckingham';777;0
+e;10457629;'Martin Bresso';777;0
+e;10457628;'tchami';777;0
+e;16904305;'Danny Ávila';777;0
+e;10133304;'William Grigahcine';777;0
+e;10133303;'DJ Snake';777;0
+e;16904298;'Axwell';777;0
+e;16904297;'Steve Patrik Josefsson Fragogiannis';777;0
+e;16684302;'Alesso';1;0
+e;16904290;'Tijs Michiel Verwest';777;0
+e;16904268;'Sébastien Akchoté';777;0
+e;16904267;'sebastian';777;0
+e;10044744;'Abel Makkonen Tesfaye';777;0
+e;10044745;'The Weeknd';777;0
+e;212864;'Kurt Cobain';1;32
+e;10188785;'Jacob Desvarieux';777;0
+e;16895726;'Jerry Duplessis';777;0
+e;10445124;'Aubrey Drake Graham';777;0
+e;30405;'Drake';1;52
+e;16798219;'Slavi Trifonov';777;0
+e;16798218;'Stanislav Trifonov';777;0
+e;16780977;'rap mongol';777;0
+e;15687523;'+ metteur en scène';777;0
+e;127286;'adaptation';1;2502
+e;14095616;'Lionel Rocheman';777;0
+e;16778426;'Florent Mazzoleni';777;0
+e;16778416;'#1 US';777;0
+e;109774;'V.I.P';1;50
+e;11589873;'Motown France';777;0
+e;16774259;'hellfish';777;0
+e;10058024;'Le mois de novembre 1978';777;0
+e;5723425;'RTL Group';777;0
+e;16767910;'snd';777;0
+e;15285904;'en:ready meal';1;0
+e;16715860;'Issa Lorenzo Diakhaté';777;0
+e;16715859;'Freeze Corleone';777;0
+e;16593609;'CD3 - Remixes By Kris Menace';777;0
+e;5721870;'CD2';1;0
+e;5721871;'CD1';1;0
+e;16593608;'Christophe Hoeffel';777;0
+e;16593607;'Kris Menace';777;0
+e;10457639;'Tijs Verwest';777;0
+e;16575976;'Gregory Taylor';777;0
+e;16575975;'skyzoo';777;0
+e;16575970;'Jeffrey Allen Townes';777;0
+e;16575969;'DJ Jazzy Jeff';777;0
+e;2370406;'Jordin Sparks';1;0
+e;14116542;'Taylor Hicks';777;0
+e;5537419;'Carrie Underwood';777;0
+e;5537418;'Fantasia Barrino';777;0
+e;5537417;'Ruben Studdard';777;0
+e;5537416;'Kelly Clarkson';777;0
+e;14025672;'mai 1978';777;0
+e;10068642;'Le mois de mai 1978';777;0
+e;16496695;'A.A.L';777;0
+e;6282512;'Steve Lacy';777;0
+e;16341743;'Steve Thomas Lacy-Moya';777;0
+e;14929243;'en:fair trade';1;0
+e;15414611;'en:go to the cinema';1;0
+e;15290412;'en:go to the movies';1;0
+e;16323068;'Léo Missir';777;0
+e;286601;'Julien Doré';777;50
+e;14557190;'Version adaptée des partisans';777;0
+e;16315873;'Version de 1952';777;0
+e;410356;'Traduction';1;1547
+e;14557189;'Version originale des mondines';777;0
+e;16296162;'Gilbert Rozon';777;0
+e;16285966;'My Bonnie';777;0
+e;11075951;'Motif avancé';777;0
+e;5977138;'Past Masters';777;0
+e;5988722;'Rush Rush';777;0
+e;6065639;'Compilations';777;0
+e;14475555;'Albums Live';777;0
+e;12986690;'Albums Studio';777;0
+e;11385203;'Stephen Simpson Hillage';777;0
+e;16100857;'VICII';777;0
+e;16129003;'Kevin Parker';777;0
+e;15977302;'DJ Alexandre';777;0
+e;13655314;'Alexandre Arthur Comeau Bilodeau';777;0
+e;13655313;'Arthur Comeau';777;0
+e;15952625;'Klaas Gerling';777;0
+e;4921149;'Klaas';1;0
+e;11412592;'Lol Crème';777;0
+e;11412580;'Paul Morley';777;0
+e;11412578;'J.J. Jeczalik';777;0
+e;15951745;'Trevor Charles Horn';777;0
+e;15324760;'en:movies';1;0
+e;15323380;'en:pics';1;0
+e;15789702;'Wave Of Emotion';777;0
+e;15789701;'The Inner Galactic Fusion Experience';777;0
+e;15789700;'Mother Head's Family Reunion';777;0
+e;15789699;'Electric Joy';777;0
+e;15789698;'Fever Dream';777;0
+e;15789697;'Gallery Closed';777;0
+e;238965;'Freddie Mercury';1;12
+e;29550;'metteur';1;180
+e;15783103;'mars 1951';777;0
+e;11969;'Cos';1;52
+e;10298922;'Alyosha';777;0
+e;15472577;'Représentante ukrainienne au Concours Eurovision de la chanson';777;0
+e;10746773;'Ani Lorak';777;0
+e;230177;'David Guetta';1;50
+e;1964597;'Pierre David Guetta';777;0
+e;15776201;'Badiri Diakite';777;0
+e;15776200;'dawala';777;0
+e;15773733;'Jacques Berman Webster II';777;0
+e;10427583;'Travi$ Scott';777;0
+e;10427582;'Travis Scott';777;0
+e;9962856;'Martin Matte';777;0
+e;319105;'Benjamin Biolay';1;50
+e;15485403;'en:securities';1;0
+e;15536746;'en:titles';1;0
+e;15685878;'Gussie Clarke';777;0
+e;25824;'Pablo';1;792
+e;15685755;'Lucien M'baïdem';777;0
+e;15685754;'Papalu';777;0
+e;15685753;'Lucien Papalu';777;0
+e;15685586;'Horace Swaby';777;0
+e;15685585;'Augustus Pablo';777;0
+e;10039553;'Motorcity Records';777;0
+e;2944275;'Gordy';1;0
+e;790778;'Universal Motown';777;0
+e;790820;'Tamla';1;0
+e;15561188;'en:film-maker';1;0
+e;15474989;'circuit court ou circuit de commercialisation';777;0
+e;15474877;'exploitation agricole durable';777;0
+e;5526266;'Disque 2';777;0
+e;5526265;'Disque 1';777;0
+e;162007;'bonobo';1;108
+e;10313325;'Warp Records';777;0
+e;10327040;'Warp';1;0
+e;6910606;'en:honey';1;0
+e;14902782;'élèves des écoles de La Martinière';777;0
+e;14718588;'Takeoff';777;0
+e;14718642;'Quavo';777;0
+e;16576816;'Miss Red';777;0
+e;14867473;'Mark Ronson';777;0
+e;62956;'Géronimo';1;50
+e;8122051;'Helmut Fritz';1;0
+e;8148835;'Éric Greff';777;0
+e;271422;'Le Vieil Homme et la Mer';1;50
+e;52257;'Le train sifflera trois fois';1;54
+e;10459258;'réalisateur sonore';777;0
+e;14745335;'Drive Solo';777;0
+e;108803;'drive';1;58
+e;382797;'taille moyenne';1;68
+e;11412577;'Gary Langan';777;0
+e;10508233;'Anne Dudley';777;0
+e;14688899;'Membres officiels du groupe Art of Noise';777;0
+e;14666199;'Ola Englund';777;0
+e;10341317;'The Mess';777;0
+e;6065002;'Sheryfa Luna';777;0
+e;10069358;'Linkup';777;0
+e;10069357;'Whatfor';777;0
+e;14655146;'D'Angelo and the Vanguard';777;0
+e;5988383;'Platinum';777;0
+e;9946778;'James River';777;0
+e;14585572;'Bobby Boermans';777;0
+e;14568096;'Bois IV';777;0
+e;14568095;'Bois III';777;0
+e;14568094;'Bois II';777;0
+e;14568093;'Bois I';777;0
+e;428302;'Cordes';1;50
+e;10585633;'Orchestration';1;0
+e;14568032;'Albert Westelaken';777;0
+e;14568031;'Albert West';777;0
+e;14558293;'Colin Munroe';777;0
+e;14548649;'Albums studios';777;0
+e;14548648;'Georg Hólm';777;0
+e;10311575;'Jón Þór Birgisson';777;0
+e;2583964;'Brian May';1;4
+e;14435921;'Libéral-libertaire';777;0
+e;14434730;'Dilated Peoples';777;0
+e;14431615;'Arnaud Laporte';777;0
+e;5713672;'Nicolas Martin';777;0
+e;14431608;'Alain Veinstein';777;0
+e;14431577;'Michel Alberganti';777;0
+e;14428460;'avril 1908';777;0
+e;270766;'Sterling Morrison';1;50
+e;189474;'Lou Reed';1;50
+e;5837460;'Doug Yule';777;0
+e;14386860;'Kiari Kendrell Cephus';777;0
+e;6529816;'Offset';1;0
+e;9942438;'Le mois de février 1978';777;0
+e;14380636;'babx';777;0
+e;14380635;'David Babin';777;0
+e;14380609;'Arnold Turboust';777;0
+e;2575725;'Cardo';1;0
+e;14230916;'mai 1933';777;0
+e;152287;'IAM';1;62
+e;14201132;'Pres and Teddy';777;0
+e;10992942;'vidéaste web';777;0
+e;15636574;'James Blake Litherland';777;0
+e;14159339;'Jean Martinez';777;0
+e;14159338;'Jean Raymond Martinez Péréa';777;0
+e;14136212;'Ali Özütemiz';777;0
+e;5557644;'Randy Jackson';777;0
+e;3491509;'Roger Taylor';1;4
+e;14046357;'mai 1974';777;0
+e;14044225;'janvier 1983';777;0
+e;14030759;'juin 1950';777;0
+e;5557641;'Jackie Jackson';777;0
+e;5557645;'Tito Jackson';777;0
+e;5569073;'Toriano Adaryll Jackson';777;0
+e;14011897;'Philadelphia International Records';777;0
+e;13997433;'Gainsbourg Percussions';777;0
+e;248154;'Benny Andersson';1;50
+e;263357;'Disco';1;4
+e;13991930;'Sigur Rós';777;0
+e;13991767;'juin 1955';777;0
+e;13446628;'Carlo Waibel';777;0
+e;303838;'Cro';777;50
+e;13866008;'Juliane Werding';777;0
+e;12616808;'Cet article ne cite pas suffisamment ses sources';777;0
+e;13736731;'Robert Garcia';777;0
+e;13736730;'Mr. Criminal';777;0
+e;13642852;'Darrend Knott';777;0
+e;11405015;'Vulnerable';1;0
+e;13638924;'O.V. Wright';777;0
+e;13632706;'The Chronic';777;0
+e;11376325;'Nas';1;0
+e;13627617;'Lavell Adrian Crump';777;0
+e;13627616;'David Banner';777;0
+e;13627601;'DJ Goldfingers';777;0
+e;9961501;'Le mois de mai 1933';777;0
+e;10046239;'Mounir Belkhir';777;0
+e;13540786;'Wyclef Jean';777;0
+e;10033090;'Chi McBride';777;0
+e;13536633;'Kenneth McBride';777;0
+e;13535002;'Mathew Jonson';777;0
+e;10849158;'Nik Kershaw';777;0
+e;5973584;'Nathaniel Dwayne Hale';777;0
+e;5973583;'Nate Dogg';777;0
+e;12989438;'Basshunter';1;0
+e;13301347;'Michael Petrie';777;0
+e;5721021;'Hive';1;0
+e;13053354;'William Goldsmith';777;0
+e;12993792;'Nick Valensi';777;0
+e;10033138;'Fabrizio Moretti';777;0
+e;11249300;'Albert Hammond Jr';777;0
+e;12993791;'Nikolai Fraiture';777;0
+e;1497558;'Julian Casablancas';1;0
+e;12993790;'Gordon Raphael';777;0
+e;12988566;'Commandant Zabra';777;0
+e;12988565;'Yôrôbô';777;0
+e;284309;'David Jon Gilmour';777;50
+e;213083;'David Gilmour';1;50
+e;12884869;'Jutta Hipp';777;0
+e;12870343;'Roger Meddows Taylor';777;0
+e;2411214;'Ronno';1;0
+e;2583975;'Mick Ronson';1;0
+e;12826400;'Michael Ronson';777;0
+e;12715652;'Croix-des-Bouquets';777;0
+e;9960631;'Le mois de mai 1974';777;0
+e;12689072;'Roger Troutman';777;0
+e;12484529;'Johnson Barnes';777;0
+e;403557;'Blu';1;50
+e;12303223;'Albert Chamberland';777;0
+e;12302347;'Keith's Records';777;0
+e;9984529;'Mathieu Blanc-Francard';777;0
+e;98929;'Sinclair';1;50
+e;12277953;'Didier Sinclair';777;0
+e;12247637;'podcasteuse';777;0
+e;10992943;'podcasteur';777;0
+e;2399064;'youtubeuse';1;0
+e;2460881;'youtubeur';1;0
+e;11910977;'vidéaste Web';777;0
+e;12247345;'Matthias Schweighöfer';777;0
+e;236846;'Édouard Baer';1;18
+e;15031;'Garnier';1;54
+e;11008738;'Chanson';1;1255
+e;12209262;'Claude Puterflam';777;0
+e;12075681;'Omar Credle';777;0
+e;10763256;'O.C';1;0
+e;12074530;'Jackie Shane';777;0
+e;12067684;'Rob Caggiano';777;0
+e;12033692;'M.O';777;0
+e;10044481;'Mutt Lange';777;0
+e;10044480;'Robert John Lange';777;0
+e;12006059;'Raoul Sinier';777;0
+e;11995215;'Olivier Nanteau';777;0
+e;11975229;'DJ Hell';777;0
+e;11975228;'Helmut Josef Geier';777;0
+e;11974651;'outblast';777;0
+e;11974582;'unexist';777;0
+e;11974578;'tieum';777;0
+e;11974572;'partyraiser';777;0
+e;11974561;'juanma';777;0
+e;3320268;'système d'analyse des dangers et points critiques pour leur maîtrise';1;0
+e;11933609;'Marisa Monte';777;0
+e;11933608;'Marisa de Azevedo Monte';777;0
+e;11840152;'Fred Hellerman';777;0
+e;11060850;'Levitan';1;0
+e;11839858;'Christian Brunet';777;0
+e;10548151;'John Austin';777;28
+e;11834417;'Ras Kass';777;0
+e;11834416;'The Dirty Dozen';777;0
+e;2499847;'D12';1;0
+e;11829297;'Canada Lee';777;0
+e;11829296;'Leonard Lionel Cornelius Canegata';777;0
+e;11824810;'Yoni Nameri';777;0
+e;2958320;'Yoni';1;0
+e;11822527;'The Four Seasons';777;0
+e;11813768;'Ross Robinson';777;0
+e;11801091;'Maxim Nucci';777;0
+e;11801090;'yodelice';777;0
+e;11801089;'Maxime Nouchy';777;0
+e;11783740;'surplus du consommateur';777;0
+e;11777245;'Gooden';777;0
+e;10585581;'boi-1da';777;0
+e;11773486;'Bernard Freeman';777;0
+e;11773485;'Bun B';777;0
+e;11773484;'Tyrone William Griffin Jr';777;0
+e;11773472;'Brad Terrence Jordan';777;0
+e;36381;'Scarface';1;54
+e;290196;'Jean-Marc Miro';777;50
+e;11753424;'Gian Marco Enrico Miroglio';777;0
+e;156534;'agricultrice';1;104
+e;11600557;'Alain Séraphine';777;0
+e;11589879;'Clarence Avant';777;0
+e;5564961;'Koala';777;0
+e;11555335;'J'L'Tismé';777;0
+e;11554901;'Kristopher Campbell';777;0
+e;11554900;'K Camp';777;0
+e;11544051;'Lawrence Krisna Parker';777;0
+e;11544050;'krs-one';777;0
+e;5979112;'Dai Nagao';777;0
+e;10458273;'Martin Laurent Picandet';777;0
+e;10458274;'Martin Solveig';777;0
+e;11539541;'rockwilder';777;0
+e;5979317;'Peter Plate';777;0
+e;11532961;'Tom Newman';777;0
+e;11518638;'Pass at Me';777;0
+e;5981356;'Nick Carter';777;0
+e;406409;'Murs';1;50
+e;11503924;'Okou Gnakouri';777;0
+e;11503237;'Nathan Fake';777;0
+e;11503071;'James Holden';777;0
+e;11500738;'Rob Smith';777;0
+e;11500737;'Rob Sonic';777;0
+e;11494903;'The Fugs';777;0
+e;11441009;'Giovanni Marks';777;0
+e;5785329;'Subtitle';1;0
+e;4306434;'The Art of Noise';777;0
+e;587806;'Art of Noise';1;0
+e;23023;'gray';1;50
+e;138163;'Gray';1;2639
+e;11412489;'Lee Seong-hwa';777;0
+e;11412290;'Trevor Horn';777;0
+e;11412284;'John Leckie';777;0
+e;11405977;'Damian Marley';777;0
+e;10672810;'économie de la contribution';777;0
+e;11403828;'économie contributive';777;0
+e;11402048;'Marcus Jamal Hopson';777;0
+e;11402047;'hopsin';777;0
+e;11392463;'Okou Armand Gnakouri';777;0
+e;11254274;'Kaaris';1;0
+e;11383530;'MCMXC a.D';777;0
+e;11360793;'Michael Eugene Archer';777;0
+e;11360792;'d'angelo';777;0
+e;122300;'Damien';1;50
+e;11349047;'Armand Panigel';777;0
+e;11343747;'Little Gerhard';777;0
+e;11343746;'Karl-Gerhard Lundkvist';777;0
+e;10911415;'MDNA';1;0
+e;11291071;'Ryan Wisler';777;0
+e;11291070;'Kno';777;0
+e;11288485;'KNO';777;0
+e;11289963;'kno';777;0
+e;11251939;'Alban Manzano';777;0
+e;11251938;'Dr. Alban';777;0
+e;11251332;'Nathaniel Warren Seth Motte';777;0
+e;11251237;'Melvin Barcliff';777;0
+e;6529862;'Magoo';1;0
+e;233881;'Bella ciao';1;50
+e;11249183;'Rajinder Singh Rai';777;0
+e;11249182;'Panjabi MC';777;0
+e;11237533;'musicien des musiques actuelles';777;0
+e;11232906;'Manfred Eicher';777;0
+e;3311508;'Junkie';777;0
+e;11179453;'Mike Hedges';777;0
+e;11161374;'Delmar Arnaud';777;0
+e;11161373;'Daz Dillinger';777;0
+e;11157310;'Christian Gerin';777;0
+e;11155505;'Rebbeca Marie Gomez';777;0
+e;11155504;'Becky G';777;0
+e;11139043;'Ben Vaughn';777;0
+e;11138951;'Martin Atkins';777;0
+e;11103511;'Melvin Babu';777;0
+e;2838219;'DJ Babu';777;0
+e;11089612;'take off your pants and jacket';777;0
+e;5980207;'Mark Hoppus';777;0
+e;1010552;'Atmosphere';1;0
+e;11077079;'jel';777;0
+e;11077002;'Regan Farquhar';777;0
+e;11077001;'busdriver';777;0
+e;146823;'tableaux';1;2487
+e;11076959;'Jérôme Echenoz';777;0
+e;11076958;'tacteel';777;0
+e;430265;'Spiral';1;50
+e;11071352;'Alexander Ridha';777;0
+e;11071351;'boys noize';777;0
+e;11064064;'Don Costa';777;0
+e;11064063;'Dominick P. Costa';777;0
+e;11056053;'Jean Chouquet';777;0
+e;11054176;'isrc';777;0
+e;11054175;'International Standard Recording Code';777;0
+e;11034174;'The B-52s';777;0
+e;61158;'anacyclique';1;50
+e;11010639;'école néoclassique';777;0
+e;10970320;'Nils Petter Molvær';777;0
+e;10942266;'Dead to the World';777;0
+e;5987560;'Paul Wiley';777;0
+e;5987558;'Tyler Bates';777;0
+e;10942260;'Smells Like Children';777;0
+e;10942250;'mechanical animals';777;0
+e;10942239;'Tim Sköld';777;0
+e;10934990;'swayd';777;0
+e;10933119;'Percy Robert Miller';777;0
+e;10933118;'Master P';777;0
+e;10933110;'DJ Run';777;0
+e;10933109;'Rev Run';777;0
+e;10933108;'Joseph Ward Simmons';777;0
+e;10930553;'Jaime Meline';777;0
+e;10930552;'El-Producto';777;0
+e;10930551;'el-p';777;0
+e;10930550;'Lord Finesse';777;0
+e;10901985;'Didier Varrod';777;0
+e;10899276;'Busy P';777;0
+e;10899275;'Pierre Winter';777;0
+e;10899274;'Pedro Winter';777;0
+e;10899115;'Jonas Schneiter';777;0
+e;10897789;'Neffa';1;0
+e;143654;'Total';1;2024
+e;2944274;'Berry Gordy Jr';1;0
+e;10896903;'Mother Maybelle';777;0
+e;10896902;'Maybelle Carter';777;0
+e;10875354;'Brian McKnight';777;0
+e;10866346;'Fabrice Drouelle';777;0
+e;10866246;'Antoine Carraby';777;0
+e;10866245;'DJ Yella';777;0
+e;10866238;'lootpack';777;0
+e;10863787;'Waiting for Love';777;0
+e;402805;'True';1;50
+e;10863716;'Wake Me Up';777;0
+e;10863713;'levels';777;0
+e;10852251;'Michael Bublé';777;0
+e;10849155;'Celtic Frost';777;0
+e;10847866;'1990 en arts plastiques';777;0
+e;10839919;'Ian Geoffrey Levine';777;0
+e;10838655;'Rakim Mayers';777;0
+e;10838654;'A$AP Rocky';777;0
+e;10838653;'ASAP Rocky';777;0
+e;10346230;'Dirty South';777;0
+e;10838472;'Franck Kacou';777;0
+e;10838470;'Black Kent';777;0
+e;10838305;'Canardo';777;0
+e;10830139;'Scientist';1;0
+e;10822333;'Ahmad Jamal';777;0
+e;10792452;'Cal Tjader';777;0
+e;10790020;'Æsop';777;0
+e;10764002;'Aesop';1;0
+e;10778573;'John Zorn';777;0
+e;10778523;'Naughty Boy';777;0
+e;10778522;'Shahid Khan';777;0
+e;10384411;'Christian Jacob';777;0
+e;10777215;'Thomas Anders';777;0
+e;10777214;'Dieter Bohlen';777;0
+e;10777213;'Dieter Günther Bohlen';777;0
+e;2952654;'Liste détaillée';777;0
+e;10896775;'Russell Kunkel';777;0
+e;10751020;'Grizzly Bear';777;0
+e;10751017;'Captain Murphy';777;0
+e;10749958;'Thomas Peter Meighan';777;0
+e;10312899;'Tom Meighan';777;0
+e;10745331;'Laurent Daumail';777;0
+e;10745330;'DJ Cam';777;0
+e;10745329;'Derrick Harriott';777;0
+e;10745321;'Boris Dlugosch';777;0
+e;10741555;'Creed Taylor Inc';777;0
+e;10741554;'CTI Records';777;0
+e;10733691;'Giovanni Pellino';777;0
+e;3934099;'neffa';1;0
+e;10733519;'Masta Killa';777;0
+e;10733552;'wu-massacre';777;0
+e;10185571;'Method Man';777;0
+e;10733516;'Inspectah Deck';777;0
+e;10733514;'Ghostface Killah';777;0
+e;10733513;'Cappadonna';777;0
+e;10733551;'wu-block';777;0
+e;10733538;'Christopher E. Martin';777;0
+e;10733537;'DJ Premier';777;0
+e;10733508;'Ian Matthias Bavitz';777;0
+e;10733507;'Aesop Rock';777;0
+e;10733098;'Chris Alfaro';777;0
+e;10733097;'Free the Robots';777;0
+e;10676242;'redone';777;0
+e;5538553;'Retour à la chronologie générale de la musique classique';777;0
+e;10675484;'Piet van Dolen';777;0
+e;10675483;'Gabber Piet';777;0
+e;10662912;'The Crazy World of Arthur Brown';777;0
+e;10662872;'Lorraine Ellison';777;0
+e;10623068;'Steven Bochco';777;0
+e;10622783;'David Rozen';777;0
+e;10621805;'Jean Lebrun';777;0
+e;10621150;'Pierre Job';777;0
+e;10621149;'Hector Zazou';777;0
+e;10602824;'Rocko';1;0
+e;10608025;'Makenzy Guerrier';777;0
+e;10608024;'Mac Kregor';777;0
+e;166708;'Alias';1;50
+e;9832268;'Brendon Whitney';777;0
+e;10608014;'roughsketch';777;0
+e;10608013;'redalice';777;0
+e;10608012;'Psyba';777;0
+e;10608006;'Yasutaka Nakata';777;0
+e;10607999;'m-project';777;0
+e;10607992;'Hideaki Ishi';777;0
+e;10607991;'DJ Krush';777;0
+e;10607988;'Daisuke Asakura';777;0
+e;10605724;'Barry Adrian Reese';777;0
+e;420570;'Cassidy';1;50
+e;10605719;'Jagged Edge';777;0
+e;10605714;'Ernesto Shaw';777;0
+e;10605713;'DJ Clue';777;0
+e;10605519;'Tony Cottrell';777;0
+e;10605518;'hi-tek';777;0
+e;10605275;'Edward Theodore Riley';777;0
+e;10605274;'Teddy Riley';777;0
+e;10605258;'Boots Riley';777;0
+e;10599289;'Pascal Garnier';777;0
+e;10598767;'Alain Carron de La Carrière';777;0
+e;10598359;'Martin Pelland';777;0
+e;10598328;'Mario Pelchat';777;0
+e;10598266;'Éric Fernand Benzi';777;0
+e;10585590;'Karim Kharbouch';777;0
+e;10585589;'French Montana';777;0
+e;10585573;'Winston Riley';777;0
+e;10585564;'Scott Ramon Seguro Mescudi';777;0
+e;10585563;'KiD CuDi';777;0
+e;10585562;'Kid Cudi';777;0
+e;10585560;'The-Dream';777;0
+e;10585559;'Terius Youngdell Nash';777;0
+e;10585555;'Dante Beze';777;0
+e;10585554;'Yasiin Bey';777;0
+e;10585553;'Dante Terrell Smith';777;0
+e;10585552;'Mos Def';777;0
+e;10585551;'My Beautiful Dark Twisted Fantasy';777;0
+e;10585549;'Tyrone Griffin';777;0
+e;10585548;'Ty Dolla $ign';777;0
+e;10585547;'Ty Dolla Sign';777;0
+e;10585542;'Kasseem Dean';777;0
+e;10585541;'Swizz Beatz';777;0
+e;10585540;'Otis Jackson Jr';777;0
+e;10585539;'madlib';777;0
+e;10585250;'timbaland';777;0
+e;10583239;'Professor Mack Lemore';777;0
+e;10583238;'macklemore';777;0
+e;10582946;'Armand Kaliz';777;0
+e;10558337;'Celluloid Records';777;0
+e;138048;'Celluloïd';1;52
+e;10519797;'Lumidee';1;0
+e;10551669;'2 Cool 4 Skool';777;0
+e;5873360;'zico';777;0
+e;10551665;'Woo Ji-ho';777;0
+e;5980041;'Brotherhood of Man';777;0
+e;10549138;'Machel Montano';777;0
+e;10549124;'De La Soul';777;0
+e;10549117;'Armando Christian Pérez';777;0
+e;10549116;'Mr. 305';777;0
+e;10549115;'Mr. Worldwide';777;0
+e;29028;'pitbull';1;94
+e;10549109;'Joseph Anthony Hernandez';777;0
+e;10549108;'Tony Touch';777;0
+e;10549107;'Busta Rhymes';777;0
+e;10548751;'Above the Law';777;0
+e;10547107;'Damian Lazarus';777;0
+e;10547096;'Benny Benassi';777;0
+e;10547095;'Marco Benassi';777;0
+e;10251280;'Le mois de mars 1951';777;0
+e;10144994;'Richard Bennett';777;0
+e;10520045;'circuits courts';777;0
+e;10520044;'circuit court';777;2
+e;10515623;'Kejuan Muchita';777;0
+e;4939120;'Havoc';1;0
+e;10515598;'Khaled Ben Abdel Khaled';777;0
+e;10515597;'DJ Khaled';777;0
+e;10515596;'Lumidee Cedeño';777;0
+e;10515595;'lumidee';777;0
+e;10515541;'Ghislain Loussingui Diabaka';777;0
+e;10515540;'mystik';777;0
+e;10513029;'Russ Conway';777;0
+e;10512986;'Cérena';777;0
+e;2557736;'La Vallée';1;0
+e;10508544;'Mike Ladd';777;0
+e;248153;'Agnetha Fältskog';1;50
+e;10508231;'Don Was';777;0
+e;10507185;'Robert Howard Byrd';777;0
+e;10507180;'Bobby Byrd';777;0
+e;10503735;'Into the Unknown';777;0
+e;10460891;'1951 en arts plastiques';777;0
+e;10459253;'Brian Todd Collins';777;0
+e;10459252;'Kid Ink';777;0
+e;10459052;'Racine carrée';777;0
+e;2022533;'bobina';2;0
+e;10458266;'Jobke Heiblom';777;0
+e;10458265;'Jay Hardway';777;0
+e;10458262;'Timmy Trumpet';777;0
+e;10458261;'Timothy Jude Smith';777;0
+e;10458256;'Florian Picasso';777;0
+e;10458255;'Florian Ruiz-Picasso';777;0
+e;10458241;'Will Sparks';777;0
+e;10458240;'William James Sparks';777;0
+e;10458230;'Danny Avila';777;0
+e;10458216;'wildstylez';777;0
+e;10458210;'quintino';777;0
+e;10458209;'Quinten van den Berg';777;0
+e;10458208;'Mike Candys';777;0
+e;10458206;'Don Pepijn Schipper';777;0
+e;10458205;'Don Diablo';777;0
+e;10458200;'umek';777;0
+e;10458199;'Gareth Emery';777;0
+e;4305510;'Carnage';1;0
+e;10458191;'Diamante Blackmon';777;0
+e;10458186;'Gabriele Ponte';777;0
+e;10458185;'Gabry Ponte';777;0
+e;10458184;'Cirez D';777;0
+e;10458183;'Pryda';777;0
+e;10458182;'Eric Sheridan Prydz';777;0
+e;10458178;'Porter Robinson';777;0
+e;10457980;'Sander Ketelaars';777;0
+e;10457968;'Sander van Doorn';777;0
+e;10457826;'Lucas van Scheppingen';777;0
+e;10457803;'Laidback Luke';777;0
+e;10457699;'coone';777;0
+e;10457698;'kaskade';777;0
+e;10457696;'frontliner';777;0
+e;10457690;'Willem Rebergen';777;0
+e;10457689;'headhunterz';777;0
+e;10457688;'Sebastian Carmine Ingrosso';777;0
+e;10457687;'Sebastian Ingrosso';777;0
+e;10457684;'angerfist';777;0
+e;10457682;'Fedde le Grand';777;0
+e;10457676;'Daan Romers';777;0
+e;10457675;'dannic';777;0
+e;10457668;'Jordy van Egmond';777;0
+e;10457667;'dyro';777;0
+e;10457666;'Steven Angello Josefsson Fragogiannis';777;0
+e;10457665;'Steve Angello';777;0
+e;10457661;'Fadil El Ghoul';777;0
+e;10457660;'r3hab';777;0
+e;5911860;'Steve Aoki';777;0
+e;5911859;'Steven Hiroyuki Aoki';777;0
+e;10457641;'vicii';777;0
+e;10457640;'avicii';777;0
+e;10457637;'Armin van Buuren';777;0
+e;10457636;'Robbert van de Corput';777;0
+e;10457635;'hardwell';777;0
+e;10457479;'The Session';777;0
+e;10119020;'The Odd Couple';777;0
+e;392930;'Tara Leigh Patrick';777;50
+e;392792;'Carmen Electra';1;50
+e;10176651;'Le mois de juin 1955';777;0
+e;10429383;'Bjorn Eriksson';777;0
+e;10427310;'Damien Rice';777;0
+e;10426654;'Maserati Rome';777;0
+e;407658;'Romeo';1;50
+e;2387077;'Le Helder';1;0
+e;10346930;'Rolf Liebermann';777;0
+e;10346278;'Le mois de janvier 1983';777;0
+e;10346261;'Hakim Mouhid';777;0
+e;10346260;'canardo';777;0
+e;5534981;'améliorer cet article';777;0
+e;10346249;'fouiny';777;0
+e;10344221;'Songs in A Minor';777;0
+e;10344219;'Mark Batson';777;0
+e;10070743;'Superwoman';777;0
+e;10334091;'Pet Shop Boys';777;0
+e;237049;'Paul Stanley';1;2
+e;462271;'Tomorrow';1;50
+e;10324527;'Svetlana Loboda';777;0
+e;10324517;'Arash Labaf';777;0
+e;10317060;'Immediate Records';777;0
+e;10313128;'famille Jackson';777;0
+e;6686;'Jackson';1;2830
+e;10364408;'Seth Jared Greenberg';777;0
+e;10364407;'Seth Grahame-Smith';777;0
+e;10157399;'NWA';1;0
+e;10364391;'N.W.A';777;0
+e;10189674;'Niggaz Wit Attitudes';777;0
+e;10364390;'Rick James';777;0
+e;10364384;'David Marvin Blake';777;0
+e;10364383;'DJ Quik';777;0
+e;10311577;'sigur rós';777;0
+e;10437228;'Emmanuel Laurentin';777;0
+e;10754513;'nav';777;0
+e;10297929;'Andre Williams';777;0
+e;10835355;'unmasked';777;0
+e;10384009;'Olivier Balestriero';777;0
+e;10835388;'Uh! All Night';777;0
+e;10384008;'Vérino';777;0
+e;10437627;'Jonathan Mortimer Smith';777;0
+e;10439147;'Joshua Winkelman';777;0
+e;10117587;'Josh Wink';777;0
+e;10834024;'Overton Brown';777;0
+e;10179343;'Redman';1;0
+e;10385883;'Love.Angel.Music.Baby';777;0
+e;10196793;'Blew';777;0
+e;10383697;'Michael Geoffrey Jones';777;0
+e;10437625;'Lil Jon';777;0
+e;10093277;'Mick Jones';777;0
+e;10190889;'programmations du Hellfest';777;0
+e;10189789;'George Alan O'Dowd';777;0
+e;10189788;'Boy George';777;0
+e;10188797;'Julien Vuidard';777;0
+e;421055;'Flynt';1;50
+e;10188778;'Guillaume N'Goumou';777;0
+e;10188745;'Pit Baccardi';777;0
+e;10187725;'Percival Schulberg';777;0
+e;10187724;'B. P. Schulberg';777;0
+e;10178698;'Canned Heat';777;0
+e;10178075;'Élie Barouh';777;0
+e;10174464;'Grammy Award de la chanson de l'année';777;0
+e;10152727;'Joscelyn Eve Stoker';777;0
+e;10152726;'Joss Stone';777;0
+e;83256;'DVD';1;2454
+e;10152605;'Al Kooper';777;0
+e;10152548;'Wyclef Jeannelle Jean';777;0
+e;101172;'Paul';1;3772
+e;10152025;'Flo Ziegfeld';777;0
+e;10152024;'Florenz Ziegfeld';777;0
+e;10143746;'James Joseph Brown';777;0
+e;75627;'apparat';1;64
+e;10134855;'Sascha Ring';777;0
+e;10133386;'Dwayne Michael Carter Jr';777;0
+e;10133385;'Lil Wayne';777;0
+e;10133368;'Nayvadius DeMun Wilburn';777;0
+e;402576;'Future';1;50
+e;10133301;'Major Lazer';777;0
+e;10128959;'Jerry Heller';777;0
+e;10128958;'Gerald E. Heller';777;0
+e;10044908;'JoeyStarr';777;0
+e;10105929;'Le mois de juin 1950';777;0
+e;10101483;'Aron Erlichman';777;0
+e;10057436;'Deuce';1;0
+e;10101456;'Kurtis Carter';777;0
+e;10101453;'Kurtis Blow';777;0
+e;397724;'Rundgren';1;50
+e;84489;'Todd';1;50
+e;10099919;'André Benjamin';777;0
+e;10099918;'André 3000';777;0
+e;10096086;'Hugo Leclercq';777;0
+e;10096085;'madeon';777;0
+e;10090196;'Peter Gene Hernandez';777;0
+e;5986721;'Bruno Mars';777;0
+e;10089677;'Jean-Pierre Mader';777;0
+e;10087013;'Laurent Debuire';777;0
+e;10087012;'Laurent Wolf';777;0
+e;9982726;'Le mois de juillet 1959';777;0
+e;582601;'Kishi';1;0
+e;10083722;'Totally Krossed Out';777;0
+e;10083702;'So So Def Recordings';777;0
+e;10082302;'New Moon on Monday';777;0
+e;10069406;'Jérémy Chatelain';777;0
+e;9992421;'Peter Kent';777;0
+e;10063950;'Steve Albini';777;0
+e;10062362;'Le mois de septembre 1963';777;0
+e;10062361;'Jim Clark';777;0
+e;10057890;'redman';777;0
+e;10056551;'Normand Latourelle';777;0
+e;5947598;'Jacno';777;0
+e;5836780;'Denis Quilliard';777;0
+e;110348;'Montreux';1;50
+e;2505721;'Bonnefoi';1;0
+e;10046234;'tefa';777;0
+e;10044638;'Adam Frederic Duritz';777;0
+e;10044334;'Ray Erskine Parker Jr';777;0
+e;10044333;'Ray Parker Jr';777;0
+e;4344635;'Dimitri Tiomkin';1;0
+e;10043865;'B.G. DeSylva';777;0
+e;10041860;'Geoffroy Mussard';777;0
+e;10041859;'Shurik'N';777;0
+e;10041858;'Shurik'n';777;0
+e;10040651;'David Peter Gray';777;0
+e;10040650;'David Gray';777;0
+e;10037048;'Elmer Leopold Reizenstein';777;0
+e;10037047;'Elmer Rice';777;0
+e;10033979;'Dangerous Woman';777;0
+e;10025998;'Walter Hampden Dougherty';777;0
+e;10025995;'Walter Hampden';777;0
+e;10000114;'Todd Anthony Shaw';777;0
+e;10000113;'Too $hort';777;0
+e;9981432;'Lolita Chammah';777;0
+e;9986267;'Chammah';1;0
+e;9992224;'Berre Bergen';777;0
+e;5679292;'règle dite des trois révocations';777;0
+e;9988807;'Éric Mazel';777;0
+e;188955;'Kheops';1;50
+e;312354;'Les Adieux à la reine';777;50
+e;9977986;'Jack Black';777;0
+e;9977985;'Thomas Jacob Black';777;0
+e;9967948;'Nasir Bin Olu Dara Jones';777;0
+e;3185598;'nas';777;0
+e;5983848;'will.i.am';777;0
+e;5983849;'This Is It';777;0
+e;9961416;'The Book of Henry';777;0
+e;427021;'Grimes';1;50
+e;9954974;'Claire Boucher';777;0
+e;9778573;'Chris Manak';777;0
+e;9778572;'Peanut Butter Wolf';777;0
+e;9760500;'Navraj Singh Goraya';777;0
+e;592326;'Ryu';1;0
+e;68775;'disco';1;152
+e;9607975;'Al Corley';777;0
+e;9605632;'Vadim Peare';777;0
+e;9605631;'DJ Vadim';777;0
+e;9597047;'Institut Stanislas Cannes';777;0
+e;9595299;'Richie Kotzen';777;0
+e;9595210;'Chris Sheldon';777;0
+e;9578592;'Toby Keith Covel';777;0
+e;9462548;'Cédric Caillol';777;0
+e;9462199;'Orgasmic';1;0
+e;9212120;'Malik Thuston Cox';777;0
+e;9212119;'Memphis Bleek';777;0
+e;5988899;'Loverboy';777;0
+e;9047040;'Carl Cox';777;0
+e;9041333;'Julien Pradeyrol';777;0
+e;9041284;'Teki Latex';777;0
+e;9052320;'Chab';777;0
+e;9052321;'François Chabloz';777;0
+e;9052322;'Moogwai';777;0
+e;141001;'Star';1;3143
+e;9023799;'Nate Rathbun';777;0
+e;9023798;'Nathaniel Rathbun';777;0
+e;9023750;'Kasabian';777;0
+e;194999;'Moby';1;2
+e;307060;'Richard Melville Hall';777;50
+e;244845;'Diplo';1;50
+e;8965334;'Thomas Wesley Pentz';777;0
+e;8915283;'Serj Tankian';777;0
+e;8904844;'Descendons gaiement la courtille';777;0
+e;8907288;'Government Pension Fund-Global';777;0
+e;3766246;'Careless Whisper';1;0
+e;135044;'poser une question';1;68
+e;5534153;'Comment contribuer';777;0
+e;7807938;'Accueil de la communauté';777;0
+e;5534152;'Portails thématiques';777;0
+e;5534155;'principes fondateurs';777;0
+e;5534151;'Wikipédia en bref';777;0
+e;7900385;'Version pour appareil mobile';777;0
+e;8853498;'Ronald Rey Bryant';777;0
+e;8853497;'Baby Bash';777;0
+e;9828434;'Syl Johnson';777;0
+e;9944444;'Naked City';777;0
+e;9946953;'James Michael McDonald';777;0
+e;9950570;'Louis Rogé';777;0
+e;9950571;'brodinski';777;0
+e;9950807;'Le mois de janvier 1926';777;0
+e;145927;'Gloria';1;54
+e;15514778;'en:agricultural works';1;0
+e;284036;'Christophe Guy Denis Lambert';777;50
+e;284037;'Christopher Lambert';777;50
+e;271716;'Christophe Lambert';1;4
+e;6529016;'David Taieb';777;0
+e;6529015;'catman';777;0
+e;6067015;'Zong';1;0
+e;6066959;'Taris';1;0
+e;5999319;'Tent';1;0
+e;5999047;'Beans';1;0
+e;6080352;'Manuel Reuter';777;0
+e;5998415;'Manian';1;0
+e;5996637;'JoJo';1;0
+e;5996447;'Opposites';1;0
+e;6017067;'Dione LaRue';777;0
+e;6017066;'Dee Dee Sharp';777;0
+e;5991481;'Vanessa Seward';777;0
+e;5991269;'Tatiana Silva Braga Tavares';777;0
+e;5988668;'Gerald Casale';777;0
+e;5987981;'Feel So Close';777;0
+e;5987875;'Night of Your Life';777;0
+e;2524380;'titanium';1;0
+e;3177496;'Someone Like You';777;0
+e;5987582;'perfectionist';777;0
+e;24990;'Party';1;2536
+e;5986187;'g-dragon';777;0
+e;5986186;'Kwon Ji-yong';777;0
+e;419991;'Kwon';1;50
+e;5986167;'Get Me Bodied';777;0
+e;5984699;'So Happy I Could Die';777;0
+e;5984641;'I'm Not Alone';777;0
+e;5984444;'Right Round';777;0
+e;5984429;'Jay Park';777;0
+e;5984331;'Qwest Records';777;0
+e;5984313;'RAK Records';777;0
+e;5984192;'Let's Change the World with Music';777;0
+e;5983600;'Sexy Chick';777;0
+e;5983599;'sexy bitch';777;0
+e;428315;'Delirious';1;50
+e;5983270;'obsessed';777;0
+e;5981191;'Dolapdere Big Gang';777;0
+e;5981146;'Reeves Gabrels';777;0
+e;5981145;'Jason Cooper';777;0
+e;5981144;'Roger O'Donnell';777;0
+e;5981142;'Simon Gallup';777;0
+e;5981141;'Robert Smith';777;0
+e;5980803;'Young at Heart';777;0
+e;5980486;'tsunku';777;0
+e;5980440;'Simon Solomon Webbe';777;0
+e;5980343;'Sunrise Avenue';777;0
+e;5980301;'Shawn Lee';777;0
+e;5979528;'Roland Jaime Orzabal de la Quintana';777;0
+e;5979527;'Roland Orzabal';777;0
+e;5979509;'David Byrne';777;0
+e;5979369;'La Compagnie créole';777;0
+e;5979254;'The B-52's';777;0
+e;5979208;'François Brottes';777;0
+e;5977478;'Devil in His Heart';777;0
+e;5977352;'piggies';777;0
+e;5977348;'Why Don't We Do It in the Road';777;0
+e;5977291;'The Inner Light';777;0
+e;5977289;'Don't Let Me Down';777;0
+e;5977269;'Ask Me Why';777;0
+e;5977257;'happiness is a warm gun';777;0
+e;5977256;'Dear Prudence';777;0
+e;145439;'Prudence';1;50
+e;75204;'Julia';1;1707
+e;5977230;'Discographie des Beatles';777;0
+e;5977214;'Glass Onion';777;0
+e;5977205;'Revolution 9';777;0
+e;312905;'Hey Jude';1;50
+e;5977191;'Bandes Decca';777;0
+e;5977190;'audition des Beatles chez Decca';777;0
+e;5977188;'John Lennon/Plastic Ono Band';777;0
+e;5977149;'Norman Smith';777;0
+e;272894;'Sgt. Pepper's Lonely Hearts Club Band';777;50
+e;5974837;'Guy Bonnardot';777;0
+e;152537;'recyclé';1;68
+e;5974682;'Eric Lynn Wright';777;0
+e;5974681;'eazy-e';777;0
+e;5974427;'Stephen Garrett';777;0
+e;5974426;'Static Major';777;0
+e;5974407;'Charles Delaunay';777;0
+e;5973864;'Eli Thompson';777;0
+e;5973786;'Linda Maria Ronstadt';777;0
+e;5973784;'Linda Ronstadt';777;0
+e;5963505;'Éliane Falliex';777;0
+e;5963504;'Liane Foly';777;0
+e;5960316;'Rendez-vous avec X';777;0
+e;5954184;'Rich Girl';777;0
+e;418685;'Roses';1;50
+e;5944594;'Koffi Olomidé';777;0
+e;5944593;'Antoine Christophe Agbepa Mumba';777;0
+e;5937747;'africando';777;0
+e;5921436;'Avril Ramona Lavigne';777;0
+e;5913639;'Alessandro Lindblad';777;0
+e;5833658;'alesso';1;0
+e;5899108;'Boule Noire';777;2
+e;5899107;'Georges Thurston';777;0
+e;5898644;'Lee Hazlewood';777;0
+e;5895115;'rak';777;0
+e;5884582;'Prince Rogers Nelson';777;0
+e;5838803;'Clarence Henry Reid';777;0
+e;5838801;'blowfly';777;0
+e;5836315;'crise du marché légumier du Haut-Léon et du Trégor de 1957 à 1967';777;0
+e;5835879;'Barrence Eugene Carter';777;0
+e;5835878;'Barry Eugene White';777;0
+e;5684122;'Killing Joke';777;2
+e;5809943;'vin biodynamique';777;0
+e;5809198;'course au volume';777;0
+e;5809197;'guerre du volume';777;0
+e;5793913;'Alain Péters';777;0
+e;5778958;'Roberto Benzi';777;0
+e;5778957;'Oreste Benzi';777;0
+e;5778956;'Massimiliano Soldani-Benzi';777;0
+e;5778955;'Erick Benzi';777;0
+e;5721738;'Benzi';1;0
+e;5713647;'Martin Karl Sandberg';777;0
+e;5703755;'Robert Fitzgerald Diggs';777;0
+e;5703754;'rza';777;0
+e;3611;'Patrice Chéreau';1;50
+e;5685552;'Marco Richetto';777;0
+e;5630680;'Rayden';777;0
+e;5678859;'Nausicaä de la vallée du vent';777;0
+e;5574359;'TLC';777;0
+e;5573771;'Billie Joe Armstrong';777;0
+e;5565568;'Michael Perretta';777;0
+e;432704;'Evidence';1;50
+e;89786;'maquette';1;116
+e;147708;'démo';1;52
+e;5563128;'Jin Hyo-sang';777;0
+e;5563127;'kidoh';777;0
+e;5534856;'Découvrez comment faire';777;0
+e;277469;'Anne Fontaine';777;52
+e;5518287;'Ange Didier Houon';777;0
+e;5518286;'DJ Arafat';777;0
+e;92614;'boogie-woogie';1;50
+e;247990;'Genesis';1;50
+e;13221;'Paname';1;66
+e;191118;'Ville Lumière';1;50
+e;191119;'Ville-Lumière';1;50
+e;310470;'Antoine Minne';777;50
+e;420390;'Zebra';1;50
+e;270961;'Fanfan';1;50
+e;5386104;'François Guillemot';1;0
+e;5074992;'Dangerously in Love';777;0
+e;5061680;'Patrick Coutin';1;0
+e;2956041;'Abdel-Hakim';1;0
+e;435515;'Comeau';1;50
+e;19356;'sexe';1;5774
+e;1570205;'When I'm Sixty-Four';1;0
+e;116980;'squelette';1;1228
+e;4289712;'Pierre Barouh';1;0
+e;312170;'merci de ne pas mettre au passé les verbes qui sont actuellement au présent';777;50
+e;1570192;'Come Together';1;0
+e;3766245;'Wham!';1;0
+e;152480;'Dalida';1;72
+e;2583955;'Stevie Ray Vaughan';1;0
+e;2583969;'Ry Cooder';1;0
+e;3515274;'Willie Hugh Nelson';777;0
+e;2583988;'Robbie Robertson';1;0
+e;3491546;'Roger Meddows-Taylor';777;0
+e;137236;'Pelé';1;50
+e;276664;'Edson Arantes do Nascimento';777;50
+e;3298536;'Raven Maize';777;0
+e;3259923;'Jerôme Ebella';777;0
+e;2957252;'Kenzy';1;0
+e;2553174;'loverboy';1;0
+e;3186427;'Shamele Mackie';777;0
+e;2545110;'papoose';1;0
+e;3186362;'système HACCP';777;0
+e;3186361;'système d'analyse des dangers - points critiques pour leur maîtrise';777;0
+e;3183659;'Nicolas Jaar';777;0
+e;3181376;'Brian Peter George Eno';777;0
+e;3181375;'Brian Peter George St. John le Baptiste de la Salle Eno';777;0
+e;2577402;'Them';1;0
+e;10294;'Michael';1;3491
+e;222242;'OBE';1;138
+e;286627;'Tanguy Destable';777;50
+e;286626;'tepr';777;50
+e;286078;'Robert Sylvester Kelly';777;50
+e;286079;'R. Kelly';777;50
+e;230842;'Bruno Lopes';1;52
+e;3172024;'Métal urbain';777;0
+e;3170687;'basshunter';777;0
+e;3170552;'joeystarr';777;0
+e;3170232;'timberlake';1;0
+e;3158787;'Twista';1;0
+e;3158595;'Carl Terrell Mitchell';777;0
+e;3158594;'Tung Twista';777;0
+e;3055601;'twista';1;0
+e;2585477;'Frusciante';1;0
+e;3145357;'John Anthony Frusciante';777;0
+e;3079292;'Julien Ranouil';777;0
+e;2957772;'Pakito';1;0
+e;68597;'Axelrod';1;50
+e;2305050;'zappa';2;0
+e;1140037;'Gérard Filipelli';1;0
+e;2937765;'Pharrell Lanscilo Williams';777;0
+e;2932530;'John Anthony Gillis';777;0
+e;2583997;'Jack White';1;0
+e;1570214;'I've Just Seen a Face';1;0
+e;2912446;'A.G';777;0
+e;2912445;'Showbiz and A.G';777;0
+e;2525909;'sommateur';1;0
+e;116645;'pro';1;88
+e;2436247;'prosommateur';1;0
+e;2405066;'transport public';1;0
+e;320362;'transporteur routier';1;50
+e;2585124;'Artyom Stolyarov';777;0
+e;2403975;'arty';1;0
+e;413297;'Nathaniel';1;50
+e;2377776;'audien';1;0
+e;3766254;'Georgios Kyriacos Panayiotou';1;0
+e;264288;'signe de Babinski';1;52
+e;594059;'bloc de branche gauche';1;0
+e;2347953;'Saint-Amand';1;0
+e;322117;'George Michael';1;50
+e;405061;'Moroder';1;50
+e;2321055;'Fally Ipupa Nsimba';777;0
+e;2047178;'dre';1;0
+e;1466622;'Robert William Scott';777;0
+e;288640;'Bobby Scott';777;50
+e;1966677;'Ketevan Méloua';777;0
+e;1382480;'analyse des risques';1;0
+e;294833;'gestion du risque';1;6
+e;587288;'management du risque';777;0
+e;1526214;'management des risques';777;0
+e;593082;'gestion des risques';1;6
+e;1754464;'Andre Romell Young';777;0
+e;348343;'droit chemin';1;52
+e;1745583;'autres pages à fusionner';777;0
+e;1677490;'l'utilisateur qui a apposé ce bandeau n'a pas précisé le motif de la pose';777;0
+e;310741;'Giovanni Giorgio Moroder';777;50
+e;310742;'Hansjörg Moroder';777;50
+e;1455692;'William George Perks';777;0
+e;227473;'crank';1;50
+e;1570209;'Got to Get You Into My Life';1;0
+e;1570189;'Lady Madonna';1;0
+e;1497557;'Pharrell';1;0
+e;1497556;'pharrell';777;0
+e;1497555;'Pharrell Williams';1;0
+e;1140035;'Jean-Guy Fechner';1;0
+e;423371;'Arca';1;50
+e;280043;'Mario Girotti';777;50
+e;237867;'Jackass';1;50
+e;237903;'Frank Zappa';1;16
+e;633;'Zappa';1;50
+e;1210337;'Calvin Cordozar Broadus';777;0
+e;1044546;'Guy-Man';777;0
+e;280405;'Thomas Bangalter';777;50
+e;1009026;'René-Paul Roux';777;0
+e;276907;'Paul Personne';1;54
+e;276560;'Frank Vincent Zappa';777;50
+e;245232;'The Man Who Sold The World';1;50
+e;235202;'Stromae';1;50
+e;296218;'Paul Van Haver';777;50
+e;231741;'Cauet';1;50
+e;214859;'BassHunter';666;50
+e;589230;'monteur film';777;0
+e;152078;'Ron';1;1719
+e;278494;'Entrée libre';777;50
+e;586034;'Fifty Cent';777;0
+e;586033;'Curtis James Jackson III';777;0
+e;36601;'Angels With Dirty Faces';1;50
+e;578523;'Jakatta';777;0
+e;578522;'Dave Lee';777;0
+e;578521;'Joey Negro';1;0
+e;578440;'James Joseph Brown Jr';777;0
+e;129963;'Usher';1;50
+e;574097;'Usher Raymond IV';777;50
+e;570153;'Snoop Doggy Dogg';777;50
+e;462076;'Notorious B.I.G';777;50
+e;462075;'Frank White';777;50
+e;462074;'Biggie';777;50
+e;462073;'Biggie Smalls';777;50
+e;462072;'Christopher Wallace';777;50
+e;462071;'The Notorious B.I.G';777;50
+e;433492;'procurement';1;50
+e;428431;'Susumu';1;50
+e;126830;'James';1;3616
+e;423211;'Dre';1;50
+e;419237;'them';1;50
+e;155038;'RAM';1;2119
+e;101765;'ram';1;52
+e;419008;'Ram';1;50
+e;414691;'Timberlake';1;50
+e;411496;'Melua';1;50
+e;570405;'Deshaun Dupree Holton';777;50
+e;408743;'Proof';1;50
+e;408048;'Piero';1;50
+e;570333;'Piero de Benedictis';777;50
+e;406064;'Creed';1;50
+e;404994;'Vangélis';1;50
+e;569948;'Lonnie Rashid Lynn Jr';777;50
+e;569947;'Common Sense';777;50
+e;403499;'Common';1;52
+e;413031;'Gold';1;1323
+e;311718;'Soulja Boy';777;50
+e;418758;'Fugees';1;50
+e;395147;'The Roots';1;50
+e;392835;'Harry Connick Jr';1;50
+e;392914;'Joseph Harry Fowler Connick';777;50
+e;285836;'Mathieu Vidard';1;2
+e;321471;'Quincy Jones';1;50
+e;321472;'Quincy Delight Jones Jr';777;50
+e;316312;'Guillaume Emmanuel Paul de Homem-Christo';777;50
+e;316311;'Guy-Manuel de Homem-Christo';777;50
+e;313983;'Avril Ramona Lavigne Kroeger';777;50
+e;253033;'réalisateur de cinéma';1;54
+e;235245;'Every Breath You Take';1;50
+e;238273;'Vangelis';1;6
+e;310906;'Vangélis Papathanassíou';777;50
+e;310905;'Evángelos Odysséas Papathanassíou';777;50
+e;310797;'Michael Joseph Porcaro';777;50
+e;229987;'Mike Porcaro';1;50
+e;228734;'Smells Like Teen Spirit';1;50
+e;219818;'Santana';1;4
+e;219610;'monteuse';1;50
+e;310035;'André Romelle Young';777;50
+e;213094;'The Wall';1;50
+e;312892;'ruquier';777;50
+e;188543;'Eumir Deodato';1;50
+e;189807;'Michael Youn';1;50
+e;309199;'Snoop Lion';777;50
+e;309198;'Bigg Snoop Dogg';777;50
+e;309197;'Calvin Cordozar Broadus Jr.';777;50
+e;188569;'Snoop Dogg';1;50
+e;309103;'Carlton Douglas Ridenhour';777;50
+e;246127;'Chuck D';1;50
+e;242281;'Samuel Vimaire';1;2
+e;188290;'Black eyed peas';1;50
+e;308777;'The Black Eyed Peas';777;50
+e;227377;'Métal Urbain';1;50
+e;195229;'réalisateur de films';1;52
+e;306650;'Marshall Bruce Mathers III';777;50
+e;306649;'Slim Shady';777;50
+e;188622;'Eminem';1;52
+e;306397;'Curtis James Jackson';777;50
+e;188121;'50 cent';1;50
+e;184727;'vente directe';1;50
+e;159845;'Philippe Fragione';1;52
+e;152355;'Akhenaton';1;50
+e;304843;'agriculture durable';1;56
+e;126700;'White';1;2741
+e;123819;'Black Rain';1;50
+e;121386;'monteur';1;78
+e;124694;'chef monteur';1;50
+e;151597;'Keith Richards';1;56
+e;92951;'Phillips';1;50
+e;92839;'Sylver';1;50
+e;300340;'Personnages du Disque-monde';777;50
+e;91421;'chicard';1;50
+e;298129;'Alan Daniel Maman';777;50
+e;298128;'ALC';777;50
+e;65595;'The Alchemist';1;50
+e;62527;'détaillant';1;76
+e;235705;'Coldplay';1;50
+e;294908;'Néo metal';777;50
+e;237817;'Michel Polnareff';1;66
+e;228652;'Strawberry Fields Forever';1;2
+e;247634;'The Fugees';1;50
+e;293147;'fugees';777;50
+e;33020;'West Side Story';1;72
+e;235395;'Jimmy Page';1;6
+e;292436;'James Patrick Page';777;50
+e;292377;'Ketevan Melua';777;50
+e;246989;'Katie Melua';1;50
+e;291595;'Michaël Benayoun';777;50
+e;230588;'Michaël Youn';1;2
+e;214977;'Jean-Louis Aubert';1;6
+e;236421;'Bill Wyman';1;50
+e;288696;'permissivit';777;50
+e;101754;'permissivité';1;50
+e;288695;'libéral-libertaire';777;50
+e;288505;'new metal';777;50
+e;288504;'neo-metal';777;50
+e;288503;'aggro-metal';777;50
+e;288502;'nü-metal';777;50
+e;288501;'nu metal';777;54
+e;288500;'Slum Village';777;50
+e;288057;'plastikman';777;50
+e;288056;'Richard Michael Hawtin';777;50
+e;288054;'Richie Hawtin';777;50
+e;287423;'Matt Houston';777;50
+e;287422;'matt';777;50
+e;287421;'Matthieu Gore';777;50
+e;167090;'Jean-Jacques Goldman';1;58
+e;286620;'Sander Kleinenberg';777;50
+e;217749;'David Robert Jones';1;72
+e;286223;'1997 au cinéma';777;50
+e;286107;'Étienne Daho';1;50
+e;286029;'David Hemmings';777;50
+e;47263;'Irwin Shaw';1;50
+e;285731;'Etan Cohen';1;50
+e;285562;'Someone like You';1;50
+e;51690;'Lumumba';1;50
+e;284761;'Walter Bruce Willis';777;50
+e;164809;'Bruce Willis';1;138
+e;284647;'Patrick Boutot';777;50
+e;284605;'John Davies Cale';777;50
+e;270765;'John Cale';1;50
+e;266992;'Peter Fonda';1;50
+e;284375;'Peter Henry Fonda';777;50
+e;266327;'Swayze';1;50
+e;189060;'William Leymergie';1;50
+e;30774;'Hendrix';1;50
+e;68145;'Jimi Hendrix';1;70
+e;284108;'Johnny Allen Hendrix';777;50
+e;188825;'James Marshall Hendrix';1;50
+e;142151;'sous-titre';1;68
+e;234695;'bande originale';1;8
+e;283728;'gagn';777;50
+e;141943;'gagné';1;2438
+e;49491;'Ben Barka';1;50
+e;283613;'El Mehdi Ben Barka';777;50
+e;50124;'directeur de production';1;50
+e;226924;'Michael Palin';1;50
+e;283319;'Michael Edward Palin';777;50
+e;80534;'cinéphilie';1;50
+e;19597;'Cohn';1;50
+e;96063;'Rivesaltes';1;50
+e;51549;'Zimmermann';1;50
+e;282474;'Terence Steven MacQueen';777;50
+e;263793;'Steve McQueen';1;50
+e;251123;'Nino Ferrer';1;10
+e;282320;'Nino Agostino Arturo Maria Ferrari';777;50
+e;176530;'retail';1;50
+e;281916;'Nagui Fam';777;50
+e;189281;'Nagui';1;50
+e;215461;'NIN';1;50
+e;215462;'Nine Inch Nails';1;54
+e;96812;'musique de film';1;64
+e;281568;'Justin Timberlake';777;50
+e;281567;'Justin Randall Timberlake';777;50
+e;241835;'Cloclo';1;52
+e;248155;'Björn Ulvaeus';1;50
+e;281527;'Björn Kristian Ulvaeus';777;50
+e;281468;'Laurent Hugues Emmanuel Ruquier';777;50
+e;281134;'Thomas William Selleck';777;50
+e;243772;'Tom Selleck';1;50
+e;281027;'El indio Fernández';777;50
+e;281026;'Emilio Fernández Romo';777;50
+e;74645;'Emilio Fernández';1;50
+e;188349;'James Brown';1;50
+e;280760;'James Joseph Brown Jr.';777;50
+e;125690;'Harry Langdon';1;50
+e;280642;'Harry L. Langdon';777;50
+e;63592;'Eleanor Rigby';1;50
+e;280206;'Didier Morville';777;50
+e;280051;'film italien';777;30
+e;769;'cinéma italien';1;178
+e;223389;'Bud Spencer';1;50
+e;280045;'Carlo Pedersoli';777;50
+e;104467;'utile';1;2796
+e;6011;'utilité';1;224
+e;260116;'commerce de détail';1;96
+e;263977;'vente au détail';1;70
+e;10219;'Petrie';1;50
+e;9085;'Rich';1;50
+e;7676;'Basset';1;50
+e;6300;'Beck';1;50
+e;4753;'Bosworth';1;50
+e;1735;'revendeur';1;72
+e;31285;'marchand';1;1417
+e;1534;'Kirschner';1;50
+e;276388;'Jacques Besnard';777;50
+e;276303;'Saïd Naceri';777;50
+e;275959;'Paul Czinner';777;50
+e;275921;'Ian Somerhalder';777;50
+e;275843;'Denys Arcand';777;50
+e;123130;'Chaplin';1;64
+e;251947;'Patrick Sabatier';1;50
+e;4928;'Clint Eastwood';1;76
+e;115075;'approvisionnement';1;74
+e;188376;'Guillaume Canet';1;50
+e;55365;'sous-titrage';1;50
+e;273769;'George Raymond Richard Martin';777;50
+e;239827;'Antoine de Caunes';1;50
+e;273674;'Jean-Marie Cavada';777;52
+e;273100;'Bienvenue à la ferme';777;50
+e;273027;'Eugène Maurice Orowitz';777;50
+e;212250;'Michael Landon';1;50
+e;273017;'Bruno Beausir';777;50
+e;272869;'Samuel Wilder';777;50
+e;123366;'Billy Wilder';1;50
+e;121400;'Richard Fleischer';1;52
+e;67931;'Jerry Lewis';1;50
+e;272865;'William Blake Crump';777;50
+e;166432;'Blake Edwards';1;60
+e;272852;'Bernard Schwartz';777;50
+e;226665;'Tony Curtis';1;2
+e;225072;'Dangereusement vôtre';1;2
+e;10346248;'la fouine';777;0
+e;52553;'Robinson';1;1733
+e;189527;'Laurent Ruquier';1;50
+e;189189;'Georges Méliès';1;50
+e;250903;'George R. R. Martin';1;4
+e;230383;'Patrick Bruel';666;50
+e;313982;'Avril Lavigne';1;50
+e;232770;'Gary Oldman';1;12
+e;276302;'Samy Naceri';777;50
+e;188585;'Jean Dujardin';1;88
+e;189600;'Will Smith';1;50
+e;273772;'Jude Law';777;50
+e;11372571;'Freddie Highmore';666;0
+e;14955668;'en:Dougal';1;0
+e;216012;'Doc';666;50
+e;188690;'Claude François';1;84
+e;325919;'Stanley Tucci';666;50
+e;227582;'Fargo';666;2
+e;3289802;'Bleue d'Auvergne';1;0
+e;41557;'François Truffaut';1;62
+e;7045;'propagateur';1;54
+e;229921;'Osamu Tezuka';666;50
+e;271722;'Paul Gilbert';666;50
+e;17179446;'Stuart Mathis';777;0
+e;16971655;'Billy Thornton';777;0
+e;16969987;'Jonah Hill Feldstein';777;0
+e;16904291;'Tale Of Us';777;0
+e;16767591;'Kiggen';777;0
+e;2508884;'man-bun';1;0
+e;16677765;'William Villiers';777;0
+e;16610531;'José Miguel Redín';777;0
+e;16609670;'Masamichi Abe';777;0
+e;16587477;'Olivier Ringer';777;0
+e;2356825;'hors-temps';1;0
+e;363320;'marché captif';1;50
+e;16336359;'Alex Karras';777;0
+e;179745;'cinephile';1;50
+e;136330;'oléicole';1;50
+e;116945;'surproduction';1;50
+e;16278662;'Martin Eugene Mull';777;0
+e;16237446;'producteurs de café';777;0
+e;52803;'jaffe';1;50
+e;38895;'royalties';1;86
+e;38441;'affineur';1;50
+e;30711;'distillateur';1;50
+e;28847;'décadent';1;60
+e;24827;'Seeing Things';1;50
+e;24340;'phonographique';1;50
+e;22838;'fouger';1;50
+e;18771;'flop';1;68
+e;7436;'derrick';1;62
+e;6000;'wax';1;50
+e;3816;'hamada';1;50
+e;16117748;'Lumpy Gravy';777;0
+e;903;'Alfred Krupp';1;50
+e;16086471;'Levan Akin';777;0
+e;16423;'Alcoa';1;50
+e;17578;'Janice';1;50
+e;11448;'toaster';1;76
+e;403748;'schiff';1;50
+e;16760773;'Le Velay';777;0
+e;10129;'Judd';1;50
+e;13525;'rami';1;104
+e;99024;'ciné';1;98
+e;223766;'Charles Chaplin';1;50
+e;7647074;'références utiles à sa vérifiabilité';777;0
+e;56095;'comment';1;3076

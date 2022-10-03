@@ -1,0 +1,1804 @@
+e;127000;'mouche';1;824
+e;239128;'_COM';36;50
+e;2983124;'_SW';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;127270;'merde';1;834
+e;73827;'voler';1;3095
+e;152356;'bleue';1;2361
+e;223172;'_POL-NEG';36;50
+e;148105;'ailes';1;2750
+e;43853;'aile';1;2172
+e;71926;'insecte';1;3752
+e;14864;'tapette';1;358
+e;114428;'diptère';1;148
+e;83403;'tsé-tsé';1;130
+e;87025;'grain de beauté';1;168
+e;77008;'yeux';1;4539
+e;251937;'diptère>71926';1;26;'diptère>insecte'
+e;154002;'insecte volant';1;78
+e;251764;'insecte>17559';1;384;'insecte>animal'
+e;67440;'hexapode';1;124
+e;329636;'pancrustacé';1;14
+e;329635;'mandibulate';1;12
+e;175721;'mandibulé';1;4
+e;223173;'_POL-POS';36;50
+e;59582;'moustique';1;800
+e;106270;'arthropode';1;304
+e;8990;'patte';1;1766
+e;329634;'euarthropode';1;14
+e;326289;'panarthropode';1;16
+e;318464;'ecdysozoaire';1;10
+e;74846;'corps';1;5240
+e;19646;'protostomien';1;84
+e;77424;'oeil';1;3278
+e;134253;'hyponeurien';1;62
+e;264880;'bilatérien';1;80
+e;123836;'poids';1;3475
+e;264908;'eumétazoaire';1;80
+e;13284;'abeille';1;898
+e;96649;'moucheron';1;126
+e;145185;'trompe';1;354
+e;1188;'fine mouche';1;50
+e;3907;'pêche à la mouche';1;100
+e;77587;'invertébré';1;380
+e;12133;'mouche à boeuf';1;50
+e;15569;'prendre la mouche';1;74
+e;18323;'mouche du coche';1;90
+e;199547;'entendre une mouche voler';1;50
+e;312432;'ophrys mouche';1;50
+e;32954;'faire mouche';1;64
+e;78074;'pattes de mouche';1;62
+e;78733;'mouche à miel';1;64
+e;98612;'faire la mouche du coche';1;50
+e;143069;'faire d'une mouche un éléphant';1;50
+e;156208;'tapette à mouche';1;68
+e;175770;'mouche domestique';1;12
+e;181310;'canne à mouche';1;50
+e;181513;'chiure de mouche';1;52
+e;183308;'mouche sèche';1;50
+e;186112;'être la mouche du coche';1;50
+e;186125;'être piqué par une mouche';1;50
+e;206143;'prendre facilement la mouche';1;50
+e;206584;'quelle mouche vous pique';1;50
+e;271099;'mouche mineuse';1;50
+e;271101;'mouche des fruits';1;56
+e;271115;'mouche à toison';1;50
+e;297224;'mouche piquante';777;50
+e;297225;'mouche charbonneuse';777;50
+e;64185;'mouche tsé-tsé';1;120
+e;161195;'mouche à merde';1;164
+e;164748;'bateau mouche';1;56
+e;166046;'poids mouche';1;58
+e;181930;'cuisses de mouche';1;50
+e;214196;'mouche du vinaigre';1;16
+e;227707;'mouche à viande';1;108
+e;227708;'mouche verte';1;104
+e;227709;'mouche bleue';1;118
+e;227736;'mouche de la betterave';1;60
+e;227737;'mouche du fromage';1;60
+e;227738;'mouche de Hesse';1;62
+e;227739;'mouche commune';1;64
+e;228268;'patte de mouche';1;68
+e;237496;'mouche noire';1;56
+e;238685;'jouer la mouche du coche';1;50
+e;242506;'grosse mouche';1;58
+e;250966;'mouche tsé tsé';1;50
+e;250967;'pêcher à la mouche';1;50
+e;256366;'mouche nez';1;14
+e;259622;'mouche bébé';1;54
+e;261386;'mouche à feu';1;50
+e;99238;'bestiole';1;202
+e;315848;'cuisse de mouche';1;50
+e;193058;'gobe-mouche gris';1;50
+e;193059;'gobe-mouche nain';1;50
+e;193060;'gobe-mouche noir';1;50
+e;193061;'gobe-mouche à collier';1;50
+e;282256;'Gobe-mouche à collier';777;50
+e;161049;'petite bête';1;88
+e;222218;'amanite tue-mouche';1;54
+e;227710;'papier tue-mouche';1;50
+e;151867;'pattes';1;2265
+e;319333;'la mouche';777;50
+e;325424;'écriture en pattes de mouche';1;50
+e;233133;'animal>117095';1;836;'animal>zoologie'
+e;17559;'animal';1;14019
+e;55823;'métazoaire';1;174
+e;325741;'choanobionte';1;76
+e;82778;'mouchard';1;76
+e;225934;'oeil>330323';1;224;'oeil>organe de la vue'
+e;222883;'aile>117095>71926';1;58;'aile>zoologie>insecte'
+e;129506;'dénonciateur';1;176
+e;329657;'choano-organisme';1;62
+e;258467;'mouche-nez';1;64
+e;251019;'chasse-mouche';1;8
+e;174400;'pied-de-mouche';1;50
+e;159696;'mouche-bébé';1;60
+e;151145;'tue-mouche';1;50
+e;136441;'oiseau-mouche';1;54
+e;120767;'bateau-mouche';1;52
+e;53653;'gobe-mouche';1;52
+e;10245;'attrape-mouche';1;58
+e;145624;'pêche';1;2861
+e;325738;'filozoaire';1;84
+e;325736;'holozoaire';1;60
+e;325731;'opisthoconte';1;76
+e;103730;'pamphile';1;50
+e;144846;'tête';1;5937
+e;5877994;':r114424853';10;0
+e;89703;'coche';1;98
+e;67875;'bourdonnement';1;90
+e;365204;'mouche des fleurs';1;50
+e;365215;'mouche éphémère';1;50
+e;365209;'mouche noyée';1;50
+e;365206;'mouche du chardon';1;50
+e;365203;'mouche des chevaux';1;50
+e;334541;'aile de mouche';1;50
+e;365213;'mouche scorpion';1;50
+e;365212;'mouche grise';1;50
+e;123408;'vol';1;3457
+e;365210;'mouche à boeufs';1;50
+e;365197;'mouche araignée';1;50
+e;365205;'mouche des yeux';1;50
+e;356912;'grosse mouche verte';1;50
+e;365214;'mouche volante';1;50
+e;339919;'bourdonnement de mouche';1;50
+e;365211;'mouche à scie';1;50
+e;365200;'mouche de l'asperge';1;50
+e;365199;'mouche d'escadre';1;50
+e;365198;'mouche blanche';1;50
+e;361010;'larve de mouche';1;68
+e;54794;'eucaryote';1;194
+e;365202;'mouche de moutarde';1;50
+e;325728;'uniconte';1;42
+e;94326;'drosophile';1;92
+e;365208;'mouche grise de la viande';1;50
+e;365207;'mouche du mélèze';1;50
+e;365201;'mouche de la bettrave';1;50
+e;348344;'droit comme mon coude quand je me mouche';1;50
+e;16167670;'::>66:127000>24:73827';8;0;'mouche [peut] voler'
+e;50698;'indicateur';1;92
+e;42301;'guêpe';1;436
+e;99501;'cible';1;2456
+e;103405;'indifférence';1;612
+e;93016;'moucheture';1;50
+e;76583;'volant';1;1789
+e;151282;'verte';1;2540
+e;22976;'asticot';1;178
+e;142663;'sale';1;1420
+e;155519;'tsé tsé';1;60
+e;133034;'mouchoir';1;556
+e;104942;'esche';1;52
+e;60098;'appât';1;262
+e;1771539;':r2859005';10;0
+e;85339;'amorce';1;126
+e;214192;'mouche>71926';1;152;'mouche>insecte'
+e;14923320;'en:fly';1;0
+e;64313;'abdomen';1;518
+e;171870;'Nom:';4;50
+e;41682;'été';1;3998
+e;80157;'taon';1;116
+e;5877995;':r114424858';10;0
+e;15900204;':r414013193';10;0
+e;225847;'organisme>71624';1;98;'organisme>être vivant'
+e;25792;'postiche';1;76
+e;143401;'barbe';1;1164
+e;71624;'être vivant';1;1888
+e;118539;'poils';1;1359
+e;135591;'poil';1;2680
+e;260820;'entité vivante';1;64
+e;1483990;'être vivant non humain';1;4
+e;55935;'assassin';1;1318
+e;146881;'Nom:Fem+SG';4;50
+e;39750;'moucher';1;210
+e;135926;'araignée';1;752
+e;29592;'film';1;7953
+e;43134;'noire';1;3319
+e;151352;'vole';1;58
+e;132300;'maquillage';1;908
+e;52499;'entomologie';1;318
+e;234036;'être vivant>123933';1;258;'être vivant>entité'
+e;65081;'organisme vivant';1;146
+e;237445;'être>68439';1;32;'être>individu'
+e;124524;'cafard';1;434
+e;64238;'noir';1;4408
+e;679222;':r13916379';10;0
+e;679225;':r13977395';10;0
+e;679227;':r13885315';10;0
+e;20346;'but';1;3811
+e;3129181;'Gobe-mouche';1;0
+e;106718;'matières fécales';1;62
+e;679226;':r13727616';10;0
+e;679230;':r14026766';10;0
+e;155494;'bzzz';1;74
+e;73772;'insecticide';1;304
+e;155732;'volle';1;50
+e;43106;'bruit';1;2750
+e;26703;'pourriture';1;156
+e;2506980;'mouche à marde';1;0
+e;2496598;'pêcheur à la mouche';1;0
+e;145443;'vinaigre';1;486
+e;83035;'nuisible';1;108
+e;139383;'crotte';1;438
+e;33957;'moucheter';1;58
+e;161698;'Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2';4;50
+e;679224;':r2231300';10;0
+e;116175;'oeuf';1;2570
+e;212235;'Ver:';4;50
+e;29176;'un bateau-mouche, une basse-cour';1;50
+e;579375;'mouche à chevreuil';777;0
+e;2565692;'qui se sent morveux se mouche';1;0
+e;3706695;'chasser une mouche';1;0
+e;2585996;'_INFO-CNRTL-YES';36;50
+e;140100;'viande';1;5110
+e;138501;'vache';1;2726
+e;136055;'miel';1;1468
+e;2959;'saleté';1;608
+e;1687339;'croire à la mouche qui pète';1;2
+e;2504220;'mouche des étables';1;0
+e;5141622;'La mouche du coche';1;0
+e;60829;'sommeil';1;2186
+e;107477;'nez';1;2903
+e;1771557;'mouche pisseuse';1;0
+e;2571154;'écraser une mouche avec un marteau';1;0
+e;2533453;'on aurait pu entendre une mouche voler';1;0
+e;56572;'caca';1;728
+e;260328;'coquine>214190';1;2;'coquine>mouche>grain de beauté'
+e;579374;'mouche à cheval';777;0
+e;152820;'grise';1;847
+e;679185;':r495851';10;0
+e;52004;'écraser';1;384
+e;261940;'Glossina palpalis';1;50
+e;2502172;'mouche de pointe';1;0
+e;2490612;'mouche-araignée';1;0
+e;146025;'air';1;2625
+e;143607;'nature';1;3628
+e;213857;'voler>167847';1;278;'voler>déplacement aérien'
+e;162424;'tsétsé';1;50
+e;567219;'mouche de Libye';777;50
+e;2509944;'mouche des cornes';1;0
+e;2506300;'mouche-sans-raison';1;0
+e;26142;'agacer';1;336
+e;42663;'bourdonner';1;80
+e;145953;'visage';1;3047
+e;112192;'cadavre';1;861
+e;62573;'espion';1;560
+e;2566745;'enculade de mouche';1;0
+e;2542366;'pieds de mouche';1;0
+e;2517570;'mouche du cuir';1;0
+e;2542806;'super-mouche';1;0
+e;3180688;'Ophrys mouche';777;2
+e;3362862;'gâteau aux noix de tante mouche';1;0
+e;9471739;'P'tit Zef poids mouche';777;0
+e;12080052;'mouche de la Saint-Marc';1;0
+e;12634653;'mouche plate';777;0
+e;12634655;'mouche crabe';777;0
+e;12736681;'mouche de mai';1;0
+e;15440719;'Quelle mouche l'a piqué ?';1;0
+e;16796253;'Pêche à la mouche';777;0
+e;254877;'_POL-NEUTRE_PC';36;50
+e;214190;'mouche>87025';1;4;'mouche>grain de beauté'
+e;1824265;'piqûre de mouche';1;0
+e;2483236;'punaise-mouche';1;0
+e;15571529;'entendre voler une mouche';1;0
+e;15583946;'faire en sorte que qc fasse mouche';1;0
+e;15583942;'faire en sorte que qch fasse mouche';1;0
+e;16031895;'faire mouche sur';1;0
+e;126612;'se poser';1;92
+e;6288666;'maladie due à la mouche tsé-tsé';1;0
+e;17476232;'::>31:36899>29:126612';8;0;'se poser [endroit] meuble'
+e;191669;'_INFO-SEM-LIVING-BEING';36;160
+e;2373622;'mouche artificielle';1;0
+e;2390131;'mouche de pêche';1;0
+e;12764111;'mouche du sorgho';777;0
+e;16798312;'mouche-faucheux';777;0
+e;17023;'cage';1;958
+e;2368490;'mouche-scorpion';1;0
+e;2426728;'tuer une mouche avec un canon';1;0
+e;2429504;'pêcheuse à la mouche';1;0
+e;16871213;'mouche (piqûre de)';1;0
+e;15339068;'mouche velue';1;0
+e;73685;'sports';1;2416
+e;56865;'sport';1;5429
+e;14290165;'mouche>2946892';1;0;'mouche>Ver:Conjug'
+e;14290166;'mouche>171870';1;0;'mouche>Nom:'
+e;2586628;'Gender:Fem';4;0
+e;2586629;'Number:Sing';4;0
+e;2935005;'VerbalTime:Present';4;0
+e;2946892;'Ver:Conjug';4;0
+e;15397240;'papier tue mouche';1;0
+e;267487;'merde>123866';1;88;'merde>excrément'
+e;60144;'dégueu';1;204
+e;191741;'_INFO-VOC-COMMON';36;50
+e;214191;'mouche>143401';1;50;'mouche>barbe'
+e;214195;'mouche>50698';1;50;'mouche>indicateur'
+e;15526877;'quelle mouche l'a piquée ?';1;0
+e;15526883;'quelle mouche les a piquées ?';1;0
+e;15526881;'quelle mouche m'a piquée ?';1;0
+e;16534006;'quelle mouche me pique ?';1;0
+e;15526886;'quelle mouche nous a piquées ?';1;0
+e;15583105;'quelle mouche t'a piqué ?';1;0
+e;15526879;'quelle mouche t'a piquée ?';1;0
+e;16322293;'quelle mouche te pique ?';1;0
+e;15526885;'quelle mouche vous a piquées ?';1;0
+e;214194;'mouche>145624';1;2;'mouche>pêche'
+e;3093590;'VerbalMode:Indicatif';4;0
+e;2481251;'mouche sauteuse';1;0
+e;2500532;'mi-mouche';1;0
+e;5831904;'mouche de la cerise';777;0
+e;7333446;'mouche à damier';1;0
+e;16057254;'scorpion-mouche';1;0
+e;17401297;'mouche piqueuse';1;0
+e;17476237;'::>14:36899>29:322852';8;0;'se poser sur [objet] meuble'
+e;17476229;'::>31:216173>29:213857';8;0;'voler>déplacement aérien [endroit] pièce>salle'
+e;322852;'se poser sur';1;50
+e;17476226;'::>31:96851>29:213857';8;0;'voler>déplacement aérien [endroit] pièce'
+e;217817;'_INFO-POLYSEMIC';36;50
+e;133714;'discrète';1;124
+e;143712;'marine';1;3155
+e;141796;'tache';1;286
+e;2438000;'mouche de pierre';1;0
+e;16745465;'écrire en pattes de mouche';1;0
+e;143408;'milieu';1;3692
+e;214193;'mouche>99501';1;50;'mouche>cible'
+e;160265;'cibles';1;60
+e;2481716;'mouche de ver en vis';1;0
+e;2423706;'quelle mouche le pique';1;0
+e;10071306;'Les Aventures d'une mouche';777;0
+e;14159772;'écraser une mouche avec un marteau-pilon';1;0
+e;28453;'bonheur';1;2804
+e;117095;'zoologie';1;2392
+e;391010;'coelomé';1;50
+e;2443624;'ne pas faire de mal à une mouche';1;0
+e;248198;'_SEX_NO';36;50
+e;267642;'organisme animal';1;4
+e;11553237;'mouche orientale des fruits';777;0
+e;11553227;'mouche des fruits du Pacifique';777;0
+e;11553209;'mouche de la Saint Marc';777;0
+e;391009;'célomate';1;50
+e;2421018;'pied de mouche';1;0
+e;104134;'charnier';1;88
+e;246204;'joue>112609';1;18;'joue>anatomie'
+e;234904;'nasi goreng';1;46
+e;68281;'coprophage';1;58
+e;22264;'colère';1;2464
+e;94863;'galante';1;58
+e;139714;'assassine';1;62
+e;46401;'rasoir';1;582
+e;141440;'police';1;3360
+e;2375042;'enculage de mouche';1;0
+e;11834568;'mouche d'or';1;0
+e;254878;'_POL-NEG_PC';36;50
+e;31970;'centre';1;3753
+e;55224;'volage';1;176
+e;157482;'coquine';1;150
+e;151971;'libertine';1;110
+e;244340;'généreuse';666;32
+e;35143;'biologie';1;3428
+e;87789;'coelomate';1;52
+e;97203;'mandibule';1;258
+e;5831999;'mouche de l'olive';777;0
+e;5893800;'La Maison de la mouche';777;0
+e;24646;'attraper';1;838
+e;215038;'araignée>106270';1;74;'araignée>arthropode'
+e;270521;'moustique>71926';1;22;'moustique>insecte'
+e;3564688;'Grain de beauté';777;0
+e;6907554;'en:indic';1;0
+e;108558;'touffe';1;118
+e;36886;'faune';1;2225
+e;11408047;'tuer une mouche';1;0
+e;15262504;'chiasse de mouche';1;0
+e;15215534;'chiures de mouche';1;0
+e;52981;'bouse';1;148
+e;172435;'Langage:familier';18;50
+e;57221;'joie';1;3928
+e;37298;'amour';1;7157
+e;6092445;'umls:C0012578';444;0
+e;213380;'tapette>156208';1;8;'tapette>tapette à mouche'
+e;126491;'voleter';1;92
+e;213542;'pêche>213541';1;122;'pêche>action de pêcher'
+e;247057;'symétrie bilatérale';1;10
+e;3093591;'VerbalMode:Subjonctif';4;0
+e;5722635;'Guêpe';1;0
+e;436570;'entité biologique';1;50
+e;114645;'ommatidie';1;52
+e;216283;'dent>45311';1;284;'dent>dentaire'
+e;1636805;'oeil>44335';1;50;'oeil>organe'
+e;141474;'Insecte';1;50
+e;5839943;'mouche du chou';777;0
+e;6434240;'mouche d'égoût';1;0
+e;11826320;'mouche soldat';777;0
+e;61490;'femme';1;30614
+e;88096;'gros';1;3306
+e;3576104;'Morpho:nospace';18;50
+e;2458161;'pique-mouche';1;0
+e;5836292;'mouche de la carotte';777;0
+e;6434139;'mouche d'Espagne';1;0
+e;11076704;'Le Cri de la mouche';777;0
+e;11754110;'mouche des pluies';777;0
+e;14949964;'en:soul patch';1;0
+e;11136749;':gLeandro';1002;0
+e;174506;'il composé';1;50
+e;117789;'moustache';1;938
+e;142537;'cercle';1;3113
+e;146328;'Diptères';1;56
+e;5837151;'mouche du concombre';777;0
+e;5837150;'mouche du melon';777;0
+e;5837139;'mouche de la mangue';777;0
+e;10993356;'De la mouche à l'Homme';777;0
+e;11754115;'mouche du pétrole';777;0
+e;74860;'homme';1;28860
+e;158060;'tasse à café';1;160
+e;261570;'vivant>126414';1;32;'vivant>en vie'
+e;78768;'chasser';1;1086
+e;77922;'agacement';1;400
+e;118744;'énervement';1;798
+e;9023426;'en:beauty spot';1;0
+e;9518834;'en:button';1;0
+e;14931314;'en:bull's-eye';1;0
+e;14921015;'en:bull';1;0
+e;13425;'bouc';1;226
+e;48797;'raser';1;400
+e;13828;'barbichette';1;144
+e;102042;'viser';1;1184
+e;82676;'hameçon';1;232
+e;2586627;'Gender:Mas';4;0
+e;9980294;'faire de mal à une mouche';1;0
+e;10963561;'Comme une mouche au plafond';777;0
+e;270400;'visage>270398';1;92;'visage>face humaine'
+e;122864;'mort';1;7245
+e;330215;'bilatéralement symétrique';1;22
+e;89554;'vrombir';1;64
+e;5876390;':r114415039';10;0
+e;120949;'vêtement';1;3652
+e;56226;'transports maritimes et fluviaux';1;68
+e;109420;'tir';1;2900
+e;76641;'trahison';1;1416
+e;122588;'bzz';1;54
+e;131127;'diptères';1;56
+e;102206;'médecine';1;7408
+e;72905;'insectes';1;2542
+e;26648;'élytre';1;96
+e;2619;'taffetas';1;68
+e;100222;'faux';1;2827
+e;576947;'postiche>171870';1;50;'postiche>Nom:'
+e;597939;'indicateur>171870';1;0;'indicateur>Nom:'
+e;146885;'Nom:Mas+SG';4;50
+e;7610199;'en:mole';1;0
+e;16871212;'motte de beurre (fracture en)';1;0
+e;9991410;'Le Retour de la mouche';777;0
+e;15329096;'poids mini mouche';1;0
+e;1384;'vivant';1;3307
+e;55222;'petit';1;4357
+e;3575927;'Morpho:min';18;50
+e;130164;'manger';1;10304
+e;43601;'se reproduire';1;502
+e;2442;'vivre';1;3276
+e;124600;'mourir';1;2755
+e;251694;'mourir>126720';1;238;'mourir>cesser de vivre'
+e;43253;'dormir';1;6578
+e;259820;'vivre>160251';1;78;'vivre>être en vie'
+e;59014;'se cacher';1;552
+e;328841;'::>16:77008>29:105814';8;50;'regarder [avec] yeux'
+e;212230;'::>16:77008>29:105814>13';9;50;'Qui pourrait regarder avec des yeux ?'
+e;327896;'::>14:74860>29:26142';8;50;'agacer [objet] homme'
+e;161331;'::>14:74860>29:26142>13';9;50;'Qui pourrait agacer un homme ?'
+e;326890;'::>14:17559>29:117557';8;50;'piquer [objet] animal'
+e;326635;'::>14:74860>29:117557';8;50;'piquer [objet] homme'
+e;157333;'::>14:17559>29:117557>13';9;50;'Qui pourrait piquer un animal ?'
+e;156702;'::>14:74860>29:117557>13';9;50;'Qui pourrait piquer un homme ?'
+e;17464602;'::>31:160927>29:14374498';8;0;'se poser>se placer [endroit] morceau de viande'
+e;17464599;'::>31:114637>29:14374498';8;0;'se poser>se placer [endroit] aliment'
+e;33882;'se nourrir';1;436
+e;104396;'énerver';1;456
+e;16167669;'::>13:127000>29:73827';8;0;'voler [sujet] mouche'
+e;15083855;'en:hide out';1;0
+e;15323166;'en:go into hiding';1;0
+e;99453;'piéger';1;120
+e;17265;'sodomiser';1;194
+e;329135;'::>16:81934>29:30092';8;50;'combattre [avec] main'
+e;316960;'::>13:150>29:21149';8;50;'dévorer [sujet] chat'
+e;82880;'gober';1;78
+e;239198;'::>16:81934>29:30092>14';9;50;'Que pourrait-on combattre avec une main ?'
+e;163651;'::>13:150>29:21149>14';9;50;'Qu'est-ce qu'un chat pourrait dévorer ?'
+e;1291642;'::>13:150>29:130164';8;0;'manger [sujet] chat'
+e;261762;'prendre en photo';1;56
+e;7943;'tuer';1;4408
+e;1870641;'écraser>8421';1;10;'écraser>écrabouiller'
+e;7180152;'en:photograph';1;0
+e;15429610;'prendre [qch/qqn] en photo';1;0
+e;17542701;'::>13:135926>29:24646';8;0;'attraper [sujet] araignée'
+e;17542703;'::>14:127000>29:24646';8;0;'attraper [objet] mouche'
+e;7681;'impatience';1;362
+e;146357;'envie';1;1666
+e;60;'bleu';1;3449
+e;187620;'patte postérieure';1;6
+e;67022;'beurk';1;178
+e;34179;'mouches';1;92
+e;452636;'diptère>171870';1;50;'diptère>Nom:'
+e;6431942;'mouche domestique d'australie';1;0
+e;12110134;'mouche du soudan ag';1;0
+e;12110136;'mouche pêche ag';1;0
+e;12110135;'mouche noire (corps entier) ag';1;0
+e;12110133;'mouche du cheval ag';1;0
+e;12110132;'mouche domestique ag';1;0
+e;85126;'agaçant';1;240
+e;145757;'fine';1;2136
+e;14916413;'Langue:français';18;50
+e;67093;'collier';1;1077
+e;222009;'abeille>71926';1;160;'abeille>insecte'
+e;226798;'larve>117095';1;30;'larve>zoologie'
+e;116346;'insecte et arachnide';1;50
+e;1696411;'Diptera';777;0
+e;147873;'èche';1;50
+e;233138;'tête>390963';1;72;'tête>extrémité supérieure du corps'
+e;12101215;'mouche pêche ac ige classification rast';1;0
+e;12101214;'mouche pêche ac ige';1;0
+e;12101213;'mouche noire (corps entier) ac igg4';1;0
+e;12101212;'mouche noire (corps entier) ac ige';1;0
+e;12101211;'mouche du soudan ac ige classification rast';1;0
+e;12101210;'mouche du soudan ac ige';1;0
+e;12101209;'mouche du cheval ac igg4';1;0
+e;12101208;'mouche du cheval ac ige classification rast';1;0
+e;12101207;'mouche du cheval ac ige';1;0
+e;12101206;'mouche domestique activation des basophiles';1;0
+e;12101205;'mouche domestique ac ige';1;0
+e;12101204;'mouche adulte identifiée';1;0
+e;69334;'bourdonnant';1;52
+e;162763;'_INFO-SEM-THING-CONCRETE';36;1238
+e;153395;'canne à pêche';1;262
+e;82900;'toucher';1;2123
+e;6346096;'vraies mouches';1;0
+e;592001;'dénonciateur>171870';1;0;'dénonciateur>Nom:'
+e;677611;'espion>171870';1;0;'espion>Nom:'
+e;14949961;'en:mouche';1;0
+e;28718;'leurre';1;188
+e;215135;'griffe>141705';1;56;'griffe>ongle'
+e;326147;'système nerveux en position ventrale';1;52
+e;12099811;'larve de mouche identifiée';1;0
+e;23194;'joue';1;3437
+e;155686;'buts';1;3038
+e;143180;'marque';1;3490
+e;6913155;'en:diptera';1;0
+e;3391095;'indic>146885';1;0;'indic>Nom:Mas+SG'
+e;597303;'barbe>171870';1;0;'barbe>Nom:'
+e;17646;'aiche';1;50
+e;57860;'indic';1;102
+e;316850;'entité physique';1;50
+e;3224813;'animal volant';1;0
+e;139779;'ADN';1;1254
+e;219363;'corps>112609';1;190;'corps>anatomie'
+e;271114;'oeil composé';1;50
+e;83944;'nerf';1;858
+e;103311;'système nerveux';1;276
+e;390927;'tête>112609';1;72;'tête>anatomie'
+e;16747;'adn';1;164
+e;114327;'acide désoxyribonucléique';1;140
+e;154607;'antennes';1;126
+e;106562;'thorax';1;320
+e;120157;'règne animal';1;102
+e;6335013;'mouche mexicaine des fruits';1;0
+e;6361426;'mouche méditerranéenne des fruits';1;0
+e;6413491;'mouche soldat noir';1;0
+e;12202062;'mouche noire (corps entier)';1;0
+e;12201963;'mouche du soudan';1;0
+e;12201762;'mouche du cheval';1;0
+e;12201619;'mouche pêche';1;0
+e;14171683;'Zobi la mouche';1;0
+e;14257760;'écraser une mouche';1;0
+e;14722260;'mouche déguisée';1;0
+e;6302747;'fièvre de la mouche du daim';1;0
+e;144497;'verre';1;3892
+e;146062;'ailé';1;106
+e;48855;'carnivore';1;1566
+e;99220;'hétérotrophe';1;68
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;3228593;'wiki:@';444;0
+e;17476231;'::>66:127000>24:17476229';8;0;'mouche [peut] voler>déplacement aérien [endroit] pièce>salle'
+e;17476234;'::>66:127000>24:17476232';8;0;'mouche [peut] se poser [endroit] meuble'
+e;17476228;'::>66:127000>24:17476226';8;0;'mouche [peut] voler>déplacement aérien [endroit] pièce'
+e;17476239;'::>66:127000>24:17476237';8;0;'mouche [peut] se poser sur [objet] meuble'
+e;440164;'assassin>171870';1;50;'assassin>Nom:'
+e;13757176;'620 famille simuliidae - simulies';1;0
+e;13784473;'62 sous-ordre nematocera';1;0
+e;14949963;'en:sole patch';1;0
+e;71637;'justice';1;3364
+e;128857;'délit';1;518
+e;17827;'cosmétologie';1;74
+e;17542702;'::>66:135926>24:24646';8;0;'araignée [peut] attraper'
+e;17542709;'::>66:135926>24:17542703';8;0;'araignée [peut] attraper [objet] mouche'
+e;12566931;'en:sports';1;2
+e;76169;'cosmétique';1;414
+e;226610;'cosmétiques';1;190
+e;14270798;'VerbalMode:Impératif';4;0
+e;14270847;'Ver:ImPre+SG+P2';4;0
+e;14270944;'VerbalPers:P3';4;0
+e;14270943;'VerbalPers:P2';4;0
+e;14270942;'VerbalPers:P1';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;150120;'Ver:SPre+SG+P3';4;50
+e;150119;'Ver:SPre+SG+P1';4;50
+e;150118;'Ver:IPre+SG+P3';4;50
+e;150117;'Ver:IPre+SG+P1';4;50
+e;596827;'cafard>171870';1;0;'cafard>Nom:'
+e;455809;'mouchard>171870';1;50;'mouchard>Nom:'
+e;15331091;'en:police-pimp';1;0
+e;15042775;'en:stoolie';1;0
+e;15450191;'site pittoresque';1;0
+e;101689;'être animé';1;50
+e;14049831;'organisme vivant pluricellulaire hétérotrophe';1;6
+e;14049840;'organisme vivant pluricellulaire';1;0
+e;14049844;'organisme vivant hétérotrophe';1;0
+e;14049819;'néphrozoaire';1;0
+e;3263171;'protostome';1;0
+e;12321907;'en:eukaryote';1;0
+e;1655534;'clomate';1;0
+e;2461482;'métazoaire supérieur';1;0
+e;10962816;'paire d'antennes';1;0
+e;10962826;'pièces buccales externes';1;0
+e;10962813;'corps segmenté';1;0
+e;12791689;'acide désoxyribo-nucléique';1;0
+e;11008328;'ADN>30051';1;8;'ADN>code génétique'
+e;364788;'monde animal';1;50
+e;6318774;'larve de la mouche';1;0
+e;6334832;'mouche à viande du sud';1;0
+e;6345908;'mouche noire de la viande';1;0
+e;6358582;'mouche des latrines';1;0
+e;6385905;'mouche bleue de la viande';1;0
+e;6405602;'mouche de la viande';1;0
+e;12170220;'détermination de la présence de mouche pêche ac ige classification rast';1;0
+e;12170218;'mesure de mouche pêche ac ige';1;0
+e;12170216;'mesure de mouche noire (corps entier) ac igg4';1;0
+e;12170214;'mesure de mouche noire (corps entier) ac ige';1;0
+e;12170212;'détermination de la présence de mouche du soudan ac ige classification rast';1;0
+e;12170210;'mesure de mouche du soudan ac ige';1;0
+e;12170208;'mesure de mouche du cheval ac igg4';1;0
+e;12170205;'détermination de la présence de mouche du cheval ac ige classification rast';1;0
+e;12170203;'mesure de mouche du cheval ac ige';1;0
+e;12170201;'mesure de mouche domestique activation des basophiles';1;0
+e;12170199;'mesure de mouche domestique ac ige';1;0
+e;12170197;'identification de mouche adulte identifiée';1;0
+e;12164583;'identification de larve de mouche identifiée';1;0
+e;13709288;'attaque de la mouche des fruits en Californie';777;0
+e;6344115;'mouche de ferme';1;0
+e;6398191;'mouche des fruits caribéenne';1;0
+e;6368544;'mouche des fruits du queensland';1;0
+e;14760029;'lieu à mouche';777;0
+e;14771243;'Patte de mouche';777;0
+e;214829;'verre>89628';1;148;'verre>récipient'
+e;39009;'excréments';1;106
+e;5722924;'lips';777;0
+e;7306012;'en:set of lips';1;0
+e;190867;'tuée';1;70
+e;312085;'sodomisée';1;52
+e;312086;'sodomisé';1;54
+e;11641;'tué';1;3210
+e;41934;'écrasé';1;124
+e;156709;'écrasée';1;54
+e;330416;'piégée';1;52
+e;38155;'piégé';1;54
+e;2046890;'gobé';2;0
+e;19197;'chassé';1;84
+e;2046869;'gobée';2;0
+e;189871;'chassée';1;54
+e;52413;'carnassier';1;402
+e;1007902;'utilisée';1;3653
+e;12643;'attrapé';1;66
+e;167159;'attrapée';1;64
+e;7332979;'Langue:anglais';18;50
+e;172428;'Langage:populaire';18;50
+e;26507;'pêcher';1;772
+e;7033283;'en:impatience';1;0
+e;276096;'_INFO-WIKI-YES';36;50
+e;15991431;'_ANIME-YES';36;50
+e;162761;'_INFO-SEM-PERS';36;732
+e;15991432;'_ANIME-NO';36;50
+e;1912917;'_INFO-COUNTABLE-YES';36;0
+e;144438;'larve';1;384
+e;29677;'barbiche';1;98
+e;238914;'lèvre inférieure';1;52
+e;55084;'lèvres';1;703
+e;403333;'Mouche';1;54
+e;239085;'indiscrète';1;12
+e;18581;'délateur';1;210
+e;90830;'dégoût';1;854
+e;71326;'impériale';1;2450
+e;153166;'voleuse';1;206
+e;46345;'coquette';1;88
+e;129418;'enjouée';1;94
+e;154722;'passionnée';1;62
+e;6784;'glossine';1;56
+e;246995;'baiseuse';1;52
+e;245885;'majestueuse';1;2
+e;71211;'tendre';1;1032
+e;156206;'tapette à mouches';1;52
+e;204141;'muscidé';1;50
+e;216778;'poitrine>50869';1;286;'poitrine>seins'
+e;2571038;'dégeu';1;0
+e;17464593;'::>13:127000>29:126612';8;0;'se poser [sujet] mouche'
+e;17476224;'::>13:127000>29:213857';8;0;'voler>déplacement aérien [sujet] mouche'
+e;17476235;'::>13:127000>29:322852';8;0;'se poser sur [sujet] mouche'
+e;265792;'anisoptère';1;68
+e;141031;'céphalocordés';1;52
+e;251938;'diptère>98040';1;50;'diptère>architecture'
+e;264922;'oeil à facettes';1;52
+e;152125;'Zoologie';1;210
+e;35789;'parasite';1;826
+e;82147;'rond';1;1308
+e;69448;'collante';1;84
+e;15359024;'en:cystic mole';1;0
+e;15359021;'en:vesicular mole';1;0
+e;394008;'môle hydatiforme';1;50
+e;1824128;'môle vésiculaire';1;0
+e;15063970;'en:hydatid mole';1;0
+e;15450192;'en:picturesque site';1;0
+e;17478156;'::>31:96851>29:73827';8;0;'voler [endroit] pièce'
+e;17464594;'::>66:127000>24:126612';8;0;'mouche [peut] se poser'
+e;17476225;'::>66:127000>24:213857';8;0;'mouche [peut] voler>déplacement aérien'
+e;17476236;'::>66:127000>24:322852';8;0;'mouche [peut] se poser sur'
+e;218238;'poule>140176';1;170;'poule>oiseau'
+e;33178;'Céphalocordés';1;50
+e;273960;'Céphalochordés';777;50
+e;248702;'céphalochordés';1;2
+e;271649;'calliphoridae';1;66
+e;17478302;'::>66:127000>24:17464599';8;0;'mouche [peut] se poser>se placer [endroit] aliment'
+e;17478299;'::>66:127000>24:17464602';8;0;'mouche [peut] se poser>se placer [endroit] morceau de viande'
+e;1706966;'sarcophage>127000';1;0;'sarcophage>mouche'
+e;165282;'sensuelle';1;150
+e;231517;'barbiche>143401';1;12;'barbiche>barbe'
+e;248197;'_SEX_YES';36;50
+e;56295;'crade';1;86
+e;233275;'collier>143401';1;2;'collier>barbe'
+e;65639;'donneur';1;150
+e;7256380;'en:zoology';1;0
+e;8969202;':r193869503';10;0
+e;254876;'_POL-POS_PC';36;50
+e;227714;'drosophyle';1;50
+e;10881;'bouton';1;986
+e;237444;'être>94160';1;62;'être>existence'
+e;71106;'rondelle';1;98
+e;15908;'fleuret';1;172
+e;84384;'boxe';1;1081
+e;15080161;'en:animal kingdom';1;0
+e;14330;'satisfaction';1;626
+e;91691;'surprise';1;2394
+e;260326;'coquine>229750';1;52;'coquine>malicieuse'
+e;260327;'coquine>253643';1;52;'coquine>délurée'
+e;332091;'écher';1;50
+e;123671;'aicher';1;50
+e;15758151;'en:attach bait to your hook';1;0
+e;3158975;'Nom vernaculaire';777;0
+e;2506002;'Moucheron';1;0
+e;2548217;'Apode';1;0
+e;124191;'Bernard de Clairvaux';1;50
+e;2407770;'Kerma';1;0
+e;3245258;'Micrographie';1;0
+e;315436;'Cindy Crawford';1;6
+e;108274;'carnaval';1;280
+e;431249;'Bouche';1;50
+e;16110;'bouche';1;4340
+e;132097;'velours';1;154
+e;56457;'tatouage';1;208
+e;5870815;'Anthomyiidae';1;0
+e;5839942;'Delia radicum';777;0
+e;5814494;'Robert Hooke';777;0
+e;6283948;'Taxon';1;0
+e;5933336;'Musca';1;0
+e;5946383;'Pseudoscorpionida';777;0
+e;6260560;'Cadavre';1;0
+e;10674026;'abbaye de Foigny';777;0
+e;10774508;'Anglophone';777;0
+e;11027204;'Mouche du vinaigre';777;0
+e;11057049;'Mouche scorpion';777;0
+e;11091422;'Sous-ordre';1;0
+e;11553235;'Liriomyza huidobrensis';777;0
+e;10252833;'Bouhen';777;0
+e;319320;'David Cronenberg';777;2
+e;330186;'Jeff Goldblum';1;50
+e;10863410;'Science-fiction';1;0
+e;11754114;'Helaeomyia petrolei';777;0
+e;12634666;'muscomorphes';777;0
+e;14609879;'Tiers-Monde';1;0
+e;14462693;'Mouche verte';777;0
+e;14482986;'Alfred Sturtevant';777;0
+e;5840194;'Angiosperme';1;0
+e;11286178;'Fossile';1;0
+e;81714;'fossiles';1;1823
+e;420435;'Aile';1;50
+e;17542704;'::>66:127000>26:24646';8;0;'mouche [se faire] attraper'
+e;8967330;':r193839443';10;0
+e;42056;'ordre';1;3583
+e;123171;'sous-ordre';1;52
+e;91313;'homophone';1;54
+e;1849727;'cyclorrhaphes';1;0
+e;1771556;'date de la mort';1;0
+e;2084010;'taxons';2;0
+e;1988288;'anglophones';2;0
+e;2128322;'arums';2;0
+e;1890178;'Microscope';1;0
+e;2196161;'excommunia';2;0
+e;204365;'Nergal';1;50
+e;128063;'Nubie';1;66
+e;1932340;'Egypte antique';1;8
+e;162468;'Pharaon';1;74
+e;49116;'pharaon';1;1808
+e;397609;'Plume';1;50
+e;92955;'plumes';1;717
+e;430415;'Poil';1;50
+e;154194;'Entomologie';1;50
+e;83667;'exuvie';1;52
+e;44919;'subimago';1;50
+e;268484;'benthiques';1;50
+e;142323;'Truite';1;50
+e;2447;'truite';1;424
+e;403766;'Ombre';1;50
+e;107846;'ombre';1;350
+e;170961;'chabot commun';1;50
+e;102623;'filoplumes';1;50
+e;405381;'Coq';1;50
+e;117146;'coq';1;1092
+e;42918;'éphémère';1;118
+e;217854;'cataracte>154294';1;4;'cataracte>chute d'eau'
+e;37194;'poule';1;1848
+e;319334;'La Mouche';1;2
+e;427692;'Latin';1;8
+e;566313;'Arum';1;50
+e;320893;'Virus';1;50
+e;422102;'Pollen';1;50
+e;416775;'Tyran';1;50
+e;216742;'asile>46497';1;10;'asile>refuge'
+e;216743;'asile>199759';1;16;'asile>établissement psychiatrique'
+e;1771541;':r2640420';10;0
+e;5876389;':r114415032';10;0
+e;8969198;':r193869475';10;0
+e;249004;'nom vernaculaire';1;10
+e;113464;'Français';1;3583
+e;144991;'français';1;3914
+e;141059;'Ordre';1;2424
+e;177539;'ordres';1;3126
+e;144727;'éphéméroptères';1;50
+e;82289;'hyménoptères';1;84
+e;40309;'coléoptères';1;56
+e;141344;'hémiptères';1;60
+e;140488;'mécoptères';1;50
+e;102382;'latin';1;3604
+e;272716;'Genre';777;3164
+e;112576;'genre';1;3749
+e;270663;'moucherons';1;50
+e;78113;'apode';1;54
+e;54979;'plantes à fleurs';1;52
+e;145077;'brachycères';1;52
+e;145347;'Boule';1;50
+e;141883;'boule';1;2059
+e;272360;'Espèce';777;50
+e;135538;'espèces';1;3773
+e;279754;'Pegomyia betae';777;50
+e;277275;'mouches à scie';777;50
+e;277274;'Symphyta';777;50
+e;208670;'symphytes';1;50
+e;6459;'aleurode';1;50
+e;175174;'hémiptère';1;36
+e;141205;'Poisson';1;74
+e;108750;'poissons';1;2816
+e;42683;'parasites';1;1091
+e;141168;'domestique';1;1569
+e;142869;'Watt';1;50
+e;145345;'W';1;3563
+e;262891;'cadavres';1;108
+e;146499;'Mort';1;2865
+e;271120;'ravageurs';1;52
+e;120409;'microbes';1;64
+e;65149;'virus';1;2816
+e;95474;'nécrophage';1;68
+e;132722;'vecteur';1;2529
+e;45364;'typhus';1;80
+e;23555;'choléra';1;78
+e;74913;'latrines';1;100
+e;265913;'hématophages';1;54
+e;92657;'leishmaniose';1;60
+e;180235;'maladie du sommeil';1;74
+e;131704;'égouts';1;132
+e;43123;'cicatrisation';1;74
+e;253538;'asticothérapie';1;64
+e;6513;'microscope';1;348
+e;12549;'Francesco Redi';1;50
+e;21722;'génération spontanée';1;230
+e;189256;'Thomas Hunt Morgan';1;50
+e;273935;'Drosophila melanogaster';777;50
+e;178492;'médecine légale';1;38
+e;33441;'polygraphe';1;52
+e;123696;'Rome antique';1;248
+e;28216;'romain';1;3570
+e;82521;'Suétone';1;52
+e;30636;'empereur romain';1;114
+e;51296;'Domitien';1;52
+e;79808;'tyran';1;823
+e;39422;'Belzébuth';1;56
+e;95303;'hébreu';1;1600
+e;144817;'Démon';1;50
+e;83700;'démon';1;1332
+e;149345;'nuées';1;80
+e;188267;'Saint Bernard';1;50
+e;118016;'Petrus Christus';1;50
+e;190614;'Salvador Dalí';1;50
+e;91442;'crépi';1;66
+e;189381;'Pierre Perret';1;56
+e;132704;'Boris Vian';1;148
+e;214043;'Jean de La Fontaine';1;24
+e;21810;'La Fontaine';1;82
+e;152701;'science fiction';1;184
+e;79075;'Vie des douze Césars';1;50
+e;142939;'ISBN';1;3627
+e;223091;'astéracée';1;22
+e;49265;'orchidée';1;160
+e;34475;'basidiomycète';1;84
+e;141448;'Insectes';1;50
+e;284771;'Muscomorpha';777;52
+e;282790;'myases';777;50
+e;308971;'Sarcophaga carnaria';777;50
+e;213379;'tapette>213378';1;50;'tapette>tapette à souris'
+e;213382;'tapette>19740';1;50;'tapette>tape'
+e;213381;'tapette>97892';1;18;'tapette>pédé'
+e;234886;'organe sensoriel';1;52
+e;115352;'griffe';1;1090
+e;225775;'sauteuse>16414';1;2;'sauteuse>scie'
+e;2951922;'sauteuse>45049';1;0;'sauteuse>montre'
+e;2951920;'sauteuse>353634';1;0;'sauteuse>femme de moeurs légères'
+e;225776;'sauteuse>145605';1;50;'sauteuse>danse'
+e;225774;'sauteuse>119686';1;84;'sauteuse>poêle'
+e;14271;'colle';1;792
+e;14374498;'se poser>34642';1;0;'se poser>se placer'
+e;2680;'sang';1;3868
+e;38778;'dard';1;202
+e;15204740;'en:hind paw';1;0
+e;46889;'poitrine';1;1672
+e;679186;':r3192197';10;0
+e;679187;':r11362026';10;0
+e;679188;':r11665001';10;0
+e;679189;':r11665507';10;0
+e;679190;':r13604077';10;0
+e;679191;':r1909832';10;0
+e;679192;':r2109332';10;0
+e;679193;':r1909830';10;0
+e;679194;':r2989969';10;0
+e;679195;':r11666676';10;0
+e;679196;':r11667367';10;0
+e;679197;':r11667849';10;0
+e;679198;':r2109333';10;0
+e;679199;':r11668351';10;0
+e;679200;':r2109334';10;0
+e;679201;':r11253197';10;0
+e;679202;':r11668795';10;0
+e;679203;':r11669249';10;0
+e;679204;':r2109331';10;0
+e;679205;':r2940316';10;0
+e;679206;':r9908057';10;0
+e;679207;':r1909831';10;0
+e;679208;':r2232366';10;0
+e;679209;':r2230643';10;0
+e;679210;':r9616086';10;0
+e;679211;':r11123843';10;0
+e;679212;':r2219495';10;0
+e;679213;':r11133314';10;0
+e;679214;':r2140907';10;0
+e;679215;':r11140017';10;0
+e;679216;':r14418924';10;0
+e;679217;':r11146635';10;0
+e;679218;':r2269787';10;0
+e;679219;':r11153256';10;0
+e;679220;':r10931797';10;0
+e;679221;':r2219493';10;0
+e;679223;':r2155783';10;0
+e;679228;':r2219494';10;0
+e;679229;':r2141089';10;0
+e;679231;':r3220881';10;0
+e;2586617;':r569258';10;0
+e;2586618;':r53896783';10;0
+e;15870892;':r413691432';10;0
+e;723685;':r15672245';10;0
+e;225848;'organisme>118203';1;52;'organisme>corps humain'
+e;226797;'larve>226796';1;6;'larve>génie malfaisant'
+e;226799;'larve>54874';1;50;'larve>paresse'
+e;17927;'haine';1;1984
+e;60835;'terreur';1;1317
+e;144681;'angoisse';1;1858
+e;82489;'frustration';1;548
+e;23114;'anxiété';1;836
+e;49337;'crainte';1;1530
+e;4552;'inquiétude';1;846
+e;120892;'méfiance';1;726
+e;20202;'tristesse';1;2622
+e;626;'peur';1;5423
+e;1001631;':r10998391';10;0
+e;225846;'organisme>332175';1;54;'organisme>ensemble des organes'
+e;237441;'être>85728';1;12;'être>exister'
+e;237443;'être>37229';1;66;'être>se trouver'
+e;270522;'moustique>68439';1;50;'moustique>individu'
+e;3297636;'abeille>1816';1;0;'abeille>héraldique'
+e;3297635;'abeille>114778';1;0;'abeille>symbole'
+e;222010;'abeille>12502';1;50;'abeille>écrivain'
+e;60902;'dent';1;3454
+e;10314012;'en:heterotroph';1;0
+e;1771509;':r24534886';10;0
+e;1771510;':r3198831';10;0
+e;1771511;':r8545042';10;0
+e;1771512;':r11353435';10;0
+e;1771513;':r3220882';10;0
+e;1771514;':r14822788';10;0
+e;1771515;':r2617946';10;0
+e;1771516;':r2650124';10;0
+e;1771517;':r2667503';10;0
+e;1771518;':r2691585';10;0
+e;1771519;':r2837740';10;0
+e;1771520;':r2924405';10;0
+e;1771521;':r3066365';10;0
+e;1771522;':r14807788';10;0
+e;1771523;':r3068492';10;0
+e;1771524;':r2805435';10;0
+e;1771525;':r11258993';10;0
+e;1771526;':r8406957';10;0
+e;1771527;':r2874549';10;0
+e;1771528;':r2940815';10;0
+e;1771529;':r9619193';10;0
+e;1771530;':r9617950';10;0
+e;1771531;':r8916150';10;0
+e;1771532;':r11832716';10;0
+e;1771533;':r14711709';10;0
+e;1771534;':r13002010';10;0
+e;1771535;':r8554348';10;0
+e;1771536;':r8475096';10;0
+e;1771537;':r8265678';10;0
+e;1771538;':r2833326';10;0
+e;1771540;':r15725971';10;0
+e;1771542;':r25784038';10;0
+e;1771543;':r15870179';10;0
+e;1771544;':r1773941';10;0
+e;1771545;':r2705141';10;0
+e;1771546;':r2883491';10;0
+e;1771547;':r3198833';10;0
+e;1771548;':r3198834';10;0
+e;1771549;':r3198835';10;0
+e;1771550;':r3198836';10;0
+e;1771551;':r3198837';10;0
+e;1771552;':r3220880';10;0
+e;1771553;':r4985830';10;0
+e;11254360;':r288419546';10;0
+e;12977413;':r1545773';10;0
+e;4618955;':r25804398';10;0
+e;16498416;':r409565465';10;0
+e;58768;'organisme';1;2509
+e;157007;'être>146885';1;50;'être>Nom:Mas+SG'
+e;14918011;'en:DNA';1;0
+e;991387;':r8916133';10;0
+e;225849;'organisme>86627';1;50;'organisme>organisation'
+e;3309305;'araignée>104993';1;0;'araignée>informatique'
+e;3309297;'araignée>69546';1;0;'araignée>broderie'
+e;3309303;'araignée>16644';1;0;'araignée>astronomie'
+e;3309302;'araignée>143712';1;0;'araignée>marine'
+e;255793;'araignée>80970';1;50;'araignée>écumoire'
+e;215039;'araignée>140100';1;54;'araignée>viande'
+e;215040;'araignée>42188';1;50;'araignée>filet'
+e;160322;'asticots';1;84
+e;13369;'être';1;3929
+e;14917526;'en:deoxyribonucleic acid';1;0
+e;7043048;'en:compound eye';1;0
+e;2344313;':r34493193';10;0
+e;10009042;':r222660526';10;0
+e;11254295;':r288419052';10;0
+e;13515921;':r307601329';10;0
+e;17478416;':r477261132';10;0
+e;1556069;':r9367231';10;0
+e;17479397;':r477261269';10;0
+e;1968252;':r2506487';10;0
+e;2324601;':r14032275';10;0
+e;5324993;':r73157899';10;0
+e;10975741;':r276734336';10;0
+e;10978249;':r276736919';10;0
+e;11755754;':r301561885';10;0
+e;11806889;':r304378655';10;0
+e;4098764;'dbnary:fra:__ws_1_mouche__nom__1';444;0
+e;4121964;'dbnary:fra:__ws_2_mouche__nom__1';444;0
+e;4145300;'dbnary:fra:__ws_3_mouche__nom__1';444;0
+e;4168731;'dbnary:fra:__ws_4_mouche__nom__1';444;0
+e;4192481;'dbnary:fra:__ws_5_mouche__nom__1';444;0
+e;4200135;'dbnary:fra:__ws_1a_mouche__nom__1';444;0
+e;4216100;'dbnary:fra:__ws_6_mouche__nom__1';444;0
+e;4223715;'dbnary:fra:__ws_1b_mouche__nom__1';444;0
+e;4239509;'dbnary:fra:__ws_7_mouche__nom__1';444;0
+e;4262937;'dbnary:fra:__ws_8_mouche__nom__1';444;0
+e;108559;'zobi';1;52
+e;234035;'être vivant>2442';1;4;'être vivant>vivre'
+e;3343192;'aile>106797';1;0;'aile>bière'
+e;3343181;'aile>120949';1;0;'aile>vêtement'
+e;1770673;'aile>112609';1;2;'aile>anatomie'
+e;3343180;'aile>3674';1;0;'aile>botanique'
+e;215903;'aile>13701';1;50;'aile>technique'
+e;3343182;'aile>63471';1;2;'aile>protection'
+e;215900;'aile>10576';1;50;'aile>politique'
+e;215899;'aile>65524';1;54;'aile>bâtiment'
+e;3343190;'aile>11353';1;0;'aile>formation'
+e;438280;'aile>16033';1;52;'aile>cuisine'
+e;215898;'aile>95706';1;52;'aile>automobile'
+e;215897;'aile>97756';1;22;'aile>avion'
+e;233650;'trompe>117095';1;58;'trompe>zoologie'
+e;139386;'observer';1;2152
+e;96935;'venimeux';1;198
+e;240720;'squelette>112609';1;152;'squelette>anatomie'
+e;6801;'piquant';1;618
+e;14298682;'tue>2946892';1;0;'tue>Ver:Conjug'
+e;139915;'tue';1;2134
+e;14965839;'en:tsetse';1;0
+e;7109740;'en:glossina <genus>';1;0;'en:glossina &lt;genus&gt;'
+e;11439670;'Gobe-mouche nain';777;0
+e;7110125;'en:musca domestica';1;0
+e;3750890;'musca domestica';1;0
+e;5927269;'Musca domestica';777;0
+e;11754107;'Mouche à viande';777;0
+e;63192;'transports';1;2853
+e;15233350;'en:means of transport';1;0
+e;14965367;'en:public transport';1;0
+e;231122;'mode de transport';1;50
+e;184634;'papier tue-mouches';1;2
+e;281784;'gobemouche noir';777;50
+e;2500587;'gobemouche gris';1;0
+e;2549514;'gobemouche à collier';1;0
+e;3176995;'Gobe-mouche noir';777;0
+e;281752;'Gobemouche gris';777;50
+e;12530522;'en:transportation';1;0
+e;15267276;'en:public transportation';1;0
+e;154443;'transport collectif';1;52
+e;14871292;'Transport collectif';777;0
+e;314149;'boîte à asticots';1;50
+e;6852631;'en:myiasis';1;0
+e;220727;'emmouchement';1;50
+e;417960;'Glossina';1;50
+e;109578;'myiase';1;50
+e;152778;'moyen de transport';1;458
+e;15205057;'en:means of transportation';1;0
+e;282789;'myiases';777;50
+e;9407772;'en:glossina palpalis';1;0
+e;6344752;'infestation par les larves de mouches';1;0
+e;6420949;'infestation par larves de mouches';1;0
+e;15418970;'en:be more of a hindrance than a help';1;0
+e;15418971;'en:be a busybody';1;0
+e;15418972;'en:be a nuisance';1;0
+e;15418973;'en:be a pest';1;0
+e;14965366;'en:public transit';1;0
+e;314989;'myase';1;50
+e;150808;'syrphe';1;58
+e;251251;'oestridé';1;50
+e;128571;'poids plume';1;92
+e;58884;'hanneton';1;76
+e;3313808;'Poids plume';777;0
+e;2534980;'Feltiella acarisuga';1;0
+e;659995;'montana';1;0
+e;104405;'saprophages';1;50
+e;220282;'substance active';1;148
+e;15194788;'en:dung fly';1;0
+e;15105445;'en:Musca domestica';1;0
+e;15205054;'en:mode of transport';1;0
+e;15062569;'en:novice';1;0
+e;14931851;'en:beginner';1;0
+e;14923498;'en:greenhorn';1;0
+e;14921076;'en:newbie';1;0
+e;14317851;'petit nouveau';1;0
+e;15441284;'petite nouvelle';1;0
+e;15441266;'en:new kid';1;0
+e;7043883;'en:montana';1;0
+e;2951923;'sauteuse>145624';1;0;'sauteuse>pêche'
+e;2558667;'carpomyze';1;0
+e;8218541;'en:hypoderma bovis';1;0
+e;14924274;'en:rookie';1;0
+e;1850743;'Hypoderma bovis';1;0
+e;271100;'diptérologie';1;50
+e;63270;'D. melanogaster';1;50
+e;51564;'insectarium';1;64
+e;110222;'mouchetage';1;50
+e;152390;'ameçon';1;52
+e;172450;'enculage de mouches';1;58
+e;14953564;'en:fly fishing';1;0
+e;152727;'moyen de locomotion';1;74
+e;32528;'vers';1;3880
+e;43905;'sarcophage';1;88
+e;1829366;'Calliphora erythrocephala';1;0
+e;5870;'lampyre';1;78
+e;127996;'pupe';1;64
+e;10742;'zonzonnant';1;56
+e;57424;'attrape-mouches';1;52
+e;217608;'Le Vaillant Petit Tailleur';1;156
+e;140904;'asile';1;352
+e;13790326;'mouche d'espagne';1;0
+e;15349052;'en:fecaliae';1;0
+e;193774;'moucherolle vermillon';1;50
+e;2933678;'Moucherolle vermillon';777;0
+e;415147;'émergente';1;50
+e;56219;'sauteuse';1;112
+e;70460;'Tabanidés';1;50
+e;179946;'staphylin à raies d'or';1;50
+e;208743;'tabanidés';1;50
+e;2395861;'sarcophagine';1;0
+e;174514;'ptiline';1;50
+e;271221;'écrire mal';1;8
+e;217855;'cataracte>102206';1;26;'cataracte>médecine'
+e;3154503;'an:43853:?:43839:6890';12;50
+e;3706088;'écrabouiller un moustique';1;0
+e;14529953;'entendre voler les mouches';1;0
+e;12616133;'ailes membraneuses';1;52
+e;12616134;'ailes transparentes';1;0
+e;14067;'grouillis';1;50
+e;1834643;'Gasterophilus sp';1;0
+e;15146036;'en:fly agaric';1;0
+e;15052663;'en:fruit fly';1;0
+e;15144308;'en:mayfly';1;0
+e;15204734;'en:spidery scrawl';1;0
+e;15088174;'en:carnivorous plant';1;0
+e;1829365;'Calliphora anthropophaga';1;0
+e;7522257;'en:calliphoridae';1;0
+e;216744;'asile>127000';1;2;'asile>mouche'
+e;15440715;'en:not hurt a fly';1;0
+e;2535823;'culicoïde';1;0
+e;14966797;'en:item of clothing';1;0
+e;1836217;'Hypoderma lineatum';1;0
+e;8218542;'en:hypoderma lineatum';1;0
+e;1834851;'Glossina morsitans';1;0
+e;14949969;'en:tsetse fly';1;0
+e;15380307;'en:go into a huff';1;0
+e;15215530;'en:back-seat driver';1;0
+e;15215531;'en:advice boat';1;0
+e;69251;'amanite tue-mouches';1;52
+e;15770186;'en:means of getting around';1;0
+e;15393241;'en:spidery writing';1;0
+e;14921729;'en:flypaper';1;0
+e;222948;'Une Charogne';666;10
+e;271648;'calliphoridé';1;50
+e;3685896;'Une charogne';777;0
+e;80319;'friponne';1;58
+e;143108;'arthropodes';1;80
+e;1887;'coprophile';1;52
+e;237137;'plaies d'Égypte';1;50
+e;270859;'écriture en pattes de mouches';1;2
+e;2586600;'chasser les mouches';1;0
+e;3467980;'cécidomyie';1;0
+e;39277;'oestre';1;50
+e;175815;'stre';1;50
+e;196135;'asilidés';1;52
+e;197218;'calliphoridés';1;50
+e;7450;'Arthropodes';1;50
+e;5835487;'mineuse des feuilles d'Allium';777;0
+e;3343185;'aile>117095';1;38;'aile>zoologie'
+e;452637;'diptère>171869';1;50;'diptère>Adj:'
+e;79720;'cataracte';1;138
+e;15419731;'en:clothing item';1;0
+e;13790308;'glossina palpalis';1;0
+e;14941364;'en:garment';1;0
+e;6826302;'en:arthropoda';1;0
+e;15215521;'mouche tsétsé';1;0
+e;16068420;'en:fly fisher';1;0
+e;304068;'pou du mouton';777;50
+e;319116;'agaçante';1;12
+e;3186320;'bibionidé';1;0
+e;2509241;'moucheron piqueur';1;0
+e;13776738;'glossina morsitans';1;0
+e;148578;'hypodermose';1;50
+e;14916817;'en:honey bee';1;0
+e;15025870;'agromyze';1;0
+e;147292;'allante';1;50
+e;108243;'gobe-mouches';1;52
+e;13765165;'calliphora erythrocephala';1;0
+e;15083673;'en:blowfly';1;0
+e;142705;'toile d'araignée';1;118
+e;15027569;'alophore';1;0
+e;15029121;'anapère';1;0
+e;304069;'mélophage du mouton';777;50
+e;13759048;'hypoderma bovis';1;0
+e;150;'chat';1;5437
+e;17476238;'::>66:36899>26:322852';8;0;'meuble [se faire] se poser sur'
+e;17478155;'::>66:96851>30:73827';8;0;'pièce [lieu pour] voler'
+e;17476230;'::>66:216173>30:213857';8;0;'pièce>salle [lieu pour] voler>déplacement aérien'
+e;17476233;'::>66:36899>30:126612';8;0;'meuble [lieu pour] se poser'
+e;17476227;'::>66:96851>30:213857';8;0;'pièce [lieu pour] voler>déplacement aérien'
+e;35619;'anthrax';1;74
+e;17542710;'::>66:17542709>155:142736';8;0;'araignée [peut] attraper [objet] mouche [utilisant] toile'
+e;11126684;'Gymnosoma rotundatum';777;0
+e;5687731;'Adia cinerella';777;0
+e;5835486;'Napomyza gymnostoma';777;0
+e;11754109;'anthomyie pluviale';777;0
+e;11997794;'Gasterophilus intestinalis';777;0
+e;11997795;'Oestre';777;0
+e;14462726;'Chrysomya megacephala';777;0
+e;13761940;'chrysomya megacephala';1;0
+e;13750559;'gasterophilus intestinalis';1;0
+e;2453281;'ocyptère';1;0
+e;15051493;'en:coffee cup';1;0
+e;168036;'moucherolle';1;24
+e;16029609;'calliphore';1;0
+e;2366064;'athalie';1;0
+e;15033920;'athérix';1;0
+e;15571530;'en:hear a pin drop';1;0
+e;15992500;'zodion';1;0
+e;15992532;'zophomyia';1;0
+e;16029116;'quéiroun';1;0
+e;16040665;'béris';1;0
+e;2489886;'bibion';1;0
+e;16040824;'blennocampe';1;0
+e;16040905;'borborus';1;0
+e;16041411;'célope';1;0
+e;16041440;'céphalopine';1;0
+e;16041442;'céphénémyie';1;0
+e;133311;'cératite';1;50
+e;16041617;'cheilosie';1;0
+e;16041754;'chloromyia';1;0
+e;16041837;'chortophile';1;0
+e;16041869;'chrysochroma';1;0
+e;16041875;'chrysomyia';1;0
+e;16041876;'chrysomyza';1;0
+e;16041897;'cimbex';1;0
+e;2471387;'coenomyie';1;0
+e;16042271;'compsilura';1;0
+e;16042326;'conopidé';1;0
+e;16042327;'conops';1;0
+e;16042428;'cordylobie';1;0
+e;16042429;'cordylure';1;0
+e;16042764;'cutérèbre';1;0
+e;3822500;'dacus';1;0
+e;16042974;'dasypogoniné';1;0
+e;79366;'dermatobie';1;50
+e;16043553;'dexie';1;0
+e;16043769;'dioctrie';1;0
+e;16043779;'diopsis';1;0
+e;16043934;'dolichopus';1;0
+e;104369;'hippobosque';1;50
+e;120280;'hypoderme';1;60
+e;150690;'stratiome';1;50
+e;150817;'tachine';1;50
+e;11482;'tenthrède';1;72
+e;13753785;'hypoderma lineatum';1;0
+e;16027630;'muscine';1;0
+e;16030228;'panops';1;0
+e;16030621;'pégomyie';1;0
+e;16030878;'perrisia';1;0
+e;16030987;'phaonie';1;0
+e;16031008;'pharyngomyie';1;0
+e;16031087;'philonicus';1;0
+e;16031089;'philophylle';1;0
+e;2362813;'échinomyie';1;0
+e;16044280;'élachiptera';1;0
+e;2466316;'empis';1;0
+e;78060;'éristale';1;50
+e;16045003;'eulalia';1;0
+e;16045008;'eumerus';1;0
+e;16045094;'exechia';1;0
+e;16045111;'exoprosopa';1;0
+e;13763802;'fannia';1;0
+e;16045873;'géomyza';1;0
+e;16045878;'géosargus';1;0
+e;10815;'gonie';1;50
+e;16046233;'gymnopternus';1;0
+e;16046359;'hélomyze';1;0
+e;16046361;'hélophile';1;0
+e;16046376;'hémérodromie';1;0
+e;152372;'hermione';1;52
+e;16046702;'hybos';1;0
+e;16046772;'hydrotée';1;0
+e;16046799;'hylémyie';1;0
+e;16047021;'idie';1;0
+e;16050656;'lampetia';1;0
+e;16050663;'lampromyie';1;0
+e;16050687;'laphria';1;0
+e;16051522;'leptis';1;0
+e;16051588;'leucopis';1;0
+e;16051691;'lipoptène';1;0
+e;16051696;'liriomyza';1;0
+e;16051698;'lispe';1;0
+e;16051718;'lixophaga';1;0
+e;16051755;'lonchaea';1;0
+e;94861;'lucilie';1;50
+e;16051818;'lydella';1;0
+e;13779732;'lynchia';1;0
+e;16051993;'médétère';1;0
+e;16052029;'mégasélie';1;0
+e;16052037;'meigénie';1;0
+e;2364852;'mérodon';1;0
+e;16052255;'métopine';1;0
+e;405478;'microdon';1;50
+e;16057105;'sapromyze';1;0
+e;103550;'scatophage';1;50
+e;16057159;'scatopse';1;0
+e;16057174;'scénopinus';1;0
+e;16057184;'schizocère';1;0
+e;16057493;'sicus';1;0
+e;16057587;'smicromyrme';1;0
+e;16057895;'sténéptéryx';1;0
+e;55950;'stomoxe';1;50
+e;150691;'stratiomys';1;50
+e;16058260;'syritta';1;0
+e;150816;'tachina';1;50
+e;11127710;'tachinaire';1;0
+e;16058275;'tachinus';1;0
+e;16058277;'tachydromia';1;0
+e;16058399;'teichomyza';1;0
+e;8470464;'téphritidé';1;0
+e;6800353;'en:nervous system';1;0
+e;568117;'mydas';1;50
+e;16052693;'myiospila';1;0
+e;16052905;'némate';1;0
+e;2449681;'némestrine';1;0
+e;16053004;'neuroctena';1;0
+e;2402161;'nyctéribie';1;0
+e;16053245;'occemyia';1;0
+e;16053286;'oedémagène';1;0
+e;16053380;'omphrale';1;0
+e;16053448;'ophiomyie';1;0
+e;16053471;'opomyze';1;0
+e;16053499;'orellia';1;0
+e;16053525;'ornithomyie';1;0
+e;16053564;'oscinelle';1;0
+e;51477;'oscinie';1;50
+e;16054759;'oxyna';1;0
+e;16054819;'phorocère';1;0
+e;16054886;'phryxe';1;0
+e;16054943;'phytomyze';1;0
+e;16055028;'piophile';1;0
+e;16055036;'pipiza';1;0
+e;16055138;'platyparée';1;0
+e;16055887;'psile';1;0
+e;149928;'psilopa';1;50
+e;16056024;'pyrellie';1;0
+e;16056140;'raphidie';1;0
+e;16056688;'rhabdophaga';1;0
+e;16056692;'rhagionidé';1;0
+e;16056693;'rhagoletis';1;0
+e;16056700;'rhamphomyie';1;0
+e;16056727;'rhinoestre';1;0
+e;16059225;'trypeta';1;0
+e;16059226;'trypétidé';1;0
+e;16059227;'trypetocera';1;0
+e;16059335;'ulididé';1;0
+e;16059649;'urophore';1;0
+e;16059660;'usia';1;0
+e;19522;'villa';1;1172
+e;57356;'volucelle';1;50
+e;16060054;'wohlfarhrtia';1;0
+e;86875;'xylophage';1;58
+e;16060120;'xylota';1;0
+e;14934376;'en:night soil';1;0
+e;15205612;'sportif, sportive';1;0
+e;15370959;'en:active substance';1;0
+e;14918347;'en:annoying';1;0
+e;15088586;'en:systema nervosum';1;0
+e;7547750;'en:short story';1;0
+e;15582096;'en:small piece of news';1;0
+e;15026782;'aleurodidé';1;0
+e;271112;'asilidé';1;50
+e;1395235;'être>171870';1;0;'être>Nom:'
+e;11754117;'anthomyie';1;0
+e;439;'chasse-mouches';1;50
+e;37857;'émoucher';1;50
+e;85941;'émouchoir';1;50
+e;16040887;'bombylidé';1;0
+e;82283;'braule';1;50
+e;101062;'chiure';1;54
+e;127546;'cuilleron';1;50
+e;16042765;'cutérébridé';1;0
+e;16044385;'empididé';1;0
+e;16044643;'éphydridé';1;0
+e;16045645;'fucellia';1;0
+e;16046104;'graphomyia';1;0
+e;16046253;'hackle';1;0
+e;34976;'lunule';1;116
+e;2517984;'solifuge';1;0
+e;16058266;'tabanidé';1;0
+e;209177;'torcel';1;50
+e;230113;'Billard';666;50
+e;16053532;'ortalidé';1;0
+e;329612;'otididé';1;50
+e;16054817;'phoridé';1;0
+e;16055040;'pipunculidé';1;0
+e;16055884;'pseudotrachée';1;0
+e;16055901;'psychodidé';1;0
+e;14762880;'pulville';1;0
+e;16056715;'rhingie';1;0
+e;14941346;'en:attire';1;0
+e;15215532;'en:chicken scratch';1;0
+e;14916685;'en:bait';1;0
+e;15080160;'en:animalia';1;0
+e;390958;'patte arrière';1;50
+e;14960287;'en:bluebottle';1;0
+e;30488;'myodésopsie';1;54
+e;15646160;'Transport urbain';777;0
+e;384748;'transports publics';1;54
+e;15488445;'le grain de beauté';1;0
+e;15488444;'la taupe';1;0
+e;14928983;'en:hummingbird';1;0
+e;15215529;'en:bateau-mouche';1;0
+e;15215519;'en:dry fly';1;0
+e;170409;'fausse oronge';1;50
+e;36529;'amanite';1;314
+e;6913171;'en:drosophila';1;0
+e;16574312;'oeil à facette';1;0
+e;156539;'oeil de boeuf';1;134
+e;2459819;'oscène';1;0
+e;9211;'escher';1;50
+e;6766158;'en:fly bite';1;0
+e;16851678;'en:phosphene';1;0
+e;15359020;'en:hydatiform mole';1;0
+e;7053316;'en:metazoa';1;0
+e;14966457;'en:hypodermosis';1;0
+e;14949968;'en:glossina';1;0
+e;15589469;'en:impacted fracture';1;0
+e;15215520;'en:blue bottle fly';1;0
+e;15087640;'en:hole up';1;0
+e;15072111;'en:skulk';1;0
+e;15227339;'en:to be tucked away';1;0
+e;15211890;'en:to go into hiding';1;0
+e;15211891;'en:to hide o.s.';1;0
+e;15565815;'en:be tucked away';1;0
+e;15565816;'en:hide o.s.';1;0
+e;14918311;'en:hide';1;0
+e;14921618;'en:catch';1;0
+e;14921732;'en:capture';1;0
+e;14954696;'en:booby-trap';1;0
+e;14606397;'organisme hétérotrophe';1;2
+e;15239609;'en:blast it!';1;0
+e;351895;'engrais humain';1;50
+e;15236013;'matières de vidange';1;0
+e;15050922;'en:jitters';1;0
+e;272328;'mouches tsé-tsé';777;50
+e;100625;'vulnérable';1;106
+e;38599;'lionne';1;558
+e;143932;'Poissons';1;74
+e;272463;'jinisme';777;50
+e;272849;'Brachycera';777;52
+e;272850;'mouches muscoïdes';777;50
+e;115300;'brachycère';1;56
+e;273075;'zébus';777;50
+e;127368;'pêche sportive';1;50
+e;167564;'classification phylogénétique';1;62
+e;275154;'drosophiles';1;50
+e;222553;'saumon atlantique';1;2
+e;213259;'saumon de l'Atlantique';1;50
+e;275438;'Culicidae';777;50
+e;114901;'moustiques';1;80
+e;276146;'arthropoda';777;50
+e;630;'Peyo';1;68
+e;278276;'aile vestigiale';1;50
+e;278659;'gypsy';777;50
+e;8892;'gipsy';1;52
+e;140178;'guêpes';1;76
+e;21622;'arbovirus';1;50
+e;13065;'salmonidés';1;60
+e;283591;'Salmonidae';777;50
+e;283896;'Oeuil';777;50
+e;174342;'Sycorax';1;24
+e;145573;'Vinaigre';1;50
+e;266147;'Le Torero hallucinogène';1;50
+e;284689;'insectes suceurs';777;50
+e;271098;'insecte suceur';1;50
+e;50816;'framboisier';1;116
+e;50850;'Drosophila';1;1433
+e;54161;'fossile';1;162
+e;288812;'Little Big Adventure';777;50
+e;68919;'agent secret';1;158
+e;138478;'Apis';1;52
+e;179876;'cantharide officinale';1;50
+e;290256;'Lytta vesicatoria';777;50
+e;96272;'Fly';1;3205
+e;64959;'mouchette';1;54
+e;95691;'mouchettes';1;52
+e;292713;'aile de l'insecte';777;50
+e;174513;'ptérostigma';1;50
+e;14483;'génomique';1;50
+e;16525;'Rubus idaeus';1;50
+e;43544;'fossilisation';1;50
+e;297223;'Stomoxys calcitrans';777;50
+e;297226;'phlegmoneuse';777;50
+e;300449;'mascottes dans la Ligue nationale de hockey';777;50
+e;92831;'badaboum';1;50
+e;164123;'espions';1;52
+e;28937;'soie';1;1695
+e;208266;'soie de verre';1;50
+e;164856;'soies';1;56
+e;157828;'espionne';1;82
+e;174493;'lobe jugal';1;50
+e;174529;'tégula';1;50
+e;215364;'vinaigre de vin';1;16
+e;208092;'sensille';1;50
+e;311201;'Mayetiola destructor';777;50
+e;312515;'Ophrys insectifera';777;50
+e;313513;'oeil du cyclone';1;52
+e;390727;'aile antérieure';1;50
+e;390728;'aile postérieure';1;50
+e;390750;'ailes vestigiales';1;50
+e;434833;'plum';1;50
+e;572855;'Gène de la drosophile';777;50
+e;579859;'Ronce du mont Ida';777;0
+e;582205;'apodie';777;0
+e;584551;'insecta';777;0
+e;402170;'Oeil';1;50
+e;589719;'pupaison';777;2
+e;63365;'globe oculaire';1;66
+e;29614;'blafard';1;124
+e;50147;'cantharide';1;52
+e;50274;'fossilifère';1;60
+e;138191;'Carabidés';1;50
+e;293951;'carabidae';777;50
+e;293952;'carabes';777;50
+e;14419;'carabidés';1;50
+e;29699;'carabidé';1;50
+e;1665032;'caster';1;0
+e;92884;'carabe';1;50
+e;1771558;'cicadelle pisseuse';777;0
+e;2462040;'pattes de mouches';1;0
+e;2862786;'taille du génome';777;0
+e;2515591;'valeur C';1;0
+e;586795;'Tachinidae';777;0
+e;2872080;'Préoccupation mineure';777;0
+e;5565168;'bibio';777;0
+e;5565169;'Stephen James Wilkinson';777;0
+e;5534862;'Mise en garde médicale';777;0
+e;5636019;'vol battu';777;0
+e;106923;'battant';1;1578
+e;75855;'soutenu';1;2429
+e;145261;'ramé';1;52
+e;432882;'Mus';1;50
+e;5678850;'La Mouche noire';777;0
+e;5784693;'idiotismes animaliers';777;0
+e;5830823;'pesticide à usage domestique';777;0
+e;5831941;'Homalodisca vitripennis';777;0
+e;5832024;'Ceratitis capitata';777;0
+e;5834037;'Bactrocera minax';777;0
+e;5836293;'Delia coarctata';777;0
+e;5832363;'Framboisier';1;0
+e;5882334;'théorie cellulaire';777;0
+e;5897739;'Sepedon sphegea';777;0
+e;5839070;'Carabidae';1;0
+e;5974696;'historique des épizooties de grippe aviaire';777;0
+e;431200;'Soda';1;50
+e;6528203;'insektors';777;0
+e;119125;'insectifuge';1;50
+e;9020818;'Nicolas Breakspear';777;0
+e;5996148;'Breakspeare';1;0
+e;9020724;'Adrien IV';777;0
+e;10000487;'Suillia gigantea';777;0
+e;10000589;'Suillia fuscicornis';777;0
+e;10035606;'Hubert et Takako';777;0
+e;10187861;'Aphis pomi';777;0
+e;10442002;'Angel Salvadore';777;0
+e;166661;'Angel';1;2002
+e;5627887;'Tempest';1;0
+e;97221;'mousquet';1;76
+e;130064;'mousqueterie';1;50
+e;10070682;'Animal Man';777;0
+e;11001827;'Poule Soie';777;0
+e;11001828;'Nègre-Soie';777;0
+e;433716;'Soie';1;50
+e;11057086;'scatophages';777;0
+e;11057087;'scatophage du fumier';777;0
+e;5898454;'Scatophagus';777;0
+e;11057772;'Scathophaga stercoraria';777;0
+e;11078620;'Eristalis tenax';777;0
+e;11078621;'Éristale tenace';777;0
+e;16077;'abeilles';1;140
+e;590071;'apidologie';777;0
+e;11105898;'réserve naturelle régionale de la Vallée des Cailles';777;0
+e;11151113;'Nepenthes rajah';777;0
+e;272186;'En danger';777;50
+e;11350759;'Antennapedia';777;0
+e;11404296;'Mantispa styriaca';777;0
+e;11404297;'mantispe commune';777;0
+e;11404298;'mantispe de Styrie';777;0
+e;11404299;'mantispe païenne';777;0
+e;11553223;'Anastrepha obliqua';777;0
+e;11553226;'Bactrocera xanthodes';777;0
+e;11095906;'Broun';1;0
+e;11553230;'Delia platura';777;0
+e;11553234;'Agromyza megalopsis';777;0
+e;11553236;'Bactrocera dorsalis';777;0
+e;11553317;'Neodiprion sertifer';777;0
+e;11553318;'Diprion du pin sylvestre';777;0
+e;11553319;'Tenthrède bilignée';777;0
+e;11553320;'Tenthrède européenne du pin';777;0
+e;11754108;'Anthomyia pluvialis';777;0
+e;2539492;'gastérophilose';1;0
+e;2484410;'gastrophilose';1;0
+e;12061777;'Ultrabithorax';777;0
+e;12246573;'Les Schtroumpfs noirs';777;0
+e;12692956;'liste de cris d'animaux';777;0
+e;12693130;'diprion du pin sylvestre';777;0
+e;12693131;'tenthrède bilignée';777;0
+e;12693132;'tenthrède européenne du pin';777;0
+e;14111627;'Liste des mascottes de la Ligue nationale de hockey';777;0
+e;3303586;'Carabes';777;0
+e;293953;'carabes violons';777;50
+e;5882461;'carabiques';1;0
+e;14537409;'Evolution by Gene Duplication';777;0
+e;151710;'Sport';1;3123
+e;14594723;'hamarreko';777;0
+e;227429;'tanto';1;50
+e;14594724;'esku';777;0
+e;2230850;'mus';2;0
+e;14594725;'ez dago musik';777;0
+e;144414;'ombrage';1;58
+e;2100287;'recyclée';2;0
+e;9020723;'Anastase IV';777;0
+e;122222;'Alexandre III';1;98
+e;4317677;'protéine précurseur de l'amyloïde';777;0
+e;2355728;'APP';1;0
+e;83982;'appendicectomie';1;56
+e;150306;'roténone';1;50
+e;14303629;'Roten';1;0
+e;15474944;'Barbasco';777;0
+e;15474945;'Intchipari';777;0
+e;15474946;'Bois Poison';777;0
+e;572972;'bulbe oculaire';1;50
+e;174528;'tegmen';1;2
+e;1655872;'tegmina';1;0
+e;2014229;'élytres';2;0
+e;14535759;'pseudoélytres';777;0
+e;14535760;'hemelytron';777;0
+e;14535761;'hemelytra';777;0
+e;62772;'mouchillon';1;50
+e;167981;'gobe-moucherons';1;50
+e;312439;'orchis moucheron';1;54
+e;15958619;'François Moucheron';777;0
+e;15958620;'Georges Moucheron';777;0
+e;15958621;'le moucheron';777;0
+e;15958624;'Mademoiselle Moucheron';777;0
+e;15958625;'Lucia the Moucheron';777;0
+e;3186080;'Le Lion et le Moucheron';1;0
+e;2373959;'paraquat';1;0
+e;16155306;'gramoxone';777;0
+e;50188;'Bamberg';1;50
+e;13997940;'Bambergue';777;0
+e;16170087;'Salle impériale de la Nouvelle Résidence';777;0
+e;16318442;'Barcode of Life';777;0
+e;16588676;'Cubé';777;0
+e;332985;'abeille noire';1;52
+e;394172;'plasticité synaptique';1;50
+e;16745172;'Figure 1. Représentation schématique d'une synapse';777;0
+e;16745173;'Figure 2. Lièvre de mer ou Aplysia californica';777;0
+e;16745174;'Figure 3. Représentation schématique du circuit neuronal impliqué dans l'habituation et la sensibilisation';777;0
+e;16745243;'Figure 4. Représentation schématique du phénomène d'habituation du réflexe de retrait des branchies chez l'Aplysie';777;0
+e;16745244;'Figure 5. Représentation schématique du phénomène de sensibilisation du réflexe de retrait des branchies chez l'Aplysie';777;0
+e;16765273;'myiase cuticole';777;0
+e;16765274;'myiase cavitaire';777;0
+e;1838090;'luminale';1;0
+e;6326857;'myiase intestinale';1;0
+e;14610433;'Brown Bess';777;0
+e;300790;'musket';777;50
+e;11519620;'Tragopogon pratensis';777;0
+e;17240673;'Salsifis des prés';777;0
+e;17240674;'Barbe-de-bouc';777;0
+e;6825885;'en:ceratitis capitata';1;0
+e;14934203;'en:Drosophila';1;0
+e;15781381;'vrai métazoaire';1;0
+e;230316;'Gerland';666;50
+e;98221;'mouchage';1;50
+e;213545;'plume>140176';1;78;'plume>oiseau'
+e;163525;'plante carnivore';1;72
+e;142791;'Lion';1;2156
+e;10706;'pinçure';1;50
+e;1179;'sans relâche';1;68
+e;40830;'morveux';1;66
+e;3122;'caparaçon';1;56
+e;18144;'satiriste';1;72
+e;41984;'carnaire';1;50
+e;75471;'ne souffler mot';1;50
+e;227587;'pêchable';1;50
+e;434491;'VER';1;50
+e;2361181;'muscalure';1;0
+e;2471044;'cynégéticien';1;0
+e;2472194;'skating à mouches';1;0
+e;2491624;'cobolt';1;0
+e;2497842;'engastrimythe';1;0
+e;2552702;'coup du soir';1;0
+e;2554156;'grabeau';1;0
+e;16893455;'Association laïque Gerland Mouche';777;0
+e;17015921;'Sitaris muralis';777;0
+e;117557;'piquer';1;1126
+e;112699;'colibri';1;118
+e;118369;'jaïnisme';1;56
+e;124822;'djaïnisme';1;50
+e;141607;'Salmonidés';1;50
+e;152477;'jeux de mots';1;138
+e;18285;'papillon';1;1702
+e;384737;'transport urbain';1;50

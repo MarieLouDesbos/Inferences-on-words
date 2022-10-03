@@ -1,0 +1,1995 @@
+e;57258;'pollen';1;536
+e;239128;'_COM';36;50
+e;2983124;'_SW';36;50
+e;223173;'_POL-POS';36;50
+e;248054;'grain de pollen';1;30
+e;3674;'botanique';1;3501
+e;218086;'organe sexuel';1;90
+e;296669;'allergie au pollen';777;234
+e;241794;'_POL-NEUTRE';36;50
+e;148459;'haschich';1;80
+e;3762435;'ingrédient de recette de cuisine';1;2
+e;171870;'Nom:';4;50
+e;13284;'abeille';1;898
+e;127285;'gamétophyte';1;50
+e;136055;'miel';1;1468
+e;17685;'poussière';1;804
+e;89423;'endospore';1;50
+e;146885;'Nom:Mas+SG';4;50
+e;28985;'fleur';1;4974
+e;43157;'anthère';1;124
+e;3290198;'pollen>3674';1;8;'pollen>botanique'
+e;57895;'grain';1;1436
+e;28453;'bonheur';1;2804
+e;72604;'exine';1;50
+e;222009;'abeille>71926';1;160;'abeille>insecte'
+e;254876;'_POL-POS_PC';36;50
+e;106844;'allergie';1;598
+e;7430223;'en:allergy';1;0
+e;23637;'butiner';1;184
+e;98798;'printemps';1;3061
+e;3898;'pistil';1;270
+e;148363;'grains';1;1832
+e;3336767;'pollen de bétulacées';1;0
+e;15127;'particule';1;2428
+e;87557;'flore';1;1744
+e;24313;'stigmate';1;94
+e;39605;'palynologie';1;50
+e;1827111;'allergie naso-sinusienne';1;0
+e;3336766;'pollen de graminées';1;0
+e;49265;'orchidée';1;160
+e;13863;'corolle';1;126
+e;106523;'étamine';1;214
+e;2585996;'_INFO-CNRTL-YES';36;50
+e;46297;'nectarifère';1;58
+e;9247744;'allergie due au pollen';1;0
+e;14610238;'allergy';1;0
+e;16279543;'exposition prolongée au pollen';777;0
+e;7062446;'en:pollen';1;0
+e;223172;'_POL-NEG';36;50
+e;2586627;'Gender:Mas';4;0
+e;2586629;'Number:Sing';4;0
+e;14330;'satisfaction';1;626
+e;91691;'surprise';1;2394
+e;117533;'fleurs';1;3402
+e;16830723;'calendrier pollinique';1;0
+e;187275;'Langage:argot';18;50
+e;251191;'eaux de drainage';1;4
+e;251190;'eaux de ruissellement';1;6
+e;154002;'insecte volant';1;78
+e;69840;'fourmi';1;414
+e;235579;'insecte social';1;56
+e;45999;'éternuer';1;330
+e;6393438;'allergie aux pollens';1;0
+e;111254;'allergisant';1;86
+e;151749;'plante verte';1;128
+e;127089;'angiosperme';1;110
+e;5406298;'bn:01064898n';444;0
+e;422102;'Pollen';1;50
+e;69852;'pollinique';1;52
+e;3290199;'pollen>148459';1;0;'pollen>haschich'
+e;3575927;'Morpho:min';18;50
+e;5406299;'bn:00489195n';444;0
+e;234192;'enveloppe>145172';1;86;'enveloppe>membrane'
+e;4332566;'miam aux fruits';1;0
+e;12202028;'(chiendent digité+fétuque élevée+ivraie vivace+phléole des prés+seigle (pollen))';1;0
+e;12201930;'(alternaria alternata+aspergillus fumigatus+seigle (pollen)+blé (pollen))';1;0
+e;217817;'_INFO-POLYSEMIC';36;50
+e;6246134;'umls:C2713441';444;0
+e;44654;'transporter';1;1623
+e;88069;'se gratter';1;168
+e;15821689;':r412274948';10;0
+e;6246131;'umls:C2713439';444;0
+e;11136749;':gLeandro';1002;0
+e;21030;'pulvérulence';1;88
+e;154857;'pistile';1;50
+e;16871294;'Polle (syndrome de)';1;0
+e;139303;'drogue';1;2047
+e;17558369;'::>13:3461>29:44654';8;0;'transporter [sujet] vent'
+e;17558371;'::>14:57258>29:44654';8;0;'transporter [objet] pollen'
+e;3228593;'wiki:@';444;0
+e;3742488;'bn:00063372n';444;0
+e;237592;'fleur>3674';1;274;'fleur>botanique'
+e;139743;'enveloppe';1;876
+e;12110168;'noisetier (pollen) ag';1;0
+e;12110187;'noyer (pollen) ag';1;0
+e;12110214;'olivier (pollen) ag';1;0
+e;12110412;'prunier (pollen) ag';1;0
+e;12110189;'noyer de californie (pollen) ag';1;0
+e;12110363;'poirier (pollen) ag';1;0
+e;12110101;'manguier (pollen) ag';1;0
+e;12110095;'maïs (pollen) ag';1;0
+e;12110623;'tournesol (pollen) ag';1;0
+e;12110486;'seigle (pollen) ag';1;0
+e;12110219;'orge (pollen) ag';1;0
+e;12110089;'luzerne (pollen) ag';1;0
+e;12110194;'noyer noir (pollen) ag';1;0
+e;12109764;'dattier (pollen) ag';1;0
+e;12109714;'cornus florida (pollen) ag';1;0
+e;12109706;'colza (pollen) ag';1;0
+e;12109678;'cirier (pollen) ag';1;0
+e;12109617;'châtaignier (pollen) ag';1;0
+e;12109478;'blé (pollen) ag';1;0
+e;12109255;'(chiendent digité+fétuque élevée+ivraie vivace+phléole des prés+seigle (pollen)) ag';1;0
+e;12109198;'(alternaria alternata+aspergillus fumigatus+seigle (pollen)+blé (pollen)) ag';1;0
+e;12107744;'tournesol (pollen) ac igg';1;0
+e;12107743;'tournesol (pollen) ac ige classification rast';1;0
+e;12107742;'tournesol (pollen) ac ige';1;0
+e;12241438;'mesure de seigle (pollen) ac ige | technique indéterminée | sérum | ponctuel | résultat numérique | ratio';1;0
+e;12241437;'mesure de seigle (pollen) ac ige | technique indéterminée | sérum | ponctuel | résultat numérique | arbitraire/volume';1;0
+e;50054;'pollinisation';1;86
+e;6246133;'umls:C2713440';444;0
+e;251734;'plante à fleurs';1;38
+e;420506;'pollens';1;64
+e;12105694;'seigle (pollen) libération des leucotriènes';1;0
+e;12105693;'seigle (pollen) ac igg4';1;0
+e;12105692;'seigle (pollen) ac igg';1;0
+e;12105691;'seigle (pollen) ac ige classification rast';1;0
+e;12105690;'seigle (pollen) ac ige';1;0
+e;12104781;'prunier (pollen) ac ige';1;0
+e;12103979;'poirier (pollen) ac ige';1;0
+e;12102181;'orge (pollen) ac ige classification rast';1;0
+e;12102180;'orge (pollen) ac ige';1;0
+e;12102114;'olivier (pollen) libération des leucotriènes';1;0
+e;12102113;'olivier (pollen) ac igg4';1;0
+e;12102112;'olivier (pollen) ac ige classification rast';1;0
+e;12102111;'olivier (pollen) ac ige';1;0
+e;12101976;'noyer noir (pollen) ac ige classification rast';1;0
+e;12101975;'noyer noir (pollen) ac ige';1;0
+e;12101970;'noyer de californie (pollen) ac ige classification rast';1;0
+e;12101969;'noyer de californie (pollen) ac ige';1;0
+e;12101963;'noyer (pollen) ac ige classification rast';1;0
+e;12101962;'noyer (pollen) ac ige';1;0
+e;12101738;'noisetier (pollen) libération des leucotriènes';1;0
+e;12101737;'noisetier (pollen) ac igg4';1;0
+e;12101736;'noisetier (pollen) ac ige classification rast';1;0
+e;12101735;'noisetier (pollen) ac ige';1;0
+e;12100653;'manguier (pollen) ac ige';1;0
+e;254877;'_POL-NEUTRE_PC';36;50
+e;88491;'reproduction';1;2503
+e;103057;'cellule';1;2923
+e;83196;'coquelicot';1;104
+e;12100552;'maïs (pollen) ac ige classification rast';1;0
+e;12100551;'maïs (pollen) ac ige';1;0
+e;12100357;'luzerne (pollen) ac ige';1;0
+e;12094890;'dattier (pollen) ac ige classification rast';1;0
+e;12094889;'dattier (pollen) ac ige';1;0
+e;12091028;'blé (pollen) ac igg4';1;0
+e;12093861;'cornus florida (pollen) ac ige';1;0
+e;12093706;'colza (pollen) ac ige classification rast';1;0
+e;12093705;'colza (pollen) ac ige';1;0
+e;12093430;'cirier (pollen) ac ige';1;0
+e;12092971;'châtaignier (pollen) ac ige classification rast';1;0
+e;12092970;'châtaignier (pollen) ac ige';1;0
+e;3576104;'Morpho:nospace';18;50
+e;59954;'polliniser';1;88
+e;5406297;'bn:16610521n';444;0
+e;6246132;'umls:C0032385';444;0
+e;35143;'biologie';1;3428
+e;134158;'mousse';1;806
+e;237597;'fleur>2785813';1;4;'fleur>organes reproducteurs'
+e;15027080;'allergies au pollen';1;0
+e;12091027;'blé (pollen) ac igg';1;0
+e;12091026;'blé (pollen) ac ige classification rast';1;0
+e;12091025;'blé (pollen) ac ige';1;0
+e;12090300;'(chiendent digité+fétuque élevée+ivraie vivace+phléole des prés+seigle (pollen)) ac ige';1;0
+e;12090202;'(alternaria alternata+aspergillus fumigatus+seigle (pollen)+blé (pollen)) ac ige classification rast';1;0
+e;12090201;'(alternaria alternata+aspergillus fumigatus+seigle (pollen)+blé (pollen)) ac ige';1;0
+e;12202182;'cirier (pollen)';1;0
+e;12202179;'colza (pollen)';1;0
+e;12202177;'dattier (pollen)';1;0
+e;12202161;'noyer (pollen)';1;0
+e;12202160;'noyer de californie (pollen)';1;0
+e;12202083;'châtaignier (pollen)';1;0
+e;12202057;'olivier (pollen)';1;0
+e;12202056;'orge (pollen)';1;0
+e;12202048;'poirier (pollen)';1;0
+e;12201986;'cornus florida (pollen)';1;0
+e;12201959;'noyer noir (pollen)';1;0
+e;12201947;'prunier (pollen)';1;0
+e;12201840;'luzerne (pollen)';1;0
+e;12201839;'maïs (pollen)';1;0
+e;12201838;'manguier (pollen)';1;0
+e;12201835;'noisetier (pollen)';1;0
+e;12201535;'blé (pollen)';1;0
+e;12201519;'tournesol (pollen)';1;0
+e;12201484;'seigle (pollen)';1;0
+e;12236932;'mesure d'olivier (pollen) ac ige | technique indéterminée | sérum | ponctuel | résultat numérique | ratio';1;0
+e;12236931;'mesure d'olivier (pollen) ac ige | technique indéterminée | sérum | ponctuel | résultat numérique | arbitraire/volume';1;0
+e;12236770;'mesure de noyer de californie (pollen) ac ige | technique indéterminée | sérum | ponctuel | résultat numérique | ratio';1;0
+e;12236769;'mesure de noyer de californie (pollen) ac ige | technique indéterminée | sérum | ponctuel | résultat numérique | arbitraire/volume';1;0
+e;54161;'fossile';1;162
+e;15225767;'en:allergia';1;0
+e;12479273;'en:gamete, plant male';1;0
+e;12479272;'en:microspore, plant';1;0
+e;12479271;'en:gametophyte, male';1;0
+e;13801918;'aéroallergène';1;0
+e;7062205;'en:aeroallergen';1;0
+e;17558370;'::>66:3461>24:44654';8;0;'vent [peut] transporter'
+e;17558373;'::>66:3461>24:17558371';8;0;'vent [peut] transporter [objet] pollen'
+e;672459;'allergisant>171870';1;0;'allergisant>Nom:'
+e;15396138;'en:house moss';1;0
+e;1841839;'syndrome de Polle';1;0
+e;12876;'allergène';1;194
+e;7012843;'en:allergen';1;0
+e;12197247;'blé (pollen) ac';1;0
+e;12196929;'seigle (pollen) ac';1;0
+e;12196881;'tournesol (pollen) ac';1;0
+e;12192343;'mesure de tournesol (pollen) ac igg';1;0
+e;12192341;'détermination de la présence de tournesol (pollen) ac ige classification rast';1;0
+e;12192339;'mesure de tournesol (pollen) ac ige';1;0
+e;12186233;'mesure de seigle (pollen) libération des leucotriènes';1;0
+e;12186231;'mesure de seigle (pollen) ac igg4';1;0
+e;12186229;'mesure de seigle (pollen) ac igg';1;0
+e;12186227;'détermination de la présence de seigle (pollen) ac ige classification rast';1;0
+e;12186224;'mesure de seigle (pollen) ac ige';1;0
+e;12182984;'mesure de prunier (pollen) ac ige';1;0
+e;12180238;'mesure de poirier (pollen) ac ige';1;0
+e;12174328;'détermination de la présence d'orge (pollen) ac ige classification rast';1;0
+e;12174326;'mesure d'orge (pollen) ac ige';1;0
+e;12174021;'mesure d'olivier (pollen) libération des leucotriènes';1;0
+e;12174019;'mesure d'olivier (pollen) ac igg4';1;0
+e;12174017;'détermination de la présence d'olivier (pollen) ac ige classification rast';1;0
+e;12174014;'mesure d'olivier (pollen) ac ige';1;0
+e;12173194;'détermination de la présence de noyer noir (pollen) ac ige classification rast';1;0
+e;12173192;'mesure de noyer noir (pollen) ac ige';1;0
+e;12173182;'détermination de la présence de noyer de californie (pollen) ac ige classification rast';1;0
+e;12173179;'mesure de noyer de californie (pollen) ac ige';1;0
+e;12173166;'détermination de la présence de noyer (pollen) ac ige classification rast';1;0
+e;12173164;'mesure de noyer (pollen) ac ige';1;0
+e;12172274;'mesure de noisetier (pollen) libération des leucotriènes';1;0
+e;12172272;'mesure de noisetier (pollen) ac igg4';1;0
+e;12172270;'détermination de la présence de noisetier (pollen) ac ige classification rast';1;0
+e;12172268;'mesure de noisetier (pollen) ac ige';1;0
+e;12167728;'mesure de manguier (pollen) ac ige';1;0
+e;12167476;'détermination de la présence de maïs (pollen) ac ige classification rast';1;0
+e;12167474;'mesure de maïs (pollen) ac ige';1;0
+e;12166707;'mesure de luzerne (pollen) ac ige';1;0
+e;12143859;'détermination de la présence de dattier (pollen) ac ige classification rast';1;0
+e;12143857;'mesure de dattier (pollen) ac ige';1;0
+e;12140064;'mesure de cornus florida (pollen) ac ige';1;0
+e;12139557;'détermination de la présence de colza (pollen) ac ige classification rast';1;0
+e;12139555;'mesure de colza (pollen) ac ige';1;0
+e;12138430;'mesure de cirier (pollen) ac ige';1;0
+e;12136472;'détermination de la présence de châtaignier (pollen) ac ige classification rast';1;0
+e;12136470;'mesure de châtaignier (pollen) ac ige';1;0
+e;6296153;'allergie au pollen de bouleau';1;0
+e;6318171;'rhinite allergique due au pollen des graminées';1;0
+e;14462676;'Insecte social';777;0
+e;2139553;'butiné';2;0
+e;40434;'remplacé';1;3287
+e;90803;'transporté';1;92
+e;14916413;'Langue:français';18;50
+e;7332979;'Langue:anglais';18;50
+e;276096;'_INFO-WIKI-YES';36;50
+e;15991432;'_ANIME-NO';36;50
+e;7062206;'umls:C0001697';444;0
+e;4366527;':r98312198';10;0
+e;320503;'tapetum>77424';1;50;'tapetum>oeil'
+e;4860730;':r98867435';10;0
+e;248198;'_SEX_NO';36;50
+e;317329;'_POLIT_7NOPOL';36;50
+e;15257990;'en:beater';1;0
+e;1815098;'mâles';1;2157
+e;145941;'plante';1;5551
+e;60448;'mâle';1;2487
+e;4523783;':r98881687';10;0
+e;103405;'indifférence';1;612
+e;152520;'Tournesol';1;754
+e;26026;'tournesol';1;248
+e;144810;'Volubilis';1;50
+e;99089;'volubilis';1;54
+e;127629;'farine';1;2130
+e;179551;'Fleur';1;2
+e;19584;'micromètre';1;54
+e;12901;'micromètres';1;50
+e;161691;'étamines';1;80
+e;65573;'gamète';1;126
+e;78659;'macrosporange';1;50
+e;124531;'algue';1;388
+e;26515;'algues';1;114
+e;131896;'prothalle';1;56
+e;23077;'fougère';1;84
+e;138455;'fougères';1;52
+e;64026;'haploïde';1;62
+e;2192;'myosotis';1;60
+e;28560;'courge';1;240
+e;52825;'bouleau';1;94
+e;146487;'Aulne';1;50
+e;100800;'aulne';1;60
+e;4044;'charme';1;1167
+e;109888;'noisetier';1;90
+e;75462;'châtaignier';1;116
+e;34624;'chêne';1;1321
+e;85860;'cyprès';1;78
+e;23316;'frêne';1;66
+e;140784;'Olivier';1;2918
+e;62677;'olivier';1;150
+e;117993;'peuplier';1;66
+e;102651;'platane';1;76
+e;77814;'sporophyte';1;50
+e;154814;'cellules';1;3319
+e;126405;'noyau';1;3122
+e;272184;'haploïdes';777;50
+e;131306;'organite';1;116
+e;152307;'organites';1;54
+e;78004;'vacuole';1;56
+e;41260;'amidon';1;100
+e;75474;'méiose';1;100
+e;95875;'plantes aquatiques';1;54
+e;264477;'tube pollinique';1;6
+e;5992;'ectexine';1;50
+e;38028;'cellulose';1;80
+e;24334;'polysaccharide';1;60
+e;16077;'abeilles';1;140
+e;51710;'gelée royale';1;80
+e;114815;'protéine';1;1473
+e;108827;'protéines';1;2501
+e;151947;'acide aminé';1;156
+e;31411;'acides aminés';1;102
+e;140397;'vitamine';1;1741
+e;119873;'vitamines';1;128
+e;98581;'vitamine C';1;110
+e;97825;'carotène';1;54
+e;176225;'vitamine PP';1;12
+e;4949;'apiculture';1;94
+e;2278;'datte';1;98
+e;31819;'fructose';1;182
+e;18481;'glucose';1;326
+e;40775;'saccharose';1;110
+e;137338;'Vent';1;50
+e;3461;'vent';1;3262
+e;141474;'Insecte';1;50
+e;72905;'insectes';1;2542
+e;139252;'Angiospermes';1;50
+e;30592;'angiospermes';1;54
+e;116952;'oosphère';1;52
+e;63133;'albumen';1;66
+e;212;'atmosphère';1;1507
+e;49572;'anémogamie';1;50
+e;10487;'allergies';1;60
+e;44144;'pollinose';1;50
+e;130951;'rhinite';1;196
+e;126809;'asthme';1;210
+e;10533;'conjonctivite';1;228
+e;59703;'Nouvelle-Angleterre';1;50
+e;164971;'rhume des foins';1;138
+e;98980;'in vitro';1;62
+e;248627;'aérosols';1;54
+e;119180;'nanomètre';1;86
+e;82714;'cytokine';1;54
+e;28142;'cytokines';1;50
+e;35345;'inflammation';1;378
+e;87987;'France';1;4535
+e;255320;'Institut Pasteur';1;12
+e;230611;'veille sanitaire';1;50
+e;124517;'veille';1;2457
+e;155532;'Prévention';1;50
+e;33530;'prévention';1;1887
+e;125134;'Lille';1;2963
+e;143853;'Famille';1;2693
+e;98300;'famille';1;4936
+e;272716;'Genre';777;3164
+e;112576;'genre';1;3749
+e;272360;'Espèce';777;50
+e;38788;'espèce';1;3485
+e;135412;'systématique';1;2257
+e;81714;'fossiles';1;1823
+e;2308;'climat';1;3050
+e;52579;'végétation';1;1545
+e;213145;'ère quaternaire';1;2
+e;171858;'aéropalynologie';1;50
+e;151908;'Médecine';1;707
+e;102206;'médecine';1;7408
+e;68883;'agronomie';1;104
+e;1997;'spore';1;74
+e;247636;'pollinisateur';1;30
+e;22580;'sporopollénine';1;50
+e;43786;'nectar';1;296
+e;152228;'Botanique';1;90
+e;53825;'dendrologie';1;50
+e;53616;'ethnobotanique';1;50
+e;2165;'paléobotanique';1;54
+e;131547;'phénologie';1;50
+e;39060;'phycologie';1;54
+e;50551;'physiologie végétale';1;66
+e;272752;'Phytogéographie';777;50
+e;133425;'phytopathologie';1;50
+e;86352;'phytosociologie';1;64
+e;30895;'bryophyte';1;54
+e;139064;'Gymnospermes';1;50
+e;87286;'fruit';1;6285
+e;37993;'feuille';1;2743
+e;126510;'méristème';1;60
+e;279209;'ricin commun';777;50
+e;288942;'mousses';777;50
+e;288804;'polysaccharides';777;56
+e;284079;'Magnoliophyta';777;52
+e;142399;'Racine';1;1238
+e;145311;'Chlorophylle';1;50
+e;418777;'Mousse';1;50
+e;332982;'abeille domestique';1;52
+e;566252;'Arabidopsis thaliana';777;50
+e;406492;'Myosotis';1;50
+e;432222;'Charme';1;50
+e;415541;'Noisetier';1;50
+e;411123;'Peuplier';1;50
+e;416055;'Cellule';1;50
+e;407371;'Noyau';1;50
+e;400142;'noyaux';1;1495
+e;314006;'ère industrielle';1;50
+e;347472;'dioxyde de soufre';1;56
+e;12698;'ambroisie';1;108
+e;409501;'Plante';1;1710
+e;415132;'Plantes';1;50
+e;408627;'Bois';1;2012
+e;592150;'Ambroisie';1;0
+e;108254;'glucides';1;98
+e;114267;'lipides';1;132
+e;12860;'calcium';1;1582
+e;426735;'Chlore';1;50
+e;142257;'chlore';1;230
+e;136790;'cuivre';1;2573
+e;408617;'Fer';1;50
+e;124092;'fer';1;3776
+e;38128;'phosphore';1;94
+e;32206;'potassium';1;529
+e;64912;'silicium';1;96
+e;141901;'soufre';1;1276
+e;82126;'arginine';1;56
+e;11255;'histidine';1;52
+e;101903;'leucine';1;56
+e;64595;'isoleucine';1;54
+e;52794;'lysine';1;56
+e;151136;'tryptophane';1;74
+e;103522;'valine';1;54
+e;143108;'arthropodes';1;80
+e;416605;'Parasite';1;50
+e;42683;'parasites';1;1091
+e;275167;'larves';1;56
+e;46164;'carnivores';1;56
+e;280087;'Curculionidae';777;50
+e;294459;'Chrysomelidae';777;50
+e;329624;'Scarabaeidae';777;50
+e;293952;'carabes';777;50
+e;52530;'Coccinelle';1;52
+e;99112;'coccinelles';1;50
+e;274991;'Hemiptera';777;50
+e;7418;'herbivores';1;52
+e;421698;'omnivores';1;50
+e;307442;'syrphes';777;50
+e;62376;'amadouvier';1;50
+e;627082;'Azote';1;0
+e;145623;'azote';1;234
+e;77750;'chauves-souris';1;50
+e;406911;'Colibri';1;52
+e;17250;'colibris';1;50
+e;273066;'hydrates de carbone';777;50
+e;84322;'antioxydant';1;96
+e;1657491;'mélissopalynologie';1;0
+e;1838749;'Abeille';1;0
+e;1853436;'IgE';1;0
+e;2302117;'vacuoles';2;0
+e;2275343;'rhinites';2;0
+e;2128789;'asthmes';2;0
+e;2155563;'conjonctivites';2;0
+e;282418;'Dur-Sharrukin';777;50
+e;188198;'Assurbanipal';1;50
+e;2103835;'spathes';2;0
+e;216164;'Égypte antique';1;34
+e;234924;'microscope optique';1;2
+e;51544;'Micrographia';1;50
+e;7655;'Marcello Malpighi';1;50
+e;427164;'botaniques';1;50
+e;2957587;'Miel';1;0
+e;3260310;'sporopollenine';1;0
+e;3307252;'Cuivre';1;0
+e;3673477;'Platane';1;0
+e;5814494;'Robert Hooke';777;0
+e;5567093;'Amidon';777;0
+e;5870746;'Christian Gottfried Ehrenberg';777;0
+e;5841568;'Bouleau';1;0
+e;5832835;'Calcium';1;0
+e;187560;'reproduction sexuée';1;22
+e;17456362;'Floraison';777;0
+e;2126785;'anémophiles';2;0
+e;17194830;'Leucine';1;0
+e;17020636;'Valine';1;0
+e;16936706;'Potassium';1;0
+e;6279592;'pollinoses';1;0
+e;17050514;'Courge';1;0
+e;17342102;'Vitamine';1;0
+e;9965975;'Farine';1;0
+e;277459;'Spermatophyta';777;50
+e;9526411;'plantes à graines';1;0
+e;10900462;'Climat';1;1781
+e;11105271;'Lilium auratum';777;0
+e;11105273;'Oenothera fruticosa';777;0
+e;141905;'pectine';1;66
+e;62562;'Ruhr';1;56
+e;2574188;'Charbon';1;0
+e;111649;'charbon';1;2531
+e;134675;'ruissellement';1;80
+e;3685778;'Bryophyta';1;0
+e;5896460;'Lichen';1;0
+e;110287;'lichens';1;60
+e;165774;'trottoirs';1;58
+e;262620;'particules fines';1;48
+e;10504824;'Fractal';1;0
+e;573031;'muqueuses';1;60
+e;280209;'neutrophiles';777;52
+e;253180;'microbiome';1;52
+e;5831907;'Phleum pratense';777;0
+e;5829892;'Betula pendula';777;0
+e;78037;'ammoniac';1;74
+e;203942;'mode de vie';1;112
+e;80399;'atopie';1;50
+e;12277253;'Apiculture';1;0
+e;360792;'lamelle moyenne';1;50
+e;403607;'Microbiote';1;50
+e;253179;'microbiote';1;62
+e;11350895;'microbiote des plantes';777;0
+e;264928;'pollinisateurs';1;50
+e;3702054;'Pollution';1;0
+e;99532;'pollution';1;2044
+e;404868;'Enjeux';1;50
+e;156333;'enjeux';1;64
+e;57349;'tectum';1;50
+e;13357827;'Ruissellement';1;0
+e;5831787;'Ipomoea purpurea';777;0
+e;12484344;'Spermatophytina';777;0
+e;294656;'Filicophyta';777;50
+e;152125;'Zoologie';1;210
+e;117095;'zoologie';1;2392
+e;433008;'Reproduction';1;50
+e;5927270;'Apis mellifera';777;0
+e;2646018;'Castanea';1;0
+e;5953810;'Olea europaea';777;0
+e;14633097;'Soufre';1;0
+e;404869;'Enjeu';1;50
+e;52284;'in vivo';1;50
+e;26940;'floraison';1;1900
+e;431214;'Graine';1;50
+e;148362;'graines';1;2689
+e;187318;'acide ascorbique';1;52
+e;258265;'biologie de la reproduction';1;28
+e;5840194;'Angiosperme';1;0
+e;16087888;'Lysine';1;0
+e;426295;'Ozone';1;50
+e;16183738;'Cellulose';1;0
+e;16567221;'Glucose';1;0
+e;254878;'_POL-NEG_PC';36;50
+e;1874051;'fleur de lis>3674';1;0;'fleur de lis>botanique'
+e;17558372;'::>66:57258>26:44654';8;0;'pollen [se faire] transporter'
+e;7123677;'en:grains';1;0
+e;212946;'plante à fleur';1;6
+e;217884;'nourrice>30079';1;2;'nourrice>allaitement'
+e;217886;'nourrice>107904';1;50;'nourrice>tuyauterie'
+e;217883;'nourrice>88060';1;64;'nourrice>nounou'
+e;217885;'nourrice>67148';1;52;'nourrice>bidon'
+e;216259;'brosse>108558';1;54;'brosse>touffe'
+e;5079213;'brosse>23376';1;0;'brosse>sylviculture'
+e;216258;'brosse>79400';1;8;'brosse>pinceau'
+e;216257;'brosse>121002';1;50;'brosse>ustensile'
+e;3297636;'abeille>1816';1;0;'abeille>héraldique'
+e;3297635;'abeille>114778';1;0;'abeille>symbole'
+e;222010;'abeille>12502';1;50;'abeille>écrivain'
+e;443843;':r11357640';10;50
+e;444249;':r2298046';10;50
+e;1548574;':r1911940';10;0
+e;1354663;':r10738765';10;0
+e;1543155;':r13401648';10;0
+e;1685395;':r2590941';10;0
+e;1784218;':r74163';10;0
+e;1897789;':r8279976';10;0
+e;672546;'allergène>171870';1;0;'allergène>Nom:'
+e;86711;'jaune';1;3502
+e;9485130;':r213790887';10;0
+e;1543088;':r2590877';10;0
+e;3942618;'dbnary:fra:__ws_1_pollen__nom__1';444;0
+e;3966264;'dbnary:fra:__ws_2_pollen__nom__1';444;0
+e;37298;'amour';1;7157
+e;57221;'joie';1;3928
+e;216;'tapetum';1;58
+e;226597;'anti-allergène';1;4
+e;9092744;'en:hay fever';1;0
+e;7264242;'en:pollination';1;0
+e;146331;'ruche';1;380
+e;247650;'sonication';1;22
+e;326530;'maladie allergique';1;50
+e;7123535;'en:sonication';1;0
+e;15295926;'en:allergosis';1;0
+e;12977059;'nectar de fleurs';1;0
+e;2605126;'s'interféconder';1;0
+e;322878;'être allergique';1;60
+e;263255;'faire éternuer';1;50
+e;12977058;'nectar des fleurs';1;0
+e;2213741;'interpollinisation';1;0
+e;15332921;'en:fleur de lis';1;0
+e;15192847;'en:lily flower';1;0
+e;15042294;'en:fleur-de-lis';1;0
+e;1874050;'fleur de lis>1816';1;0;'fleur de lis>héraldique'
+e;128829;'orchidacée';1;54
+e;151902;'fleur de lys';1;62
+e;394349;'fièvre des foins';1;50
+e;128667;'aérobiologie';1;50
+e;15342784;'en:run off water';1;0
+e;257245;'se poudrer le nez';1;2
+e;236719;'abeille menuisière';1;14
+e;60360;'miel extrait des cellules';1;50
+e;60276;'carpelle';1;58
+e;2724609;'alvéole>4949';1;8;'alvéole>apiculture'
+e;2724879;'ruche>4949';1;20;'ruche>apiculture'
+e;2730338;'miel de romarin';1;12
+e;113438;'myrmécophile';1;50
+e;93458;'forsythia';1;50
+e;264015;'cueillir des fleurs';1;50
+e;217887;'nourrice>13284';1;50;'nourrice>abeille'
+e;15444011;'en:pollen grain';1;0
+e;15444010;'en:grain of pollen';1;0
+e;15083341;'en:sex organ';1;0
+e;15415241;'en:sexual organ';1;0
+e;7224817;'en:royal jelly';1;0
+e;15195008;'en:insect pollinator';1;0
+e;5079214;'brosse>4949';1;0;'brosse>apiculture'
+e;371217;'pluie jaune';1;50
+e;247644;'insecte pollinisateur';1;36
+e;320502;'tapetum>3674';1;52;'tapetum>botanique'
+e;215937;'plante>3674';1;812;'plante>botanique'
+e;175325;'chéiroptère';1;50
+e;116675;'chiroptère';1;56
+e;257413;'faire une crise d'asthme';1;52
+e;247651;'pollinisation vibratile';1;24
+e;131242;'nourrice';1;290
+e;6913374;'en:forsythia';1;0
+e;165310;'organe génital';1;66
+e;118432;'fleur de lis';1;56
+e;6905031;'en:botanical';1;0
+e;7130557;'en:propolis';1;0
+e;143045;'brosse';1;772
+e;16491;'propolis';1;58
+e;243759;'abeille maçonne';1;78
+e;15139984;'en:botanic';1;0
+e;9671708;'en:genital organ';1;0
+e;53267;'écologie';1;1250
+e;2365936;'pollination';1;0
+e;304028;'rhinite allergique';777;176
+e;6821398;'en:allergic rhinitis';1;0
+e;52974;'anémophile';1;50
+e;49810;'pin';1;324
+e;119113;'allogamie';1;56
+e;145258;'alvéole';1;120
+e;15082250;'en:flowering plant';1;0
+e;48694;'cléistogamie';1;50
+e;104462;'malacophile';1;50
+e;16051859;'mamille';1;0
+e;133010;'intine';1;50
+e;2213745;'interpolliniser';1;6
+e;94394;'entomophilie';1;54
+e;61306;'entomophile';1;54
+e;2428674;'entomogame';1;0
+e;78551;'pollinie';1;50
+e;2565070;'pollinide';1;0
+e;16055294;'pollénographie';1;0
+e;162250;'male';1;64
+e;6905240;'en:male';1;0
+e;7110023;'en:wood';1;0
+e;14941858;'en:herbivore';1;0
+e;17346176;'Coniferophyta';1;0
+e;17026519;'Images externes';777;0
+e;17240690;'Microbotryum scabiosae';777;0
+e;17169545;'Pinophyta';777;0
+e;16953087;'megasporangium';777;0
+e;16953086;'heterosporous';777;0
+e;16831124;'CDUV';1;0
+e;140640;'Mâle';1;50
+e;7589;'femelle';1;2423
+e;3224729;'Cardon';1;0
+e;14952204;'en:genitals';1;0
+e;16838349;'en:entomophilic';1;0
+e;6804862;'en:seasonal allergic rhinitis';1;0
+e;16798005;'Sous-famille des dNothochrysinae';777;0
+e;16798004;'Sous-famille des Apochrysinae';777;0
+e;16798003;'loup des pucerons';777;0
+e;5839919;'Thripidae';1;0
+e;296093;'Terebrantes';777;50
+e;16797958;'Tête-de-veau';777;0
+e;16797781;'Application des phytovirus pour améliorer la beauté des plantes';777;0
+e;292228;'Monotrope sucepin';777;50
+e;292229;'Monotropa hypopitys';777;50
+e;14875417;'Gerbille à queue grasse - Pachyuromys duprasi';777;0
+e;14875416;'Gerbille de Mongolie - Meriones unguiculatus';777;0
+e;303191;'plantain des Indes';777;50
+e;12081053;'psyllium blond';1;0
+e;131857;'ispaghul';1;60
+e;303192;'Plantago ovata';777;50
+e;16769664;'Truvia';777;0
+e;16769662;'Rebiana';777;0
+e;15469376;'Stévia';1;0
+e;180817;'ail des bois';1;52
+e;16767617;'Rat nain des rizières à longue queue';777;0
+e;16767616;'Rat pygmée de rizière à longue queue';777;0
+e;16767615;'Oligoryzomys longicaudatus';777;0
+e;16765361;'dans le sens de l'expiration seulement';777;0
+e;16765360;'à trois plis';777;0
+e;16765359;'d'hygiène';777;0
+e;16765358;'anti-projections';777;0
+e;15633;'aculéates';1;50
+e;281522;'Aculeata';777;50
+e;16592408;'Chez les plantes';777;0
+e;16592407;'fossiles moléculaires';777;0
+e;16592406;'compactions';777;0
+e;16592405;'perminéralisations';777;0
+e;2229902;'moulages';2;0
+e;420116;'impressions';1;50
+e;1856812;'compressions';1;0
+e;16580634;'allélochimiques';777;0
+e;272207;'papille mammaire';777;52
+e;368358;'papille rénale';1;54
+e;5952794;'papille dentaire';777;0
+e;1780001;'papille lacrymale';1;0
+e;33920;'papilles gustatives';1;58
+e;68535;'papille';1;84
+e;16573778;'en:rain runoff';1;0
+e;567416;'Mutualisme';1;50
+e;16496714;'Tachinaires';777;0
+e;16496713;'Tachinidés';777;0
+e;586795;'Tachinidae';777;0
+e;405875;'Pin';1;50
+e;3490569;'herbe de mer';777;0
+e;16367103;'Zostera marina';777;0
+e;16325525;'Céphalanthère';1;0
+e;16326054;'C. longifolia';777;0
+e;16325490;'Céphalanthère à feuilles en épée';777;0
+e;16325489;'Céphalanthère à longues feuilles';777;0
+e;16325488;'Céphalanthère à feuilles étroites';777;0
+e;11519228;'Cephalanthera longifolia';777;0
+e;302045;'Vitellaria';777;50
+e;5831534;'Vitellaria paradoxa';777;0
+e;90389;'karité';1;52
+e;16361028;'Butyrospermum parkii';777;0
+e;12641545;'Certaines informations devraient être mieux reliées aux sources mentionnées dans la bibliographie ou les liens externes';777;0
+e;149502;'paléohistologie';1;50
+e;73434;'fondamentale';1;2864
+e;273535;'paléontologie générale';777;50
+e;273534;'paléontologie systématique';777;50
+e;5716;'paléontologie';1;148
+e;3228592;'Floricole';777;0
+e;16312003;'Ambroisie à feuilles d'armoise';777;0
+e;16285925;'anthéridiophore';777;0
+e;2574098;'Poids';1;2135
+e;226587;'Pays';1;3759
+e;16285802;'Utilisation de tourteaux de soja';777;0
+e;16285797;'brachystaminées';777;0
+e;16285796;'astaminées';777;0
+e;5535122;'Grandes familles de biomolécules';777;0
+e;16283556;'icosanoids';777;0
+e;1836359;'icosanoïde';1;0
+e;1859128;'icosanoïdes';777;0
+e;1859127;'eicosanoïdes';777;0
+e;16259554;'Sélection des spermatozoïdes';777;0
+e;16259553;'Sélection des éjaculats';777;0
+e;153082;'Physiologie';1;124
+e;406612;'Morphologie';1;1539
+e;416191;'Taille';1;1483
+e;2944495;'Quantité';1;0
+e;13145;'ovogenèse';1;52
+e;76228;'spermatogenèse';1;54
+e;145935;'liguliflores';1;50
+e;3684508;'Composacées';1;0
+e;16174923;'pseudonectaire';777;0
+e;16174922;'nectaire extranuptial';777;0
+e;16174921;'nectaire extrafloral';777;0
+e;16174920;'nectaire floral';777;0
+e;41844;'labelle';1;66
+e;16174914;'Viscum album L. subsp. austriacum';777;0
+e;16174913;'Viscum album L. subsp. abietis';777;0
+e;16174912;'Viscum album L. subsp. album';777;0
+e;16174902;'5 styles non soudés';777;0
+e;16174901;'anthères rouges';777;0
+e;16174900;'5 pétales blancs';777;0
+e;16174897;'extexine';777;0
+e;16174882;'pollinaire';777;0
+e;3395455;'Acacia dealbata';777;0
+e;6300167;'apomixie mâle';1;0
+e;3730026;'Églantier';1;0
+e;431474;'Rosier';1;50
+e;5827774;'Prosopis juliflora';777;0
+e;16168075;'Absciser';777;0
+e;16158269;'constance de pollinisation';777;0
+e;16158268;'syndrome floral';777;0
+e;16158267;'syndrome de pollinisation';777;0
+e;155783;'pépins';1;76
+e;61835;'chair';1;2253
+e;16169491;'Rambour d'hiver du Rhin';777;0
+e;393440;'principe de Fermat';1;50
+e;14679746;'Niveau lycée';777;0
+e;16158165;'23 231 898';777;0
+e;16158164;'22 255 238';777;0
+e;16158163;'Production en tonnes. Données 2012-2013';777;0
+e;78411;'polymorphe';1;64
+e;5839077;'Apocynaceae';1;0
+e;123739;'respect';1;2937
+e;409370;'mellifères';1;50
+e;284433;'coévolution';777;50
+e;6012964;'modélisation de la dispersion atmosphérique';777;0
+e;5980996;'mauvais ozone';777;0
+e;16084247;'ozone troposphérique';777;0
+e;40052;'méiospore';1;50
+e;288633;'mitospore';777;50
+e;422804;'laricio';1;50
+e;1739593;'salzmannii';1;0
+e;405706;'nigra';1;50
+e;305957;'Thaumetopoea pityocampa';777;50
+e;16071716;'fécondation anémophile';777;0
+e;120321;'anémophilie';1;50
+e;15958614;'Priones';777;0
+e;5954347;'Lepturiens';777;0
+e;15953554;'Liste des arbres les plus anciens';777;0
+e;15953553;'arbres les plus anciens connus';777;0
+e;14656277;'du 15 janvier au 15 avril';777;0
+e;15921456;'Cryptoméria du Japon';777;0
+e;5628869;'R.Br';1;0
+e;14772821;'Abeille noire - Apis mellifera mellifera';777;0
+e;14772820;'Abeille européenne - Apis mellifera';777;0
+e;77077;'lis';1;58
+e;140217;'lys';1;64
+e;142403;'Lilium';1;50
+e;163610;'nourricière';1;78
+e;3310094;'Nettoyage';1;0
+e;73504;'contre-indication';1;54
+e;14936701;'en:sneeze';1;0
+e;15469346;'Achillée millefeuille';1;0
+e;15412680;'Principaux pays producteurs en 2018';777;0
+e;15684668;'Amphimixie et déclenchement du développement embryonnaire';777;0
+e;15684667;'zygote-albumen';777;0
+e;15684666;'zygote-plantule';777;0
+e;15684665;'l'interfécondation';777;0
+e;15684664;'l'autofécondation';777;0
+e;30307;'joint';1;1589
+e;144333;'Soleil';1;3262
+e;14752424;'Hélianthe';1;0
+e;14920233;'en:antipathy';1;0
+e;15575020;'Total Monde';777;0
+e;14488688;'Production de graines de soja en tonnes';777;0
+e;15526188;'en:allergic cold';1;0
+e;15309693;'en:corasthma';1;0
+e;15309691;'en:Bostock's catarrh';1;0
+e;15309690;'en:hayfever';1;0
+e;15309689;'en:June cold';1;0
+e;15309688;'en:rhinopathia vasomotoria';1;0
+e;15309686;'en:hay asthma';1;0
+e;15309685;'en:autumnal catarrh';1;0
+e;15309684;'en:rhinallergosis';1;0
+e;16510348;'Arbre à tapa';777;0
+e;14987792;'érablaie';777;0
+e;15474948;'Durée de vie des plantes';777;0
+e;15474947;'Résistance des plantes aux climats difficiles';777;0
+e;15168437;'Goldrush';777;0
+e;15168436;'compatibilité complète';777;0
+e;64227;'anomalie';1;867
+e;15168435;'pommier triploïde';777;0
+e;114330;'Saturn';1;545
+e;5619952;'Red Devil';777;0
+e;5802092;'Ecolette';777;0
+e;63557;'autogame';1;50
+e;2490159;'allogame';1;0
+e;5983911;'chronoxyle';777;0
+e;14916084;'bois coulé';777;0
+e;181171;'bois flotté';1;50
+e;14916083;'bois mort au sol';777;0
+e;48511;'chandelle';1;236
+e;14916081;'bois mort sur pied';777;0
+e;14903929;'canal de l'Esplanade';777;0
+e;14893314;'Instinctonutrition';777;0
+e;14654283;'toutes les parties de la plante sont très toxiques';777;0
+e;14665678;'Troisième loi';777;0
+e;15634656;'Première et deuxième lois';777;0
+e;5675103;'sous-familles';777;0
+e;77735;'Europe';1;3809
+e;15634658;'deuxième loi de Mendel';777;0
+e;15634657;'première loi de Mendel';777;0
+e;143654;'Total';1;2024
+e;14752049;'Hélianthe ou Soleil';777;0
+e;14725288;'comportements alimentaires des herbivores';777;0
+e;11519126;'Ulex europaeus';777;0
+e;14655982;'Ipomoeeae';1;0
+e;413883;'Cypripedium';1;50
+e;14654983;'Corallorhiza';777;0
+e;14654982;'Coeloglossum';777;0
+e;14654981;'Chamorchis';777;0
+e;409204;'Anacamptis';1;50
+e;14629872;'de la superficie';777;0
+e;14629871;'de la composition';777;0
+e;43068;'niébé';1;50
+e;14612124;'Les fraisiers au chaud';777;0
+e;278711;'Fig. 1';777;50
+e;5839082;'Non valide';777;0
+e;2038358;'hausses';2;0
+e;14594872;'corps de ruche';777;0
+e;14594870;'ruches horizontales à barres';777;0
+e;14594858;'ruches verticales modulaires à cadres';777;0
+e;2100287;'recyclée';2;0
+e;14584401;'hybrides de première génération';777;0
+e;4939420;'Arava';1;0
+e;14571683;'un frein alimentaire';777;0
+e;14571682;'une protection';777;0
+e;14571681;'En agriculture';777;0
+e;14571680;'En fonction des enveloppes';777;0
+e;14571679;'En fonction de la proportion et la répartition des tissus';777;0
+e;14571678;'En fonction de la teneur en eau';777;0
+e;35222;'végétaux';1;2245
+e;14483523;'Exemples de répartition dans le monde';777;0
+e;27075;'Rhésus';1;50
+e;14541157;'Production en tonnes de graines de tournesol. Chiffres 2004-2005';777;0
+e;14541156;'Principaux pays producteurs';777;0
+e;155863;'élevée';1;2796
+e;14483469;'équation lidar';777;0
+e;14483468;'1 064 nm';777;0
+e;106211;'carrefour';1;426
+e;295148;'voies romaines';1;52
+e;11156440;'centuriation romaine';777;0
+e;14482819;'secte guérisseuse';777;0
+e;50988;'originel';1;1471
+e;14476911;'herbivorie';777;0
+e;14462698;'Anthécologie';777;0
+e;5536212;'Cette section ne cite pas suffisamment ses sources';777;0
+e;14303511;'Coniférophytes';777;0
+e;68742;'Conifères';1;50
+e;14169352;'Organisme auxiliaire';777;0
+e;262065;'insecte ravageur';1;4
+e;14154296;'grassette de Moran';777;0
+e;14154530;'P. moranensis var. neovolcanica';777;0
+e;14154529;'P. moranensis var. moranensis';777;0
+e;14154295;'Pinguicula moranensis';777;0
+e;2961999;'Vanille';1;0
+e;14095503;'Abeille européenne';777;0
+e;14095502;'abeilles des sables';777;0
+e;14095501;'Andrènes';777;0
+e;14095500;'andrena';777;0
+e;14094015;'Poirier commun';777;0
+e;5679793;'Pyrus communis';777;0
+e;14062184;'Arbre aux quarante écus';777;0
+e;2933792;'Figue';1;0
+e;5895405;'Palladium';1;0
+e;5875842;'Hybride';777;0
+e;12792630;'Taraxacum';1;0
+e;13641905;'mouche l'argent';777;0
+e;13641904;'bébète l'argent';777;0
+e;13641903;'Protaetia aurichalcea';777;0
+e;13562446;'Shang Shung';777;0
+e;13562445;'Shang Shoung';777;0
+e;13562444;'zhang zhung';777;0
+e;5876089;'Moreae';1;0
+e;13198858;'interaction écologique';777;0
+e;2952654;'Liste détaillée';777;0
+e;12771630;'herchogamie';777;0
+e;12771607;'herkogamie';1;0
+e;11376727;'bourdon des champs';1;0
+e;12736780;'Bombus pascuorum';777;0
+e;2730333;'reine des abeilles';1;8
+e;12736366;'Chrysoperla rufilabris';777;0
+e;12736364;'Synonyme ancien';777;0
+e;12736362;'lion des pucerons';777;0
+e;12736361;'Chrysopa perla';777;0
+e;12730346;'fougères à graines';777;0
+e;12730345;'Pteridospermatophyta';777;0
+e;12721243;'Muguet commun';777;0
+e;12709687;'dinosaures au Paléocène';777;0
+e;83713;'coudrier';1;50
+e;2258;'Corylus avellana';1;50
+e;2928129;'Arbre à kapok';777;0
+e;2928128;'Kapokier';777;0
+e;428366;'Fromager';1;50
+e;300957;'Ceiba pentandra';777;50
+e;5829132;'baobab africain';777;0
+e;5829131;'Adansonia digitata';777;0
+e;12484349;'Dicotyledonae';777;0
+e;145131;'Dicotylédones';1;50
+e;12484348;'Magnoliopsides';777;0
+e;306890;'if à baies';777;50
+e;190135;'if commun';1;50
+e;5831652;'taxus baccata';777;0
+e;12313266;'Angiospermae';777;0
+e;3614650;'Magnoliidae';1;2
+e;12301977;'mouvement végétal rapide';777;0
+e;12285147;'stimulateur de défense des plantes';777;0
+e;12285146;'biostimulant';777;0
+e;3729544;'monotrope';1;0
+e;12267629;'oligotrope';777;0
+e;177757;'polytrope';1;50
+e;12267628;'vecteurs de pollinisation';777;0
+e;12246573;'Les Schtroumpfs noirs';777;0
+e;12081057;'abeille xylocope';777;0
+e;12076887;'abeille perce-bois';1;0
+e;12081054;'xylocope violet';777;0
+e;11972500;'Maïs';1;0
+e;5816523;'écologie scientifique';777;0
+e;12320452;'ecologist';777;0
+e;11958198;'Nypa';1;0
+e;11957995;'Nypa fruticans';777;0
+e;11957994;'nypa';777;0
+e;11932645;'Pariana';777;0
+e;274576;'MON 810';777;50
+e;11831321;'Myriophyllum propium';777;0
+e;11831320;'Parrot's Feather';777;0
+e;11831319;'Myriophylle du Brésil';777;0
+e;11831318;'Myriophylle aquatique';777;0
+e;11831317;'Myriophyllum aquaticum';777;0
+e;11823650;'choix de la paternité';777;0
+e;11823649;'mate choice';777;0
+e;1571401;'choix du partenaire';1;2
+e;11823648;'sélection intersexuelle';777;0
+e;161195;'mouche à merde';1;164
+e;227708;'mouche verte';1;104
+e;11754112;'Lucilia caesar';777;0
+e;11355741;'Glossopteris';777;0
+e;5534983;'page de discussion';777;0
+e;10513309;'l'améliorer';777;0
+e;36406;'shit';1;154
+e;134032;'chanvre indien';1;50
+e;11553323;'Arge ochropus';777;0
+e;11553065;'Hanneton des roses';777;0
+e;11519809;'Néottie nid d'oiseau';777;0
+e;149083;'maurelle';1;56
+e;86974;'héliotrope';1;54
+e;71922;'Helianthus annuus';1;50
+e;11519515;'Neottia nidus-avis';777;0
+e;11519503;'Mimosa karoo';777;0
+e;11519502;'Mimosa odorant';777;0
+e;11519501;'Vachellia karroo';777;0
+e;3729938;'Linaire';1;0
+e;1757817;'Festuca';777;0
+e;8571113;'Vulnérable';777;0
+e;11502952;'Posidonie de Méditerranée';777;0
+e;11502951;'posidonia oceanica';777;0
+e;11501637;'Marlhiac';777;0
+e;5887346;'Nepovirus';1;0
+e;2359621;'Dactylis glomerata';777;0
+e;11417405;'Dicée à bec rouge';777;0
+e;11417259;'Dicaeum erythrorhynchos';777;0
+e;11415433;'Artemisia princeps Pamp';777;0
+e;11415432;'Artemisia princeps';777;0
+e;44695;'apogamie';1;50
+e;11377555;'biologie de la pollinisation';777;0
+e;11377554;'anthécologie';777;0
+e;11376864;'viroïde cadang-cadang du cocotier';777;0
+e;11376863;'cadang-cadang';777;0
+e;11376862;'Coconut cadang-cadang viroid CCCVd';777;0
+e;11363024;'Henri Braconnot';777;0
+e;3172910;'n'est pas validé scientifiquement';777;0
+e;236152;'phytoremédiation';1;50
+e;11354132;'glossopteris';777;0
+e;11353526;'Sarracenia flava';777;0
+e;11353503;'Canal de l'Esplanade';777;0
+e;11350889;'archéopalynologie';777;0
+e;2551651;'pin de Bordeaux';1;0
+e;274570;'débats sur les OGM';777;50
+e;11290580;'Cypripedium reginae';777;0
+e;2154058;'concrétions';2;0
+e;2379248;'spéléothèmes';777;0
+e;11251570;'Homme de Lindow';777;0
+e;11247613;'Sébastien Vaillant';777;0
+e;11217775;'Ophrys miroir';777;2
+e;11217774;'Ophrys speculum';777;0
+e;11178736;'maladies virales de la pomme de terre';777;0
+e;413965;'Dryas';1;50
+e;11152196;'Stylidium';777;0
+e;11151853;'pivoine officinale';777;0
+e;11151852;'Paeonia officinalis';777;0
+e;11150809;'aéroplancton';777;0
+e;11150808;'plancton aérien';777;0
+e;109832;'palladium';1;50
+e;11128027;'Olea europaea subsp. europaea var. europaea';777;0
+e;11107006;'histoire de la Tunisie';777;0
+e;2836195;'Ludwigia';1;0
+e;11105399;'double fécondation';777;0
+e;11103322;'compétition spermatique';777;2
+e;11103266;'Thalassia testudinum';777;0
+e;11081908;'intelligence des abeilles';777;0
+e;11081892;'ruche Dadant';777;0
+e;23009;'couvain';1;56
+e;11081862;'Abeille xylocope';777;0
+e;11081861;'Abeille perce-bois';777;0
+e;180621;'abeille charpentière';1;40
+e;11081860;'Xylocope violet';777;0
+e;11081859;'Xylocopa violacea';777;0
+e;332985;'abeille noire';1;52
+e;566083;'Apis mellifera mellifera';777;50
+e;154786;'alvéoles';1;56
+e;11062354;'Lis des Pyrénées';777;0
+e;11062353;'Lilium pyrenaicum';777;0
+e;2552287;'Montchaton';1;0
+e;11013963;'guide floral';777;0
+e;11013962;'guide nectarifère';777;0
+e;11013961;'guide à nectar';777;0
+e;11013960;'guide de nectar';777;0
+e;10144045;'Robert Brown';777;0
+e;11003619;'temple de Borobudur';777;0
+e;10997001;'Monocotyledonae';777;0
+e;42188;'filet';1;708
+e;170639;'muguet de mai';1;50
+e;49098;'muguet';1;258
+e;5829311;'Convallaria majalis';777;0
+e;5836629;'Ranunculaceae';1;0
+e;10992301;'Rhinanthus minor';777;0
+e;10988550;'plantation sur sol inversé';777;0
+e;10987322;'Lilianae';777;0
+e;10937149;'DWD';777;0
+e;10937148;'Deutscher Wetterdienst';777;0
+e;10909767;'John Ray';777;0
+e;10962032;'MétéoMédia';777;0
+e;9012804;'dépression de Qattara';1;0
+e;1657518;'géobiologie';1;0
+e;10071841;'phénotype macroscopique';777;0
+e;9634975;'listes à puces';777;0
+e;191712;'citations';1;54
+e;136284;'italique';1;62
+e;56362;'gras';1;2597
+e;66372;'texte';1;3570
+e;30472;'titres';1;3409
+e;35796;'écolo';1;132
+e;134901;'écologiste';1;162
+e;9973846;'Maraval';1;0
+e;142019;'Gui';1;50
+e;9769005;'Gagea sect. Spathaceae';777;0
+e;109636;'épines';1;106
+e;5882291;'Abscisse';777;0
+e;8856457;'Abscise';777;0
+e;8856456;'Abruptement';777;0
+e;8856455;'Abrévié';777;0
+e;5882289;'Abortif';777;0
+e;5882288;'Aberrant';777;0
+e;5882287;'Abaxial';777;0
+e;6825549;'en:asteraceae';1;0
+e;17455893;'abri Romaní';777;0
+e;7110254;'en:spinacia oleracea';1;0
+e;9212738;'Buddleia du père David';777;0
+e;9021855;'Max Joseph Roemer';777;0
+e;8914249;'guêpes sociales';777;0
+e;8875112;'pinophyta';777;0
+e;8851799;'Parietaria officinalis';777;0
+e;9944317;'élevage de reines';777;0
+e;6333705;'Érable negundo';1;0
+e;5722635;'Guêpe';1;0
+e;5872383;'Chrysididae';1;0
+e;9946049;'Masarinae';777;0
+e;9946050;'Masarines';777;0
+e;6354330;'polymorphisme génétique';1;0
+e;6699549;'Trachylepis atlantica';777;0
+e;6695104;'Gecko diurne à queue plate';777;0
+e;6695101;'Phelsuma serraticauda';777;0
+e;114259;'essaimage';1;50
+e;6528203;'insektors';777;0
+e;5983872;'Haute Qualité Environnementale';777;0
+e;5983799;'Jardin nature admise';777;0
+e;5983796;'jardins naturels';777;0
+e;5983794;'jardin sauvage';777;0
+e;291525;'Welwitschia mirabilis';777;50
+e;411788;'Welwitschia';1;50
+e;5979618;'Welwitschiaceae';777;0
+e;5979617;'Welwitschiales';777;0
+e;5975495;'Liliopsida';777;2
+e;5974968;'paralysie chronique';777;0
+e;5974967;'maladie noire';777;0
+e;5878785;'Bruchinae';1;0
+e;5877378;'Cypripedioideae';1;0
+e;5851860;'Scrophulariaceae';1;0
+e;5953655;'Filaire à feuilles étroites';777;0
+e;5953654;'Phillyrea angustifolia';777;0
+e;5953601;'troène du Japon';777;0
+e;5953599;'Ligustrum japonicum';777;0
+e;5941567;'Pereskia bleo';777;0
+e;5940650;'Parthenium hysterophorus';777;0
+e;5939597;'ergot du sorgho';777;0
+e;5926632;'Voir le clade Dicotylédones vraies';777;0
+e;5840208;'Amaranthaceae';1;0
+e;5922277;'Phelsume à queue bleue';777;0
+e;5922276;'gecko diurne à queue bleue';777;0
+e;5922274;'Phelsuma cepediana';777;0
+e;5922267;'Phelsume de Günther';777;0
+e;5922266;'Phelsuma guentheri';777;0
+e;5920144;'pollenkitt';777;0
+e;5910603;'clematis patens';777;0
+e;5910534;'pin du Tibet';777;0
+e;428955;'Mast';1;50
+e;5910532;'Pinus densata';777;0
+e;5910223;'croissant nordique';777;0
+e;5910222;'Phyciodes cocyta';777;0
+e;5909644;'bournette';777;0
+e;5909643;'maraval';777;0
+e;5909641;'ce cultivar peut induire une sensibilité au gel';777;0
+e;5909639;'marlhac';777;0
+e;5909606;'marsol';777;0
+e;5909365;'buddleia à fleurs blanches';777;0
+e;5909364;'Buddleia blanc';777;0
+e;5909362;'Buddleja albiflora';777;0
+e;5909359;'Bouche de Bétizac';777;0
+e;5908367;'Yucca filifera';777;0
+e;5908121;'arbre de Josué';777;0
+e;5908120;'Joshua tree';777;0
+e;5908119;'Yucca brevifolia';777;0
+e;5895999;'Brugmansia';1;0
+e;5907318;'Agrostis stolonifera';777;0
+e;250657;'gamète mâle';1;14
+e;5897845;'riz pérennes';777;0
+e;5897550;'Baccha elongata';777;0
+e;5880829;'Farigoule';1;0
+e;5833398;'Hedera';1;0
+e;571603;'Consulter la liste des abréviations d'auteur en zoologie';777;50
+e;95024;'Reichenbach';1;50
+e;280780;'Consulter la liste des abréviations d'auteur';777;50
+e;5873265;'Rchb.f';777;0
+e;5873264;'Heinrich Gustav Reichenbach';777;0
+e;5855621;'science de l'environnement ou environnementale';777;0
+e;5855277;'facteurs climatiques';777;0
+e;5855276;'facteurs édaphiques';777;0
+e;5839935;'Méligèthe du colza';777;0
+e;5839934;'Meligethes aeneus';777;0
+e;5839137;'poirier de Chine';777;0
+e;5839136;'Decne';777;0
+e;5839135;'Pyrus calleryana';777;0
+e;5838565;'Spinacia oleracea';777;0
+e;140732;'Scrofulariacées';1;50
+e;296185;'scrophulariaceae';777;50
+e;5837024;'Agriculture raisonnée';777;0
+e;5837023;'Agriculture intensive';777;0
+e;5837022;'Agriculture de précision';777;0
+e;5837021;'Agriculture biologique';777;0
+e;153176;'Agriculture';1;1183
+e;129965;'adventif';1;52
+e;5837020;'Adventice';777;0
+e;5836549;'pollinisation des pommiers';777;0
+e;5836353;'pommier 'Evereste';777;0
+e;232285;'Mirabilis jalapa';1;58
+e;2645574;'Pinus nigra';1;0
+e;5835741;'monotrope uniflore';777;0
+e;5835740;'Monotropa uniflora';777;0
+e;5835649;'Tropinota hirta';777;0
+e;5835349;'syngenta';777;0
+e;5833840;'endothérapie';777;0
+e;5833821;'traitement systémique';777;0
+e;5831888;'Mercuriale annuelle';777;0
+e;5831887;'Mercurialis annua';777;0
+e;2575086;'Vahl';1;0
+e;5831806;'et Trichogrammatoidea';777;0
+e;2645483;'Cryptomeria japonica';1;0
+e;5831792;'D.Don';777;0
+e;5827610;'Capsicum annuum';777;0
+e;5831729;'Actinidia deliciosa';777;0
+e;5831728;'Pinus pinaster';777;0
+e;5831678;'hedera';777;0
+e;5831677;'buddleja davidii';777;0
+e;5831611;'brugmansias';777;0
+e;5831610;'brugmansia';777;0
+e;431443;'Gaucho';1;50
+e;5831468;'organismes auxiliaires';777;0
+e;5829184;'Diabrotica virgifera virgifera';777;0
+e;5828838;'Tetradium daniellii';777;0
+e;190059;'stévia';1;52
+e;5827971;'leucrose';777;0
+e;189900;'cire d'abeille';1;28
+e;5827556;'Asparagus officinalis';777;0
+e;5817872;'grande herbe à poux';777;0
+e;5817871;'Ambrosia trifida';777;0
+e;5811797;'TRSV';777;0
+e;5811796;'virus des taches en anneaux du tabac';777;0
+e;5811795;'Tobacco ringspot virus';777;0
+e;5811597;'Tombusviridae';777;0
+e;5573698;'auteur incomplet';777;0
+e;5811589;'nepovirus';777;0
+e;5811539;'AMV';777;0
+e;5811538;'virus de la mosaïque de la luzerne';777;0
+e;5811537;'alfalfa mosaic virus';777;0
+e;5810859;'virus T de la pomme de terre';777;0
+e;5810858;'Virus T de la pomme de terre';777;0
+e;5534856;'Découvrez comment faire';777;0
+e;5804809;'goldrush';777;0
+e;5805871;'hassaku';777;0
+e;5564953;'Cépage de table';777;0
+e;5564952;'Cépage de cuve';777;0
+e;5801440;'diolinoir';777;0
+e;5797004;'Chacasina';777;0
+e;5680722;'A.Cunn. ex Benth';777;0
+e;5680718;'acacia auriculiformis';777;0
+e;5634597;'danse des abeilles';777;0
+e;251337;'accouchement par voie basse';1;18
+e;2355757;'AVB';1;0
+e;5623280;'virus B de l'arracacha';777;0
+e;5623279;'Arracacha virus B';777;0
+e;5623158;'C-88';777;0
+e;5623157;'Cooperation-88';777;0
+e;5621849;'Tussilago';1;0
+e;407361;'Saule';1;50
+e;5619942;'Rambour d'hiver';777;0
+e;5593740;'Tussilago farfara';777;0
+e;5593738;'tussilago';777;0
+e;5593516;'Tilia tomentosa';777;0
+e;5593036;'Thymus vulgaris';777;0
+e;113557;'autonyme';1;76
+e;5582291;'Olea europaea ssp. europaea var. europaea';777;0
+e;5580636;'maïs corné';777;0
+e;5580611;'Cette section ne respecte pas la neutralité de point de vue';777;0
+e;47004;'gui';1;70
+e;5580573;'viscum album';777;0
+e;2645536;'Ginkgo biloba';1;4
+e;3552093;'Gommier';1;0
+e;347410;'digitale laineuse';1;50
+e;5580513;'Digitalis lanata';777;0
+e;5580494;'aubépine épineuse';777;0
+e;5580493;'Aubépine à deux styles';777;0
+e;5580492;'Aubépine lisse';777;0
+e;5580491;'Crataegus laevigata';777;0
+e;2645489;'Castanea sativa';1;0
+e;5580411;'Anemone nemorosa';777;0
+e;5534862;'Mise en garde médicale';777;0
+e;5564580;'écologie des insectes forestiers';777;0
+e;5564565;'Bombini';777;0
+e;6905129;'en:fertile';1;0
+e;4331883;'Cerambycidae';1;0
+e;3761523;'Ambroisie élevée';777;0
+e;3742351;'pentacarpellie';777;0
+e;3742350;'tricarpellie';777;0
+e;3722533;'cardon sauvage';777;0
+e;12005;'cardon';1;54
+e;293669;'Cynara cardunculus';777;50
+e;89578;'linaire';1;50
+e;2931557;'Chanvre d'eau';777;0
+e;3600351;'Stevia rebaudiana';1;2
+e;3600307;'Asteraceae';1;12
+e;3551465;'châtaignier commun';777;0
+e;3177651;'Châtaignier';777;0
+e;3551464;'Castanea vulgaris';777;0
+e;3551463;'Castanea vesca';777;0
+e;3551031;'banksia de Brown';777;0
+e;2645468;'Banksia brownii';1;0
+e;3550895;'Érable à feuilles de frêne';777;0
+e;3550894;'Érable à giguère';777;0
+e;3550893;'Érable négondo';777;0
+e;2585576;'Eucalyptus';1;2
+e;2598182;'Genêt';1;0
+e;3381123;'Anthophila';777;0
+e;2586608;'Ceratophyllum';1;0
+e;26732;'asperge';1;96
+e;145557;'Composées';1;50
+e;221731;'Astéracées';1;60
+e;282697;'amaranthaceae';777;50
+e;3313174;'Merveille du Pérou';777;8
+e;126061;'belle-de-nuit';1;92
+e;2572926;'Chrysoperla';1;0
+e;57392;'fertile';1;82
+e;5534759;'ton neutre';777;0
+e;3298393;'Dardargnan';1;0
+e;3298247;'Coconfort';1;0
+e;3298246;'dardargnan';777;0
+e;3298245;'coconfort';777;0
+e;3298244;'Aspicot';1;0
+e;3294872;'hermaphrodisme alternant';777;0
+e;3293468;'Aethina tumida';1;0
+e;3293471;'petit coléoptère des ruches';777;0
+e;401977;'Dahlia';1;50
+e;2125293;'amentifères';2;0
+e;2960;'Bourdon';1;50
+e;3183403;'Buis commun';777;0
+e;302185;'Vespidae';777;50
+e;3177218;'plantes à';777;0
+e;3176665;'Heligoland';777;0
+e;142367;'pot';1;978
+e;405637;'indirectes';1;50
+e;401033;'directes';1;50
+e;2645976;'Ginkgo';1;2
+e;244649;'zone boisée';1;72
+e;242352;'montée des eaux';1;56
+e;3164348;'Méliphage à oreillons bleus';777;0
+e;3159168;'cyprès de l'Arizona';777;0
+e;1814494;'élévation de la mer';1;0
+e;309038;'submersions marines';777;50
+e;309037;'élévation du niveau de la mer';777;50
+e;2955810;'Cette section ne respecte pas la';777;0
+e;2955511;'Capricorne de Scopoli';777;0
+e;2955510;'Petit capricorne';777;0
+e;2953112;'Megachile';777;0
+e;119487;'alternance des générations';1;50
+e;2457090;'métagenèse';1;0
+e;287508;'alternance de générations';777;50
+e;2952297;'Voir le';777;0
+e;2951332;'Cétoine dorée';777;0
+e;2945152;'tilleul de Hongrie';777;0
+e;2646022;'Cryptomeria';1;0
+e;2601675;'Quasi menacé';777;0
+e;2934263;'Anémone des bois';777;0
+e;2933804;'Gueule-de-loup';777;0
+e;2950715;'recommandés dans les petits jardins familiaux';777;0
+e;2872080;'Préoccupation mineure';777;0
+e;2927927;'Frêne commun';777;0
+e;190112;'cyprès de monterey';1;50
+e;2926793;'cyprès de Monterey';777;0
+e;2204491;'gerbilles';2;0
+e;2919194;'demoiselle aux yeux d'or';777;0
+e;2544437;'Chrysoperla carnea';1;0
+e;2523239;'chrysope verte';1;0
+e;2521928;'Kiwi';1;0
+e;2900741;'Yang Tao';777;0
+e;2514449;'phytostabilisation';1;0
+e;2512170;'sagou du Japon';1;0
+e;131044;'sagoutier';1;50
+e;2852316;'Cycas revoluta';777;0
+e;2483785;'génoplastie';1;0
+e;2477771;'oenomel';1;0
+e;2474623;'imidaclopride';1;0
+e;2442302;'mantoptère';1;0
+e;2433584;'thrip';1;0
+e;2596964;'Broussonetia papyrifera';777;0
+e;2424302;'apidologue';1;0
+e;2588721;'jubaea';777;0
+e;2588720;'jubaea chilensis';777;0
+e;2421052;'cocotier du Chili';1;0
+e;2586955;'Picea mariana';777;0
+e;378684;'sapinette noire';1;50
+e;2586954;'épicéa noir';777;0
+e;2411264;'épinette noire';1;0
+e;2404010;'cryptoméria';1;0
+e;2397383;'cryptomère';1;0
+e;2395116;'siphonogame';1;0
+e;2579073;'Gagea spathacea';777;0
+e;2380347;'gagée à spathe';1;0
+e;2379922;'Dittrichia viscosa';777;0
+e;2379920;'inule visqueuse';1;0
+e;594059;'bloc de branche gauche';1;0
+e;264288;'signe de Babinski';1;52
+e;2375956;'buis commun';1;0
+e;2375958;'Buxus sempervirens';777;0
+e;2375957;'buis toujours vert';777;0
+e;2353334;'Gymnospermae';777;0
+e;2346762;'mantoptères';1;0
+e;2218924;'longicornes';2;0
+e;15368;'épigyne';1;50
+e;393187;'Le Magnifique';1;50
+e;309245;'Allium ursinum';777;50
+e;251522;'ail sauvage';1;50
+e;190047;'ail des ours';1;78
+e;1934472;'epinard';1;0
+e;1925196;'plantes à fleur';1;0
+e;190210;'tilleul argenté';1;50
+e;139790;'maïs';1;1954
+e;46412;'hypogyne';1;50
+e;83467;'périgyne';1;50
+e;263884;'chrysope';1;50
+e;1855901;'Gamete';1;0
+e;1839121;'monohybride';1;0
+e;1834584;'gamétogénèse';1;0
+e;1830062;'chimérisme';1;0
+e;115477;'chimère';1;200
+e;1856432;'bourdons';777;0
+e;1828965;'Bombus';1;0
+e;1805105;'Magnoliophytes';777;0
+e;217459;'filtre à air';1;42
+e;1657492;'paléopalynologie';1;0
+e;35397;'boisement';1;50
+e;95244;'callose';1;52
+e;372255;'pot de miel';1;60
+e;309821;'Chrysopidae';777;50
+e;51709;'millefeuille';1;56
+e;1740873;'enruchage';777;0
+e;1730936;'entomoculture';1;0
+e;179920;'lepture tachetée';1;50
+e;1706001;'fraxinus excelsior';777;0
+e;128791;'piment';1;614
+e;197172;'buisson ardent';1;58
+e;1658555;'pyracantha';1;2
+e;580812;'Raphanus raphanistrum';777;0
+e;580811;'Radis sauvage';777;0
+e;580810;'Radis ravenelle';777;0
+e;40258;'ravenelle';1;50
+e;115125;'bionomie';1;50
+e;1573993;'bioécologie';777;0
+e;332984;'abeille mellifique';1;6
+e;13700;'composée';1;3338
+e;135832;'caprification';1;50
+e;98666;'micropyle';1;50
+e;81939;'mante';1;54
+e;299509;'Mantodea';777;50
+e;1468284;'Tilia';1;0
+e;274665;'hexaploïde';777;50
+e;179947;'strangalia tachetée';1;50
+e;108292;'caprifiguier';1;50
+e;404105;'figues';1;56
+e;133596;'abiose';1;50
+e;1084103;'Rana temporaria';777;0
+e;356795;'grenouille rousse';1;54
+e;465006;'olinet';777;50
+e;465005;'arbre du paradis';777;50
+e;336113;'arbre d'argent';1;50
+e;190156;'olivier de Bohême';1;50
+e;309256;'Elaeagnus angustifolia';777;50
+e;374153;'préoccupation mineure';1;50
+e;462520;'mur-manteaux végétalisé';777;50
+e;745895;'Cupressus macrocarpa';777;0
+e;745894;'cyprès de Lambert';777;0
+e;182140;'drap mortuaire';1;50
+e;734593;'Oxythyrea funesta';777;0
+e;734592;'cétoine grise';777;0
+e;115322;'gueule-de-loup';1;50
+e;85893;'taphonomie';1;50
+e;50147;'cantharide';1;52
+e;162405;'les transports';1;50
+e;16641;'palynologue';1;50
+e;81170;'figuier';1;74
+e;284193;'gueule de loup';1;56
+e;592135;'ambroisie élevée';777;0
+e;592132;'ambroisie à feuilles d'armoise';777;0
+e;592134;'Ambrosia artemisiifolia';777;0
+e;117523;'tilleul';1;64
+e;590071;'apidologie';777;0
+e;588839;'chalaza';777;0
+e;101067;'chalaze';1;60
+e;197398;'cératopogonidés';1;50
+e;586259;'Ceratopogonidae';777;0
+e;150998;'thysanoptère';1;50
+e;132645;'dent-de-lion';1;50
+e;129953;'figuier commun';1;50
+e;282827;'Figuier comestible';777;50
+e;142252;'Figuier';1;50
+e;282826;'ficus carica';777;50
+e;119948;'funicule';1;50
+e;105498;'composées';1;1823
+e;71438;'astéracées';1;50
+e;61150;'chicoracées';1;50
+e;42671;'viroïde';1;52
+e;42665;'Glycine max';1;50
+e;580902;'haricot oléagineux';777;0
+e;580901;'pois chinois';777;0
+e;39942;'soya';1;52
+e;78291;'soja';1;164
+e;18447;'balanzan';1;50
+e;129807;'fausse chicorée';1;50
+e;11737;'lidar';1;50
+e;8575;'tétraploïde';1;50
+e;49458;'Acacia albida';1;50
+e;16929;'ginkgo';1;50
+e;575815;'Abricotier d'argent';777;50
+e;151575;'arbre aux quarante écus';1;52
+e;34912;'triploïde';1;50
+e;91540;'isostémone';1;50
+e;424680;'orchidées';1;76
+e;418126;'Parfum';1;50
+e;414901;'Vigna';1;50
+e;413568;'kérobitumeux';1;50
+e;109931;'castré';1;90
+e;411894;'Cryptoméria';1;50
+e;410887;'Berberis';1;50
+e;410923;'Faidherbia';1;50
+e;91155;'muflier';1;50
+e;408217;'Courges';1;50
+e;570262;'bois pin';777;50
+e;339413;'bois chandelle';1;50
+e;407100;'Pinus';1;52
+e;406521;'Épinard';1;50
+e;405985;'écologiques';1;50
+e;405873;'Salix';1;52
+e;569978;'céphalanthères';777;50
+e;404426;'Cephalanthera';1;50
+e;402023;'Arbre';1;50
+e;97545;'farigoule';1;50
+e;567995;'Thym cultivé';777;50
+e;383550;'thym commun';1;52
+e;371699;'pollinisation croisée';1;50
+e;370969;'plante mellifère';1;50
+e;368197;'paléontologie végétale';1;50
+e;368000;'ovaire infère';1;50
+e;16928;'ovaire';1;304
+e;365388;'mouvement écologique';1;50
+e;363493;'masque chirurgical';1;54
+e;349564;'déséquilibre écologique';1;50
+e;390133;'équilibre naturel';1;50
+e;566202;'anémone sylvie';777;50
+e;10073;'Sylvie';1;54
+e;335702;'anémone des bois';1;50
+e;347804;'disque nectarifère';1;50
+e;363552;'massif forestier';1;50
+e;348060;'domaine forestier';1;50
+e;300277;'Antirrhinum majus';777;50
+e;300276;'Gueule-de-lion';777;50
+e;300275;'Muflier à grandes fleurs';777;50
+e;300274;'Grand Muflier';777;50
+e;461580;'méliponides';777;50
+e;461579;'apiaires méliponides';777;50
+e;292674;'morelles';777;50
+e;407812;'Morelle';1;50
+e;290564;'Rutpela maculata';777;50
+e;461315;'lepture tacheté';777;50
+e;290235;'Thysanoptera';777;50
+e;145315;'thysanoptères';1;50
+e;44715;'thrips';1;50
+e;436414;'apoïde';1;50
+e;390852;'pinophyte';1;50
+e;320893;'Virus';1;50
+e;5046142;'Cétoine grise';777;0
+e;4466228;'Tilleul de Hongrie';777;0
+e;315543;'kiwi de Mantell';1;50
+e;315548;'courge de siam';1;50
+e;257207;'haploïdie';1;2
+e;259504;'gamètes';1;74
+e;255861;'poivron vert';1;14
+e;250698;'instinctonutrition';1;50
+e;247649;'hydrogamie';1;50
+e;258441;'Bacillus thuringiensis';1;50
+e;262380;'métabolisation';1;50
+e;237871;'laitue de chien';1;50
+e;236770;'abeille mellifère';1;16
+e;44714;'avette';1;50
+e;311306;'abeille européenne';777;52
+e;250699;'instinctothérapie';1;8
+e;245096;'morphotype';1;50
+e;99406;'polymorphisme';1;62
+e;239813;'paléobotaniste';1;50
+e;310921;'biocorrida';777;50
+e;234961;'corridor biologique';1;6
+e;222810;'Colony Collapse Disorder';1;58
+e;128425;'CCD';1;58
+e;310536;'syndrome d'effondrement des colonies d'abeilles';777;50
+e;216438;'fôret';1;50
+e;190173;'pin laricio';1;50
+e;266010;'Gingko biloba';1;50
+e;257918;'baie de goji';1;50
+e;257917;'goji';1;50
+e;247648;'zoogamie';1;50
+e;236205;'solanum tuberosum';1;50
+e;179889;'chrysomèle des racines du maïs';1;50
+e;291421;'Habitat et répartition';777;50
+e;291420;'organe de la reproduction';777;50
+e;180620;'abeille à miel';1;28
+e;217184;'poivrons';1;96
+e;193831;'méliphage à oreillons bleus';1;50
+e;307309;'Entomyzon';777;50
+e;307308;'Entomyzon cyanotis';777;50
+e;246675;'mur végétal';1;50
+e;190829;'mur végétalisé';1;50
+e;306997;'mur vivant';777;50
+e;190109;'cyprès de l'arizona';1;50
+e;181174;'bois mort';1;2
+e;183502;'palmier à huile';1;6
+e;176776;'phytovirus';1;54
+e;168308;'souris à miel';1;50
+e;305310;'tamines';777;50
+e;168368;'gousse de vanille';1;12
+e;146307;'monocotylédones';1;56
+e;149280;'négondo';1;50
+e;304857;'érable à feuilles de frêne';777;50
+e;304856;'érable à giguère';777;50
+e;304855;'Acer negundo';777;50
+e;304854;'érable négondo';777;50
+e;304853;'érable negundo';777;50
+e;304820;'pinards';777;50
+e;148013;'épinards';1;94
+e;144577;'Forsythia';1;50
+e;304720;'Achillea millefolium';777;50
+e;170555;'achillée millefeuille';1;50
+e;136402;'mégachile';1;50
+e;133511;'palynologique';1;50
+e;131842;'hydromel';1;52
+e;129557;'dihybridisme';1;52
+e;126209;'distylie';1;50
+e;125672;'apomictique';1;50
+e;155208;'Transports';1;2044
+e;119934;'parthénocarpique';1;50
+e;302879;'cologique';777;50
+e;119419;'écologique';1;1034
+e;118902;'autofécondation';1;70
+e;302794;'pin de Corte';777;50
+e;153779;'pin des Landes';1;52
+e;153781;'pin maritime';1;52
+e;302698;'tilleuls';777;50
+e;302697;'tilia';777;50
+e;153224;'Ecologie';1;50
+e;117079;'strobile';1;50
+e;152680;'ecologie';1;50
+e;114299;'allergique';1;148
+e;151574;'ginkgo biloba';1;50
+e;272186;'En danger';777;50
+e;110281;'fécondation artificielle';1;50
+e;105034;'Elaeis guineensis';1;50
+e;301466;'éléis de Guinée';777;50
+e;301465;'palmier à huile d'Afrique';777;50
+e;102866;'cireux';1;72
+e;301269;'maïs cireux';777;50
+e;102428;'buddleia';1;50
+e;301216;'arbre aux papillons';777;50
+e;301215;'Buddleia de David';777;50
+e;100423;'Longicornes';1;50
+e;98674;'groupes sanguins';1;56
+e;182683;'groupe sanguin';1;8
+e;96007;'lémuriforme';1;52
+e;92895;'apicole';1;50
+e;92357;'tétraploïdie';1;50
+e;90877;'Cetonia aurata';1;50
+e;90543;'mellifère';1;56
+e;300234;'plantes mellifères';777;50
+e;87429;'monohybridisme';1;52
+e;85469;'protogynie';1;56
+e;84816;'coulure';1;90
+e;84503;'endexine';1;50
+e;84180;'chérimole';1;50
+e;83259;'abiotique';1;50
+e;81758;'Ivan Vladimirovitch Mitchourine';1;50
+e;299305;'LLN';777;50
+e;79138;'loi des grands nombres';1;68
+e;76419;'orchidacées';1;52
+e;76274;'colonnaire';1;50
+e;299059;'recommandés dans petits jardins familiaux';777;50
+e;299058;'taille de fructification';777;50
+e;299057;'spur';777;50
+e;75805;'avoine';1;188
+e;299016;'Avoine byzantine';777;50
+e;299015;'Avena sativa';777;50
+e;299014;'avoine cultivée';777;56
+e;75548;'cérambycidé';1;50
+e;73147;'rucher';1;52
+e;72088;'apithérapie';1;50
+e;70908;'Falisques';1;50
+e;225318;'Acer';1;54
+e;298496;'érables';777;50
+e;68397;'dichogamie';1;50
+e;68330;'protandre';1;50
+e;136122;'cèdres';1;50
+e;298317;'Thuja';777;50
+e;298316;'thuyas';777;50
+e;65147;'parthénocarpie';1;50
+e;63255;'xénie';1;50
+e;60612;'piment doux';1;60
+e;60047;'métabolites';1;50
+e;59086;'triploïdie';1;50
+e;49964;'cérambycidés';1;58
+e;296320;'triploïdes';777;50
+e;39759;'ploïdie';1;58
+e;295969;'Trichogrammatoidea';777;50
+e;295968;'Trichogramma';777;50
+e;295967;'trichogrammes';777;50
+e;35658;'frêne commun';1;50
+e;295925;'frêne élevé';777;50
+e;33611;'gerbille';1;96
+e;33240;'protérogyne';1;50
+e;32094;'Ruche';1;50
+e;295575;'enruchement';777;50
+e;295574;'ennruchage';777;50
+e;295546;'Actinide de Chine';777;50
+e;116542;'groseille de Chine';1;50
+e;295545;'kiwis';777;50
+e;28139;'boisé';1;64
+e;27683;'staminode';1;50
+e;22663;'mélipone';1;50
+e;294602;'mélipones';777;50
+e;294601;'Meliponini';777;50
+e;18587;'phénologique';1;50
+e;294330;'Faidherbia albida';777;50
+e;15301;'Lémuriformes';1;50
+e;14121;'intradermo-réaction';1;50
+e;122885;'intradermoréaction';1;50
+e;293798;'espèces agrégées';777;50
+e;293797;'micro-espèces';777;50
+e;13117;'apomixie';1;50
+e;22974;'lémuriens';1;50
+e;292233;'Churimoya';777;50
+e;292232;'Chirimoya';777;50
+e;292231;'Cherimoya';777;50
+e;292230;'Annona cherimola';777;50
+e;94667;'chérimolier';1;50
+e;14469;'graine';1;1690
+e;158840;'parfums';1;82
+e;190082;'cèdre du Japon';1;50
+e;36047;'cryptomeria';1;50
+e;291198;'cryptoméria du Japon';777;50
+e;175820;'orbicule';1;50
+e;290992;'orbicules';777;50
+e;247645;'entomogamie';1;50
+e;188082;'Jonagold';1;50
+e;290490;'En zoologie';777;50
+e;290489;'En botanique';777;50
+e;290256;'Lytta vesicatoria';777;50
+e;179876;'cantharide officinale';1;50
+e;255862;'poivron rouge';1;16
+e;38257;'poivron';1;256
+e;56286;'fragrance';1;184
+e;289453;'cyprès sempervirent';777;50
+e;190108;'cyprès commun';1;50
+e;60173;'Cupressus sempervirens';1;50
+e;273800;'quasi menacé';777;50
+e;85888;'longicorne';1;52
+e;289449;'capricornes';777;54
+e;289448;'cerambycidae';777;50
+e;32436;'allélopathie';1;50
+e;78733;'mouche à miel';1;64
+e;138478;'Apis';1;52
+e;122434;'androcée';1;52
+e;69077;'pachytène';1;50
+e;73196;'anthèse';1;50
+e;287793;'Triticum';777;50
+e;32071;'blé';1;2387
+e;199642;'équilibre écologique';1;50
+e;69598;'apocarpe';1;50
+e;7708;'gamocarpellé';1;50
+e;64751;'syncarpe';1;50
+e;140565;'style';1;3867
+e;286224;'taraxacum';777;50
+e;285881;'coniferophyta';777;50
+e;285880;'coniférophytes';777;50
+e;142448;'conifères';1;52
+e;285879;'pinophytes';777;50
+e;7875;'nectaire';1;54
+e;249769;'tunisienne';1;12
+e;285512;'schistes bitumineux';777;50
+e;285513;'pyroschistes';777;50
+e;285514;'schistes kérobitumeux';777;50
+e;45634;'pyroschiste';1;50
+e;139889;'genêt';1;60
+e;285510;'genêts';777;50
+e;45528;'pive';1;50
+e;18185;'pomme de pin';1;98
+e;11503;'cône';1;263
+e;53763;'Barabudur';1;50
+e;285393;'Candi Borobudur';777;50
+e;224459;'Borobudur';1;50
+e;52453;'gamétogenèse';1;60
+e;268887;'relation interspécifique';1;50
+e;284308;'apoïdes';777;50
+e;284307;'Apoidea';777;50
+e;272142;'Régence de Tunis';777;50
+e;272141;'République tunisienne';777;50
+e;54979;'plantes à fleurs';1;52
+e;283977;'Pin de Salzmann';777;50
+e;283976;'pin noir';777;50
+e;190175;'pin noir d'Autriche';1;50
+e;109907;'protandrie';1;56
+e;137439;'pas-d'âne';1;50
+e;30236;'tussilage';1;54
+e;68347;'cougourde';1;50
+e;258267;'cellule reproductrice';1;54
+e;38220;'caché';1;1328
+e;283655;'ortie commune';777;50
+e;283654;'ortie dioïque';777;50
+e;111824;'grande ortie';1;50
+e;111255;'hétéroxylé';1;50
+e;283597;'Magnoliopsida';777;62
+e;66837;'dicotylédones';1;1700
+e;283596;'Voir le clade';777;50
+e;103127;'hétérostylie';1;54
+e;213149;'atmosphère terrestre';1;62
+e;283087;'masculation';777;50
+e;49844;'émasculation';1;68
+e;56549;'anthéridie';1;50
+e;12489;'morelle';1;50
+e;73644;'perce-muraille';1;52
+e;55723;'eucalyptus';1;76
+e;61524;'sauge';1;114
+e;282079;'Salvia';777;50
+e;282078;'sauges';777;50
+e;140463;'vanille';1;432
+e;232192;'réaction allergique';1;46
+e;255965;'capsicum';1;50
+e;281600;'piments';777;52
+e;212355;'Capsicum';1;50
+e;175568;'Gerbillinae';1;50
+e;179959;'petit capricorne';1;50
+e;281401;'capricorne de Scopoli';777;50
+e;281400;'Cerambyx scopolii';777;50
+e;223091;'astéracée';1;22
+e;149898;'protérandrie';1;50
+e;203184;'lois de Mendel';1;50
+e;158591;'pommes de terre';1;400
+e;166608;'Orchidaceae';1;50
+e;280726;'Orchidacées';777;60
+e;15733;'Orchidées';1;50
+e;280571;'facteurs chimiques';777;50
+e;280570;'facteurs';777;2978
+e;267838;'facteurs abiotiques';1;50
+e;201688;'haie vive';1;50
+e;140178;'guêpes';1;76
+e;41693;'phytophage';1;82
+e;36294;'herbivore';1;232
+e;6288;'protogyne';1;50
+e;6138;'dichogame';1;50
+e;259621;'hermaphrodisme séquentiel';1;68
+e;247834;'hermaphrodisme successif';1;22
+e;110418;'pins';1;52
+e;234558;'pinus';1;50
+e;4932;'chimiotactisme';1;50
+e;96720;'chimiotaxie';1;50
+e;289;'pariétaire';1;50
+e;276490;'Gamberoussette';777;50
+e;276489;'Espargoule';777;50
+e;276488;'Casse-pierre';777;50
+e;276487;'Perce-muraille';777;50
+e;276486;'pariétaire officinale';777;50
+e;276438;'métabolites secondaires';777;52
+e;276437;'métabolites primaires';777;50
+e;42301;'guêpe';1;436
+e;89011;'Monocotylédones';1;50
+e;78140;'bosquet';1;254
+e;93396;'boqueteau';1;100
+e;114202;'pesticide';1;448
+e;104216;'autogamie';1;56
+e;275189;'autopollinisation';1;68
+e;5531;'patate';1;480
+e;123467;'spéléologue';1;154
+e;20762;'spéléologie';1;208
+e;274639;'pollution génétique';777;50
+e;2715;'gymnosperme';1;52
+e;230769;'haies';1;2105
+e;274407;'linceul de Turin';777;50
+e;270570;'suaire de Turin';666;50
+e;121687;'feuilles';1;3485
+e;118027;'hybride';1;130
+e;96004;'siphonogamie';1;50
+e;274261;'rhume banal';777;50
+e;274260;'nasopharyngite';777;50
+e;1402;'rhinopharyngite';1;64
+e;30589;'écologue';1;50
+e;42428;'saulaie';1;50
+e;150408;'saulée';1;50
+e;246991;'salix';1;50
+e;102836;'saule';1;84
+e;227752;'fumette';1;68
+e;39788;'marijuana';1;198
+e;273766;'chanvre récréatif';777;50
+e;80820;'cannabis';1;294
+e;109803;'épinard';1;120
+e;66846;'arbres';1;3006
+e;63192;'transports';1;2853
+e;152338;'Transport';1;2729
+e;13712;'transport';1;3449
+e;273209;'La haie vive';777;50
+e;273208;'la haie naturelle';777;50
+e;90470;'haie';1;148
+e;8008;'agriculteur';1;918
+e;273178;'apicultrice';777;50
+e;134048;'apiculteur';1;82
+e;14485;'castration';1;116
+e;23248;'Rosa';1;2151
+e;272968;'églantiers';777;50
+e;129899;'rosiers';1;50
+e;55249;'parfum';1;2176
+e;89929;'métabolite';1;80
+e;272322;'asteraceae';777;50
+e;272321;'Compositae';777;50
+e;83138;'zygote';1;68
+e;72964;'diploïde';1;62
+e;34030;'fécondation';1;548
+e;65149;'virus';1;2816
+e;13842;'figue';1;136
+e;34052;'conifère';1;116
+e;135737;'Tunisie';1;2680
+e;279946;'boulevard Haussmann';1;50
+e;96256;'bois';1;5220
+e;74103;'artichaut';1;102
+e;31864;'kiwi';1;258
+e;132757;'pomme de terre';1;1160
+e;12563;'reine';1;3404
+e;146632;'forêt';1;4583
+e;91046;'pluie';1;3480
+e;15220709;'en:speck of dust';1;0
+e;14928811;'en:dirt';1;0
+e;57444;'chaton';1;732
+e;52255;'arbre';1;5530
+e;1854152;'sexue';1;0
+e;116412;'dissémination';1;336
+e;14657124;'Dissémination';777;0
+e;59006;'herbacé';1;54
+e;39458;'hespérides';1;50
+e;32230;'gouttelette';1;66
+e;26083;'artificiellement';1;54
+e;17965;'faux bourdon';1;60
+e;135591;'poil';1;2680
+e;102345;'plaisir';1;3741
+e;190151;'negundo';1;50
+e;60911;'négundo';1;50
+e;83512;'marihuana';1;50
+e;137999;'marie-jeanne';1;56
+e;267635;'intéraction biotique';1;6
+e;249565;'interaction biotique';1;16
+e;267633;'interactions biotiques';1;10
+e;253181;'intéractions biotiques';1;2
+e;267640;'interactions biologiques';1;10
+e;267634;'interaction biologique';1;18
+e;141018;'rhume';1;798
+e;247128;'::>66:106844>0:135982';8;50;'allergie [contexte] persil'
+e;118763;'violette';1;246

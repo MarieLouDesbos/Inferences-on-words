@@ -1,0 +1,2426 @@
+e;eid;'name';type;w;'formated name'
+e;73126;'requin';1;654
+e;77424;'oeil';1;3276
+e;114327;'acide désoxyribonucléique';1;140
+e;16747;'adn';1;164
+e;142086;'jambe';1;3395
+e;107477;'nez';1;2903
+e;95422;'cou';1;1944
+e;225934;'oeil>330323';1;224;'oeil>organe de la vue'
+e;144846;'tête';1;5937
+e;116980;'squelette';1;1226
+e;34898;'pied';1;4548
+e;140715;'jambes';1;1549
+e;74846;'corps';1;5240
+e;139779;'ADN';1;1254
+e;26363;'bras';1;4155
+e;416329;'Nageoire';1;50
+e;422729;'Marteau';1;50
+e;14334765;'Récif';1;0
+e;65625;'récif';1;122
+e;137725;'Raie';1;50
+e;413795;'Taupe';1;50
+e;1890165;'Baleine';1;0
+e;11444;'Chabot';1;50
+e;139680;'chabot';1;50
+e;5677835;'Aquarium';1;0
+e;92601;'aquarium';1;180
+e;57611;'cétacé';1;262
+e;145384;'Tisserand';1;50
+e;8760;'tisserand';1;130
+e;54165;'plongeur';1;212
+e;12278978;'Prédateur';1;0
+e;10326817;'Lagon';1;0
+e;9420;'lagon';1;92
+e;5907170;'Museau';777;0
+e;71864;'museau';1;356
+e;419895;'Gueule';1;50
+e;139151;'Tigre';1;1400
+e;169612;'Scie';1;50
+e;3161436;'Citron';1;0
+e;10899765;'Dorsal';1;0
+e;71703;'dorsal';1;68
+e;1890176;'Lézard';1;0
+e;5895599;'Phoque';1;0
+e;77762;'phoque';1;112
+e;1648566;'Gang';1;0
+e;131577;'crustacé';1;486
+e;418938;'Crabe';1;50
+e;132425;'crabe';1;552
+e;10327242;'Morsure';1;0
+e;9946110;'Embryon';777;0
+e;92260;'embryon';1;242
+e;410189;'Dent';1;50
+e;16084372;'Gestation';1;0
+e;51617;'gestation';1;146
+e;431663;'Mangeur';1;50
+e;109337;'mangeur';1;106
+e;418694;'Crocodile';1;50
+e;110750;'crocodile';1;328
+e;2943928;'Crevette';1;0
+e;106607;'crevette';1;748
+e;409598;'Pèlerin';1;50
+e;81124;'pèlerin';1;90
+e;409765;'Anguille';1;50
+e;12975;'anguille';1;120
+e;131592;'Groenland';1;90
+e;422656;'groenland';1;50
+e;142850;'Renard';1;54
+e;1815142;'Îlot';1;0
+e;123196;'îlot';1;118
+e;69125;'Corail';1;50
+e;144463;'corail';1;160
+e;18585;'Pinocchio';1;78
+e;599594;'Lutin';1;0
+e;85355;'lutin';1;332
+e;141205;'Poisson';1;74
+e;131242;'nourrice';1;290
+e;1814737;'Morue';1;0
+e;67179;'morue';1;194
+e;92143;'Bornéo';1;78
+e;5785082;'bornéo';1;0
+e;16090442;'Vertébré';1;0
+e;94535;'baleinier';1;70
+e;397915;'Marlin';1;50
+e;82118;'marlin';1;72
+e;5813345;'Bordé';1;0
+e;144855;'bordé';1;56
+e;22251;'Cuvier';1;52
+e;140443;'cuvier';1;54
+e;2932583;'Proie';1;0
+e;419810;'Soupe';1;50
+e;423244;'Chimère';1;50
+e;115477;'chimère';1;200
+e;11286178;'Fossile';1;0
+e;54161;'fossile';1;162
+e;3294349;'Coquillage';1;0
+e;103028;'coquillage';1;698
+e;11993351;'Plongée';1;0
+e;53861;'plongée';1;903
+e;107473;'parage';1;52
+e;428313;'Foie';1;50
+e;138004;'Requiem';1;50
+e;20060;'requiem';1;56
+e;428687;'Brochet';1;50
+e;30458;'brochet';1;156
+e;152520;'Tournesol';1;754
+e;26026;'tournesol';1;248
+e;409974;'Clade';1;50
+e;75173;'clade';1;54
+e;15835490;'Carcasse';777;0
+e;125205;'carcasse';1;124
+e;425859;'Pêcheur';1;50
+e;143187;'pêcheur';1;454
+e;16090441;'Vertèbre';1;0
+e;143148;'Dauphin';1;869
+e;63235;'mammifère';1;3621
+e;142545;'Appât';1;50
+e;60098;'appât';1;262
+e;221290;'Mayo';1;50
+e;65401;'mayo';1;68
+e;432771;'Pêche';1;50
+e;78985;'spécimen';1;72
+e;30035;'Quint';1;1145
+e;146094;'quint';1;50
+e;2577247;'Filet';1;0
+e;42188;'filet';1;708
+e;3178807;'Chacal';777;0
+e;58705;'chacal';1;194
+e;5937321;'Pâture';1;0
+e;14614;'pâture';1;60
+e;416318;'Saumon';1;50
+e;3361;'saumon';1;432
+e;416844;'Radeau';1;50
+e;22546;'radeau';1;120
+e;52063;'fente';1;152
+e;77587;'invertébré';1;380
+e;419417;'Crash';1;50
+e;134651;'crash';1;270
+e;38625;'biologiste';1;200
+e;63887;'phylogénétique';1;2425
+e;10389;'Cornu';1;50
+e;144093;'cornu';1;66
+e;2321605;'Léopard';1;0
+e;32714;'léopard';1;346
+e;5628493;'Tortu';1;0
+e;51623;'tortu';1;50
+e;169558;'Dive';1;50
+e;83310;'dive';1;50
+e;65411;'osseux';1;178
+e;16550;'inoffensif';1;82
+e;15773868;'Océanique';777;0
+e;88065;'océanique';1;104
+e;92787;'trapu';1;74
+e;2525;'baleiner';1;50
+e;465601;'Rayer';1;50
+e;34859;'rayer';1;172
+e;88918;'poisser';1;72
+e;412771;'Pêcher';1;50
+e;26507;'pêcher';1;772
+e;1818057;'Nager';1;0
+e;20911;'nager';1;1388
+e;128683;'scier';1;388
+e;121301;'tigrer';1;70
+e;79895;'tacheter';1;58
+e;142138;'taupe';1;146
+e;137333;'tigre';1;1484
+e;15386;'citron';1;1102
+e;18280;'lézard';1;236
+e;41067;'gang';1;126
+e;8319;'renard';1;652
+e;117152;'soupe';1;1895
+e;122482;'soyeux';1;102
+e;21149;'dévorer';1;768
+e;14940408;'en:gnathostome';1;0
+e;14926182;'en:hood';1;0
+e;2583778;'requin d'estuaire';1;0
+e;2403785;'requin granuleux';1;0
+e;376238;'requin marsouin';1;50
+e;376239;'requin tapis';1;50
+e;376237;'requin bouclé';1;50
+e;2363421;'requin festonné';1;0
+e;2362545;'requin dormeur mexicain';1;0
+e;1223298;'requin renard commun';1;0
+e;1223300;'requin féroce';1;0
+e;1351187;'carcharhiniforme';1;0
+e;462524;'requin marteau lisse';777;50
+e;278822;'requin gris de récif';777;50
+e;292398;'requin du Zambèze';777;50
+e;2373314;'requin à collerettes';1;0
+e;2571767;'requin obèse';1;0
+e;2559558;'requin lutin';1;0
+e;2529558;'requin taupe du Pacifique';1;0
+e;2525248;'requin lézard';1;0
+e;2523319;'requin du Groenland';1;0
+e;2521410;'requin épineux';1;0
+e;215276;'raie manta';1;54
+e;391009;'célomate';1;50
+e;267642;'organisme animal';1;4
+e;87789;'coelomate';1;52
+e;391010;'coelomé';1;50
+e;2550145;'requin chagrin';1;0
+e;3762435;'ingrédient de recette de cuisine';1;2
+e;153478;'poisson de mer';1;88
+e;94791;'affairiste';1;76
+e;67048;'morale';1;3077
+e;2377644;'requin frangé';1;0
+e;49963;'carcharodon';1;52
+e;750886;'squale nain';777;0
+e;233138;'tête>390963';1;72;'tête>extrémité supérieure du corps'
+e;16110;'bouche';1;4340
+e;81934;'main';1;6788
+e;1351180;'carcharhinidé';1;0
+e;1223299;'requin taupe commun';1;0
+e;2372762;'requin-chat';1;0
+e;114984;'branchies';1;94
+e;95256;'queue';1;3266
+e;215758;'gueule>215755';1;14;'gueule>bouche animale'
+e;101938;'estomac';1;852
+e;109785;'peau';1;3979
+e;214601;'queue>214624>68467';1;18;'queue>queue d'animal>poisson'
+e;108463;'ventre';1;2056
+e;126285;'dos';1;2898
+e;77008;'yeux';1;4537
+e;96211;'coeur';1;2342
+e;240590;'arête>68467';1;18;'arête>poisson'
+e;152946;'arêtes';1;114
+e;47319;'colonne vertébrale';1;362
+e;219363;'corps>112609';1;190;'corps>anatomie'
+e;240720;'squelette>112609';1;152;'squelette>anatomie'
+e;1223297;'requin renard à gros yeux';1;0
+e;309325;'requin marteau à ailes blanches';777;50
+e;308583;'laimargue dormeur';777;50
+e;307072;'requin-limon faucille';777;50
+e;1223705;'requin-renard à gros yeux';777;0
+e;462523;'requin-marteau commun';777;50
+e;1553398;'requin-lutin';1;0
+e;256149;'requin cornu';1;50
+e;141480;'écaille';1;412
+e;77727;'gueule';1;706
+e;44160;'branchie';1;172
+e;221019;'bouche>112609';1;214;'bouche>anatomie'
+e;126388;'articulation';1;730
+e;154845;'sang froid';1;102
+e;579549;'lamniforme';1;0
+e;1675275;'requin grogneur';1;0
+e;1766279;'squatiniforme';1;0
+e;228806;'Les dents de la mer';666;50
+e;325657;'animal>117095>325656';1;46;'animal>zoologie>être animé non humain'
+e;143577;'accident';1;3096
+e;103906;'humanité';1;690
+e;332486;'chien espagnol>73126';1;50;'chien espagnol>requin'
+e;228836;'Gollum';666;32
+e;4891735;'animal dangereux';1;0
+e;145953;'visage';1;3047
+e;103311;'système nerveux';1;276
+e;83944;'nerf';1;858
+e;120157;'règne animal';1;102
+e;57875;'tube digestif';1;118
+e;228289;'sexe>218086';1;282;'sexe>organe sexuel'
+e;306594;'Euprotomicrus bispinatus';777;50
+e;305560;'requin-tigre';777;50
+e;580172;'ange de mer épineux';777;0
+e;115155;'foie';1;1393
+e;156488;'les dents de la mer';1;54
+e;152711;'nageoires';1;88
+e;222532;'houperou';1;50
+e;316850;'entité physique';1;50
+e;262763;'organisme marin';1;24
+e;13369;'être';1;3929
+e;12655;'danger';1;2869
+e;162052;'mangeur d'hommes';1;50
+e;120760;'disparition';1;2937
+e;122075;'Les Dents de la Mer';1;58
+e;155246;'poisson marin';1;78
+e;58768;'organisme';1;2509
+e;676912;'marteau>171870';1;0;'marteau>Nom:'
+e;16041501;'cétorhinidé';1;0
+e;75466;'brigand';1;138
+e;1655839;'requin-griset';1;0
+e;214178;'samoussa';1;12
+e;222595;'mâchoire>112609';1;56;'mâchoire>anatomie'
+e;381077;'squale de haute mer';1;50
+e;12843;'raie';1;196
+e;599865;'arnaqueur>171870';1;0;'arnaqueur>Nom:'
+e;1708781;'voleur>171870';1;0;'voleur>Nom:'
+e;241352;'ventre>112609';1;100;'ventre>anatomie'
+e;1125;'loup';1;2125
+e;390927;'tête>112609';1;72;'tête>anatomie'
+e;214315;'rapace>71721';1;52;'rapace>avide'
+e;1636805;'oeil>44335';1;50;'oeil>organe'
+e;236940;'estomac>112609';1;108;'estomac>anatomie'
+e;214630;'nageoire caudale';1;6
+e;332214;'vautour>262420';1;56;'vautour>personne avide'
+e;213644;'os>116980';1;404;'os>squelette'
+e;119845;'chorde';1;56
+e;595019;'corsaire>171870';1;0;'corsaire>Nom:'
+e;17428815;'::>66:73126>24:17423114';8;0;'requin [peut] tuer [objet] surfeur'
+e;439545;'rapace>171870';1;50;'rapace>Nom:'
+e;14338;'attaquer';1;1286
+e;14435565;'::>66:73126>24:14435563';8;0;'requin [peut] attaquer [objet] surfer'
+e;14571165;'::>66:2680>24:25239';8;0;'sang [peut] exciter'
+e;14571168;'::>66:2680>24:14571166';8;0;'sang [peut] exciter [objet] requin'
+e;14571171;'::>66:2680>24:14850';8;0;'sang [peut] attirer'
+e;14571174;'::>66:2680>24:14571172';8;0;'sang [peut] attirer [objet] requin'
+e;14894908;'::>66:73126>24:14894906';8;0;'requin [peut] attaquer [objet] nageur'
+e;15910088;'::>66:73126>24:15910086';8;0;'requin [peut] attaquer [objet] plongeur'
+e;8792816;'en:shark';1;0
+e;134536;'économie';1;2856
+e;64513;'mordre';1;604
+e;16390592;'::>66:73126>24:14469971';8;0;'requin [peut] attaquer [objet] surfeur'
+e;130164;'manger';1;10304
+e;16589851;'::>66:73126>24:16589849';8;0;'requin [peut] manger [objet] poisson'
+e;16595351;'::>66:73126>24:16595349';8;0;'requin [peut] mordre [objet] surfeur'
+e;7943;'tuer';1;4408
+e;17423110;'::>66:73126>24:17423108';8;0;'requin [peut] tuer [objet] nageur'
+e;17557450;'::>66:73126>24:17557448';8;0;'requin [peut] mordre [objet] nageur'
+e;17557453;'::>66:73126>24:17557451';8;0;'requin [peut] mordre [objet] baigneur'
+e;36886;'faune';1;2225
+e;326146;'système nerveux en position dorsale';1;56
+e;72426;'vautour';1;166
+e;51054;'rapace';1;430
+e;44625;'magouilleur';1;84
+e;265176;'ichthyologie';1;52
+e;116549;'forban';1;78
+e;39528;'maillet';1;64
+e;61835;'chair';1;2253
+e;68439;'individu';1;6128
+e;922540;'rapace>71721>171870';1;0;'rapace>avide>Nom:'
+e;1558022;'pirate>171870';1;0;'pirate>Nom:'
+e;135544;'morsure';1;322
+e;16414;'scie';1;490
+e;105567;'bandit';1;718
+e;74355;'margoulin';1;54
+e;406994;'Requin';1;50
+e;152125;'Zoologie';1;210
+e;32791;'arête';1;162
+e;142497;'corsaire';1;234
+e;232082;'ouïe>68467';1;6;'ouïe>poisson'
+e;152503;'ouie';1;86
+e;159130;'dent de requin';1;52
+e;155243;'appareil respiratoire';1;72
+e;152290;'machoire';1;218
+e;131593;'méchant';1;1170
+e;330964;'cordé>117095';1;36;'cordé>zoologie'
+e;260820;'entité vivante';1;64
+e;175647;'Ichthyologie';1;50
+e;7978;'lamie';1;54
+e;214602;'queue>214624';1;74;'queue>queue d'animal'
+e;113050;'cartilage';1;292
+e;215534;'cellule>35143';1;148;'cellule>biologie'
+e;91274;'dauphin';1;1486
+e;38485;'baleine';1;448
+e;16041727;'chlamydosélachidé';1;0
+e;146003;'risque';1;3474
+e;225786;'nageoire dorsale';1;14
+e;191301;'requin à pointes noires';1;50
+e;191287;'requin mako';1;2
+e;247057;'symétrie bilatérale';1;10
+e;117095;'zoologie';1;2392
+e;325301;'ptérygopode';666;50
+e;322706;'aileron de requin>117095';1;50;'aileron de requin>zoologie'
+e;171004;'requin taureau';1;50
+e;140238;'pirate';1;584
+e;15208;'corbeau';1;244
+e;258619;'ligne latérale';1;54
+e;74558;'os';1;3037
+e;18114;'escroquerie';1;246
+e;77389;'avarice';1;296
+e;16512;'gangster';1;136
+e;118762;'brigandeau';1;50
+e;222531;'houperon';1;2
+e;150449;'sélacien';1;50
+e;237445;'être>68439';1;32;'être>individu'
+e;396247;'individu>24956';1;134;'individu>être humain'
+e;133921;'dentition';1;430
+e;593476;'magouilleur>171870';1;0;'magouilleur>Nom:'
+e;50751;'ouïe';1;418
+e;329657;'choano-organisme';1;62
+e;261738;'viande>20965';1;408;'viande>nourriture'
+e;6474;'duper';1;188
+e;24956;'être humain';1;818
+e;244620;'être humain>74860';1;146;'être humain>homme'
+e;74082;'nageoire';1;316
+e;191290;'requin océanique';1;50
+e;234036;'être vivant>123933';1;258;'être vivant>entité'
+e;133362;'griset';1;52
+e;216169;'taupe de mer';1;2
+e;86046;'proie';1;438
+e;128439;'superprédateur';1;56
+e;171005;'requin baleine';1;8
+e;191264;'requin bleu';1;50
+e;191315;'requin-marteau';1;50
+e;219833;'aileron de requin';1;8
+e;65081;'organisme vivant';1;146
+e;225847;'organisme>71624';1;98;'organisme>être vivant'
+e;1483990;'être vivant non humain';1;4
+e;143669;'vertébrés';1;80
+e;233638;'mer>218698';1;244;'mer>étendue d'eau'
+e;171003;'requin pèlerin';1;4
+e;6069043;'rangées de dents';1;0
+e;11088;'requins';1;50
+e;6948577;'en:shark - fish';1;0
+e;171009;'requin pointe noire';1;50
+e;6069044;'rangée de dents';1;0
+e;11426;'roussette';1;84
+e;37211;'grand requin blanc';1;72
+e;145821;'requin d'eau douce';1;50
+e;232534;'poisson cartilagineux';1;46
+e;74860;'homme';1;28856
+e;151966;'mangeur d'homme';1;66
+e;144327;'arnaqueur';1;198
+e;108750;'poissons';1;2816
+e;64722;'chondrichtyen';1;68
+e;71539;'animaux';1;3421
+e;35143;'biologie';1;3428
+e;49293;'humain';1;3437
+e;171007;'requin nourrice';1;50
+e;216283;'dent>45311';1;284;'dent>dentaire'
+e;13115;'mâchoire';1;510
+e;61501;'hydrodynamique';1;52
+e;313839;'Iago';1;52
+e;171008;'requin gris';1;2
+e;191256;'chat marin';1;50
+e;191257;'émissolle';1;50
+e;191261;'mégalodon';1;52
+e;191269;'requin citron faucille';1;50
+e;191277;'requin dormeur du Pacifique';1;50
+e;191278;'requin dormeur nekozame';1;50
+e;191297;'requin à longue dorsale';1;50
+e;191299;'requin à nageoires rondes';1;50
+e;191307;'requin-chabot moine';1;50
+e;191314;'requin-crocodile';1;50
+e;38572;'ichtyophage';1;52
+e;307071;'requin-citron faucille';777;50
+e;289023;'requin-citron';777;50
+e;109880;'squaliformes';1;50
+e;155806;'requin marteau';1;60
+e;106845;'chondrichthyens';1;52
+e;168194;'petite roussette';1;50
+e;168167;'saumonette';1;50
+e;191267;'requin chasseur';1;50
+e;191275;'requin dormeur chabot';1;50
+e;191282;'requin du groenland';1;50
+e;191298;'requin à maquereaux';1;50
+e;191304;'requin-chabot camot';1;50
+e;191306;'requin-chabot grivelé';1;50
+e;191321;'requin-marteau tiburo';1;50
+e;191326;'requin-vache';1;50
+e;191327;'requin-zèbre';1;50
+e;53403;'émissole';1;50
+e;321755;'requin-renard commun';1;50
+e;145624;'pêche';1;2861
+e;48855;'carnivore';1;1566
+e;249428;'Les Dents de la mer';1;52
+e;213628;'aileron>74082';1;6;'aileron>nageoire'
+e;176035;'Vertebrata';1;50
+e;191268;'requin citron';1;4
+e;191293;'requin renard';1;50
+e;191303;'requin-chabot bambou';1;50
+e;191316;'requin-marteau aile blanche';1;50
+e;71624;'être vivant';1;1888
+e;233133;'animal>117095';1;836;'animal>zoologie'
+e;86640;'vertébré';1;904
+e;157283;'lieu>134218';1;268;'lieu>endroit'
+e;154719;'animal aquatique';1;84
+e;152629;'animal marin';1;244
+e;168166;'chat de mer';1;50
+e;191255;'carcharias taurus';1;50
+e;191262;'requin aveugle gris-bleu';1;50
+e;191265;'requin bouledogue';1;50
+e;191271;'requin dagsit';1;50
+e;191285;'requin longimane';1;50
+e;191294;'requin saumon';1;50
+e;191300;'requin à pointes';1;50
+e;191317;'requin-marteau cornu';1;50
+e;191330;'squalelet féroce';1;50
+e;262341;'vache>68467';1;2;'vache>poisson'
+e;170985;'mako';1;50
+e;213754;'roussette>73126';1;16;'roussette>requin'
+e;626;'peur';1;5423
+e;191266;'requin canal';1;50
+e;191274;'requin dormeur buffle';1;50
+e;191280;'requin dormeur zèbre';1;50
+e;191286;'requin léopard';1;50
+e;191289;'requin nain';1;50
+e;191308;'requin-chabot ocellé';1;50
+e;191309;'requin-chabot taches blanches';1;50
+e;191320;'requin-marteau planeur';1;50
+e;191328;'roussette maille';1;50
+e;24194;'ange de mer';1;50
+e;170943;'aiguillat noir';1;50
+e;60724;'centrine';1;50
+e;321423;'chien>191257';1;62;'chien>émissolle'
+e;292397;'requin-bouledogue';777;50
+e;262342;'chien espagnol';1;4
+e;17559;'animal';1;14017
+e;116477;'personne';1;10305
+e;225916;'personne>24956';1;720;'personne>être humain'
+e;248081;'chordé';1;226
+e;168181;'maraîche';1;50
+e;191283;'requin grande gueule';1;50
+e;191284;'requin griset';1;50
+e;191291;'requin perlon';1;50
+e;191302;'requin-chabot';1;50
+e;191311;'requin-chabot élégant';1;50
+e;191312;'requin-chabot épaulette';1;50
+e;101018;'gnathostome';1;84
+e;26469;'aiguillat';1;52
+e;191281;'requin dormeur à crête';1;50
+e;191296;'requin à aileron blanc';1;50
+e;191325;'requin-taupe commun';1;50
+e;7580;'chien de mer';1;54
+e;191258;'grand requin-marteau';1;50
+e;191259;'grande roussette';1;50
+e;191260;'monge gris';1;50
+e;191263;'requin babosse';1;50
+e;191270;'requin cuivre';1;50
+e;191276;'requin dormeur cornu';1;50
+e;191292;'requin pygmée';1;50
+e;191305;'requin-chabot gris';1;50
+e;191318;'requin-marteau halicorne';1;50
+e;255163;'aileron blanc du large';1;50
+e;324484;'émissole lisse';1;50
+e;321753;'renard>68467';1;50;'renard>poisson'
+e;391494;'lamie>73126';1;50;'lamie>requin'
+e;170988;'requin-taupe';1;2
+e;168198;'veau de mer';1;50
+e;191295;'requin zèbre';1;50
+e;191313;'requin-chat arlequin';1;50
+e;191319;'requin-marteau lisse';1;50
+e;191322;'requin-marteau à petits yeux';1;50
+e;191324;'requin-taupe bleu';1;52
+e;168159;'aiguillat commun';1;2
+e;321756;'renard de mer commun';777;50
+e;269928;'touille>73126';1;50;'touille>requin'
+e;173593;'chien-de-mer';1;2
+e;265164;'chondrichthyen';1;18
+e;171006;'requin tigre';1;32
+e;191272;'requin dormeur';1;4
+e;191273;'requin dormeur bouledogue';1;50
+e;191279;'requin dormeur taureau';1;50
+e;191288;'requin maquereau';1;50
+e;191310;'requin-chabot à taches bleues';1;50
+e;191323;'requin-marteau écope';1;50
+e;191329;'squalelet dentu';1;50
+e;265173;'élasmobranche';1;8
+e;115304;'deutérostomien';1;114
+e;264880;'bilatérien';1;80
+e;218940;'poisson>17559';1;590;'poisson>animal'
+e;264881;'crânié';1;56
+e;317281;'sélachimorphe';1;2
+e;142602;'cordé';1;112
+e;86460;'aileron';1;128
+e;317929;'olfactorien';1;40
+e;264908;'eumétazoaire';1;80
+e;265277;'crâniate';1;58
+e;102641;'voleur';1;2232
+e;325741;'choanobionte';1;76
+e;25019;'prédateur';1;584
+e;54794;'eucaryote';1;194
+e;325738;'filozoaire';1;84
+e;55823;'métazoaire';1;174
+e;325736;'holozoaire';1;60
+e;95659;'marteau';1;1321
+e;325731;'opisthoconte';1;76
+e;106404;'ichtyologie';1;128
+e;265220;'épineurien';1;20
+e;325728;'uniconte';1;42
+e;33822;'requin blanc';1;152
+e;60902;'dent';1;3454
+e;147184;'dents';1;2390
+e;15196;'blanc';1;4729
+e;135674;'squale';1;82
+e;9664;'océan';1;3202
+e;68467;'poisson';1;7106
+e;146105;'mer';1;9338
+e;239128;'_COM';36;50
+e;213337;'requin>102641';1;28;'requin>voleur'
+e;213336;'requin>68467';1;140;'requin>poisson'
+e;6947917;'en:vertebrata';1;0
+e;7256380;'en:zoology';1;0
+e;2586627;'Gender:Mas';4;0
+e;2586629;'Number:Sing';4;0
+e;146885;'Nom:Mas+SG';4;50
+e;171870;'Nom:';4;50
+e;2559317;'ichthyophage';1;0
+e;157284;'lieu>68467';1;58;'lieu>poisson'
+e;135190;'lieu';1;3861
+e;157007;'être>146885';1;50;'être>Nom:Mas+SG'
+e;101689;'être animé';1;50
+e;14049831;'organisme vivant pluricellulaire hétérotrophe';1;6
+e;14094383;'partie de l'espace';1;0
+e;14049840;'organisme vivant pluricellulaire';1;0
+e;14049844;'organisme vivant hétérotrophe';1;0
+e;10989716;'poisson prédateur';1;0
+e;12321907;'en:eukaryote';1;0
+e;1395235;'être>171870';1;0;'être>Nom:'
+e;2461482;'métazoaire supérieur';1;0
+e;394985;'poisson carnivore';1;52
+e;436570;'entité biologique';1;50
+e;2587876;'gésier>140176';1;0;'gésier>oiseau'
+e;221083;'dent>67368';1;62;'dent>mécanique'
+e;6798394;'en:neck';1;0
+e;15150534;'en:dorsal fin';1;0
+e;15088712;'en:caudal fin';1;0
+e;15047666;'en:alimentary canal';1;0
+e;464752;'cell';1;50
+e;249922;'système respiratoire';1;8
+e;6797233;'en:vertebra';1;0
+e;14917526;'en:deoxyribonucleic acid';1;0
+e;6825857;'en:cell';1;0
+e;5984733;'teeth';777;2
+e;6800353;'en:nervous system';1;0
+e;6842217;'en:intestine';1;0
+e;15076307;'en:breathing apparatus';1;0
+e;6841593;'en:dentition';1;0
+e;8535666;'en:digestive system';1;0
+e;53317;'appareil digestif';1;112
+e;8840643;'en:intestines';1;0
+e;12110435;'requin ag';1;0
+e;221034;'bras>112609';1;186;'bras>anatomie'
+e;213977;'bassin>112609';1;20;'bassin>anatomie'
+e;60152;'bassin';1;2996
+e;9023410;'en:teeth';1;0
+e;94431;'neck';1;52
+e;6853642;'en:stomach';1;0
+e;12791689;'acide désoxyribo-nucléique';1;0
+e;201174;'formule dentaire';1;52
+e;6822756;'en:respiratory system';1;0
+e;234743;'système digestif';1;40
+e;103057;'cellule';1;2923
+e;300981;'nageoire caudale hétérocerque';777;50
+e;398564;'mâchoires';1;50
+e;141814;'vertèbre';1;392
+e;22889;'intestin';1;608
+e;44659;'intestins';1;148
+e;271596;'intestine';1;50
+e;6069046;'peau rugueuse';1;0
+e;5685014;'nageoires pectorales';777;0
+e;65012;'eau';1;11220
+e;15080161;'en:animal kingdom';1;0
+e;364788;'monde animal';1;50
+e;7543661;'en:squaliformes';1;0
+e;6327608;'requin à nez noir';1;0
+e;6384334;'requin à sept branchies';1;0
+e;6396492;'requin de nuit';1;0
+e;6413858;'requin sombre';1;0
+e;12183790;'détermination de la présence de requin ac ige classification rast';1;0
+e;12183788;'mesure de requin ac ige';1;0
+e;13709287;'L'Attaque du requin à deux têtes';777;0
+e;14133734;'huile du foie de requin';1;0
+e;14724439;'requin de la finance';1;0
+e;6441933;'préparation d'huile de foie de requin';1;0
+e;12105022;'requin ac ige classification rast';1;0
+e;12105021;'requin ac ige';1;0
+e;2461905;'requin-hâ';1;0
+e;2489972;'requin-corail';1;0
+e;2377645;'requin-lézard';777;0
+e;9989724;'Le Fils du requin';777;0
+e;5635947;'Raie requin';777;0
+e;5906262;'mâchoiron requin';777;0
+e;5901772;'requin de récif';777;0
+e;5901857;'requin nourrice fauve';777;0
+e;12077034;'amputation des ailerons de requin';1;0
+e;2431218;'requin dormeur de Port-Jackson';1;0
+e;11233227;'Bébé requin';777;0
+e;2449444;'requin plat-nez';1;0
+e;5901814;'requin lancette';777;0
+e;5900051;'Gobie nez de requin';777;0
+e;17391056;'requin-aiguille';1;0
+e;17391058;'requin-mako';1;0
+e;5901811;'requin du Gange';777;0
+e;5901765;'requin obscur';777;0
+e;5901737;'requin soyeux';777;0
+e;11558518;'requin bécune';777;0
+e;16056598;'requin de sable';1;0
+e;13790779;'requin-bironche';1;0
+e;13779519;'requin-bouclé';1;0
+e;13766072;'requin-liche';1;0
+e;15445915;'requin-léopard';1;0
+e;13761618;'requin-pèlerin';1;0
+e;13797529;'requin-tisserand';1;0
+e;5832167;'Ananas requin';777;0
+e;5901961;'Petit requin taupe';777;0
+e;5901764;'requin requiem de sable';777;0
+e;5901588;'requin bordé';777;0
+e;16041813;'requin à tunique';1;0
+e;5565245;'requin argenté';1;0
+e;4099143;'requin-garou';1;0
+e;5901852;'requin sagrin';777;0
+e;5901701;'requin aveugle des roches';777;0
+e;2469737;'requin à museau obtus';1;0
+e;2470873;'requin à queue noire';1;0
+e;5559153;'barbu-requin';777;0
+e;5901709;'requin gracile';777;0
+e;5565273;'Barbu-requin';777;0
+e;10748138;'sauter par-dessus le requin';777;0
+e;14535409;'EP 7 45 tours Teenie Weenie Boppie / Bébé requin / Chanson pour que tu m'aimes un peu / Made In France';777;0
+e;16493046;'attaque de requin sur l'homme';1;0
+e;16596526;'Mâchoiron requin';777;0
+e;3574390;'requin-limon';1;0
+e;2419372;'requin pointes blanches du large';1;0
+e;2437878;'pilote du requin';1;0
+e;2533137;'requin-nourrice';1;0
+e;3361576;'darne de requin à l'échalote et au vin blanc';1;0
+e;2607099;'requin à pointes blanches de récif';777;0
+e;2470705;'requin-maquereau';1;0
+e;3306618;'huile de foie de requin';1;0
+e;4313838;'requin à deux têtes';1;0
+e;2324337;'requin-renard';1;0
+e;2572828;'requin-dormeur';1;0
+e;3369943;'steak de requin à la sauce au curry';1;0
+e;3366630;'pavés de requin à l'ail et à l'harissa';1;0
+e;3360636;'colombo coco de requin';1;0
+e;1655825;'raie requin';1;0
+e;2457365;'requin à pointes blanches';1;0
+e;345574;'cuir de requin';1;50
+e;340702;'bébé requin';1;50
+e;222550;'requin-baleine';1;50
+e;305450;'requin-taureau';777;50
+e;316984;'attaques de requin';1;50
+e;274517;'requin-taupe du Pacifique';777;50
+e;313980;'attaque de requin';1;50
+e;228779;'soupe d'ailerons de requin';1;50
+e;283567;'Le requin à pointes noires';777;50
+e;290485;'soupe aux ailerons de requin';777;50
+e;183412;'Océan Pacifique';1;52
+e;15107979;'en:Atlantic Ocean';1;0
+e;14948261;'en:Mediterranean Sea';1;0
+e;137865;'cours d'eau';1;508
+e;222815;'océan pacifique';1;86
+e;99342;'méditerranée';1;80
+e;222816;'océan atlantique';1;90
+e;69943;'fleuve';1;3454
+e;215971;'fleuve>137865';1;130;'fleuve>cours d'eau'
+e;153830;'anémone de mer';1;132
+e;242629;'mer tropicale';1;50
+e;14540522;'Mer Méditerranée';777;2
+e;10095780;'mer méditerranée';777;0
+e;159193;'océan Atlantique';1;142
+e;11813193;'Mer Rouge';777;0
+e;14951595;'en:Indian Ocean';1;0
+e;15082511;'en:fishing net';1;0
+e;11349105;'mare nostrum';777;0
+e;11349168;'Mare nostrum';777;0
+e;261962;'milieu marin';1;12
+e;183411;'Océan Indien';1;12
+e;159047;'bateau de pêche';1;104
+e;13001;'Mexique';1;3467
+e;145102;'Méditerranée';1;2776
+e;109752;'Philippines';1;2384
+e;119768;'Australie';1;3341
+e;52354;'Caraïbes';1;1345
+e;115136;'golfe Persique';1;96
+e;8922;'pacifique';1;1424
+e;143492;'Caraïbe';1;50
+e;173325;'océan Indien';1;58
+e;68925;'chambre froide';1;222
+e;173260;'mer Méditerranée';1;60
+e;173326;'océan Pacifique';1;118
+e;138184;'Pacifique';1;3115
+e;138622;'Atlantique';1;2459
+e;5029;'mer Rouge';1;86
+e;35801;'poissonnier';1;154
+e;154702;'filet de pêche';1;142
+e;10314012;'en:heterotroph';1;0
+e;52413;'carnassier';1;402
+e;222843;'solitaire>25090';1;82;'solitaire>seul'
+e;82844;'comestible';1;278
+e;22262;'solitaire';1;1763
+e;55222;'petit';1;4357
+e;23178;'grand';1;3852
+e;110732;'rapide';1;3402
+e;37816;'côtier';1;62
+e;153061;'pêché';1;54
+e;143272;'cuisiné';1;104
+e;12643;'attrapé';1;66
+e;232244;'photographié';1;84
+e;101887;'observé';1;1436
+e;53199;'disséqué';1;56
+e;162232;'mangé';1;66
+e;3030;'consommé';1;110
+e;11641;'tué';1;3210
+e;88199;'attiré';1;294
+e;39265;'excité';1;206
+e;99220;'hétérotrophe';1;68
+e;102934;'ovipare';1;150
+e;63536;'cartilagineux';1;56
+e;50889;'gris';1;2604
+e;77853;'parti';1;3770
+e;217380;'blanc>40056';1;208;'blanc>couleur'
+e;1384;'vivant';1;3307
+e;154501;'dangeureux';1;54
+e;330215;'bilatéralement symétrique';1;22
+e;105621;'vivipare';1;64
+e;94339;'ovovivipare';1;56
+e;153803;'gris clair';1;88
+e;55545;'pélagique';1;56
+e;11254520;'dangereux pour l'homme';1;0
+e;74514;'féroce';1;146
+e;122864;'mort';1;7245
+e;43222;'effrayant';1;292
+e;4652;'agressif';1;226
+e;101475;'en voie de disparition';1;56
+e;108476;'inquiétant';1;106
+e;2946906;'méchant>4652';1;14;'méchant>agressif'
+e;3293555;'agressif>91334';1;42;'agressif>agression'
+e;7785100;'dangereux>22326';1;18;'dangereux>menaçant'
+e;9221014;'attiré par le sang';1;0
+e;28466;'jeune';1;3734
+e;60448;'mâle';1;2485
+e;90186;'aperçu';1;154
+e;48510;'dangereux';1;2359
+e;3576104;'Morpho:nospace';18;50
+e;172435;'Langage:familier';18;50
+e;14916413;'Langue:français';18;50
+e;3575927;'Morpho:min';18;50
+e;16589436;'::>16:148387>29:16589432';8;0;'mettre en pièces [objet] personnes [avec] griffes'
+e;17423106;'::>13:73126>29:7943';8;0;'tuer [sujet] requin'
+e;43601;'se reproduire';1;502
+e;2442;'vivre';1;3276
+e;124600;'mourir';1;2755
+e;251694;'mourir>126720';1;238;'mourir>cesser de vivre'
+e;43253;'dormir';1;6576
+e;140318;'parler';1;4469
+e;259820;'vivre>160251';1;78;'vivre>être en vie'
+e;47918;'boire';1;4566
+e;78768;'chasser';1;1086
+e;47175;'terroriser';1;176
+e;33882;'se nourrir';1;436
+e;240789;'tuer>240788';1;182;'tuer>ôter la vie'
+e;10488;'roder';1;50
+e;239950;'mordre>135544';1;72;'mordre>morsure'
+e;33871;'bouger';1;808
+e;73827;'voler';1;3095
+e;115369;'arnaquer';1;198
+e;6681658;'manger>113902';1;138;'manger>alimentation'
+e;320218;'attaquer>104242';1;126;'attaquer>agresser'
+e;105814;'regarder';1;3656
+e;14435561;'::>13:73126>29:14338';8;0;'attaquer [sujet] requin'
+e;16168833;'::>13:73126>29:64513';8;0;'mordre [sujet] requin'
+e;157899;'::>16:147184>29:130164>13';9;50;'Qui pourrait manger avec des dents ?'
+e;327122;'::>16:147184>29:130164';8;50;'manger [avec] dents'
+e;16589847;'::>13:73126>29:130164';8;0;'manger [sujet] requin'
+e;17557448;'::>14:135893>29:64513';8;0;'mordre [objet] nageur'
+e;17557451;'::>14:68682>29:64513';8;0;'mordre [objet] baigneur'
+e;224422;'manger>113902>119570';1;206;'manger>alimentation>absorber'
+e;29690;'fuir';1;1766
+e;16604887;'::>31:16590527>29:20911';8;0;'nager [endroit] mer>Nom:Fem+SG'
+e;245869;'dévorer>130164';1;48;'dévorer>manger'
+e;213856;'voler>58321';1;176;'voler>malhonnêteté'
+e;17423114;'::>14:102187>29:7943';8;0;'tuer [objet] surfeur'
+e;17423117;'::>14:3082057>29:7943';8;0;'tuer [objet] surfeur>sport'
+e;17423122;'::>14:17423120>29:7943';8;0;'tuer [objet] surfeur>sport>vague'
+e;242894;'nager>11057832';1;34;'nager>se déplacer dans un liquide'
+e;14435563;'::>14:113068>29:14338';8;0;'attaquer [objet] surfer'
+e;14894906;'::>14:135893>29:14338';8;0;'attaquer [objet] nageur'
+e;16589849;'::>14:68467>29:130164';8;0;'manger [objet] poisson'
+e;16595349;'::>14:102187>29:64513';8;0;'mordre [objet] surfeur'
+e;15910086;'::>14:54165>29:14338';8;0;'attaquer [objet] plongeur'
+e;17423108;'::>14:135893>29:7943';8;0;'tuer [objet] nageur'
+e;14469971;'::>14:102187>29:14338';8;0;'attaquer [objet] surfeur'
+e;327472;'::>13:143187>29:26507';8;50;'pêcher [sujet] pêcheur'
+e;328596;'::>13:39621>29:26507';8;50;'pêcher [sujet] marin'
+e;212426;'::>13:143187>29:26507>14';9;50;'Qu'est-ce qu'un pêcheur pourrait pêcher ?'
+e;165681;'::>13:39621>29:26507>14';9;50;'Qu'est-ce qu'un marin pourrait pêcher ?'
+e;97571;'consommer';1;208
+e;139386;'observer';1;2150
+e;135582;'disséquer';1;86
+e;80199;'cuisiner';1;1890
+e;241775;'attraper>847';1;44;'attraper>capturer'
+e;106016;'photographier';1;372
+e;213544;'pêcher>78768';1;46;'pêcher>chasser'
+e;14571164;'::>13:2680>29:25239';8;0;'exciter [sujet] sang'
+e;14571170;'::>13:2680>29:14850';8;0;'attirer [sujet] sang'
+e;16043159;'en:commit something to memory';1;0
+e;16043160;'en:make a mental image of something';1;0
+e;24646;'attraper';1;838
+e;439411;'pêcher>146882';1;50;'pêcher>Ver:Inf'
+e;263833;'enlever la peau';1;54
+e;14571166;'::>14:73126>29:25239';8;0;'exciter [objet] requin'
+e;14571172;'::>14:73126>29:14850';8;0;'attirer [objet] requin'
+e;25239;'exciter';1;306
+e;14850;'attirer';1;284
+e;90830;'dégoût';1;852
+e;7040874;'en:generalized anxiety disorder';1;0
+e;82489;'frustration';1;548
+e;49337;'crainte';1;1530
+e;8559637;'en:fascination';1;0
+e;7029787;'en:hate';1;0
+e;49712;'appréhension';1;226
+e;15260040;'s'haïr';1;0
+e;1856173;'trouble anxieux généralisé';777;0
+e;15421811;'faire mal à [qqn]';1;0
+e;15298310;'faire mal à quelqu'un';1;0
+e;15238225;'faire mal à';1;0
+e;15582861;'en:hurt somebody';1;0
+e;15298311;'en:to hurt somebody';1;0
+e;56840;'faire souffrir';1;60
+e;55515;'fascination';1;142
+e;22264;'colère';1;2464
+e;17927;'haine';1;1984
+e;144681;'angoisse';1;1858
+e;60835;'terreur';1;1317
+e;20202;'tristesse';1;2622
+e;4552;'inquiétude';1;846
+e;23114;'anxiété';1;836
+e;120892;'méfiance';1;726
+e;103405;'indifférence';1;612
+e;32202;'phobie';1;526
+e;254876;'_POL-POS_PC';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;250116;'_INFO-SEM-PERS-MASC';36;50
+e;273221;'_INFO-WIKI-NO';36;50
+e;15991431;'_ANIME-YES';36;50
+e;1912917;'_INFO-COUNTABLE-YES';36;0
+e;162763;'_INFO-SEM-THING-CONCRETE';36;1238
+e;214534;'_INFO-MEANING-FIGURED';36;50
+e;162759;'_INFO-SEM-PLACE';36;504
+e;162761;'_INFO-SEM-PERS';36;732
+e;217817;'_INFO-POLYSEMIC';36;50
+e;191741;'_INFO-VOC-COMMON';36;50
+e;191669;'_INFO-SEM-LIVING-BEING';36;160
+e;254878;'_POL-NEG_PC';36;50
+e;2585996;'_INFO-CNRTL-YES';36;50
+e;223173;'_POL-POS';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;223172;'_POL-NEG';36;50
+e;15258258;'en:no swimming';1;0
+e;3232452;'Baignade interdite';777;0
+e;254656;'baignade interdite';1;24
+e;17423107;'::>66:73126>24:7943';8;0;'requin [peut] tuer'
+e;17428814;'::>66:73126>24:17423117';8;0;'requin [peut] tuer [objet] surfeur>sport'
+e;17428813;'::>66:73126>24:17423122';8;0;'requin [peut] tuer [objet] surfeur>sport>vague'
+e;16589848;'::>66:73126>24:130164';8;0;'requin [peut] manger'
+e;14435562;'::>66:73126>24:14338';8;0;'requin [peut] attaquer'
+e;14571173;'::>66:73126>26:14850';8;0;'requin [se faire] attirer'
+e;14571167;'::>66:73126>26:25239';8;0;'requin [se faire] exciter'
+e;16168834;'::>66:73126>24:64513';8;0;'requin [peut] mordre'
+e;102056;'mésembryanthème';1;50
+e;332219;'biju';1;50
+e;215360;'diplozoon';1;58
+e;319130;'Diplozoon';1;10
+e;7347;'espadon';1;62
+e;86754;'thon';1;586
+e;114950;'esturgeon';1;140
+e;30830;'hareng';1;146
+e;27834;'narval';1;56
+e;30812;'sardine';1;222
+e;140100;'viande';1;5108
+e;102187;'surfeur';1;76
+e;16844;'nage';1;1663
+e;60;'bleu';1;3449
+e;269911;'bleu gris';1;50
+e;107781;'bleuté';1;96
+e;64238;'noir';1;4408
+e;222644;'gris>40056';1;60;'gris>couleur'
+e;2339191;':r34293116';10;0
+e;8894594;':r2749318';10;0
+e;8968261;':r193854006';10;0
+e;9627729;':r216479279';10;0
+e;11955979;':r308513237';10;0
+e;15910089;':r414326861';10;0
+e;16165229;':r3166035';10;0
+e;2591206;':r12417593';10;0
+e;2591207;':r13619904';10;0
+e;2591210;':r54672479';10;0
+e;8539483;':r118988715';10;0
+e;8539542;':r118988577';10;0
+e;8539543;':r2481192';10;0
+e;8539544;':r2481185';10;0
+e;8761767;':r177339249';10;0
+e;9221015;':r209873848';10;0
+e;10844578;':r96713337';10;0
+e;11064374;':r2722225';10;0
+e;11254614;':r288433196';10;0
+e;2591205;':r560991';10;0
+e;2591208;':r13622005';10;0
+e;8747896;':r2984918';10;0
+e;9021091;':r24808439';10;0
+e;9271280;':r212801821';10;0
+e;9518081;':r213790376';10;0
+e;11064335;':r2810609';10;0
+e;14894909;':r389405104';10;0
+e;4489572;':r98700161';10;0
+e;9956083;':r96713382';10;0
+e;7927885;':r118988713';10;0
+e;8968262;':r193854011';10;0
+e;15843231;':r413244111';10;0
+e;1568388;':r11146722';10;0
+e;10830550;':r560993';10;0
+e;11388481;':r96713377';10;0
+e;16926235;':r449527742';10;0
+e;1568385;':r11123930';10;0
+e;1568386;':r11133401';10;0
+e;1568387;':r11140104';10;0
+e;1568395;':r2231386';10;0
+e;9730436;':r217812254';10;0
+e;10682419;':r1657015';10;0
+e;10682420;':r2765573';10;0
+e;443502;':r2441875';10;50
+e;443627;':r2441877';10;50
+e;1568390;':r10931884';10;0
+e;1568391;':r13885473';10;0
+e;1568392;':r13918611';10;0
+e;1568393;':r14028280';10;0
+e;1568394;':r13727700';10;0
+e;1568396;':r13979891';10;0
+e;1568389;':r11153343';10;0
+e;17260653;':r457337969';10;0
+e;4451592;':r97120720';10;0
+e;5847729;':r114054838';10;0
+e;15838411;':r2711736';10;0
+e;5880586;':r114447779';10;0
+e;9460515;':r212820823';10;0
+e;17422723;':r444977586';10;0
+e;17422731;':r145773972';10;0
+e;9485254;':r213925702';10;0
+e;15889272;':r414002126';10;0
+e;11314729;':r210451179';10;0
+e;11314731;':r96713383';10;0
+e;15660907;':r216479362';10;0
+e;6683286;':r118991897';10;0
+e;17165079;':r397060347';10;0
+e;17121049;':r96713379';10;0
+e;3328810;':r2441879';10;0
+e;3328812;':r658388';10;0
+e;3328811;':r658387';10;0
+e;1520954;':r23472437';10;0
+e;1794653;':r117500';10;0
+e;1922342;':r658422';10;0
+e;1922862;':r658417';10;0
+e;1971608;':r31778031';10;0
+e;1978006;':r28634761';10;0
+e;2317152;':r9076214';10;0
+e;2335100;':r34155048';10;0
+e;2336288;':r658392';10;0
+e;2339192;':r34293121';10;0
+e;2368678;':r50750701';10;0
+e;2370351;':r30170849';10;0
+e;2607096;':r55611938';10;0
+e;5394503;':r84865119';10;0
+e;5394684;':r84864281';10;0
+e;5395000;':r84864087';10;0
+e;8926463;':r84555604';10;0
+e;8927951;':r84558017';10;0
+e;16728217;':r439527789';10;0
+e;17558660;':r478490519';10;0
+e;17562357;':r478490478';10;0
+e;707410;':r658401';10;0
+e;721819;':r2374951';10;0
+e;750556;':r658425';10;0
+e;752075;':r658469';10;0
+e;752180;':r658470';10;0
+e;752181;':r658471';10;0
+e;1384512;':r658394';10;0
+e;1395631;':r658468';10;0
+e;1396779;':r658459';10;0
+e;1397008;':r658452';10;0
+e;1887793;':r2378264';10;0
+e;1922277;':r658426';10;0
+e;1922687;':r658449';10;0
+e;1922906;':r658427';10;0
+e;1923061;':r658429';10;0
+e;1977473;':r14040904';10;0
+e;3223274;':r77536298';10;0
+e;8958896;':r658391';10;0
+e;14645700;':r372224784';10;0
+e;751627;':r658455';10;0
+e;752752;':r658465';10;0
+e;753239;':r658458';10;0
+e;753384;':r658454';10;0
+e;753764;':r658451';10;0
+e;757220;':r658473';10;0
+e;766093;':r658466';10;0
+e;1395340;':r658428';10;0
+e;1563717;':r12392370';10;0
+e;1923647;':r658453';10;0
+e;1924026;':r658423';10;0
+e;1924089;':r658421';10;0
+e;1924493;':r658476';10;0
+e;751354;':r658460';10;0
+e;751776;':r658472';10;0
+e;751902;':r658464';10;0
+e;754130;':r658456';10;0
+e;762229;':r658467';10;0
+e;1056720;':r9345186';10;0
+e;1585400;':r658407';10;0
+e;5912650;':r115339509';10;0
+e;751492;':r658424';10;0
+e;751971;':r658406';10;0
+e;16379712;':r409563767';10;0
+e;10544856;':r217431456';10;0
+e;4483727;':r97415709';10;0
+e;4370876;':r97415172';10;0
+e;4368441;':r96729200';10;0
+e;4371584;':r97415180';10;0
+e;4371583;':r97415179';10;0
+e;4371582;':r97415178';10;0
+e;4371581;':r97415177';10;0
+e;4371580;':r97415176';10;0
+e;4371579;':r97415175';10;0
+e;4371578;':r97415174';10;0
+e;4371577;':r97415173';10;0
+e;4373273;':r2491566';10;0
+e;4387732;':r97416594';10;0
+e;4361764;':r97415711';10;0
+e;4356355;':r97416593';10;0
+e;4493731;':r98660958';10;0
+e;4357461;':r97415710';10;0
+e;6603448;':r119307424';10;0
+e;4408787;':r97416592';10;0
+e;1295262;':r1761471';10;0
+e;12208105;':r316524544';10;0
+e;16100915;':r204084582';10;0
+e;1053570;':r9111804';10;0
+e;1260784;':r1966595';10;0
+e;12825587;':r308547343';10;0
+e;13248012;':r134819';10;0
+e;13249436;':r133547';10;0
+e;14570222;':r212259965';10;0
+e;5865197;':r114209306';10;0
+e;9503832;':r211886336';10;0
+e;17125812;':r216406145';10;0
+e;5880587;':r114447786';10;0
+e;6589626;':r118988712';10;0
+e;17168646;':r447921981';10;0
+e;4374101;':r10004624';10;0
+e;17164499;':r396507099';10;0
+e;4371655;':r10004610';10;0
+e;8884258;':r10233256';10;0
+e;1886824;':r23151779';10;0
+e;3327714;':r23151888';10;0
+e;17407274;'en:ruthless person';1;0
+e;6069034;'bn:03784830n';444;0
+e;6069035;'bn:00203190n';444;0
+e;3784547;'dbnary:fra:__ws_1_requin__nom__1';444;0
+e;3808206;'dbnary:fra:__ws_2_requin__nom__1';444;0
+e;6221417;'umls:C0036941';444;0
+e;6069036;'bn:00070920n';444;0
+e;3445701;'bn:00070919n';444;0
+e;2983124;'_SW';36;50
+e;104789;'avocat';1;2551
+e;2680;'sang';1;3868
+e;234035;'être vivant>2442';1;4;'être vivant>vivre'
+e;3170279;'individu>25345';1;8;'individu>quidam'
+e;396249;'individu>64226';1;54;'individu>administration'
+e;396250;'individu>35143';1;56;'individu>biologie'
+e;4521231;'chien>24196';1;0;'chien>sex-appeal'
+e;242161;'chien>103119';1;52;'chien>dénigrement'
+e;2579453;'chien>99419';1;2;'chien>exécrable'
+e;2952624;'chien>13130';1;18;'chien>prostitué'
+e;321425;'chien>13701';1;50;'chien>technique'
+e;321424;'chien>143712';1;50;'chien>marine'
+e;216904;'chien>4768';1;6;'chien>tarot'
+e;214058;'chien>214057';1;60;'chien>pièce d'arme à feu'
+e;214059;'chien>63235';1;636;'chien>mammifère'
+e;396471;'vache>130358';1;50;'vache>alpinisme'
+e;2929190;'vache>77326';1;0;'vache>taciturne'
+e;2929191;'vache>94254';1;0;'vache>cartable'
+e;2929213;'vache>87729';1;0;'vache>jeu de cartes'
+e;396472;'vache>140100';1;72;'vache>viande'
+e;324817;'vache>141687';1;52;'vache>fromage'
+e;214303;'vache>131593';1;8;'vache>méchant'
+e;214304;'vache>17559';1;230;'vache>animal'
+e;225849;'organisme>86627';1;50;'organisme>organisation'
+e;396248;'individu>69012';1;50;'individu>statistique'
+e;221085;'dent>83213';1;50;'dent>animosité'
+e;221084;'dent>12831';1;50;'dent>montagne'
+e;216284;'dent>141611';1;6;'dent>pointe'
+e;247248;'os>29208';1;10;'os>matière'
+e;213645;'os>106738';1;2;'os>difficulté'
+e;225846;'organisme>332175';1;54;'organisme>ensemble des organes'
+e;3092030;'renard>128121';1;0;'renard>flatulence'
+e;3092062;'renard>105823';1;0;'renard>vomi'
+e;3092065;'renard>111235';1;0;'renard>métallurgie'
+e;3092066;'renard>98040';1;2;'renard>architecture'
+e;3092103;'renard>212380';1;0;'renard>tribu amérindienne'
+e;225848;'organisme>118203';1;52;'organisme>corps humain'
+e;237441;'être>85728';1;12;'être>exister'
+e;237443;'être>37229';1;66;'être>se trouver'
+e;236941;'estomac>71267';1;80;'estomac>courage'
+e;4308354;'aileron>98040';1;0;'aileron>architecture'
+e;4308355;'aileron>102118';1;0;'aileron>technologie'
+e;213629;'aileron>213630';1;50;'aileron>aile d'oiseau'
+e;226321;'aileron>95706';1;50;'aileron>automobile'
+e;213627;'aileron>5977';1;50;'aileron>gouverne'
+e;330963;'cordé>3674';1;50;'cordé>botanique'
+e;269929;'touille>61185';1;50;'touille>pelle'
+e;252260;'se faire baiser>53002';1;24;'se faire baiser>sexualité'
+e;242608;'renard>63235';1;14;'renard>mammifère'
+e;3286249;'espadon>108568';1;0;'espadon>homosexuel'
+e;239316;'se faire enculer>134288';1;10;'se faire enculer>sodomie'
+e;242609;'renard>109638';1;54;'renard>fourrure'
+e;242610;'renard>143712';1;50;'renard>marine'
+e;242612;'renard>115865';1;50;'renard>trou'
+e;242613;'renard>120982';1;50;'renard>crochet'
+e;321754;'renard>50698';1;50;'renard>indicateur'
+e;213753;'roussette>27724';1;4;'roussette>vin blanc'
+e;213751;'roussette>94990';1;50;'roussette>chauve-souris'
+e;213752;'roussette>140176';1;50;'roussette>oiseau'
+e;213756;'roussette>66326';1;50;'roussette>grenouille'
+e;214594;'espadon>5910';1;50;'espadon>épée'
+e;237444;'être>94160';1;62;'être>existence'
+e;267593;'se faire mettre>53002';1;52;'se faire mettre>sexualité'
+e;7634066;'Gollum>213110';1;0;'Gollum>Le Seigneur des anneaux'
+e;214595;'espadon>68467';1;54;'espadon>poisson'
+e;231261;'Le Monde de Nemo';1;24
+e;231889;'glossopètre';1;50
+e;228850;'Amity';666;2
+e;151702;'barrière de corail';1;66
+e;88843;'bouledogue';1;62
+e;1319;'aquariophile';1;50
+e;251551;'peur de l'eau';1;44
+e;46809;'touille';1;58
+e;39031;'cerveau';1;2776
+e;74193;'Dévonien';1;50
+e;138554;'Supérieur';1;50
+e;34933;'moyen';1;3582
+e;22514;'inférieur';1;2789
+e;34030;'fécondation';1;544
+e;272184;'haploïdes';777;50
+e;72964;'diploïde';1;62
+e;83138;'zygote';1;68
+e;272226;'déchets en mer';777;50
+e;272227;'déchets marins';777;50
+e;272228;'débris marins';777;50
+e;272331;'squales';777;50
+e;272332;'sélachimorphes';777;50
+e;272333;'Selachimorpha';777;50
+e;272334;'selachii';777;50
+e;272360;'Espèce';777;50
+e;51126;'cheveux';1;3421
+e;272361;'Yeux';777;50
+e;272362;'Entourage';777;50
+e;272363;'créé par';777;50
+e;225069;'L'Espion qui m'aimait';1;50
+e;273244;'Professeur Tryphon Tournesol';777;50
+e;100625;'vulnérable';1;106
+e;273446;'Manta birostris';777;50
+e;229568;'diable des mers';1;50
+e;273447;'manta géante';777;50
+e;273529;'Ostéichthyens';777;50
+e;265255;'poissons osseux';1;2
+e;273732;'-phobie';777;50
+e;273733;'-phobique';777;50
+e;133312;'-phobe';1;50
+e;122478;'anthropophobie';1;50
+e;274239;'Niels Stensen';777;50
+e;274240;'Nicolas Steno';777;50
+e;27948;'Nicolas Sténon';1;50
+e;75475;'ostéichthyens';1;56
+e;274389;'Chondrichthyes';777;50
+e;265177;'poissons cartilagineux';1;4
+e;274518;'Lamna ditropis';777;50
+e;274551;'Requin-chabot camot';777;50
+e;274552;'Chiloscyllium arabicum';777;50
+e;274649;'aquarium public';777;50
+e;59443;'chondrichtyens';1;52
+e;18648;'cladistique';1;58
+e;757;'cladisme';1;50
+e;127368;'pêche sportive';1;50
+e;274699;'acanthodiens';777;50
+e;274701;'Acanthodii';777;50
+e;167564;'classification phylogénétique';1;62
+e;274742;'anatomie des poissons';777;50
+e;274777;'Trouver Nemo';777;50
+e;274785;'Dunkleosteus';777;50
+e;113386;'mercure';1;1834
+e;213249;'morue de l'Atlantique';1;50
+e;274763;'Gadus morhua';777;50
+e;213250;'morue franche';1;50
+e;147012;'chiens';1;2044
+e;7705;'chienne';1;316
+e;273800;'quasi menacé';777;50
+e;278821;'Carcharhinus amblyrhynchos';777;50
+e;279346;'requins-renards';777;50
+e;279347;'renards de mer';777;50
+e;279348;'Alopiidés';777;50
+e;10343;'alopias';1;50
+e;279658;'méthylmercure';777;50
+e;255569;'méthyl-mercure';1;50
+e;280878;'remplacement dentaire';777;50
+e;280879;'polyphyodontie';777;50
+e;280880;'oligophyodontes';777;50
+e;280881;'diphyodontes';777;50
+e;106360;'monophyodonte';1;50
+e;154386;'papier de verre';1;86
+e;281120;'papier sablé';777;50
+e;209130;'toile émeri';1;50
+e;214171;'fish and chips';1;86
+e;281147;'fish supper';777;50
+e;105982;'Béhanzin';1;50
+e;282779;'Squaliolus laticaudus';777;50
+e;215238;'Half-Life';1;2
+e;283896;'Oeuil';777;50
+e;51470;'canin';1;162
+e;92459;'cétacés';1;62
+e;285922;'cetacea';777;50
+e;287473;'combinaison de natation';777;50
+e;289024;'Negaprion brevirostris';777;50
+e;290455;'Elasmobranchii';777;50
+e;19071;'sélaciens';1;50
+e;290764;'Stegostoma fasciatum';777;50
+e;290765;'stegostoma';777;50
+e;108363;'Megachasma pelagios';1;50
+e;176105;'cladogramme';1;50
+e;292109;'Carcharhinus longimanus';777;50
+e;292399;'Carcharhinus leucas';777;50
+e;255553;'vapeur de mercure';1;50
+e;250090;'récade';666;50
+e;293165;'Carcharhinus altimus';777;50
+e;71331;'diphyodonte';1;50
+e;20083;'cérébral';1;130
+e;25622;'Surabaya';1;50
+e;40148;'cuisine chinoise';1;370
+e;296325;'huit grandes cuisines régionales';777;50
+e;44969;'quenotte';1;64
+e;45079;'cervelle';1;212
+e;56505;'bionique';1;54
+e;65025;'galuchat';1;52
+e;67466;'quagga';1;50
+e;72472;'ciboulot';1;50
+e;76396;'diphyodontie';1;50
+e;78195;'Élasmobranches';1;50
+e;299224;'élasmobranches';777;50
+e;90356;'Bruce';1;2389
+e;300449;'mascottes dans la Ligue nationale de hockey';777;50
+e;92831;'badaboum';1;50
+e;94554;'encéphale';1;140
+e;96227;'roquet';1;52
+e;103325;'Nicaragua';1;62
+e;301349;'République du Nicaragua';777;50
+e;301774;'intoxication au mercure';777;52
+e;109225;'hydrargyrie';1;50
+e;113259;'renard de mer';1;50
+e;128842;'téléonomie';1;50
+e;164591;'cérébrale';1;76
+e;165295;'katana';1;50
+e;166713;'Supercopter';1;50
+e;138505;'Chien';1;50
+e;305451;'Carcharias tricuspidatus';777;50
+e;305561;'Galeocerdo cuvier';777;50
+e;305562;'Galeocerdo';777;50
+e;180075;'Le Trésor de Rackham le Rouge';1;50
+e;306599;'Isurus oxyrinchus';777;50
+e;306875;'aiguillat tacheté';777;50
+e;307068;'carcharodon megalodon';777;50
+e;307087;'Hexanchus nakamurai';777;50
+e;307088;'Hexanchus vitulus';777;50
+e;212908;'cuisine stir-fry';666;50
+e;272186;'En danger';777;50
+e;213237;'flétan de l'Atlantique';1;50
+e;307821;'Hippoglossus hippoglossus';777;50
+e;213238;'flétan blanc';1;50
+e;308224;'cerveau humain';1;52
+e;228452;'chiennes';1;92
+e;228571;'Lifou';1;50
+e;308433;'drehu';777;50
+e;308582;'Heteroscyllium colcloughi';777;50
+e;308584;'Somniosus pacificus';777;50
+e;308589;'Ctenacis fehlmanni';777;50
+e;309467;'Isistius plutodus';777;50
+e;279511;'données insuffisantes';777;50
+e;310049;'Heterodontus ramalheira';777;50
+e;313513;'oeil du cyclone';1;52
+e;261368;'cachalot macrocéphale';1;50
+e;114895;'cachalot';1;96
+e;321757;'Alopias vulpinus';777;50
+e;325289;'Ptérygopode';666;50
+e;330609;'Les Dents de la mer 2';777;50
+e;185653;'avoir les dents longues';1;28
+e;239317;'se faire enculer>115432';1;24;'se faire enculer>duperie'
+e;267592;'se faire mettre>164508';1;50;'se faire mettre>se faire avoir'
+e;252259;'se faire baiser>164508';1;2;'se faire baiser>se faire avoir'
+e;234726;'La Vie aquatique';1;50
+e;143454;'Chondrichtyens';1;52
+e;241127;'Tryphon Tournesol';666;6
+e;212886;'Professeur Tournesol';1;354
+e;265175;'ostéichtyen';1;14
+e;229604;'poisson osseux';1;28
+e;265174;'ostéichthyen';1;8
+e;329645;'ostéïchtyen';1;50
+e;144104;'couronne';1;2980
+e;391980;'glandes à sel';777;50
+e;394783;'Richard Kiel';777;50
+e;394977;'acanthodien';1;50
+e;412025;'Stegostoma';1;50
+e;262204;'pêche sous-marine';1;52
+e;465118;'pêche en plongée';777;50
+e;311481;'chasse sous-marine';777;50
+e;258992;'poisson d'élevage';1;58
+e;336578;'art océanien';1;50
+e;566255;'art d'Océanie';777;50
+e;225074;'Permis de tuer';1;2
+e;4505;'squaloïdes';1;50
+e;569783;'1-dent';777;50
+e;402987;'Alopias';1;50
+e;405747;'Chiloscyllium';1;50
+e;570145;'requins chabots';777;50
+e;405837;'Scyliorhinus';1;50
+e;406268;'Heteroscyllium';1;50
+e;406263;'Hemiscyllium';1;50
+e;406261;'Ctenacis';1;50
+e;406990;'Hexanchus';1;50
+e;407321;'Euprotomicrus';1;50
+e;407762;'Carcharias';1;50
+e;411477;'Cerveau';1;50
+e;414340;'Squaliolus';1;50
+e;427866;'Megachasma';1;50
+e;17229;'môle';1;54
+e;171002;'poisson lune';1;6
+e;19169;'intoxication par le mercure';1;50
+e;42414;'hydrargyrisme';1;50
+e;402170;'Oeil';1;50
+e;63365;'globe oculaire';1;66
+e;597481;'Carcharodon carcharias';777;0
+e;597501;'Carcharodon';1;0
+e;660874;'Îles Poulo-Condore';777;0
+e;18538;'Niels Steensen';1;50
+e;416464;'Stensen';1;50
+e;8516;'Sténon';1;50
+e;721883;'Centroscyllium';1;0
+e;753642;'Carcharhinus melanopterus';777;0
+e;462387;'Requin-taureau indien';777;50
+e;404160;'cérébraux';1;50
+e;1223633;'Odontaspis';1;0
+e;1224384;'Mustelus asterias';777;0
+e;1223288;'emissole tachetée';1;0
+e;1223706;'renard de mer à gros yeux';777;0
+e;1223707;'Alopias superciliosus';777;0
+e;8701;'ratiche';1;54
+e;1553399;'Mitsukurina owstoni';777;0
+e;1553400;'Mitsukurina';777;0
+e;101862;'Acanthodiens';1;50
+e;402351;'Caine';1;50
+e;1655818;'raie épineuse';1;0
+e;1655997;'Amblyraja radiata';777;0
+e;258998;'plat de poisson';1;92
+e;41393;'Lamna nasus';1;50
+e;1706247;'développement dentaire';777;0
+e;104042;'odontogenèse';1;50
+e;374153;'préoccupation mineure';1;50
+e;271516;'dent palatine';1;50
+e;1463156;'briouate';1;0
+e;56975;'océanographie';1;82
+e;313699;'::>66:116477>17:130608';8;50;'personne [carac] malhonnête'
+e;122455;'escroc';1;602
+e;322707;'aileron de requin>43125';1;50;'aileron de requin>gastronomie'
+e;185936;'donner dans le piège';1;50
+e;72565;'squalène';1;50
+e;159369;'::>13:137506>29:26507>14';9;50;'Qu'est-ce que quelqu'un pourrait pêcher ?'
+e;260644;'ne pas savoir nager';1;20
+e;327517;'::>13:137506>29:26507';8;50;'pêcher [sujet] quelqu'un'
+e;1814658;'Mancarroncito';777;0
+e;1814659;'Mancarrón';777;0
+e;65245;'San Fernando';1;52
+e;1814660;'La Venada';777;0
+e;1813803;'îles Infortunées';1;0
+e;412036;'Rote';1;50
+e;1814793;'Roti';1;0
+e;1845074;'spinacène';1;0
+e;1866009;'cuisine maltaise';1;0
+e;437430;'samossa';1;50
+e;1462970;':r2877107';10;0
+e;320585;'hydrargisme';1;50
+e;573968;'Écouter cet article';777;50
+e;330610;'Martin Brody';1;50
+e;2324272;'prédateur-proie';1;0
+e;2324526;'raies-guitares';777;0
+e;2324527;'guitares de mer';777;0
+e;2324528;'Rhinobatidae';777;0
+e;2324339;'raie-guitare';1;0
+e;2340900;'Requin-taureau';1;0
+e;264288;'signe de Babinski';1;52
+e;594059;'bloc de branche gauche';1;0
+e;1223387;'raie guitare';1;0
+e;2377646;'Chlamydoselachus anguineus';777;0
+e;2401767;'Fakarava';1;0
+e;2583367;'Havaiki-te-araro';777;0
+e;2408782;'guitare de mer';1;0
+e;2587668;'Carcharhinus tilstoni';1;0
+e;2426670;'Cadzand';1;0
+e;113981;'milandre';1;50
+e;2602392;'Galeorhinus galeus';777;0
+e;2443342;'cagnot';1;0
+e;2603329;'Notorynchus cepedianus';777;0
+e;2451038;'karankawa';1;0
+e;2605473;'Capoques';777;0
+e;2605474;'Coaques';777;0
+e;12046;'Cocos';1;52
+e;2605476;'Kohanis';777;0
+e;2601675;'Quasi menacé';777;0
+e;2607097;'Requin pointe blanche';777;0
+e;2607098;'Carcharhinus albimarginatus';777;0
+e;2459239;'cachalot pygmée';1;0
+e;2607323;'Kogia breviceps';777;0
+e;2462732;'émissole tachetée';1;0
+e;2473618;'sagre commun';1;0
+e;2486625;'faux requin-chat';1;0
+e;2793688;'Oxynotus bruniensis';777;0
+e;2503222;'centrine aiguille';1;0
+e;2911606;'laimargue du Groenland';777;0
+e;2911607;'Somniosus microcephalus';777;0
+e;2359865;'ange de mer commun';1;0
+e;2923697;'Îles Solentiname';777;0
+e;2537881;'baie des Anges';1;0
+e;2933608;'Roussettes';777;0
+e;2933643;'Requin aveugle gris-bleu';777;0
+e;2923199;'Données insuffisantes';777;0
+e;2872080;'Préoccupation mineure';777;0
+e;397907;'Hai';1;50
+e;2936965;'HAI';777;0
+e;2937690;'Carcharias taurus';777;0
+e;66263;'olfaction';1;78
+e;110902;'odorat';1;750
+e;237915;'système olfactif';1;50
+e;3180300;'Flétan de l'Atlantique';777;0
+e;3180355;'Requin dormeur du Pacifique';777;0
+e;3180356;'Laimargue dormeur';777;0
+e;3181930;'Requin-renard commun';777;0
+e;2571873;'Galeus';1;0
+e;149622;'perlon';1;52
+e;320255;'grand cachalot';1;50
+e;3223276;'Requin à pointes blanches de récif';777;0
+e;3236958;'faucheur>68467';1;0;'faucheur>poisson'
+e;405232;'céto';1;50
+e;570114;'Cétus';777;50
+e;3314787;'Requin Plat-nez';777;0
+e;1655616;'hémiscyllidé';1;0
+e;72888;'piranha';1;70
+e;3306217;'Requin dormeur';777;0
+e;3323159;'Requin dagsit';777;0
+e;3307948;'Requin dormeur à crête';777;0
+e;3180202;'Requin dormeur cornu';777;0
+e;3180207;'Requin dormeur zèbre';777;0
+e;3396208;'Petit Cachalot';777;0
+e;3159829;'Requin-chabot moine';777;0
+e;3159867;'Requin-marteau cornu';777;0
+e;3159831;'Requin-chabot épaulette';777;0
+e;3159796;'Requin-chabot à taches bleues';777;0
+e;3159838;'Requin-chabot ocellé';777;0
+e;3159825;'Requin-chabot gris';777;0
+e;3159847;'Requin-marteau à petits yeux';777;0
+e;3159860;'Requin-chabot élégant';777;0
+e;3159828;'Requin-chabot bambou';777;0
+e;2933638;'Requin-marteau planeur';777;0
+e;3446011;'Centrophorus squamosus';777;0
+e;3446329;'Squale-chagrin de l'Atlantique';777;0
+e;3446546;'Sharkenstein';1;0
+e;2926921;'Requin-chabot grivelé';777;0
+e;279513;'Requin-marteau écope';777;50
+e;14986;'nécrophagie';1;58
+e;2358292;'humantin';1;0
+e;3565723;'Centrine aiguille';777;0
+e;2360144;'squale savate';1;0
+e;94344;'zygène';1;50
+e;150627;'squatine';1;50
+e;3159827;'Requin-marteau tiburo';777;0
+e;85577;'filou';1;142
+e;2547152;'requin-marteau à festons';1;0
+e;140121;'cancer';1;2807
+e;231103;'Némo';1;4
+e;135350;'crapule';1;194
+e;120600;'faucheur';1;56
+e;214536;'se faire enculer';1;26
+e;243884;'se faire mettre';1;6
+e;19356;'sexe';1;5768
+e;4455;'chien';1;5715
+e;138501;'vache';1;2726
+e;161255;'se faire baiser';1;92
+e;4334536;'art d';777;0
+e;4340412;'Les Dents de la mer II';777;0
+e;1800956;'alcool chimylique';1;0
+e;59402;'chinois';1;3403
+e;5058194;'roussette>146881';1;0;'roussette>Nom:Fem+SG'
+e;120897;'Heterodontus';1;50
+e;580202;'Squatina africana';777;0
+e;416388;'Lamna';1;50
+e;412588;'Negaprion';1;50
+e;407317;'Isurus';1;50
+e;753514;'Scyliorhinus retifer';777;0
+e;406265;'Somniosus';1;50
+e;3576149;'Centrophorus granulosus';777;0
+e;2815027;'Eridacnis radcliffei';777;0
+e;580189;'Squatina californica';777;0
+e;580179;'Squatina argentina';777;0
+e;2618513;'Eridacnis';1;0
+e;2609448;'Eridacnis barbouri';777;0
+e;5538469;'analyse à trois éléments';777;0
+e;5538470;'analyse à trois taxons';777;0
+e;5559217;'Mola mola';777;0
+e;6926;'poisson-lune';1;50
+e;5620490;'ikan goreng';777;0
+e;5625807;'Piranha';1;0
+e;5627686;'Squalus acanthias';777;0
+e;5627716;'Cetorhinus maximus';777;0
+e;73247;'colombo';1;84
+e;5534862;'Mise en garde médicale';777;0
+e;265371;'hákarl';1;50
+e;5892822;'Canis lupus familiaris';777;0
+e;83193;'ovoviviparité';1;50
+e;5899842;'Rhincodon';777;0
+e;5899843;'Rhincodon typus';777;0
+e;5900372;'Epalzeorhynchos bicolor';777;0
+e;5900373;'Epalzeorhynchus bicolor';777;0
+e;5900374;'labeo bicolor';777;0
+e;2608106;'En danger critique d'extinction';777;0
+e;5900594;'Triakidae';777;0
+e;5900920;'Stegostomatidae';777;0
+e;5900923;'Isistius brasiliensis';777;0
+e;5901023;'Megachasmidae';777;0
+e;5901045;'Alopiidae';777;0
+e;5901049;'Teng 1962';777;0
+e;5839082;'Non valide';777;0
+e;5901189;'Aculeola';777;0
+e;5901190;'Aculeola nigra';777;0
+e;5901191;'squale noir';777;0
+e;5901193;'Trigonognathus';777;0
+e;5901194;'Trigonognathus kabeyai';777;0
+e;5901196;'Miroscyllium';777;0
+e;5901197;'Miroscyllium sheikoi';777;0
+e;5618625;'D'autres articles audio';777;0
+e;5901455;'Mitsukurinidae';777;0
+e;5901700;'Brachaelurus waddi';777;0
+e;5901708;'Carcharhinus amblyrhynchoides';777;0
+e;5901713;'Carcharhinus amboinensis';777;0
+e;5901714;'Requin balestrine';777;0
+e;5901719;'Carcharhinus borneensis';777;0
+e;5901720;'Requin de Bornéo';777;0
+e;5901722;'Carcharhinus brevipinna';777;0
+e;5901723;'Requin tisserand';777;0
+e;5901727;'Carcharhinus cautus';777;0
+e;5901728;'Requin nerveux';777;0
+e;5901732;'Carcharhinus dussumieri';777;0
+e;5901734;'Requin à joues blanches';777;0
+e;5901743;'Carcharhinus fitzroyensis';777;0
+e;5901744;'Requin baleinier';777;0
+e;5901751;'Carcharhinus hemiodon';777;0
+e;5901752;'requin-baliai';777;0
+e;5901775;'Carcharhinus sealei';777;0
+e;5901810;'Glyphis gangeticus';777;0
+e;5901818;'Gollum attenuatus';777;0
+e;5901819;'Requin-chat gollum';777;0
+e;5901827;'Heptranchias';777;0
+e;5901828;'Heptranchias perlo';777;0
+e;5901834;'Brachaelurus colcloughi';777;0
+e;5901843;'Isogomphodon';777;0
+e;5901844;'Isogomphodon oxyrhynchus';777;0
+e;5901850;'Loxodon';777;0
+e;5901851;'Loxodon macrorhinus';777;0
+e;5901860;'Negaprion acutidens';777;0
+e;2606728;'Notorynchus';1;0
+e;5901956;'Odontaspididae';777;0
+e;5901960;'Isurus paucus';777;0
+e;5901966;'Scoliodon';777;0
+e;5901967;'Scoliodon laticaudus';777;0
+e;5901968;'Carcharias laticaudus';777;0
+e;5901969;'Triaenodon';777;0
+e;5901980;'Apristurus';777;0
+e;5902032;'Aulohalaelurus';777;0
+e;5902069;'Halaelurus';777;0
+e;5902072;'Haploblepharus';777;0
+e;5902074;'Holohalaelurus';777;0
+e;5902075;'Parmaturus';777;0
+e;5902078;'Poroderma';777;0
+e;5902081;'Schroederichthys';777;0
+e;5902123;'Pseudoginglymostoma';777;0
+e;5902124;'Dingerkus 1986';777;0
+e;5902125;'Pseudoginglymostoma brevicaudatum';777;0
+e;5902126;'Requin nourrice à queue courte';777;0
+e;5902131;'Carcharhinus porosus';777;0
+e;5902132;'Requin tiqueue';777;0
+e;5902153;'Heteroscymnoides';777;0
+e;5902154;'Heteroscymnoides marleyi';777;0
+e;5902155;'squale mignon';777;0
+e;5902157;'Mollisquama';777;0
+e;5902158;'Mollisquama parini';777;0
+e;5902346;'Squatina dumeril';777;0
+e;5902349;'Ange de mer de sable';777;0
+e;5902382;'Ange de mer de l'Atlantique';777;0
+e;5902796;'Rhinobatos productus';777;0
+e;5902798;'raie guitare maculée';777;0
+e;5903184;'Sphyrna couardi';777;0
+e;5906287;'Etmopterus spinax';777;0
+e;5906339;'Carcharhinus leiodon';777;0
+e;5906388;'Scymnorhinus';777;0
+e;5906830;'Isistius labialis';777;0
+e;5906845;'Pristiophorus nudipinnis';777;0
+e;5904031;'requin-scie';1;0
+e;5907165;'Chiloscyllium burmensis';777;0
+e;5907166;'Chiloscyllium confusum';777;0
+e;5907172;'Chiloscyllium hasseltii';777;0
+e;5907223;'Apristurus japonicus';777;0
+e;5907224;'holbiche japonaise';777;0
+e;5907207;'Milandre belette';777;0
+e;5901845;'Lamiopsis';777;0
+e;5901808;'Requin-nourrice atlantique';777;0
+e;5901798;'Requin-carpette chat';777;0
+e;5901788;'Requin-carpette à moustache';777;0
+e;5901759;'Requin à nez rude';777;0
+e;5901703;'Requin nez noir';777;0
+e;3183399;'Pristiure à bouche noire';777;0
+e;5903568;'Chien de mer de corail';777;0
+e;5907257;'Chien de mer marbré';777;0
+e;5907253;'chien tasmanien ou chien de mer de Tasmanie';777;0
+e;5907238;'Apristurus platythynchus';777;0
+e;5907201;'Milandre jaune';777;0
+e;5907192;'Hemigaleus microstama';777;0
+e;5905939;'Squale-grogneur chien';777;0
+e;5901748;'Requin des Galápagos';777;0
+e;5902116;'requin-tapis';777;0
+e;5907189;'Rhizoprionodon terranovae';777;0
+e;5903021;'régime sans poisson';1;0
+e;5902411;'Ange de mer nébuleux';777;0
+e;5940805;'Akula';777;0
+e;5943074;'sous-marins de la marine soviétique puis de la marine russe';777;0
+e;5949067;'Halaelurus quagga';777;0
+e;5949077;'Galeus eastmani';777;0
+e;5949099;'Haploblepharus pictus';777;0
+e;5949100;'Roussette sombre';777;0
+e;5949086;'Galeus piperatus';777;0
+e;5949090;'Galeus sauteri';777;0
+e;5949092;'Galeus schulzi';777;0
+e;5949094;'Galeus springeri';777;0
+e;5949096;'Haploblepharus edwardsii';777;0
+e;5949101;'Holohalaelurus punctatus';777;0
+e;5949102;'Holohalaelurus regani';777;0
+e;5949105;'Parmaturus macmillani';777;0
+e;5949108;'Parmaturus pilosus';777;0
+e;5949111;'Pentanchus profundicolus';777;0
+e;5949112;'Poroderma africanum';777;0
+e;5949114;'Poroderma pantherinum';777;0
+e;5949117;'Schroederichthys bivius';777;0
+e;5949120;'Schroederichthys maculatus';777;0
+e;5949121;'Schroederichthys saurisqualus';777;0
+e;5949122;'Schroederichthys tenuis';777;0
+e;5949123;'Scyliorhinus besnardi';777;0
+e;5949125;'Scyliorhinus capensis';777;0
+e;5949128;'Scyliorhinus garmani';777;0
+e;5949129;'Scyliorhinus haeckelii';777;0
+e;5949130;'Scyliorhinus hesperius';777;0
+e;5949133;'Scyliorhinus torazame';777;0
+e;5949134;'Scyliorhinus torrei';777;0
+e;5949137;'émissole gommée';777;0
+e;5949136;'Mustelus antarcticus';777;0
+e;5949139;'Mustelus californicus';777;0
+e;5949140;'Mustelus canis';777;0
+e;5949141;'Mustelus dorsalis';777;0
+e;5949153;'Mustelus fasciatus';777;0
+e;5949155;'Mustelus griseus';777;0
+e;5949156;'Mustelus henlei';777;0
+e;5949157;'Mustelus higmani';777;0
+e;5949159;'Mustelus lenticulatus';777;0
+e;2683036;'Mustelus manazo';777;0
+e;5949164;'Mustelus mento';777;0
+e;5949167;'Mustelus mosis';777;0
+e;5949169;'Mustelus palumbes';777;0
+e;5949174;'Mustelus sinusmexicanus';777;0
+e;5949175;'Mustelus whitneyi';777;0
+e;5949182;'Triakis maculata';777;0
+e;5949184;'Triakis megalopterus';777;0
+e;5949185;'Triakis scyllium';777;0
+e;5949189;'Chlamydoselachus bracheri';777;0
+e;5949192;'Chlamydoselachus gracilis';777;0
+e;5949193;'Chlamydoselachus goliath';777;0
+e;5949196;'Chlamydoselachus lawleyi';777;0
+e;5949197;'Chlamydoselachus thomsoni';777;0
+e;5949198;'Chlamydoselachus tobleri';777;0
+e;5949200;'Pristiophorus schroederi';777;0
+e;5949202;'Pristiophorus japonicus';777;0
+e;5907258;'Halaelurus boesemani';777;0
+e;5949056;'Halaelurus buergeri';777;0
+e;5949061;'Halaelurus immaculatus';777;0
+e;5949063;'Halaelurus lineatus';777;0
+e;5949065;'Halaelurus natalensis';777;0
+e;5949069;'Galeus antillensis';777;0
+e;5949071;'Galeus arae';777;0
+e;5949072;'Figaro boardmani';777;0
+e;5949075;'Galeus cadenati';777;0
+e;5949078;'Galeus mincaronei';777;0
+e;5907158;'Parascyllium collare';777;0
+e;5907159;'Parascyllium ferrugineum';777;0
+e;5907160;'Parascyllium sparsimaculatum';777;0
+e;5949082;'Galeus murinus';777;0
+e;5907173;'Orectolobus japonicus';777;0
+e;5907177;'Orectolobus wardi';777;0
+e;5907181;'Rhizoprionodon lalandii';777;0
+e;5907185;'Rhizoprionodon oligolinx';777;0
+e;5907186;'Rhizoprionodon porosus';777;0
+e;5907187;'Rhizoprionodon taylori';777;0
+e;5907190;'Chaenogaleus macrostoma';777;0
+e;5907195;'Hemipristis elongata';777;0
+e;5907198;'Paragaleus leucolomatus';777;0
+e;5907203;'Paragaleus randalli';777;0
+e;5907205;'Paragaleus tengi';777;0
+e;5907210;'Leptocharias smithii';777;0
+e;5907213;'Proscyllium venustum';777;0
+e;5907216;'Apristurus canutus';777;0
+e;5907217;'Apristurus herklotsi';777;0
+e;5907220;'Apristurus indicus';777;0
+e;5907225;'Apristurus kampae';777;0
+e;5907226;'Apristurus laurussonii';777;0
+e;5907233;'Apristurus nasutus';777;0
+e;5907241;'Apristurus riveri';777;0
+e;5907245;'Apristurus sibogae';777;0
+e;5907247;'Apristurus spongiceps';777;0
+e;5907249;'Apristurus stenseni';777;0
+e;5907250;'Asymbolus analis';777;0
+e;5907252;'Asymbolus vincenti';777;0
+e;2602613;'Galeorhinus';1;0
+e;5901952;'Gogolia';777;0
+e;5901965;'Nasolamia';777;0
+e;5901970;'Rhizoprionodon';777;0
+e;5901048;'Hexanchus griseus';777;0
+e;5902018;'Asymbolus';777;0
+e;5902026;'Atelomycterus';777;0
+e;5902077;'Pentanchus';777;0
+e;5902088;'Furgaleus macki';777;0
+e;5902086;'Furgaleus';777;0
+e;5902092;'Paragaleus';777;0
+e;5902093;'Hemipristis';777;0
+e;5902094;'Hemigaleus';777;0
+e;5902095;'Chaenogaleus';777;0
+e;5902115;'Orectolobus';777;0
+e;5906379;'Centroselachus crepidater';777;0
+e;5902140;'Cirrhigaleus';777;0
+e;2598150;'Centroscymnus';1;0
+e;5902142;'Scymnodalatias';777;0
+e;5902144;'Scymnodon';777;0
+e;5901187;'Squalus blainville';777;0
+e;5627976;'Squalus';1;0
+e;5902407;'Squatina japonica';777;0
+e;5902408;'Squatina nebulosa';777;0
+e;5902424;'Squatina tergocellatoides';777;0
+e;5901589;'Carcharhinus sorrah';777;0
+e;5903566;'Atelomycterus marmoratus';777;0
+e;5903570;'Apristurus macrorhynchus';777;0
+e;5903572;'Apristurus profundorum';777;0
+e;5903576;'Bythaelurus dawsoni';777;0
+e;5901746;'Carcharhinus galapagensis';777;0
+e;5901758;'Carcharhinus macloti';777;0
+e;5901787;'Cirrhoscyllium expolitum';777;0
+e;5901796;'Cirrhoscyllium japonicum';777;0
+e;5901802;'Cirrhoscyllium';777;0
+e;5901813;'Glyphis glyphis';777;0
+e;5901816;'Gogolia filewoodi';777;0
+e;5901823;'Hemitriakis japanica';777;0
+e;5901825;'Hemitriakis leucoperiptera';777;0
+e;5901840;'Iago garricki';777;0
+e;5905938;'Scymnodalatias sherwoodi';777;0
+e;5901854;'Nasolamia velox';777;0
+e;5901856;'Nebrius ferrugineus';777;0
+e;5901855;'Nebrius';777;0
+e;5901908;'Brachaelurus';777;0
+e;5901933;'Deania quadrispinosum';777;0
+e;5904494;'Glyphis';1;0
+e;5901951;'Triakis';777;0
+e;5906378;'Centroselachus';777;0
+e;5901949;'Parascyllium';777;0
+e;5901950;'Hemitriakis';777;0
+e;5949131;'Scyliorhinus meadi';777;0
+e;5949165;'Mustelus minicanis';777;0
+e;5949170;'Mustelus punctulatus';777;0
+e;5907169;'Chiloscyllium dolganovi';777;0
+e;5907178;'Rhizoprionodon acutus';777;0
+e;5907234;'Apristurus parvipinnis';777;0
+e;5907242;'Apristurus saldanha';777;0
+e;5902083;'Scylliogaleus';777;0
+e;5949098;'Haploblepharus fuscus';777;0
+e;5949104;'Parmaturus campechiensis';777;0
+e;5949116;'Poroderma variegatum';777;0
+e;5949119;'Schroederichthys chilensis';777;0
+e;5949124;'Scyliorhinus boa';777;0
+e;5949126;'Scyliorhinus cervigoni';777;0
+e;5949172;'Mustelus schmitti';777;0
+e;5949176;'Scylliogaleus quecketti';777;0
+e;5949059;'Halaelurus hispidus';777;0
+e;5906986;'Squatina armata';777;0
+e;5907164;'Parascyllium variolatum';777;0
+e;5907200;'Paragaleus pectoralis';777;0
+e;5907214;'Apristurus atlanticus';777;0
+e;407760;'Carcharhinus';1;50
+e;5902389;'Squatina formosa';777;0
+e;5902404;'Squatina guggenheim';777;0
+e;5949195;'Chlamydoselachus fiedleri';777;0
+e;5907228;'Apristurus manis';777;0
+e;5907232;'Apristurus microps';777;0
+e;5902067;'Cephalurus';777;0
+e;5987443;'Aire marine protégée de Bamboung';777;0
+e;5949106;'Parmaturus melanobranchus';777;0
+e;32516;'Max';1;3014
+e;6528168;'Les Dents de la mer 3';777;0
+e;7634067;'Gollum>73126';1;0;'Gollum>requin'
+e;2937108;'Ange de mer africain';777;0
+e;2485084;'émissole étoilée';1;0
+e;580176;'ange de mer du Pacifique';777;0
+e;8571113;'Vulnérable';777;0
+e;279512;'Sphyrna media';777;50
+e;290111;'Heterodontus japonicus';777;50
+e;305862;'Silurus glanis';777;50
+e;175964;'silure glane';1;50
+e;306598;'Sphyrna corona';777;50
+e;307076;'Heterodontus zebra';777;50
+e;307086;'Sphyrna tiburo';777;50
+e;307073;'Heterodontus quoyi';777;50
+e;309322;'Scyliorhinus stellaris';777;50
+e;309982;'Pseudotriakis microdon';777;50
+e;2360145;'Deania calcea';777;0
+e;2367202;'Dalatias licha';777;0
+e;3181886;'Squale liche';777;0
+e;324485;'Mustelus mustelus';777;50
+e;2361386;'Deania';1;0
+e;2372805;'Proscyllium habereri';777;0
+e;2371783;'Galeus melastomus';777;0
+e;2571892;'Proscyllium';1;0
+e;2578991;'Chlamydoselachus';1;0
+e;9101356;'marteau>73126';1;0;'marteau>requin'
+e;3238162;'alopiidé';1;0
+e;580212;'Squatina australis';777;0
+e;580214;'Squatina aculeata';777;0
+e;721875;'Centroscyllium fabricii';777;0
+e;3316589;'Eridacnis sinuans';777;0
+e;2479062;'émissole pointillée';1;0
+e;22564;'vif-argent';1;54
+e;236886;'Tigres volants';1;50
+e;9958657;'1st American Volunteer Group';777;0
+e;10035605;'Zig et Sharko';777;0
+e;10039825;'Tate Britain';777;0
+e;10039826;'National Gallery of British Art';777;0
+e;8070;'Tate Gallery';1;52
+e;10039827;'Clore Gallery';777;0
+e;10045911;'All Is Lost';777;0
+e;10045912;'Seul en mer';777;0
+e;10195485;'Camp Lazlo';777;0
+e;10313500;'Folco Lulli';777;0
+e;9538487;'en:carcharhinus altimus';1;0
+e;271555;'Les Chevaliers du ciel';1;50
+e;7902441;'Les Aventures de Tanguy et Laverdure';1;0
+e;6948620;'en:squalus';1;0
+e;10583238;'macklemore';777;0
+e;10583239;'Professor Mack Lemore';777;0
+e;10838120;'mantalo';777;0
+e;10869844;'université du Wisconsin à Madison';777;0
+e;10869846;'UW-Madison';777;0
+e;134031;'Madison';1;50
+e;139688;'Wisconsin';1;1410
+e;10869847;'University of Wisconsin';777;0
+e;10428191;'J-Bay Open 2015';777;0
+e;10913839;'cuisine indonésienne';777;0
+e;10987412;'colonisation de l'Islande';777;0
+e;11009769;'Kisame Hoshigaki';777;0
+e;10997295;'Climatiiformes';777;0
+e;10997296;'Ischnacanthiformes';777;0
+e;10997297;'Acanthodiformes';777;0
+e;11119842;'armoiries des Salomon';777;0
+e;249227;'gravlax';1;26
+e;311456;'gravlaks';777;50
+e;311457;'gravad laks';777;50
+e;311458;'graavilohi';777;50
+e;311459;'graflax';777;50
+e;311460;'gravelax';777;50
+e;10503993;'Bob Gray';777;0
+e;6008051;'Orca';777;0
+e;11103945;'Céto';777;0
+e;11343195;'Snark Saga';777;0
+e;11349857;'Port Safaga';777;0
+e;11349858;'Bur Safaga';777;0
+e;11349859;'Safaga';777;0
+e;6080355;'Ville du 6 Octobre';777;0
+e;146341;'Alexandrie';1;939
+e;104057;'Assiout';1;50
+e;106770;'Assouan';1;54
+e;11353458;'Niccolo' Stenone';777;0
+e;11353770;'république du Nicaragua';777;0
+e;3159855;'Shark Island';777;0
+e;11403538;'île Shark';777;0
+e;11407427;'Tournoi des Trois sorciers';777;0
+e;11494212;'Labeo bicolor';777;0
+e;5903909;'Bythaelurus';1;0
+e;11501348;'Lieu de vie';777;0
+e;5942304;'Cladoselache';777;0
+e;5949062;'Bythaelurus immaculatus';777;0
+e;11539797;'Le Secret de l'Espadon';777;0
+e;11575820;'Pavillon-Pont';777;0
+e;4337696;'Carcharocles megalodon';777;0
+e;307075;'Requin-buffle';777;50
+e;307074;'Heterodontus francisci';777;50
+e;391979;'glande à sel';1;2
+e;5901771;'Carcharhinus perezi';777;0
+e;9538272;'en:mustelus lunulatus';1;0
+e;9538268;'en:carcharhinus obscurus';1;0
+e;305452;'Carcharhinus plumbeus';777;50
+e;9538269;'en:carcharhinus plumbeus';1;0
+e;9538249;'en:carcharhinus signatus';1;0
+e;9538298;'en:carcharhinus falciformis';1;0
+e;5901736;'Carcharhinus falciformis';777;0
+e;9538273;'en:negaprion brevirostris';1;0
+e;307069;'Prionace glauca';777;50
+e;9538329;'en:prionace glauca';1;0
+e;1573051;'Alexis Vastine';1;0
+e;9267656;'Contenus de qualité';777;0
+e;9267657;'Bons contenus';777;0
+e;5951228;'Sélection';1;0
+e;411314;'Programme';1;1431
+e;248729;'élections législatives';1;58
+e;64815;'référendum';1;2604
+e;219465;'bataille des Thermopyles';1;32
+e;12245739;'kesennuma';777;0
+e;12246376;'Boeing 737 des Ethiopian Airlines';777;0
+e;12246725;'crash d'un Boeing 737 des Ethiopian Airlines';777;0
+e;12246726;'écrasement d'un Boeing 737 des Ethiopian Airlines';777;0
+e;12246957;'réforme bénédictine';777;0
+e;377575;'réforme monastique';1;50
+e;12247156;'s'écrase';777;0
+e;12247752;'manifestations en Algérie';777;0
+e;1972491;'Pristiformes';777;0
+e;284254;'Pristidae';777;50
+e;284253;'poissons-scies';777;50
+e;12538912;'Carcharhinus obsolerus';777;0
+e;12640507;'tourisme en Islande';777;0
+e;1765149;'créature marine';1;0
+e;12688648;'papier émeri';777;0
+e;12688649;'papier abrasif';777;0
+e;12863886;'Damien Steven Hirst';777;0
+e;7543664;'en:centroscyllium fabricii';1;0
+e;9538247;'en:carcharhinus perezi';1;0
+e;114386;'émail';1;848
+e;5901777;'Carcharhinus signatus';777;0
+e;5901763;'Carcharhinus obscurus';777;0
+e;750683;'Carcharhinus brachyurus';777;0
+e;5949161;'Mustelus lunulatus';777;0
+e;5901755;'Carcharhinus isodon';777;0
+e;9538225;'en:carcharhinus brachyurus';1;0
+e;9538242;'en:carcharhinus isodon';1;0
+e;5901807;'Ginglymostoma cirratum';777;0
+e;145091;'Peau';1;52
+e;225067;'Vivre et laisser mourir';1;2
+e;13997729;'Requins et services secrets';777;0
+e;250562;'Tournoi des Trois Sorciers';1;50
+e;14111627;'Liste des mascottes de la Ligue nationale de hockey';777;0
+e;180081;'Coke en stock';1;6
+e;14120532;'Requin-marteau commun';777;0
+e;13765296;'negaprion brevirostris';1;0
+e;14250592;'Damien Hirst';777;0
+e;14435564;'::>66:113068>26:14338';8;0;'surfer [se faire] attaquer'
+e;153936;'viande rouge';1;358
+e;2522282;'Croisé';1;0
+e;164937;'chien de race';1;66
+e;425167;'Corniaud';1;50
+e;14475264;'chien de type';777;0
+e;416608;'Bâtard';1;50
+e;14476432;'formation d'Arundel';777;0
+e;14481205;'des alliages avec presque tous les métaux';777;0
+e;1986905;'amalgames';2;0
+e;14481206;'cinétique environnementale et biomagnification du mercure';777;0
+e;14485349;'microsmate';777;0
+e;14485350;'macrosmates';777;0
+e;573278;'Prospective';1;50
+e;5949109;'Parmaturus xaniurus';777;0
+e;13764057;'parmaturus xaniurus';1;0
+e;13761055;'mustelus californicus';1;0
+e;13766279;'mustelus canis';1;0
+e;13771624;'mustelus henlei';1;0
+e;13767778;'mustelus lunulatus';1;0
+e;13784769;'mustelus norrisi';1;0
+e;5949168;'Mustelus norrisi';777;0
+e;5907182;'Rhizoprionodon longurio';777;0
+e;13790778;'rhizoprionodon longurio';1;0
+e;5901702;'Carcharhinus acronotus';777;0
+e;13755284;'carcharhinus acronotus';1;0
+e;13797528;'carcharhinus brevipinna';1;0
+e;13745941;'carcharhinus falciformis';1;0
+e;13743243;'carcharhinus isodon';1;0
+e;13748154;'carcharhinus obscurus';1;0
+e;13764815;'carcharhinus perezi';1;0
+e;13771899;'ginglymostoma cirratum';1;0
+e;13750650;'isurus paucus';1;0
+e;13744953;'carcharhinus porosus';1;0
+e;13744954;'requin tiqueue';1;0
+e;13750854;'carcharhinus signatus';1;0
+e;13777641;'hexanchus griseus';1;0
+e;2371781;'pristiure à bouche noire';1;0
+e;2367201;'squale liche';1;0
+e;580173;'ange de mer africain';777;0
+e;13766071;'dalatias licha';1;0
+e;13756537;'carcharhinus brachyurus';1;0
+e;13749247;'centroscyllium fabricii';1;0
+e;13758401;'carcharodon carcharias';1;0
+e;13745623;'ange de mer du pacifique';1;0
+e;13745622;'squatina californica';1;0
+e;14270409;'Pièces remarquables';777;0
+e;14270410;'Pièces d'archerie';777;0
+e;10906689;'chat de mer>68467';1;0;'chat de mer>poisson'
+e;14594238;'1. Harry Potter / Viktor Krum';777;0
+e;14594239;'1. Cedric Diggory';777;0
+e;14594240;'Cedric Diggory / Harry Potter';777;0
+e;14594241;'Roman principal';777;0
+e;14598692;'Encyclopédies';777;0
+e;144414;'ombrage';1;58
+e;2100287;'recyclée';2;0
+e;221983;'homme>24956';1;218;'homme>être humain'
+e;14593920;'espèce omnivore';1;0
+e;14637107;'régime>178691>113902';1;0;'régime>régime alimentaire>alimentation'
+e;14653843;'odeur du sang';1;10
+e;52076;'moine';1;2171
+e;14690373;'moine>73126';1;0;'moine>requin'
+e;14762921;'Nini peau d'chien';777;0
+e;11008738;'Chanson';1;1255
+e;12375383;'en:apristurus brunneus';1;0
+e;5907215;'Apristurus brunneus';777;0
+e;13755401;'apristurus brunneus';1;0
+e;13767605;'somniosus microcephalus';1;0
+e;13752731;'centroscymnus coelolepis';1;0
+e;13780727;'chlamydoselachus anguineus';1;0
+e;13774010;'alopias superciliosus';1;0
+e;13764410;'scyliorhinus retifer';1;0
+e;2605455;'squale-chagrin de l'Atlantique';1;0
+e;2596604;'Centroscymnus coelolepis';777;0
+e;2431803;'pailona commun';1;0
+e;7543679;'en:centroscymnus coelolepis';1;0
+e;14721399;'avoir le goût du sang';1;42
+e;14721400;'blessure sanguinolente';1;40
+e;14720801;'sang frais';1;36
+e;14869731;'Galeus gracilis';777;0
+e;14894907;'::>66:135893>26:14338';8;0;'nageur [se faire] attaquer'
+e;14665036;'Ange de mer';777;0
+e;14959651;'en:chain catshark';1;0
+e;14959912;'en:lanternshark';1;0
+e;14958873;'en:Heteroscyllium colcloughi';1;0
+e;402139;'Enfants';1;910
+e;15082510;'en:fishnet';1;0
+e;15335127;'en:misleader';1;0
+e;151440;'se faire rouler';1;56
+e;15323340;'en:be suckered';1;0
+e;4332872;'se faire entuber';1;24
+e;15323342;'en:get suckered';1;0
+e;15052943;'en:niggardliness';1;0
+e;15251851;'en:pleonexia';1;0
+e;15251852;'en:tight-fistedness';1;0
+e;14922213;'en:avarice';1;0
+e;14922214;'en:stinginess';1;0
+e;15147919;'en:dismaying';1;0
+e;15332657;'en:unsettling';1;0
+e;15332658;'en:discomposing';1;0
+e;14943491;'en:disquieting';1;0
+e;14920352;'en:worrisome';1;0
+e;7180152;'en:photograph';1;0
+e;15075460;'en:memorise';1;0
+e;15246313;'en:commit to memory';1;0
+e;15440270;'en:make a mental image of';1;0
+e;15298942;'en:splanchna';1;0
+e;14936577;'en:guts';1;0
+e;15060722;'en:selachian';1;0
+e;97494;'avoir en horreur';1;68
+e;9538244;'en:carcharhinus longimanus';1;0
+e;5901757;'requin à petites dents';777;0
+e;572972;'bulbe oculaire';1;50
+e;31116;'surf';1;162
+e;5536212;'Cette section ne cite pas suffisamment ses sources';777;0
+e;2849066;'régime omnivore';1;4
+e;15297988;'en:suspenseful';1;0
+e;17143;'passionnant';1;140
+e;15278810;'en:get scammed';1;0
+e;3768190;'se faire enfler';1;20
+e;2198794;'exècre';2;0
+e;15364653;'se faire douiller';1;0
+e;15291872;'se faire enfumer';1;0
+e;15291874;'en:be cheated';1;0
+e;15396328;'en:fall for it';1;0
+e;164508;'se faire avoir';1;138
+e;15244997;'en:be had';1;0
+e;185935;'donner dans le panneau';1;50
+e;15582651;'se faire empapaouter';1;0
+e;15386821;'se faire mener en bateau';1;0
+e;14918011;'en:DNA';1;0
+e;14931481;'en:twister';1;0
+e;15297987;'à suspense';1;0
+e;103349;'captivant';1;110
+e;15297989;'plein de suspense';1;0
+e;88817;'dupeur';1;50
+e;14935584;'en:engaging';1;0
+e;15324055;'en:enthraling';1;0
+e;15304386;'en:engrossing';1;0
+e;15309108;'en:captivating';1;0
+e;15324056;'en:riveting';1;0
+e;7179885;'en:mediterranean sea';1;0
+e;15080160;'en:animalia';1;0
+e;15323337;'en:to be taken for a ride';1;0
+e;15323341;'se faire pigeonner';1;0
+e;15780057;'détester faire quelque chose';1;0
+e;15450974;'détester [qch/qqn]';1;0
+e;15450975;'détester faire [qch]';1;0
+e;15085126;'en:frightening';1;0
+e;15223286;'en:robber baron';1;0
+e;14943948;'en:innocuous';1;0
+e;44853;'fascinant';1;60
+e;15235864;'premières dentitions';1;0
+e;146553;'Londres';1;3669
+e;120673;'New York';1;464
+e;10136733;'St. Petersburg';777;0
+e;29567;'Jamaïque';1;803
+e;62470;'intéressant';1;2196
+e;15050135;'en:chilling';1;0
+e;15079637;'en:scammer';1;0
+e;15079633;'en:grifter';1;0
+e;14921042;'en:con man';1;0
+e;15066875;'en:welcher';1;0
+e;2373028;'taburon';1;0
+e;15144008;'en:cliff-hanging';1;0
+e;15306729;'en:nail-biting';1;0
+e;15100633;'en:Carcharhinus plumbeus';1;0
+e;15104560;'en:Prionace glauca';1;0
+e;15086713;'en:endangered';1;0
+e;15085302;'en:threatened';1;0
+e;14936414;'en:con artist';1;0
+e;14936415;'en:confidence man';1;0
+e;15223971;'en:conman';1;0
+e;15223972;'en:high-binder';1;0
+e;15223973;'en:highbinder';1;0
+e;14927841;'en:shyster';1;0
+e;15223974;'en:confidence trickster';1;0
+e;15223975;'en:grafter';1;0
+e;15223976;'en:cozener';1;0
+e;15328209;'en:insides';1;0
+e;82022;'boyaux';1;64
+e;14935848;'en:entrails';1;0
+e;391981;'convergence évolutive';1;4
+e;15910087;'::>66:54165>26:14338';8;0;'plongeur [se faire] attaquer'
+e;113400;'harpon';1;70
+e;15992778;'bathoïde';1;0
+e;16041426;'centrophore';1;0
+e;16042925;'dalatiidé';1;0
+e;21222;'dormeur';1;296
+e;16044848;'etmopterus';1;0
+e;2467655;'galéiforme';1;0
+e;16046498;'hétérodontiforme';1;0
+e;16047345;'isistius';1;0
+e;16047385;'isuridé';1;0
+e;33224;'laimargue';1;50
+e;16050652;'lamnidé';1;0
+e;30814;'liche';1;52
+e;16051695;'lirio';1;0
+e;2413804;'moutelle';1;0
+e;394868;'oophagie';1;50
+e;2378999;'peau-bleue';1;0
+e;26484;'pleurotrème';1;50
+e;16056712;'rhincodontidé';1;0
+e;1655843;'sagre';1;0
+e;16057795;'sphyrnidé';1;0
+e;150626;'squatina';1;50
+e;16057848;'squatinidé';1;0
+e;13772942;'requin dormeur du pacifique';1;0
+e;161246;'océan indien';1;80
+e;7179888;'en:indian ocean';1;0
+e;9169258;'en:ginglymostoma cirratum';1;0
+e;15090598;'en:Ginglymostoma cirratum';1;0
+e;264606;'Far Cry';666;50
+e;23154;'poulpe';1;264
+e;1596;'clasper';1;50
+e;2007;'homard';1;336
+e;1781657;'olfactique';1;0
+e;11682;'placoïdes';1;50
+e;14721397;'être attiré par l'odeur du sang';1;18
+e;29724;'placenta';1;134
+e;38011;'dévoreur';1;58
+e;15705878;'faire souffrir quelqu'un';1;0
+e;15232177;'faire souffrir qn';1;0
+e;16165005;'substances interdites dans les produits cosmétiques';777;0
+e;16166419;'une synthèse des connaissances sur un sujet';777;0
+e;15230547;'poisson scie';1;0
+e;15047669;'en:GI tract';1;0
+e;15753396;'se faire dépouiller';1;0
+e;15753397;'en:be cleaned out';1;0
+e;186971;'tomber dans le piège';1;60
+e;15563231;'en:walk into the trap';1;0
+e;15290282;'en:to walk into the trap';1;0
+e;15290281;'en:get tricked';1;0
+e;15705879;'en:make somebody suffer';1;0
+e;186970;'tomber dans le panneau';1;62
+e;15290280;'en:fall into the trap';1;0
+e;407003;'megalodon';1;50
+e;1223483;'emissole';1;0
+e;13779189;'alopias vulpinus';1;0
+e;13780291;'pseudotriakis microdon';1;0
+e;13772941;'somniosus pacificus';1;0
+e;13777752;'prionace glauca';1;0
+e;13783066;'heterodontus francisci';1;0
+e;13761875;'sphyrna tiburo';1;0
+e;306590;'Requin dormeur Mexicain';777;50
+e;13774976;'isurus oxyrinchus';1;0
+e;13739747;'carcharhinus plumbeus';1;0
+e;13752466;'carcharhinus altimus';1;0
+e;13748881;'carcharhinus leucas';1;0
+e;13771567;'carcharhinus longimanus';1;0
+e;13791318;'lamna ditropis';1;0
+e;13756029;'lamna nasus';1;0
+e;15314437;'en:get bamboozled';1;0
+e;15397290;'en:fish dish';1;0
+e;14934846;'en:scary';1;0
+e;16577547;'MF59C.1';777;0
+e;16577548;'AS03';777;0
+e;16577549;'AF03';777;0
+e;15282446;'en:get ripped off';1;0
+e;248918;'se faire arnaquer';1;84
+e;15282443;'en:to be had';1;0
+e;15282442;'en:to get ripped off';1;0
+e;15282441;'en:get nabbed';1;0
+e;15360784;'en:thalassography';1;0
+e;15342254;'qui fait peur';1;0
+e;51187;'angoissant';1;98
+e;14927763;'en:hairy';1;0
+e;132281;'flippant';1;60
+e;15238203;'en:pedigree dog';1;0
+e;16587952;'Cachalot pygmée';777;0
+e;16589850;'::>66:68467>26:130164';8;0;'poisson [se faire] manger'
+e;16595350;'::>66:102187>26:64513';8;0;'surfeur [se faire] mordre'
+e;2505466;'requin-chat pygmé';1;0
+e;14469972;'::>66:102187>26:14338';8;0;'surfeur [se faire] attaquer'
+e;234717;'faune marine';1;50
+e;15208444;'en:marine animal-life';1;0
+e;2555674;'circumtropical';1;0
+e;15314438;'en:be taken to the cleaners';1;0
+e;15309627;'en:be taken for a ride';1;0
+e;266370;'se faire rouler dans la farine';1;50
+e;16795533;'Imraguens';777;0
+e;14486633;'Sources et légendes';777;0
+e;3576296;'squales bouclés';777;0
+e;15088586;'en:systema nervosum';1;0
+e;15055948;'en:systema digestorium';1;0
+e;7054313;'en:squalene';1;0
+e;7053316;'en:metazoa';1;0
+e;15042213;'en:dying';1;0
+e;6329601;'squatina dumerili';1;0
+e;16832152;'CLN';1;0
+e;16832153;'angl. NCLs';1;0
+e;16832154;'NLCs';1;0
+e;14434315;'Tigres Volants';1;0
+e;16374259;'Les dents de la mer>100640';1;0;'Les dents de la mer>roman'
+e;186631;'n'y voir que du feu';1;50
+e;143419;'Bill';1;3051
+e;16975498;'Toufou';777;0
+e;10054229;'Shelly';1;0
+e;309815;'Épisode 1';777;50
+e;16745088;'Épisode 2';777;0
+e;16745089;'Épisode 3';777;0
+e;16745090;'Épisode 4';777;0
+e;16745091;'Épisode 5';777;0
+e;186630;'n'y voir que du bleu';1;50
+e;15402018;'en:not smell the rat';1;0
+e;15402017;'en:be dazzled';1;0
+e;15402016;'en:be unaware';1;0
+e;15402015;'en:be in the dark';1;0
+e;15402014;'en:be clueless';1;0
+e;65585;'aiglefin';1;54
+e;168389;'Viêt Nam';1;36
+e;15781381;'vrai métazoaire';1;0
+e;15983718;'affamé>123305';1;2;'affamé>avidité'
+e;2513749;'apocale';1;0
+e;2554976;'aiguillat coq';1;0
+e;15083684;'en:marine animal';1;0
+e;15083686;'en:sea animal';1;0
+e;6380082;'holbiche brune';1;0
+e;12435877;'en:squatina dumerili';1;0
+e;13750494;'ange de mer de sable';1;0
+e;15237475;'filet à poissons';1;0
+e;14606397;'organisme hétérotrophe';1;2
+e;15431781;'en prendre plein les mirettes';1;0
+e;15452086;'en:to be dazzled';1;0
+e;15290285;'en:fall into a trap';1;0
+e;390955;'se faire piéger';1;74
+e;82148;'se blouser';1;62
+e;14721398;'être alléché';1;24
+e;149737;'poisson-scie';1;52
+e;14955574;'en:sawfish';1;0
+e;15213508;'en:light gray';1;0
+e;15454087;'en:get conned';1;0
+e;15203879;'en:be conned';1;0
+e;15454086;'en:be deceived';1;0
+e;15309629;'en:fall for something';1;0
+e;15309628;'en:be fooled';1;0
+e;15309626;'se faire prendre pour un pigeon / passer pour un pigeon';1;0
+e;15291873;'en:be tricked';1;0
+e;15422672;'en:not notice a thing';1;0
+e;15422671;'en:not see a thing';1;0
+e;15422670;'en:be completely oblivious';1;0
+e;15444553;'en:threatened with extinction';1;0
+e;64888;'affamé';1;308
+e;14923918;'en:dent';1;0
+e;14120521;'Requin-marteau halicorne';777;0
+e;14120533;'Requin-marteau lisse';777;0
+e;14665712;'Ange de mer épineux';777;0
+e;14665714;'Ange de mer argentin';777;0
+e;580174;'ange de mer argentin';777;0
+e;14958888;'en:sleeper shark';1;0
+e;15445916;'en:leopard shark';1;0
+e;15053050;'en:thresher shark';1;0
+e;15417531;'en:great white';1;0
+e;15063834;'en:white shark';1;0
+e;14958918;'en:tiger shark';1;0
+e;14958908;'en:nurse shark';1;0
+e;14958877;'en:bull shark';1;0
+e;14958875;'en:whale shark';1;0
+e;14940700;'en:great white shark';1;0
+e;15048472;'en:hammerhead';1;0
+e;14958906;'en:hammerhead shark';1;0
+e;14958909;'en:basking shark';1;0
+e;7494095;'en:enamel cuticles';1;0
+e;214487;'émail dentaire';1;50
+e;258883;'couche d'émail';1;12
+e;6352883;'Émail dentaire';1;0
+e;6418850;'emails dentaires';1;0
+e;6912686;'en:enamel';1;0
+e;5966325;'Émail';1;0
+e;3186369;'odontogénèse';1;0
+e;7040047;'en:odontogenesis';1;0
+e;6841025;'en:stratum intermedium';1;0
+e;5952792;'stratum intermedium';777;0
+e;140682;'denticule';1;52
+e;17423115;'::>66:102187>26:7943';8;0;'surfeur [se faire] tuer'
+e;17423109;'::>66:135893>26:7943';8;0;'nageur [se faire] tuer'
+e;11494261;'Requin bécune';777;0
+e;17547260;'Requin perlon';777;0
+e;17557449;'::>66:135893>26:64513';8;0;'nageur [se faire] mordre'
+e;17557452;'::>66:68682>26:64513';8;0;'baigneur [se faire] mordre'
+e;11008328;'ADN>30051';1;8;'ADN>code génétique'

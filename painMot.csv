@@ -1,0 +1,4406 @@
+e;eid;'name';type;w;'formated name'
+e;61283;'pain';1;3616
+e;7054252;'en:tradition';1;0
+e;11662219;'boulangère>119014';1;2;'boulangère>boulangerie'
+e;302021;'pain de Jésus';777;50
+e;168282;'pain à cacheter';1;50
+e;2324856;'pain long brioché';1;0
+e;2324858;'pain bruschetta';1;0
+e;368081;'pain biologique';1;50
+e;368094;'pain dermatologique';1;50
+e;368104;'pain d'émail';1;50
+e;368088;'pain de fruits';1;50
+e;368111;'pain médicinal';1;50
+e;368110;'pain fendu';1;50
+e;368093;'pain de volaille';1;50
+e;368085;'pain de beurre';1;50
+e;368084;'pain d'abeilles';1;50
+e;368096;'pain fourré';1;50
+e;368103;'pain court';1;50
+e;368108;'pain de pavot';1;50
+e;368098;'pain mollet';1;50
+e;368089;'pain de liquidation';1;50
+e;368086;'pain de chapitre';1;50
+e;368083;'pain béni pour';1;50
+e;368107;'pain de fesse';1;50
+e;368095;'pain eucharistique';1;50
+e;368109;'pain de poisson';1;64
+e;368105;'pain de chanoine';1;50
+e;368082;'pain bis';1;62
+e;368112;'pain à la reine';1;50
+e;368100;'pain tranché';1;50
+e;368099;'pain sans sel';1;50
+e;368080;'pain au beurre';1;50
+e;368091;'pain de recoupe';1;50
+e;368087;'pain de dynamite';1;50
+e;368102;'pain vivant';1;50
+e;143415;'Renaissance';1;2772
+e;179763;'Arabe';1;60
+e;124426;'Europe du Nord';1;54
+e;7468;'charbon de bois';1;122
+e;144099;'Moulin';1;1407
+e;167773;'dioxyde de carbone';1;160
+e;173402;'Sarrasin';1;50
+e;96370;'XVIIIe siècle';1;72
+e;115865;'trou';1;2665
+e;5723217;'Mets';1;0
+e;322821;'alimentation biologique';1;52
+e;322820;'alimentation bio';1;50
+e;368106;'pain de crapaud';1;50
+e;368090;'pain de plastic';1;50
+e;163103;'sons';1;2833
+e;93307;'ergot du seigle';1;50
+e;287461;'fabrication du pain';777;50
+e;5580223;'Lard';1;0
+e;93416;'octobre';1;3862
+e;2933792;'Figue';1;0
+e;82873;'éthanol';1;114
+e;95934;'tunisien';1;116
+e;2374829;'moyen-oriental';1;0
+e;2641107;'Pois';1;0
+e;428031;'Pistolet';1;50
+e;405501;'Mie';1;50
+e;418777;'Mousse';1;50
+e;56966;'San Francisco';1;110
+e;112202;'cougnou';1;50
+e;95563;'Tibet';1;1798
+e;277044;'Quercus ilex';777;50
+e;80742;'Fournier';1;60
+e;41873;'Moyen-Orient';1;1716
+e;68712;'Aveyron';1;116
+e;72118;'Bruxelles';1;3281
+e;136653;'Cherbourg';1;54
+e;540;'Midi';1;1538
+e;85611;'Touraine';1;54
+e;50620;'Guy Debord';1;52
+e;187422;'Louis Pasteur';1;8
+e;92043;'Louis XVI';1;106
+e;12240;'Révolution française';1;208
+e;174972;'guerre des farines';1;50
+e;94787;'banalité';1;166
+e;58727;'méteil';1;50
+e;153931;'Gaulois';1;441
+e;1584;'Trajan';1;112
+e;143013;'moût';1;70
+e;102089;'Romains';1;3086
+e;123696;'Rome antique';1;248
+e;160504;'Grecs';1;2679
+e;35114;'Grèce';1;3470
+e;23077;'fougère';1;84
+e;89392;'azyme';1;50
+e;108827;'protéines';1;2501
+e;418937;'Boulangère';1;50
+e;116536;'Flandre';1;2973
+e;181514;'chlorure de sodium';1;28
+e;173330;'Oranie';1;50
+e;44013;'Charles V';1;54
+e;21742;'hamburger';1;482
+e;368101;'pain trempé';1;54
+e;65846;'pain grillé';1;166
+e;2365163;'pain de ménage';1;0
+e;45722;'tradition';1;3397
+e;122719;'Jordanie';1;106
+e;162675;'condiments';1;92
+e;140048;'Froment';1;50
+e;135737;'Tunisie';1;2680
+e;408516;'Four';1;850
+e;412774;'Brioche';1;50
+e;145686;'Dieu';1;3677
+e;24443;'manifestation';1;2425
+e;26510;'Latium';1;62
+e;38266;'Calabre';1;68
+e;133003;'Provence';1;2918
+e;89142;'Allemagne';1;3719
+e;116863;'Moyen Âge';1;288
+e;92919;'Pompéi';1;84
+e;130011;'mastaba';1;52
+e;216164;'Égypte antique';1;34
+e;14455;'Boulanger';1;52
+e;231735;'pain d'autel';1;50
+e;2348341;'pain aux céréales germées';1;0
+e;2348383;'pain à l'épautre';1;0
+e;2348355;'pain intégral';1;0
+e;2348356;'pain au quinoa';1;10
+e;2348391;'pain au seigle';1;0
+e;2348357;'pain de kamut';1;6
+e;137681;'pain d'oiseau';1;50
+e;2403584;'pain de guerre';1;0
+e;159803;'fermentation alcoolique';1;56
+e;113533;'Nil';1;2155
+e;111649;'charbon';1;2531
+e;42148;'gland';1;344
+e;140243;'Auguste';1;3129
+e;22160;'amidonnier';1;50
+e;75201;'Saqqarah';1;52
+e;172795;'Son';1;3891
+e;414478;'Eau';1;50
+e;159591;'levure de bière';1;84
+e;2484285;'Gland';1;0
+e;224027;'pain plat';1;50
+e;1963201;'pain maori';1;0
+e;1963200;'pain de pommes de terre';1;0
+e;217650;'pain chaud';1;70
+e;215347;'pain essène';1;50
+e;248974;'pain libanais';1;50
+e;2363869;'pain de chien';1;0
+e;3744053;'véritable fondue Savoyarde';1;0
+e;404105;'figues';1;56
+e;1978130;'biscottes';1;0
+e;34238;'Eucharistie';1;58
+e;155527;'Boulangerie';1;52
+e;12860;'calcium';1;1582
+e;41260;'amidon';1;100
+e;42719;'arabe';1;3424
+e;175019;'pain du Cardinal';1;50
+e;368092;'pain de sarrasin';1;50
+e;440637;'pain et chocolat';1;88
+e;263994;'pain aux noix';1;62
+e;437353;'pistaches';1;52
+e;114568;'christianisme';1;2866
+e;126963;'grec';1;3688
+e;72619;'acide gras';1;122
+e;46321;'brick';1;74
+e;141403;'fournier';1;50
+e;154898;'fibres';1;1970
+e;113317;'Paris';1;3888
+e;21988;'moulin';1;1780
+e;18716;'Antiquité';1;937
+e;83989;'éducation';1;2396
+e;183498;'pain d'épice';1;72
+e;153047;'pain au chocolat';1;522
+e;77735;'Europe';1;3809
+e;124092;'fer';1;3776
+e;119873;'vitamines';1;128
+e;223865;'mouna';666;10
+e;76850;'pissalat';1;50
+e;97846;'pois';1;92
+e;134158;'mousse';1;806
+e;275711;'raisins secs';777;80
+e;91273;'pain des anges';1;50
+e;1917040;'pain crotté';777;0
+e;221881;'pain de couleuvre';1;50
+e;278323;'pain tabouna';1;50
+e;437310;'pain et sandwich';1;50
+e;437311;'pain santé';1;50
+e;2540822;'pain de manioc';1;0
+e;59658;'disette';1;112
+e;31280;'romaine';1;3567
+e;156879;'farine de seigle';1;76
+e;93846;'pain-de-pourceau';1;50
+e;177274;'pain doré';1;50
+e;69067;'pain de Dieppe';1;50
+e;67446;'pain de sel';1;50
+e;3762435;'ingrédient de recette de cuisine';1;2
+e;61061;'Égypte';1;3390
+e;65956;'fève';1;248
+e;155438;'farine complète';1;84
+e;219664;'pain parisien';1;52
+e;217338;'pâte à pain';1;84
+e;138712;'paillasse';1;98
+e;183497;'pain de coucou';1;56
+e;183499;'pain mousseau';1;50
+e;257801;'pain de viande';1;50
+e;153554;'sandwich américain';1;52
+e;158745;'pain de savon';1;50
+e;232183;'pain de singe';1;50
+e;330857;'burger>21742';1;64;'burger>hamburger'
+e;30910;'noix';1;1490
+e;25005;'épeautre';1;74
+e;123667;'fermentation';1;1778
+e;114815;'protéine';1;1473
+e;142000;'forme';1;3844
+e;189848;'de pain';1;50
+e;139616;'pain de sucre';1;64
+e;75271;'pain céleste';1;50
+e;156482;'baguette de pain';1;52
+e;186334;'gagner sa croûte';1;28
+e;224410;'travail>126724';1;242;'travail>métier'
+e;234146;'frapper>41417';1;96;'frapper>coup'
+e;137533;'masse';1;3539
+e;220961;'masse>180592';1;20;'masse>quantité de matière'
+e;216529;'bloc>137533';1;52;'bloc>masse'
+e;59430;'lard';1;298
+e;113977;'bouillie';1;142
+e;129447;'couac';1;88
+e;102986;'fausse note';1;66
+e;59471;'erreur';1;2767
+e;177275;'pain perdu';1;64
+e;204916;'pain de froment';1;50
+e;302836;'pain Barbari';777;50
+e;141659;'vie';1;3894
+e;53651;'quotidien';1;2798
+e;34954;'frapper';1;1985
+e;120576;'mozzarella';1;138
+e;177313;'tortilla';1;80
+e;29459;'sarrasin';1;96
+e;204927;'pain noir';1;62
+e;253853;'pain pita';1;52
+e;263993;'pain beurré';1;52
+e;1136803;'sandwich jambon-beurre';1;0
+e;61921;'Italie';1;3678
+e;59402;'chinois';1;3403
+e;139790;'maïs';1;1954
+e;54538;'orge';1;248
+e;218388;'jambon fromage';1;56
+e;378539;'sandwich au jambon';1;50
+e;217162;'sandwich grillé';1;60
+e;233049;'pain>119014';1;294;'pain>boulangerie'
+e;4687;'subsistance';1;60
+e;2442;'vivre';1;3276
+e;244073;'banette';1;52
+e;33593;'gnon';1;86
+e;56050;'pain de méteil';1;50
+e;1569828;'jambon fromage>1447';1;0;'jambon fromage>sandwich'
+e;228773;'four>382343>61283';1;74;'four>système de chauffage>pain'
+e;45566;'soufflet';1;164
+e;2385299;'bruée';1;0
+e;291052;'sandwich grec';777;50
+e;571456;'sandwich ouvert';777;50
+e;4312221;'soupe>93138>61283';1;0;'soupe>potage>pain'
+e;137479;'empereur';1;3474
+e;234132;'tranche>65364';1;70;'tranche>morceau'
+e;9932235;'hostie>146881';1;0;'hostie>Nom:Fem+SG'
+e;599442;'bâtard>171870';1;0;'bâtard>Nom:'
+e;141971;'huile';1;2224
+e;120225;'châtaigne';1;180
+e;28371;'provende';1;52
+e;15570;'manne';1;50
+e;75263;'muffin';1;60
+e;437;'beignet';1;240
+e;160122;'pain aux céréales';1;166
+e;112386;'sachet';1;280
+e;123418;'ingrédient';1;142
+e;1652883;'longuet>61283';1;0;'longuet>pain'
+e;322704;'boulange>61283';1;50;'boulange>pain'
+e;1678560;'fougasse>61283';1;16;'fougasse>pain'
+e;213429;'croissant>113645';1;224;'croissant>viennoiserie'
+e;232823;'natte>119014';1;50;'natte>boulangerie'
+e;56358;'brier';1;50
+e;6456;'taquet';1;62
+e;230893;'dans la gueule';1;64
+e;157266;'lever>146882';1;50;'lever>Ver:Inf'
+e;2827;'chaland';1;92
+e;204930;'pain viennois';1;70
+e;1525814;'Double Cheese';1;0
+e;234136;'tranche>65364>61283';1;54;'tranche>morceau>pain'
+e;258584;'faluche>61283';1;50;'faluche>pain'
+e;320827;'bâtard>61283';1;136;'bâtard>pain'
+e;244781;'lever>119014';1;54;'lever>boulangerie'
+e;214948;'pétrin>119014';1;16;'pétrin>boulangerie'
+e;302927;'croquemadame';777;50
+e;3304654;'fleurage>119014';1;0;'fleurage>boulangerie'
+e;116480;'se morfondre';1;84
+e;2472751;'brié';1;0
+e;2483065;'fourgonnier';1;0
+e;1136712;'sandwich>20965';1;26;'sandwich>nourriture'
+e;223411;'pan-bagnat';666;50
+e;139657;'moulé';1;58
+e;227591;'soupe>93138';1;214;'soupe>potage'
+e;595044;'chaland>171869';1;0;'chaland>Adj:'
+e;1803620;'restaurant>146885';1;0;'restaurant>Nom:Mas+SG'
+e;595735;'bis>171869';1;0;'bis>Adj:'
+e;51683;'lever';1;1983
+e;4337104;'Wasa>61283';1;0;'Wasa>pain'
+e;2448;'tresse';1;192
+e;90637;'croûton';1;90
+e;4781;'torgnole';1;102
+e;74092;'coup-de-poing';1;54
+e;16746;'alimentaire';1;2563
+e;138357;'burger';1;148
+e;177329;'pain de gruau';1;50
+e;145476;'gâche';1;102
+e;216942;'naan';1;26
+e;1922600;'pagnotte';1;0
+e;25429;'coquiller';1;50
+e;3542582;'rassissement>119014';1;0;'rassissement>boulangerie'
+e;577677;'jambon fromage>146885';1;0;'jambon fromage>Nom:Mas+SG'
+e;53688;'activité';1;3368
+e;79954;'restaurant';1;5348
+e;102269;'levage';1;50
+e;5304379;'four>382343';1;26;'four>système de chauffage'
+e;76913;'hostie';1;80
+e;17496507;'::>66:225916>24:16590622';8;0;'personne>être humain [peut] faire cuire [objet] pain'
+e;14472585;'::>66:225916>24:30536';8;0;'personne>être humain [peut] faire cuire'
+e;17491675;'se faire cuire';1;0
+e;17499378;'::>66:225916>24:17499376';8;0;'personne>être humain [peut] mettre [objet] pain'
+e;14491999;'::>66:225916>24:132366';8;0;'personne>être humain [peut] mettre'
+e;14563739;'::>66:225916>24:36246';8;0;'personne>être humain [peut] préparer'
+e;17496492;'::>66:153046>24:329041';8;0;'boulangère [peut] trancher [objet] pain'
+e;17496515;'::>66:225916>24:17496512';8;0;'personne>être humain [peut] façonner [objet] pain'
+e;17496531;'::>66:225916>24:17496526';8;0;'personne>être humain [peut] préparer [objet] pain'
+e;15635098;'::>66:225916>24:54438';8;0;'personne>être humain [peut] vendre'
+e;14529663;'::>66:225916>24:119858';8;0;'personne>être humain [peut] tremper'
+e;17496491;'::>66:153046>24:32322';8;0;'boulangère [peut] trancher'
+e;17496495;'::>66:11662219>24:329041';8;0;'boulangère>boulangerie [peut] trancher [objet] pain'
+e;17496494;'::>66:11662219>24:32322';8;0;'boulangère>boulangerie [peut] trancher'
+e;38589;'fouée';1;50
+e;204914;'pain brioché';1;82
+e;161669;'pain complet';1;144
+e;144832;'pain d'épices';1;130
+e;204920;'pain de seigle';1;144
+e;113645;'viennoiserie';1;442
+e;17484260;'::>66:225916>24:17484255';8;0;'personne>être humain [peut] tremper [objet] pain'
+e;17496523;'::>66:225916>24:17496518';8;0;'personne>être humain [peut] vendre [objet] pain'
+e;17497636;'::>66:153046>24:17496518';8;0;'boulangère [peut] vendre [objet] pain'
+e;17497635;'::>66:153046>24:54438';8;0;'boulangère [peut] vendre'
+e;17496511;'::>66:225916>24:3554';8;0;'personne>être humain [peut] façonner'
+e;2587823;'aliment>2587820';1;122;'aliment>ce qui se mange'
+e;360394;'jour de prison';1;50
+e;14363896;'::>66:145285>24:5115';8;0;'boulanger [peut] cuire'
+e;14363899;'::>66:145285>24:14363897';8;0;'boulanger [peut] cuire [objet] pain'
+e;14334479;'::>66:68439>24:128828';8;0;'individu [peut] couper'
+e;14389069;'::>66:68439>24:14389064';8;0;'individu [peut] couper [objet] pain'
+e;14386833;'::>66:68439>24:29926';8;0;'individu [peut] acheter'
+e;14450972;'::>66:68439>24:11295522';8;0;'individu [peut] acheter [objet] pain'
+e;14486217;'::>66:225916>24:32322';8;0;'personne>être humain [peut] trancher'
+e;14486222;'::>66:225916>24:329041';8;0;'personne>être humain [peut] trancher [objet] pain'
+e;14510175;'::>66:74860>24:195857';8;0;'homme [peut] aller chercher'
+e;14510178;'::>66:74860>24:14510176';8;0;'homme [peut] aller chercher [objet] pain'
+e;14529676;'::>66:225916>24:97885';8;0;'personne>être humain [peut] beurrer'
+e;14529681;'::>66:225916>24:327166';8;0;'personne>être humain [peut] beurrer [objet] pain'
+e;14638920;'::>66:225916>24:122353';8;0;'personne>être humain [peut] partager'
+e;14638923;'::>66:225916>24:14638921';8;0;'personne>être humain [peut] partager [objet] pain'
+e;14485744;'::>66:225916>24:134489';8;0;'personne>être humain [peut] faire griller'
+e;14653012;'::>66:225916>24:14653007';8;0;'personne>être humain [peut] faire griller [objet] pain'
+e;14562795;'::>66:225916>24:64325';8;0;'personne>être humain [peut] aimer'
+e;14665385;'::>66:225916>24:14665383';8;0;'personne>être humain [peut] aimer [objet] pain'
+e;14485283;'::>66:225916>24:128828';8;0;'personne>être humain [peut] couper'
+e;14851596;'::>66:225916>24:14389064';8;0;'personne>être humain [peut] couper [objet] pain'
+e;15683426;'::>66:16086>24:3038';8;0;'gindre [peut] pétrir'
+e;15683429;'::>66:16086>24:15683427';8;0;'gindre [peut] pétrir [objet] pain'
+e;15683432;'::>66:145285>24:3038';8;0;'boulanger [peut] pétrir'
+e;15683433;'::>66:145285>24:15683427';8;0;'boulanger [peut] pétrir [objet] pain'
+e;15849075;'::>66:61283>24:14326649';8;0;'pain [peut] cuire [endroit] four'
+e;37229;'se trouver';1;54
+e;15849080;'::>66:61283>24:15849078';8;0;'pain [peut] se trouver [endroit] table de la cuisine'
+e;106625;'perdu';1;3124
+e;14921104;'en:bar';1;0
+e;7015611;'en:block';1;0
+e;14921602;'en:stick';1;0
+e;14930686;'en:whack';1;0
+e;14930685;'en:smack';1;0
+e;15045183;'en:thump';1;0
+e;7170086;'en:punch';1;0
+e;15288128;'en:knuckle sandwich';1;0
+e;15098993;'en:loaf of bread';1;0
+e;15195173;'en:bread loaf';1;0
+e;14938720;'en:loaf';1;0
+e;118203;'corps humain';1;252
+e;14883318;'::>66:225916>24:5115';8;0;'personne>être humain [peut] cuire'
+e;16168856;'::>66:225916>24:14363897';8;0;'personne>être humain [peut] cuire [objet] pain'
+e;16324118;'::>66:8946>24:73827';8;0;'miséreux [peut] voler'
+e;16324121;'::>66:8946>24:16324119';8;0;'miséreux [peut] voler [objet] pain'
+e;16419967;'::>66:71348>24:73827';8;0;'pauvre [peut] voler'
+e;16559023;'::>66:71348>24:16324119';8;0;'pauvre [peut] voler [objet] pain'
+e;14467561;'::>66:145285>24:30536';8;0;'boulanger [peut] faire cuire'
+e;16590624;'::>66:145285>24:16590622';8;0;'boulanger [peut] faire cuire [objet] pain'
+e;16596877;'::>66:61283>24:16596875';8;0;'pain [peut] se trouver [endroit] table de cuisine'
+e;80350;'se trouver dans';1;50
+e;16596882;'::>66:61283>24:16596880';8;0;'pain [peut] se trouver dans [objet] table de cuisine'
+e;16596939;'::>66:124094>24:97885';8;0;'enfant [peut] beurrer'
+e;16596941;'::>66:124094>24:327166';8;0;'enfant [peut] beurrer [objet] pain'
+e;16596949;'::>66:78234>24:97885';8;0;'maman [peut] beurrer'
+e;16596951;'::>66:78234>24:327166';8;0;'maman [peut] beurrer [objet] pain'
+e;14471977;'::>66:225916>24:29926';8;0;'personne>être humain [peut] acheter'
+e;16602853;'::>66:225916>24:11295522';8;0;'personne>être humain [peut] acheter [objet] pain'
+e;16603683;'::>66:225916>24:63449';8;0;'personne>être humain [peut] apprécier'
+e;16604567;'::>66:225916>24:16604565';8;0;'personne>être humain [peut] apprécier [objet] pain'
+e;14572952;'::>66:225916>24:7427';8;0;'personne>être humain [peut] frotter'
+e;17049813;'::>66:225916>24:17049808';8;0;'personne>être humain [peut] frotter [objet] pain'
+e;17562986;'::>66:40082>24:17562984';8;0;'convive [peut] saucer [avec] pain'
+e;17562991;'::>66:40082>24:17562989';8;0;'convive [peut] saucer son assiette [avec] pain'
+e;166088;'crouton';1;54
+e;8595;'corde';1;2503
+e;114839;'mets';1;250
+e;191775;'aliment de base';1;52
+e;229446;'artiche';1;84
+e;65532;'bisaille';1;50
+e;145725;'eucharistie';1;108
+e;123761;'mitron';1;110
+e;112605;'paneterie';1;50
+e;87983;'panification';1;62
+e;68470;'rôtie';1;78
+e;45699;'tourteau';1;100
+e;48075;'panifier';1;52
+e;127813;'pétrissable';1;50
+e;250999;'grain de sucre';1;24
+e;230329;'panettone';1;8
+e;29991;'talmouse';1;56
+e;2838875;'levage>119014';1;0;'levage>boulangerie'
+e;38715;'subsistances';1;50
+e;145681;'fraser';1;50
+e;2461342;'grignette';1;0
+e;439940;'brique>171870';1;50;'brique>Nom:'
+e;39101;'bête';1;1430
+e;109533;'pizza';1;602
+e;99693;'pitance';1;74
+e;80875;'fougasse';1;92
+e;222839;'demi-baguette';1;50
+e;11448;'toaster';1;76
+e;221243;'torgniole';1;50
+e;91815;'banneton';1;52
+e;32906;'biscotin';1;50
+e;136261;'biscotterie';1;50
+e;50581;'fleurage';1;50
+e;75465;'geindre';1;122
+e;139457;'natte';1;110
+e;71128;'panetière';1;56
+e;82986;'malaxer';1;112
+e;41198;'panifiable';1;50
+e;245482;'bis>61283';1;50;'bis>pain'
+e;84564;'gifle';1;416
+e;13758;'friand';1;64
+e;8217;'bis';1;628
+e;1163040;'boulanger>171869';1;0;'boulanger>Adj:'
+e;157366;'flûte>146881';1;50;'flûte>Nom:Fem+SG'
+e;14752963;'barkis';1;0
+e;117152;'soupe';1;1895
+e;216749;'boule>61283';1;50;'boule>pain'
+e;231390;'restaurant>61283';1;50;'restaurant>pain'
+e;232592;'hostie>61283';1;50;'hostie>pain'
+e;62524;'biscuit';1;704
+e;28590;'galette';1;278
+e;130178;'grigne';1;54
+e;47459;'longuet';1;88
+e;11094;'paneton';1;50
+e;109457;'parisien';1;3124
+e;15303;'tourte';1;156
+e;51664;'trempette';1;74
+e;1371375;'mélange sucré salé';1;10
+e;17550;'briffeton';1;52
+e;3245649;'tresse>119014';1;2;'tresse>boulangerie'
+e;255460;'produit de boulangerie';1;50
+e;19041;'gluten';1;92
+e;13791;'gueulard';1;80
+e;271719;'sandwich sous-marin';1;50
+e;70283;'travail';1;5146
+e;6826501;'en:bread';1;0
+e;167786;'coup violent';1;64
+e;40635;'sac';1;2235
+e;411938;'Pain';1;50
+e;152552;'Cuisine';1;156
+e;54037;'bran';1;50
+e;131135;'chapati';1;102
+e;53713;'fouace';1;64
+e;130747;'maie';1;52
+e;78746;'mouillette';1;166
+e;92142;'toast';1;230
+e;77008;'yeux';1;4537
+e;152155;'giffle';1;64
+e;3232300;'chaland>61283';1;0;'chaland>pain'
+e;106323;'morfondre';1;50
+e;2359774;'remouillure';1;0
+e;292111;'rassissement';777;50
+e;98133;'brie';1;160
+e;140490;'job';1;564
+e;25087;'lichette';1;50
+e;52522;'froment';1;130
+e;14752955;'skorpor';1;0
+e;14752962;'bergis';1;0
+e;14752965;'kaffebröd';1;0
+e;177279;'pâte cuite';1;50
+e;25658;'lingot';1;198
+e;41417;'coup';1;3552
+e;98988;'messe';1;1528
+e;130548;'pain de mie';1;144
+e;163027;'pain de campagne';1;104
+e;45269;'bâtard';1;158
+e;7003;'miche';1;96
+e;70527;'musique';1;9940
+e;143394;'bale';1;50
+e;17761;'brignolet';1;50
+e;35676;'canapé';1;1244
+e;110719;'chapon';1;272
+e;16086;'gindre';1;50
+e;146696;'lèche';1;54
+e;7494;'levée';1;983
+e;10810;'panetier';1;50
+e;76784;'pistolet';1;1846
+e;12855;'pita';1;78
+e;1920730;'ingrédients de cuisine';1;0
+e;225489;'pain au lait';1;34
+e;575;'tarte';1;1126
+e;111325;'pain azyme';1;58
+e;41894;'brique';1;442
+e;4938150;'coup de poing>146885';1;0;'coup de poing>Nom:Mas+SG'
+e;611223;'toaster>171870';1;0;'toaster>Nom:'
+e;153512;'farine de blé';1;170
+e;14752954;'knäckebröd';1;0
+e;14752961;'kavring';1;0
+e;14752964;'pain hallah';1;0
+e;14873;'boulange';1;80
+e;65059;'pâtonnage';1;50
+e;217163;'sandwich chaud';1;112
+e;44342;'dit';1;3913
+e;2362379;'porte-allume';1;0
+e;152553;'Gastronomie';1;72
+e;123693;'pain long';1;52
+e;219151;'empereur>61283';1;50;'empereur>pain'
+e;63079;'beurrée';1;66
+e;71238;'fournilles';1;50
+e;7252;'grignon';1;50
+e;78582;'biller';1;54
+e;109612;'panaire';1;50
+e;144005;'pané';1;80
+e;1380412;'spécialité française';1;6
+e;122738;'féculent';1;100
+e;135190;'lieu';1;3861
+e;3038;'pétrir';1;212
+e;104131;'baisure';1;50
+e;56943;'bassinage';1;52
+e;27271;'biscotte';1;134
+e;25600;'bren';1;52
+e;49543;'bribe';1;58
+e;116130;'bricheton';1;50
+e;143246;'coquille';1;568
+e;111068;'impanation';1;50
+e;129468;'pétrissage';1;56
+e;242204;'boulanger>119014';1;78;'boulanger>boulangerie'
+e;19636;'rôti';1;364
+e;189981;'ingrédient de cuisine';1;66
+e;113902;'alimentation';1;1961
+e;5115;'cuire';1;1713
+e;36204;'balle';1;2856
+e;107712;'chanteau';1;50
+e;108700;'coupe-pâte';1;50
+e;144104;'couronne';1;2980
+e;129157;'fournil';1;70
+e;125308;'gressin';1;50
+e;29500;'levain-chef';1;50
+e;106904;'panure';1;126
+e;145195;'pousse';1;2420
+e;77801;'scone';1;50
+e;26304;'soufflage';1;58
+e;52508;'tranché';1;80
+e;48352;'boulangeable';1;50
+e;1920538;'domaine alimentaire';1;0
+e;20621;'aliments';1;2130
+e;91657;'nutrition';1;466
+e;185223;'teff';1;50
+e;437433;'sandwich pour pique-nique';1;50
+e;241367;'mie>61283';1;12;'mie>pain'
+e;60056;'cuisson';1;1728
+e;114637;'aliment';1;1578
+e;158444;'pain blanc';1;104
+e;368097;'pain hypercellullosique';1;50
+e;242604;'levure de boulanger';1;72
+e;204912;'pain au levain';1;66
+e;141687;'fromage';1;3503
+e;43125;'gastronomie';1;2682
+e;244083;'pain au son';1;98
+e;3674;'botanique';1;3501
+e;140377;'beurre';1;2563
+e;85296;'boulot';1;618
+e;136559;'produit alimentaire';1;82
+e;437930;'hot-dog Michigan';1;50
+e;76545;'pétrisseur';1;76
+e;213482;'flûte>61283';1;50;'flûte>pain'
+e;213573;'ficelle>61283';1;86;'ficelle>pain'
+e;213758;'baguette>61283';1;244;'baguette>pain'
+e;73445;'chapelure';1;100
+e;34296;'saucisson';1;444
+e;271451;'lichette>61283';1;50;'lichette>pain'
+e;378540;'sandwich aux rillettes';1;50
+e;117405;'bretzel';1;64
+e;103914;'délayage';1;60
+e;3183461;'Pain noir';777;0
+e;214275;'cuisine>143757';1;2032;'cuisine>art culinaire'
+e;143757;'art culinaire';1;848
+e;233048;'moyen de subsistance';1;50
+e;204928;'pain sec';1;68
+e;216653;'croûte>61283';1;10;'croûte>pain'
+e;213430;'miche>61283';1;68;'miche>pain'
+e;156823;'gros pain';1;94
+e;264910;'pain rassis';1;62
+e;238180;'aliment périssable';1;20
+e;23241;'bouffe';1;450
+e;122581;'pain rond';1;52
+e;290011;'pain français';777;56
+e;131654;'tartiner';1;376
+e;233047;'mie de pain';1;16
+e;393311;'pain suédois';1;50
+e;437812;'roti>61283';1;50;'roti>pain'
+e;73508;'quignon';1;76
+e;146257;'flûte';1;394
+e;251791;'pain de mort';1;50
+e;332550;'banette>61283';1;50;'banette>pain'
+e;332559;'pain frais';1;104
+e;65012;'eau';1;11222
+e;33914;'seigle';1;110
+e;15196;'blanc';1;4729
+e;141883;'boule';1;2059
+e;140188;'brioche';1;398
+e;242522;'pain de glace';1;70
+e;393310;'Wasa';1;52
+e;217036;'pain sans levain';1;50
+e;16033;'cuisine';1;11756
+e;11692;'bloc';1;2688
+e;251790;'pain des morts';1;50
+e;217035;'pain indien';1;58
+e;154315;'roti';1;84
+e;79444;'campagne';1;3750
+e;47964;'doré';1;148
+e;51528;'son';1;3927
+e;257797;'bagel';1;50
+e;35798;'vin';1;4620
+e;13260;'sel';1;2779
+e;38234;'croissant';1;1464
+e;24786;'faluche';1;68
+e;265463;'pain à l'ail';1;50
+e;87987;'France';1;4535
+e;62278;'céréales';1;1614
+e;38361;'miette';1;212
+e;42645;'complet';1;3144
+e;34157;'chocolat';1;3600
+e;167803;'pain quotidien';1;78
+e;18283;'céréale';1;622
+e;143123;'tranche';1;618
+e;152965;'coup de poing';1;370
+e;74736;'repas';1;3791
+e;34069;'pâte';1;2905
+e;25797;'pétrin';1;176
+e;94536;'ficelle';1;538
+e;225208;'miette>61283';1;50;'miette>pain'
+e;9190;'four';1;2415
+e;152157;'croute';1;68
+e;153046;'boulangère';1;376
+e;41851;'croûte';1;230
+e;130164;'manger';1;10304
+e;25337;'tartine';1;676
+e;20965;'nourriture';1;3820
+e;53450;'levure';1;328
+e;106702;'levain';1;202
+e;32071;'blé';1;2387
+e;1447;'sandwich';1;1034
+e;119014;'boulangerie';1;1438
+e;37905;'mie';1;270
+e;145285;'boulanger';1;1114
+e;127629;'farine';1;2130
+e;128482;'baguette';1;1932
+e;239128;'_COM';36;50
+e;11407459;'pain>360394';1;0;'pain>jour de prison'
+e;11407462;'pain>70527';1;0;'pain>musique'
+e;233050;'pain>233048';1;50;'pain>moyen de subsistance'
+e;240146;'pain>11692';1;2;'pain>bloc'
+e;233051;'pain>152965';1;10;'pain>coup de poing'
+e;107073;'Art culinaire';1;52
+e;7187002;'en:music';1;0
+e;316416;'music';777;664
+e;146882;'Ver:Inf';4;50
+e;212235;'Ver:';4;50
+e;2586627;'Gender:Mas';4;0
+e;2586629;'Number:Sing';4;0
+e;146885;'Nom:Mas+SG';4;50
+e;171870;'Nom:';4;50
+e;129374;'briffe';1;50
+e;157284;'lieu>68467';1;58;'lieu>poisson'
+e;139779;'ADN';1;1254
+e;15420020;'en:bread crumb';1;0
+e;229423;'croûte de pain';1;6
+e;7288130;'en:breadcrumbs';1;0
+e;6398107;'aliments biologiques';1;0
+e;191722;'steak haché';1;208
+e;8061837;'en:minced beef';1;0
+e;15054599;'en:ground beef';1;0
+e;26201;'goûter';1;918
+e;317757;'salade au chèvre chaud';1;2
+e;284895;'Whopper';666;50
+e;226266;'kébab';1;22
+e;100307;'hot-dog';1;140
+e;229462;'Long Fish';1;10
+e;7123648;'en:organic food';1;0
+e;15252759;'aliments bio';1;0
+e;2475310;'pain bagnat';1;0
+e;14941467;'en:hamburger';1;0
+e;217141;'boeuf haché';1;62
+e;15146254;'en:ham sandwich';1;0
+e;8052392;'en:burger';1;0
+e;15062312;'en:beefburger';1;0
+e;216936;'panini';1;76
+e;61802;'mitraillette';1;170
+e;308165;'pan bagnat';777;52
+e;14915933;'falafel>1447';1;0;'falafel>sandwich'
+e;119713;'croque-madame';1;82
+e;9101783;'véritable fondue savoyarde';1;0
+e;15663238;'en:croque-madame';1;0
+e;15663239;'en:toasted ham and cheese sandwich with an egg';1;0
+e;15663240;'en:grilled ham and cheese sandwich with an egg';1;0
+e;15384541;'en:French toast, eggy bread';1;0
+e;12202010;'arbre à pain (fruit)';1;0
+e;14678527;'prendre le pain';1;56
+e;13736613;'tranches de pain toastées';1;0
+e;14159313;'pain au cacao';777;0
+e;14159545;'aller au pain';1;12
+e;14159774;'embrasser comme du bon pain';1;0
+e;14159697;'charcher son pain';1;0
+e;14159815;'être au pain quérant';1;0
+e;14159876;'exagérer sur le pain béni';1;0
+e;14604782;'tranche de pain de mie grillée';1;0
+e;14610518;'chercher son pain';1;0
+e;14638942;'cuisson du pain';1;0
+e;14654821;'pain allongé';1;0
+e;14755251;'pain de carabin';777;0
+e;14760379;'Le pain de Pâques à Sepvigny';777;0
+e;5787574;'pain brié';777;0
+e;5787556;'musée du pain d'épices et de l'art populaire alsacien';777;0
+e;5786856;'pain à la duchesse';777;0
+e;5786240;'pain coco';777;0
+e;12090597;'arbre à pain (fruit) ac ige';1;0
+e;12989698;'pain turc';777;0
+e;12989696;'pain arabe';777;0
+e;14252100;'pain en tranches';1;0
+e;14252103;'manger du pain';1;0
+e;14252104;'corbeille du pain';1;0
+e;14486214;'faire son pain';1;10
+e;14486215;'pain artisanal';1;0
+e;14486287;'pain aux olives';1;2
+e;14486288;'acheter le pain';1;0
+e;14486289;'prendre du pain';1;12
+e;14488504;'tartine de pain grillé';1;12
+e;14510690;'pain de seigne';1;0
+e;14529689;'beurrer du pain';1;12
+e;14530732;'tartine de pain';1;0
+e;14557755;'pain d'abeille';1;0
+e;14558115;'pain en épi';1;6
+e;14585145;'pain de vesou';1;0
+e;14604616;'pain aux graines';1;2
+e;14670127;'pain de la veille';1;6
+e;14670128;'faire du pain perdu';1;6
+e;14670129;'quignon de pain sec';1;0
+e;14670130;'au pain sec et à l'eau';1;4
+e;14670146;'de pain chaud';1;0
+e;14670147;'de pain grillé';1;0
+e;14716956;'faire griller du pain';1;0
+e;14716958;'tranche de pain grillé';1;2
+e;14717703;'sentir le pain grillé';1;2
+e;14717708;'sentir le pain chaud';1;2
+e;14718281;'croûton de pain';1;0
+e;14720213;'passer prendre le pain';1;0
+e;14720214;'passer prendre du pain';1;0
+e;15020155;'arbres à pain';1;0
+e;17582165;'croûtons de pain frottés à l'ail';1;0
+e;5788266;'affaire du pain maudit';777;0
+e;5787577;'pain paysan';777;0
+e;12090598;'arbre à pain (fruit) ac ige classification rast';1;0
+e;12989697;'pain syrien';777;0
+e;14563672;'pain de mie grillé';1;10
+e;14752811;'petit pain suédois';1;0
+e;5798229;'chicorée pain de sucre';777;0
+e;5794151;'bonhomme de pain d'épices';777;0
+e;5801035;'pain au curry';777;0
+e;5799722;'la conquête du pain';777;0
+e;12109395;'arbre à pain (fruit) ag';1;0
+e;5802331;'pain d'épeautre';777;0
+e;10895903;'pain noir de Castelvetrano';1;0
+e;17453446;'pain de farine blanche';1;0
+e;15195161;'du pain complet';1;0
+e;5812112;'pain d'épices de Reims';777;0
+e;5812019;'pain crestou';777;0
+e;5828623;'pain d'épices appenzellois';777;0
+e;5827979;'pain à la grecque';777;0
+e;9980321;'manger de ce pain là';1;0
+e;10962932;'pain en forme de couronne';1;0
+e;10895893;'pain italien';1;4
+e;10913827;'faire le pain';1;0
+e;10913822;'fabriquer le pain';1;0
+e;17453445;'levée du pain';1;0
+e;5812096;'pain de la Sainte-Agathe';777;0
+e;5812050;'pain marqouq';777;0
+e;5837353;'Notre pain quotidien';777;0
+e;5835629;'Terre sans pain';777;0
+e;17453531;'pain gris';1;0
+e;15195165;'boîte à pain';1;0
+e;11350438;'pain de perdrix';777;0
+e;15200532;'assez de pain';1;0
+e;15288466;'du pain grillé';1;0
+e;5807906;'galette de pain';1;0
+e;10865456;'le pain';777;0
+e;10910202;'chercher le pain';1;0
+e;5916596;'pain grillé domestique';1;0
+e;5916587;'pain aux céréales et graines';1;0
+e;5916585;'pain de mie brioché';1;0
+e;5916581;'pain de mie courant';1;0
+e;5916579;'pain panini';1;0
+e;11027009;'pain baguette';777;0
+e;13426629;'pain medfouna';777;0
+e;12080388;'pain d'épicière';1;0
+e;12080387;'pain d'épicier';1;0
+e;15280265;'corbeille de pain';1;0
+e;2390442;'ça ne mange pas de pain';1;0
+e;5622070;'pain polaire';777;0
+e;5622020;'pain madfouna';777;0
+e;5620351;'pain de fée';777;0
+e;5812094;'pain du Luberon';777;0
+e;5801038;'pain melon';777;0
+e;5916590;'pain pour hamburger';1;0
+e;5916589;'petit pain spécial';1;0
+e;5912835;'pain keiser';1;0
+e;5912833;'pain multigrain';1;0
+e;5912136;'pain de blé';1;0
+e;10317009;'Les Maîtres du pain';777;0
+e;11455204;'something for the pain';777;0
+e;15241698;'brioche ou petit pain au sirop de sucre';1;0
+e;15256109;'cataplasme à la mie de pain';1;0
+e;5622069;'pain de Modane';777;0
+e;10822405;'pain sucré';1;0
+e;15205497;'assiette à pain';1;0
+e;15398303;'tout un pain';1;0
+e;15584360;'un morceau de pain';1;0
+e;16059479;'une fournée de pain';1;0
+e;15584362;'une tranche de pain';1;0
+e;15991306;'à la mie de pain';1;0
+e;15420003;'ça ne mange pas de pain de faire [qch]';1;0
+e;15549296;'ça ne mange pas de pain de faire quelque chose';1;0
+e;15420007;'être au pain sec et à l'eau';1;0
+e;15694073;'ôter le pain de la bouche à';1;0
+e;15694072;'ôter le pain de la bouche à quelqu'un';1;0
+e;2435666;'faire passer le goût du pain';1;0
+e;5812204;'pain d'écorce';777;0
+e;5812189;'pain durant la Rome antique';777;0
+e;5807905;'galette de pain fermenté';1;0
+e;5802334;'pain levé';1;0
+e;10834295;'aller gagner son pain';1;0
+e;11295704;'pain cuit';1;0
+e;15418450;'ôter le pain de la bouche à [qqn]';1;0
+e;15277329;'On ne le paye qu'une bouchée de pain.';1;0
+e;15241523;'Tartiner le pain de fromage.';1;0
+e;15277324;'acheter qch une bouchée de pain';1;0
+e;4940298;'croûte-de-pain';1;0
+e;5812099;'pain au vin rouge';777;0
+e;5812093;'pain paillasse de Lodève';777;0
+e;10549130;'t-pain';777;0
+e;15362574;'se prendre un pain dans la figure';1;0
+e;15362575;'se prendre un pain dans la gueule';1;0
+e;2434803;'pain à chanter';1;0
+e;2465709;'qui a du pain nargue le chagrin';1;0
+e;5622071;'pain tressé et natté';777;0
+e;5619773;'histoire du pain';777;0
+e;15288468;'Le petit déjeuner consistait en une tranche de pain grillé.';1;0
+e;15548184;'scarifier le pain';1;0
+e;5622151;'pudding au pain';777;0
+e;5812209;'pain paillasse';777;0
+e;5812163;'pain au fromage';777;0
+e;10774152;'aller chercher du pain';1;12
+e;15334060;'pain avec oeuf sur le plat au jambon';1;0
+e;15568703;'ration de pain hebdomadaire';1;0
+e;15399503;'reprendre du pain';1;0
+e;15694077;'retirer le pain de la bouche à';1;0
+e;15694076;'retirer le pain de la bouche à quelqu'un';1;0
+e;2432889;'faire perdre le goût du pain';1;0
+e;3897719;'coupe-pain';1;0
+e;15418456;'retirer le pain de la bouche à [qqn]';1;0
+e;16940495;'odeur de pain';1;0
+e;16922108;'pain au bicarbonate de sodium';777;0
+e;15569157;'pain aux cinq céréales';1;0
+e;16802442;'pain aux poires';777;0
+e;16573835;'pain bagnat au thon';1;0
+e;15364559;'pain coupé en tranches';1;0
+e;15394889;'pain de légumes';1;0
+e;15382717;'pain scandinave';1;0
+e;13759880;'pain-de-coucou';1;0
+e;15370319;'panier à pain';1;0
+e;17129891;'petit pain rond';1;0
+e;15420039;'planche à couper le pain';1;0
+e;16055117;'plat comme planche à pain';1;0
+e;15420044;'prendre un pain';1;0
+e;15396051;'prix du pain';1;0
+e;5812198;'pain tandoori';777;0
+e;5812097;'pain de Beaucaire';777;0
+e;5985565;'A little pain';777;0
+e;11154314;'pain bio';1;4
+e;11414906;'noix-pain';777;0
+e;17022764;'pain relief patch';777;0
+e;15463455;'pain kaiser';1;0
+e;16387279;'pain liquide';1;0
+e;16981167;'pain medicine';777;0
+e;16981166;'pain killer';777;0
+e;16981165;'pain management';777;0
+e;16981169;'pain control';777;0
+e;17233410;'pain scale';777;0
+e;15694069;'mettre un pain à';1;0
+e;15420017;'mettre un pain à [qqn]';1;0
+e;15694068;'mettre un pain à quelqu'un';1;0
+e;15567202;'miche de pain blanc';1;0
+e;16132901;'moisissure noire du pain';777;0
+e;2445790;'bon comme le bon pain';1;0
+e;6449924;'fruit de l'arbre à pain';1;0
+e;12268082;'La Fille pain d'épice';777;0
+e;16797209;'morceaux de pain';1;0
+e;15488685;'la ration de pain hebdomadaire';1;0
+e;16922107;'le pain au bicarbonate de sodium';777;0
+e;15490726;'glomérule en pain à cacheter';1;0
+e;15548186;'grigner le pain';1;0
+e;17030835;'hausse du prix du pain';1;0
+e;15760480;'il reste du pain';1;0
+e;16940662;'knee pain';777;0
+e;15361712;'l'odeur du pain frais';1;0
+e;6563312;'ordalie du fromage et du pain';1;0
+e;16489331;'farce au pain de maïs';1;0
+e;15694063;'filer un pain à';1;0
+e;15694061;'filer un pain à quelqu'un';1;0
+e;2403069;'pain de saint Jean-Baptiste';1;0
+e;2420438;'bon comme du bon pain';1;0
+e;5993408;'grève du pain et des roses';777;0
+e;15420005;'filer un pain à [qqn]';1;0
+e;7633408;'acheter du pain';1;10
+e;14718778;'faire son pain soi-même';1;10
+e;15326761;'Le pain a moisi.';1;0
+e;2363583;'mettre un pain';1;4
+e;16818212;'bjective pain scale';1;0
+e;9730145;'griller du pain';1;0
+e;8788680;'voler du pain';1;0
+e;8854583;'apporter du pain';1;0
+e;9014606;'croûton de pain sec';1;8
+e;9101798;'pain d'épice pour une maison de noël';1;0
+e;9101866;'stollen - pain de noël allemand';1;0
+e;9101828;'maison en pain d'épice pour halloween';1;0
+e;9102157;'pain de Noël';1;0
+e;9102133;'farinata : pain italien';1;0
+e;9102131;'tcheurek : pain arménien de pâques';1;0
+e;9102088;'pain perdu de grand-mère';1;0
+e;9101861;'pain marocain ksra';1;0
+e;9663427;'Prosper le roi du pain d'épices';777;0
+e;10158035;'Grille-pain';1;0
+e;15342078;'Elle beurra abondamment mon pain.';1;0
+e;15322608;'J'ai acheté trop de pain.';1;0
+e;15322601;'J'ai acheté un pain.';1;0
+e;15548227;'Il nous faut plus de pain.';1;0
+e;15350762;'Elle m'a envoyé chercher plus de pain.';1;0
+e;15366239;'Donnez-nous aujourd'hui notre pain quotidien.';1;0
+e;15420004;'coller un pain à [qqn]';1;0
+e;15548224;'Je n'ai plus de pain.';1;0
+e;15350747;'Sa mère l'a envoyé chercher du pain.';1;0
+e;15584366;'Servez-vous de pain.';1;0
+e;16032444;'bon comme le pain';1;0
+e;15694062;'coller un pain à';1;0
+e;15694060;'coller un pain à quelqu'un';1;0
+e;16032524;'du bon pain';1;0
+e;15333919;'du pain de son';1;0
+e;15354665;'du pain et de la confiture';1;0
+e;15461430;'du pain sur la planche, beaucoup de pain sur la planche';1;0
+e;15211250;'découper le pain en tranches, trancher le pain, découper le pain';1;0
+e;16336403;'Ca mange pas de pain';1;0
+e;16777747;'Aïoli à la mie de pain';777;0
+e;16886789;'Pour une bouchée d'pain';777;0
+e;16941736;'breast pain';777;0
+e;587837;'pain suisse';777;0
+e;2545495;'manger son pain blanc le premier';1;0
+e;2491986;'ôter le pain de la bouche';1;0
+e;3225646;'pain à cacheter>73893';1;0;'pain à cacheter>singe'
+e;3370649;'tarte aux pommes et pain d'épices';1;0
+e;3368637;'saint-jacques en petit pain';1;0
+e;3367753;'pudding au pain chocobanane';1;0
+e;3367385;'poulet à la bière brune et au pain d'épice';1;0
+e;3366891;'pilons de poulet en croûte de pain';1;0
+e;3366767;'petits croustillants au pain rassis et noix de coco';1;0
+e;3366085;'pain perdu à la fourme d'ambert';1;0
+e;3366084;'pain perdu à la fleur d'oranger et au chocolat blanc';1;0
+e;3366080;'pain léger de colin et courgettes';1;0
+e;3366077;'pain d'hachis accompagné de pommes frites';1;0
+e;3366063;'pain de semoule aux raisins secs';1;0
+e;3366058;'pain de potiron à la normande';1;0
+e;3366057;'pain de poissons à la tomate';1;0
+e;3366048;'pain de poisson aux 2 saumons, sauce citron vert';1;0
+e;3366041;'pain d'épices, recette du moyen-age';1;0
+e;3366040;'pain d'épices rapide';1;0
+e;3366025;'pain d'épices à l'anis';1;0
+e;3366020;'pain de mie à la poêle';1;0
+e;3366011;'pain de courgettes';1;0
+e;3366007;'pain d'aubergines au lard';1;0
+e;3366003;'pain classique à la machine à pain';1;0
+e;3365995;'pain au lait caillé';1;0
+e;3365899;'mini-crumble au foie gras figues, confit d'oignon et pain d'épices';1;0
+e;3365673;'gâteau de fruit à pain, fruit exotique';1;0
+e;3363067;'gâteau fruit à pain';1;0
+e;3362996;'gâteau de pain';1;2
+e;3362898;'gâteau au yaourt au pain d'épices';1;0
+e;3361466;'crumble surprise au pain d'épices';1;0
+e;3743952;'pain brioché allemand aux raisins';1;0
+e;3744361;'confiture de coings à la machine à pain';1;0
+e;3744949;'maison en pain d'épice facile';1;0
+e;3744739;'pain perdu minute';1;0
+e;3744885;'pâte à pizza à la machine à pain';1;0
+e;3745912;'pain aux raisins et à la cannelle';1;2
+e;3745715;'pain marocain Ksra';1;0
+e;3759355;'roomali Roti (pain indien)';1;0
+e;3757958;'pain d'épice nature tranché';1;0
+e;3757481;'bon pain';1;0
+e;3756990;'pain blanc coupé en cubes';1;0
+e;3755621;'mie de pain fraîche';1;0
+e;3755004;'tranche épaisse de pain de seigle';1;0
+e;3754864;'mie de pain complet émiettée';1;0
+e;459767;'aller chercher le pain';1;62
+e;585737;'vrillette du pain';777;0
+e;2504545;'plat comme une planche à pain';1;0
+e;3301349;'pain de sucre>124187';1;0;'pain de sucre>chicorée'
+e;3318605;'gâteau à base de pain aux pépites de chocolat';1;0
+e;3318785;'pain de viande, sauce à la bière brune';1;0
+e;3321309;'petit pain du matin';1;0
+e;3319110;'pain croustillant Knäckebrot';1;0
+e;3359520;'boulettes de pain azyme';1;0
+e;3366100;'pain pizza';1;0
+e;3366095;'pain perdu rapide';1;0
+e;3366087;'pain perdu au camembert';1;0
+e;3366074;'pain d'évêque';1;0
+e;3366043;'pain d'épice surprise';1;0
+e;3366042;'pain d'épices, sans oeufs!';1;0
+e;3366030;'pain d'épices aux fruits secs';1;0
+e;3366027;'pain d'épices à trois mains';1;0
+e;3366015;'pain de filets de dinde';1;0
+e;3366014;'pain de feuilles de blettes';1;0
+e;3366012;'pain de courgettes au surimi';1;0
+e;3366002;'pain brioché gratiné';1;0
+e;3365998;'pain aux fruits secs';1;0
+e;3365993;'pain au beurre délicieux';1;0
+e;3365875;'meat loaf aux poivrons et au ketchup, pain de viande américain';1;0
+e;3359602;'bricks aux poires et pain d'épices';1;0
+e;3743833;'pain au piment';1;0
+e;3744975;'pain à la banane et à la cannelle';1;0
+e;3744999;'bonhommes de pain d'épice';1;0
+e;3745018;'maki de pain de mie - roulé de pain de mie';1;0
+e;3745275;'pain brioché tressé facile';1;0
+e;3746364;'amuse-bouches de foie gras poêlé sur pain d'épice';1;0
+e;3746216;'pain d'épices pour foie gras';1;0
+e;3746114;'cuisses de caille purée de céleri crème de foie gras aux épices de pain d'épice';1;0
+e;3759409;'torrijas (pain perdu espagnol)';1;0
+e;3757961;'pain pitas';1;0
+e;3757899;'pain focaccia';1;0
+e;3755725;'pain de campagne un peu rassis';1;0
+e;3754423;'tranches de pain d'épices';1;0
+e;3753628;'mie de pain complet fraîche';1;0
+e;3752473;'tranches de pain de mie toastées';1;0
+e;4939328;'pain perdu espagnol';1;0
+e;1968665;'tranches de pain';1;0
+e;1971747;'tranches de pain de mie';1;0
+e;3246567;'pain russe';777;0
+e;3318691;'pain de viande au cumin et à la menthe';1;0
+e;3366348;'pâte à pizza en map, machine à pain de fanny';1;0
+e;3366099;'pain pita aux tomates et à la crème';1;0
+e;3366096;'pain perdu salé à l'italienne';1;0
+e;3366081;'pain maison à la levure de bière';1;0
+e;3366045;'pain de poisson au crabe';1;0
+e;3366034;'pain d'épices de dijon';1;0
+e;3366033;'pain d'épices corse';1;0
+e;3366029;'pain d'épices au miel';1;0
+e;3366028;'pain d'épices au chocolat et au miel';1;0
+e;3366024;'pain d'épices à la dijonnaise';1;0
+e;3366023;'pain d'epices';1;0
+e;3366008;'pain de banane';1;0
+e;3366006;'pain d'aubergines au coulis de tomate';1;0
+e;3363289;'glace au pain d'épices';1;0
+e;3743925;'pain viennois aux pépites';1;0
+e;3744050;'maison en pain d'épices pour les enfants';1;0
+e;3744214;'pain en machine au chocolat blanc';1;0
+e;3744770;'pain d'épice au beurre et à la farine complète';1;0
+e;3745155;'injera - galette de pain éthiopienne';1;0
+e;3746381;'bonhommes de pain d'épices';1;0
+e;3745668;'pain Pita';1;0
+e;3759117;'tranches de pain rassis';1;0
+e;3758950;'tranches de pain coupés en dés';1;0
+e;3758879;'pain dur haché ou de chapelure';1;0
+e;3758082;'tranches de pain de mie blanc';1;0
+e;3757588;'préparation pour pain sans gluten';1;0
+e;3757506;'tranches de pain de mie aux céréales';1;0
+e;3757437;'cuillère à café d'épices à pain d'épice';1;0
+e;3756234;'tranches de pain d'épice';1;0
+e;3755560;'mie de pain fraîche émiettée';1;0
+e;3754902;'chapelure de pain d'épices';1;0
+e;3752902;'pâte à pain achetée chez le boulanger';1;0
+e;3756374;'tranches de pain de campagne';1;0
+e;4243370;'croûte de pâté vaut bien pain';1;0
+e;4104275;'plates comme une planche à pain';1;0
+e;2604504;'ne valoir pas le pain qu'on mange';1;0
+e;2471962;'ça mange pas de pain';1;0
+e;3072169;'miette de pain';1;0
+e;3225649;'pain à cacheter>102206';1;0;'pain à cacheter>médecine'
+e;3225650;'pain à cacheter>17545';1;0;'pain à cacheter>sceau'
+e;3318869;'poisson pané façon pain d'épices';1;0
+e;3321157;'pain matze';1;0
+e;3359817;'cailles au pain d'épice clémentines et ananas';1;0
+e;3371415;'tiramisu au pain d'épices et à l'orange';1;0
+e;3367121;'poivrons et tomates grillés et leur pain maison, algérie';1;0
+e;3366083;'pain perdu à la cassonade et à la cannelle';1;0
+e;3366082;'pain perdu à la cannelle et aux noisettes';1;0
+e;3366079;'pain léger aux noix de saint-jacques';1;0
+e;3366062;'pain des bords de mer : thon crevette';1;0
+e;3366054;'pain de poisson, lieu jaune et saumon';1;0
+e;3366035;'pain d'épices de tata coco';1;0
+e;3366004;'pain d'anis , alsace';1;0
+e;3365999;'pain aux fruits secs et séchés';1;0
+e;3365087;'omelette au pain';1;0
+e;3364732;'mousse de foies de volaille au pain d'épices';1;0
+e;3364412;'méli-mélo pomme pain d'épices';1;0
+e;3366101;'pain-pizza';1;0
+e;3743938;'petits bonshommes en pain d'épice';1;0
+e;3746883;'pain de banane aux noix de pécan';1;0
+e;3746434;'pain au chocolat et amandes';1;0
+e;3745841;'pain d'épice pour une maison de Noël';1;0
+e;3751297;'épices à pain d'épices';1;0
+e;3758926;'tranches de pain blanc ou aux céréales';1;0
+e;3758144;'pain pita coupé en deux';1;0
+e;3757420;'tranches de pain d'épices maison';1;0
+e;3756953;'petites tranches de pain de mie';1;0
+e;3756677;'tranches de pain coupées en dés';1;0
+e;3754641;'tranches de pain blanc rassis trempées dans l'eau et bien essorées';1;0
+e;3753843;'tranche de pain complet';1;0
+e;3753598;'tranches de pain italien Ciabatta';1;0
+e;3753346;'baguette ou de pain ciabatta';1;0
+e;3753310;'pain rassis coupé en tranches';1;0
+e;3751693;'levure pour pain';1;0
+e;3751656;'mie de pain rassis';1;0
+e;3751623;'tranches de pain complet coupées en cubes';1;0
+e;3318758;'pain de thon, crevettes et moules au cumin';1;0
+e;3320992;'pain fait à la maison';1;0
+e;3369968;'stollen rhénan, pain de noël allemand';1;0
+e;3369523;'soufflé au pain d'épices et noix de cajou';1;0
+e;3369263;'saucisson en brioche pour machine à pain';1;0
+e;3367768;'pudding de pain perdu au parmesan';1;0
+e;3367755;'pudding au pain et pommes';1;0
+e;3367754;'pudding au pain d'épices';1;0
+e;3367533;'poulet aux miettes de pain';1;0
+e;3366090;'pain perdu au saumon fumé';1;0
+e;3366073;'pain de veau au citron';1;0
+e;3366071;'pain de thon et sa salade';1;0
+e;3366065;'pain de st jacques';1;0
+e;3366056;'pain de poisson mousseline';1;0
+e;3366055;'pain de poisson, lieu noir et truite';1;0
+e;3366053;'pain de poisson et de saint-jacques';1;0
+e;3366051;'pain de poisson aux herbes';1;0
+e;3366039;'pain d'épices perdu exotique';1;0
+e;3744377;'pain aux kakis moelleux et épicé';1;0
+e;3744850;'velouté de potiron marron et noisettes et son pain d'épice gaufré';1;0
+e;3745005;'pain aux raisins et au rhum';1;0
+e;3746272;'pain perdu authentique';1;0
+e;3745596;'verrines de pain d'épices croustillants oignons confits et dés de foie gras';1;0
+e;3759439;'Rúgbrauð (pain de seigle islandais)';1;0
+e;3759376;'velouté de potiron marron et noisettes et son pain d'épice';1;0
+e;3759370;'Stollen - pain de Noël allemand';1;0
+e;3758948;'tranche de pain de environ grossièrement émiettée';1;0
+e;3756601;'tranches de pain ciabatta';1;0
+e;3756099;'tranches de pain complet';1;0
+e;3753113;'tranches très fines de pain bis frais et moelleux';1;0
+e;3866108;'plate comme une planche à pain';1;0
+e;1804889;'avoir mangé son pain blanc';1;0
+e;3318530;'crumble pommes, pignons, pain d'épices';1;0
+e;3318848;'pomme au four sur pain perdu';1;0
+e;3369246;'saucisse à la mie de pain';1;0
+e;3367772;'pudding pain chocolat';1;0
+e;3366086;'pain perdu à la vanille';1;0
+e;3366066;'pain de surimi';1;0
+e;3366064;'pain de sole à la langouste';1;0
+e;3366060;'pain de saumon';1;0
+e;3366049;'pain de poisson aux baies roses et à la ciboulette';1;0
+e;3366047;'pain de poisson au saumon et surimi';1;0
+e;3365278;'bugnes ou beignets à la map, machine à pain';1;0
+e;3365260;'brioche au goût de coco, machine à pain';1;0
+e;3365259;'brioche à la crème de marron en map, machine à pain';1;0
+e;3364697;'mousse au pain d'épice et à l'orange';1;0
+e;3359981;'cake de pain perdu aux lardons';1;0
+e;3744028;'pain à la banane et aux noix';1;0
+e;3744552;'pain perdu moelleux';1;0
+e;3744642;'pain perdu au four à la rhubarbe et aux noix';1;0
+e;3745375;'pain de thon au naturel';1;0
+e;3746660;'pain complet à la banane';1;0
+e;3745950;'pain indien le naan au fromage';1;0
+e;3745541;'velouté de panais dés de foie gras en chapelure de pain d'épices';1;0
+e;3759389;'maki de pain de mie - Roulé de pain de mie';1;0
+e;3758595;'farine blanche en plus sur le pain';1;0
+e;3757665;'mie de pain complet émiettée finement';1;0
+e;3757301;'tranches de baguette de pain';1;0
+e;3757170;'tranches de pain grillées';1;0
+e;3756992;'pain complet coupé en cubes';1;0
+e;3754840;'tranches de pain de mie nature ou complet sans les bords c'est l'idéal';1;0
+e;3754388;'baguette de pain coupée en croûtons';1;0
+e;3939646;'pain polka';1;0
+e;5501026;'pain au sésame';1;0
+e;1901362;'vendre du pain';1;0
+e;2362742;'avoir son pain cuit';1;0
+e;2585972;'pain-là';1;0
+e;3314833;'couper du pain';1;0
+e;3318491;'mousse chocolat et crème citron sur lit de pain d'épices';1;0
+e;3319555;'pain de teff';1;0
+e;3372129;'wraps au pain lavash';1;0
+e;3371427;'tiramisu aux framboises et pain d'épices';1;0
+e;3368706;'salade composée au pain d'épices';1;0
+e;3366097;'pain perdu salé tomaté';1;0
+e;3366094;'pain perdu des montagnes';1;0
+e;3366070;'pain de thon au persil';1;0
+e;3366032;'pain d'épices avec machine à pain';1;0
+e;3366021;'pain de mie façon pizza';1;0
+e;3366010;'pain de chou vert à la viande hachée';1;0
+e;3366009;'pain de blettes';1;0
+e;3365992;'pain à la tomate';1;0
+e;3365828;'le patchwork, pudding au pain et pain d'épice';1;0
+e;3365627;'garlic bread, pain à l'ail';1;0
+e;3359624;'brioche à la crème pour machine à pain';1;0
+e;3744284;'maison gourmande en pain d'épices';1;0
+e;3745337;'glaçage au gingembre pour maison en pain d'épice';1;0
+e;3745286;'pain brioché aux raisins';1;0
+e;3746520;'charlotte au foie gras et pain d'épice';1;0
+e;3746245;'pain sans gluten à la machine à pain';1;0
+e;3745691;'pain aux épinards et au fromage';1;0
+e;3745651;'asperges et pain aillé au barbecue';1;0
+e;3751298;'chapelure coréenne ou chapelure de pain';1;0
+e;3759404;'rewena - pain maori';1;0
+e;3759369;'pain irlandais (Spotted Dog Irish Bread)';1;0
+e;3758237;'chapelure ou de pain sec haché';1;0
+e;3757397;'tranche de pain aux céréales';1;0
+e;3757296;'pain sec trempé dans de l'eau';1;0
+e;3754908;'morceaux de pain de mie blanc coupés en cubes';1;0
+e;3754809;'farine spéciale pain';1;0
+e;3753364;'miettes de pain desséchées';1;0
+e;3753027;'toasts de pain de mie';1;0
+e;3753001;'tranches de pain de mie complet';1;0
+e;3752131;'tranches de pain type ciabatta ou pain brioché grillées';1;0
+e;3751837;'grande tranche de pain de mie frais';1;0
+e;3751699;'chapelure fine de pain complet';1;0
+e;3763669;'pain dur';1;10
+e;437120;'grand pain pita';1;50
+e;1655036;'pleure-pain';1;0
+e;2524472;'rompre le pain';1;12
+e;2609101;'pain oriental';1;0
+e;2609102;'bonhomme en pain d'épices';1;0
+e;3294939;'cuve à pain';1;0
+e;3301350;'pain de sucre>370604';1;0;'pain de sucre>piton rocheux'
+e;3322624;'pain croquant suédois';777;0
+e;3371435;'tiramisu aux poires et au pain d'épices';1;0
+e;3366104;'pain safrané à la machine à pain';1;0
+e;3366102;'pain plein d'épices';1;0
+e;3366093;'pain perdu aux reines claudes, ou autres prunes';1;0
+e;3366092;'pain perdu aux framboises';1;0
+e;3366091;'pain perdu aux épices';1;0
+e;3366089;'pain perdu au foie gras acidulé';1;0
+e;3366078;'pain doux bigouden';1;0
+e;3366075;'pain de viande aux épinards';1;0
+e;3366069;'pain de thon au basilic et aïoli';1;0
+e;3366067;'pain de thon';1;0
+e;3366052;'pain de poisson, colin';1;0
+e;3366044;'pain de poireaux';1;0
+e;3366026;'pain d'épices, anis et cannelle';1;0
+e;3366018;'pain de légumes allégé';1;0
+e;3366017;'pain de la saint martin';1;0
+e;3366005;'pain d'aubergine au coulis de tomates';1;0
+e;3365994;'pain au crabe';1;0
+e;3365301;'cake fondant au chocolat avec la machine à pain, map';1;0
+e;3363822;'jarrets de porc aux poireaux et pain d'épices';1;0
+e;3363138;'gâteau pomme cannelle pain d'epice';1;0
+e;3362655;'galettes de pain perdu au fromage';1;0
+e;3359874;'cake au citron-amande à la machine à pain';1;0
+e;3707553;'couper le pain';1;0
+e;3744160;'cake à la banane avec une machine à pain';1;0
+e;3744437;'pain sportif';1;0
+e;3744359;'pain à la cannelle et aux raisins';1;0
+e;3744452;'pain aux cerises et raisins secs';1;0
+e;3746235;'maison en pain d'épice';1;0
+e;3746109;'pain d'épices toasté et ses pommes fondantes au cidre';1;0
+e;3746075;'pain brioché à la purée de pommes de terre';1;0
+e;3745473;'maison en pain d'épice pour Halloween';1;0
+e;3745442;'bretzels à la machine à pain';1;0
+e;3759413;'tcheurek : pain arménien de Pâques';1;0
+e;3753238;'tartines de pain tranches de brioche tranches de pain de mie';1;0
+e;3751695;'farine à pain';1;0
+e;3305754;'Du pain et des jeux';777;0
+e;3318617;'tarte à la nectarine et au pain d'épices';1;0
+e;3318826;'pain d'asperges sauce mousseline';1;0
+e;3321427;'moule à pain';1;0
+e;3320993;'pain maison';1;4
+e;3359129;'aumonières aux pommes et au pain d'épices';1;0
+e;3371783;'truite en pain zébré';1;0
+e;3371476;'toast fruité de pain perdu';1;0
+e;3371441;'tiramisu banane pain d'épice';1;0
+e;3369180;'saladière de pain';1;0
+e;3366113;'pain surprise';1;0
+e;3366098;'pain perdu soufflé au fromage blanc';1;0
+e;3366088;'pain perdu au caramel de beurre salé';1;0
+e;3366061;'pain de saumon aux crevettes';1;0
+e;3366050;'pain de poisson aux courgettes';1;0
+e;3366046;'pain de poisson au persil';1;0
+e;3366038;'pain d'épices parfumé';1;0
+e;3366031;'pain d'épices aux noisettes et aux fruits';1;0
+e;3366019;'pain de légumes aux couleurs d'été';1;0
+e;3366013;'pain de crabe';1;0
+e;3366001;'pain brioché aux fines herbes et au cumin';1;0
+e;3365997;'pain aux bananes et noix';1;0
+e;3365996;'pain aux bananes et aux fraises, banana and strawberry bread';1;0
+e;3365991;'pain à la farine de châtaigne et au figatelli';1;0
+e;3365747;'hallah, pain de shabbat';1;0
+e;3363430;'gratin de courgettes au pain d'ail';1;0
+e;3362997;'gâteau de pain aux raisins secs';1;0
+e;3359464;'bonhomme et maison en pain d'épices';1;0
+e;3359818;'cailles au pommes et pain d'épices';1;0
+e;3361442;'crumble poire pépites de chocolat au pain d'épices';1;0
+e;3707579;'retourner le pain';1;0
+e;3743711;'stollen à la machine à pain';1;0
+e;3743946;'pain d'épices à la pomme';1;0
+e;3744091;'pain de courgettes sans farine';1;0
+e;3744373;'pain perdu de Grand-Mère';1;0
+e;3745304;'pain au chocolat au lait';1;0
+e;3745436;'pain à burger maison';1;0
+e;3746732;'pains aux raisins à la machine à pain';1;0
+e;3746634;'pain aux noix sans pétrissage';1;0
+e;3746286;'melaoui pain arabe';1;0
+e;3746178;'pain de mie de ma grand-mère';1;0
+e;3746008;'pain aux raisins et aux graines de carvi';1;0
+e;3745987;'pain sans pétrissage';1;0
+e;3751160;'pain sec haché';1;0
+e;3751207;'tranches de pain de mie grillé';1;0
+e;3762464;'bière de pain';1;0
+e;3759396;'injera - Galette de pain éthiopienne';1;0
+e;3754062;'tranches de pain brioché';1;0
+e;3753696;'tranches de pain épaisses';1;0
+e;3753315;'tranches de pain de campagne rassis';1;0
+e;3744653;'stollen - pain de Noël allemand';1;0
+e;1971746;'tranche de pain de mie';1;8
+e;2606040;'c'est pain bénit';1;0
+e;3225167;'pain de fantaisie';1;0
+e;3301348;'pain de sucre>139481';1;0;'pain de sucre>sucre'
+e;3319109;'pain croustillant dit Knäckebröd';1;0
+e;3359366;'blancs de poulet farcis aux fruits secs et pain d'épice';1;0
+e;3371260;'terrine de pain d'épices au chocolat et à l'orange';1;0
+e;3369995;'surprenant pain d'épices pour envies subites';1;0
+e;3369705;'soupe de légumes au pain et au gruyère';1;0
+e;3368029;'quiche sur pain de mie';1;0
+e;3366114;'pain traditionnel';1;0
+e;3366103;'pain pour machine à pain';1;0
+e;3366072;'pain de thon facile aux pommes de terre';1;0
+e;3366068;'pain de thon à la tomate';1;0
+e;3366059;'pain de ratatouille';1;0
+e;3366037;'pain d'épices léger de fanny';1;0
+e;3366036;'pain d'épices façon quatre-quart';1;0
+e;3366022;'pain d'épice à l'orange';1;0
+e;3366016;'pain de jambon aux courgettes et au gouda';1;0
+e;3366000;'pain aux noix et aux raisins vaudois';1;0
+e;3365119;'omelette norvégienne au pain d'épices';1;0
+e;3364642;'mounas à la machine à pain';1;0
+e;3363073;'gâteau glacé au pain d'épice et au chocolat';1;0
+e;3362189;'filet mignon sauce pain d'épices';1;0
+e;3360023;'cake // pain aux aubergines';1;0
+e;3360988;'cramique pour machine à pain';1;0
+e;3744014;'cinnamon rolls à la machine à pain';1;0
+e;3746204;'pain au gingembre glacé';1;0
+e;3758549;'pâte à pain bien fraîche';1;0
+e;3757681;'fines tranches de pain de campagne';1;0
+e;3756708;'pâte à pain conservée au réfrigérateur';1;0
+e;3756589;'chapelure ou pain sec haché';1;0
+e;3755983;'levure à pain';1;0
+e;3754265;'mie de tranches de pain';1;0
+e;3754050;'miettes de pain rassis';1;0
+e;3753914;'tranches de pain rassis coupées en dés';1;0
+e;4111366;'plats comme une planche à pain';1;0
+e;4337111;'pain croustillant';1;0
+e;1805473;'être du pain bien dur à manger';1;0
+e;372190;'potage au pain';1;50
+e;372010;'porteuse de pain';1;50
+e;354515;'flûte de pain';1;50
+e;378914;'scie à pain';1;50
+e;378321;'sac à pain';1;50
+e;339877;'boulette de mie de pain';1;50
+e;364147;'miche de pain de seigle';1;50
+e;364146;'miche de pain';1;68
+e;341724;'carrelet de pain';1;50
+e;380537;'soupe au pain';1;50
+e;372474;'pour un morceau de pain';1;50
+e;358076;'huche au pain';1;50
+e;340296;'bribes de pain';1;50
+e;339672;'bonhomme de pain d'épice';1;50
+e;361289;'levure de pain';1;50
+e;339861;'boule de pain';1;50
+e;384587;'tranche de pain d'épice';1;50
+e;361462;'lichette de pain';1;50
+e;356221;'glace en pain';1;50
+e;98317;'gagne-pain';1;58
+e;93524;'grille-pain';1;100
+e;79485;'claque-pain';1;50
+e;168457;'fruit-à-pain';1;50
+e;168438;'arbre-à-pain';1;50
+e;150281;'riz-pain-sel';1;50
+e;309109;'hébélome croûte-de-pain';777;50
+e;217594;'Le Petit Bonhomme de pain d'épice';1;12
+e;252241;'se prendre un pain';1;50
+e;255286;'être à l'eau et au pain sec';1;50
+e;255287;'à l'eau et au pain sec';1;50
+e;259548;'du pain et des jeux';1;56
+e;59365;'La Conquête du pain';1;50
+e;166353;'dépôt de pain';1;54
+e;212161;'vivre de pain et d'eau';1;50
+e;218294;'morceau de pain';1;46
+e;218480;'maison en pain d'épices';1;52
+e;223459;'petit pain';1;66
+e;227898;'bout de pain';1;22
+e;227968;'quignon de pain';1;66
+e;228308;'tranche de pain';1;64
+e;239890;'miettes de pain';1;80
+e;250032;'gomme mie de pain';1;6
+e;255285;'mettre à l'eau et au pain sec';1;50
+e;255904;'petit pain au lait';1;52
+e;255905;'petit pain au chocolat';1;52
+e;258272;'corbeille à pain';1;56
+e;216976;'pain provençal';1;10
+e;55917;'La Porteuse de pain';1;50
+e;109346;'fraction du pain';1;50
+e;171684;'pour une bouchée de pain';1;50
+e;211540;'pleurer le pain qu'on mange';1;50
+e;215292;'faire du pain';1;50
+e;307905;'le petit bonhomme de pain d'épices';777;50
+e;211446;'pain d'amande';1;50
+e;211447;'pain d'avoine';1;50
+e;211448;'pain d'orge';1;50
+e;42092;'planche à pain';1;64
+e;89033;'manger du pain du roi';1;50
+e;97875;'huche à pain';1;56
+e;128700;'arbre à pain';1;50
+e;129666;'ôter le goût du pain à';1;50
+e;130413;'promettre plus de beurre que de pain';1;50
+e;138652;'L'homme ne vit pas seulement de pain';1;50
+e;153863;'couteau à pain';1;72
+e;154175;'four à pain';1;100
+e;156563;'machine à pain';1;78
+e;159228;'long comme un jour sans pain';1;50
+e;181213;'bouchée de pain';1;2
+e;184102;'retaille de pain d'autel';1;50
+e;186047;'être au pain et à l'eau';1;50
+e;186588;'ne pas manger de ce pain là';1;50
+e;278690;'émeutes du pain';1;50
+e;303730;'fruit à pain';777;50
+e;156579;'pain aux raisins';1;118
+e;204913;'pain bénit';1;50
+e;204917;'pain de Gênes';1;50
+e;204915;'pain de boulanger';1;50
+e;204918;'pain de gluten';1;50
+e;204919;'pain de munition';1;50
+e;204921;'pain de son';1;50
+e;204922;'pain de vie';1;50
+e;204923;'pain du ciel';1;50
+e;204924;'pain du roi';1;50
+e;204925;'pain industriel';1;52
+e;204926;'pain moulé';1;50
+e;204929;'pain soufflé';1;50
+e;185567;'avoir du pain sur la planche';1;10
+e;185638;'avoir le pain et le couteau';1;50
+e;185982;'emprunter un pain sur la fournée';1;50
+e;186443;'manger son pain à la fumée du rôt';1;50
+e;186444;'manger son pain blanc';1;50
+e;186445;'manger son pain noir';1;50
+e;196497;'avoir du pain cuit sur la planche';1;50
+e;198194;'cuire le pain';1;50
+e;200530;'faire le pain avec la police';1;50
+e;201046;'flanche à la mie de pain';1;50
+e;201304;'gagner son pain';1;64
+e;201305;'gagner son pain à la sueur de son front';1;50
+e;161323;'du pain sur la planche';1;50
+e;64239;'panier';1;534
+e;6887722;'en:hospital';1;0
+e;155299;'boulangerie-pâtisserie';1;54
+e;2559573;'hospital';1;2
+e;16110;'bouche';1;4340
+e;146274;'marché';1;3560
+e;15090838;'en:kitchen table';1;0
+e;15195166;'en:bread box';1;0
+e;9509500;'moyenne surface';1;32
+e;162775;'superette';1;116
+e;227153;'Carrefour';1;98
+e;155300;'boulangerie pâtisserie';1;54
+e;15420006;'en:grocery with fresh bread delivered';1;0
+e;14924809;'en:bakery';1;0
+e;7096349;'en:freezer';1;4
+e;14926538;'en:snack';1;0
+e;14955021;'en:pizzeria';1;0
+e;54126;'grande surface';1;200
+e;157161;'pizzéria';1;68
+e;101938;'estomac';1;852
+e;226027;'marché>135190';1;52;'marché>lieu'
+e;120546;'épicerie';1;418
+e;14538276;'table de la cuisine';1;8
+e;109692;'hosto';1;66
+e;214276;'cuisine>96851';1;386;'cuisine>pièce'
+e;63570;'pizzeria';1;170
+e;242207;'boulangerie>49615';1;106;'boulangerie>commerce'
+e;255756;'table de cuisine';1;54
+e;155166;'boulangerie traditionnelle';1;50
+e;46141;'congélateur';1;776
+e;90847;'snack';1;282
+e;43733;'corbeille';1;178
+e;63718;'huis';1;66
+e;221019;'bouche>112609';1;214;'bouche>anatomie'
+e;80499;'huche';1;58
+e;216042;'table>36899';1;218;'table>meuble'
+e;97173;'magasin';1;3341
+e;100445;'hôpital';1;3778
+e;45179;'maison';1;12578
+e;62735;'assiette';1;1688
+e;24860;'panière';1;88
+e;107233;'supermarché';1;1010
+e;33217;'cantine';1;1532
+e;89591;'table';1;4021
+e;226396;'agriculture bio';1;64
+e;596544;'moelleux>171869';1;0;'moelleux>Adj:'
+e;1874375;'grillé>171869';1;0;'grillé>Adj:'
+e;597949;'quotidien>171869';1;0;'quotidien>Adj:'
+e;599810;'cuit>171869';1;0;'cuit>Adj:'
+e;225703;'maison>225695';1;32;'maison>fait maison'
+e;146596;'partagé';1;1734
+e;156975;'noir>146885';1;50;'noir>Nom:Mas+SG'
+e;684403;'bio>171869';1;0;'bio>Adj:'
+e;2585756;'noir>171869';1;0;'noir>Adj:'
+e;225881;'rond>88274';1;18;'rond>circulaire'
+e;43534;'durci';1;54
+e;1641212;'bon>171869';1;0;'bon>Adj:'
+e;237917;'cuit>60056';1;94;'cuit>cuisson'
+e;39474;'marocain';1;158
+e;1970576;'coupé en deux';1;0
+e;214920;'quotidien>114868';1;36;'quotidien>journalier'
+e;2531900;'azime';1;0
+e;224168;'bon>145464';1;94;'bon>délicieux'
+e;49309;'entier';1;3457
+e;436890;'coupé en tranches';1;52
+e;1792017;'partagé>171869';1;0;'partagé>Adj:'
+e;1792016;'partagé>161702';1;0;'partagé>Ver:PPas'
+e;141575;'mâché';1;50
+e;27293;'foutu';1;110
+e;143216;'pétri';1;62
+e;94082;'fourni';1;1689
+e;197103;'boulangé';1;50
+e;61369;'barboté';1;54
+e;95064;'façonné';1;56
+e;3187413;'maché';1;0
+e;21037;'aimé';1;160
+e;116474;'apprécié';1;1455
+e;236638;'multiplié';1;62
+e;252927;'proposé';1;2364
+e;9349;'enveloppé';1;118
+e;97448;'mis';1;3616
+e;14300463;'mis>2946892';1;0;'mis>Ver:Conjug'
+e;51283;'volé';1;224
+e;14287029;'cuit>2946892';1;0;'cuit>Ver:Conjug'
+e;2056907;'ingurgité';2;0
+e;105974;'pesé';1;58
+e;1342544;'comestible>113963';1;10;'comestible>mangeable'
+e;11790;'trempé';1;80
+e;128532;'rompu';1;78
+e;79230;'acheté';1;110
+e;28449;'coupé';1;1304
+e;154906;'au chocolat';1;78
+e;38519;'préparé';1;683
+e;146395;'frotté';1;58
+e;3030;'consommé';1;110
+e;162232;'mangé';1;66
+e;420723;'tartiné';1;56
+e;3223295;'croustillant>96376';1;18;'croustillant>croquant'
+e;82930;'ordinaire';1;2297
+e;13548;'vendu';1;2516
+e;14638917;'servi en accompagnement';1;0
+e;1978539;'essoré';1;2
+e;67420;'allongé';1;280
+e;570741;'entourant';777;52
+e;40434;'remplacé';1;3287
+e;143076;'placé';1;2916
+e;30307;'joint';1;1589
+e;80138;'or';1;3417
+e;142256;'mouillé';1;392
+e;113963;'mangeable';1;130
+e;1648606;'partagé>28449';1;0;'partagé>coupé'
+e;210127;'à l'ancienne';1;62
+e;35812;'congelé';1;106
+e;77029;'pâteux';1;122
+e;82147;'rond';1;1308
+e;50008;'abdominal';1;92
+e;36327;'plat';1;3800
+e;82844;'comestible';1;280
+e;165584;'grillée';1;98
+e;3692690;'issu de l'agriculture bio';1;0
+e;119946;'artisanal';1;154
+e;49803;'froid';1;4458
+e;225695;'fait maison';1;30
+e;41139;'traditionnel';1;2643
+e;77659;'suédois';1;2576
+e;269454;'bio>191760';1;42;'bio>agriculture biologique'
+e;245366;'petit>142267';1;104;'petit>taille'
+e;152977;'au lait';1;110
+e;226196;'frais>49461';1;32;'frais>récent'
+e;47377;'salé';1;626
+e;26607;'mou';1;662
+e;119625;'mauvais';1;2971
+e;28105;'cuit';1;358
+e;19150;'chaud';1;2761
+e;153719;'aux céréales';1;56
+e;72731;'dur';1;2985
+e;53495;'frais';1;2884
+e;23178;'grand';1;3852
+e;55222;'petit';1;4357
+e;104146;'fantaisie';1;138
+e;231366;'sec>396357';1;54;'sec>non humide'
+e;15436;'brioché';1;76
+e;2201;'toasté';1;68
+e;18236;'beurré';1;88
+e;217380;'blanc>40056';1;208;'blanc>couleur'
+e;237790;'grillé>19636';1;20;'grillé>rôti'
+e;145464;'délicieux';1;474
+e;2085751;'rassi';2;0
+e;30900;'bio';1;332
+e;239680;'moelleux>29223';1;20;'moelleux>consistance'
+e;214939;'noir>40056';1;214;'noir>couleur'
+e;132917;'craquant';1;108
+e;63619;'sec';1;2421
+e;125085;'rassis';1;74
+e;141899;'grillé';1;142
+e;65767;'moelleux';1;382
+e;144229;'bon';1;3572
+e;229916;'de mie';1;60
+e;16044;'croustillant';1;148
+e;64238;'noir';1;4408
+e;7332979;'Langue:anglais';18;50
+e;172428;'Langage:populaire';18;50
+e;3576104;'Morpho:nospace';18;50
+e;14916413;'Langue:français';18;50
+e;3575927;'Morpho:min';18;50
+e;187275;'Langage:argot';18;50
+e;172435;'Langage:familier';18;50
+e;84547;'fournée';1;132
+e;163354;'panée';1;60
+e;15260319;'en:breaded cutlet';1;0
+e;214838;'escalope panée';1;38
+e;124600;'mourir';1;2755
+e;17491695;'::>13:61283>29:17491675';8;0;'se faire cuire [sujet] pain'
+e;46367;'griller';1;396
+e;110169;'durcir';1;124
+e;68245;'ramollir';1;98
+e;219584;'être tartiné';1;50
+e;102961;'sentir bon';1;126
+e;15210205;'en:to smell good';1;0
+e;14960912;'en:smell good';1;0
+e;14960913;'en:smell nice';1;0
+e;15210206;'en:to smell nice';1;0
+e;15849073;'::>13:61283>29:5115';8;0;'cuire [sujet] pain'
+e;15849076;'::>13:61283>29:37229';8;0;'se trouver [sujet] pain'
+e;16596878;'::>13:61283>29:80350';8;0;'se trouver dans [sujet] pain'
+e;130440;'rassir';1;50
+e;243453;'faire grossir';1;18
+e;15849078;'::>31:14538276>29:37229';8;0;'se trouver [endroit] table de la cuisine'
+e;16596875;'::>31:255756>29:37229';8;0;'se trouver [endroit] table de cuisine'
+e;16596880;'::>14:255756>29:80350';8;0;'se trouver dans [objet] table de cuisine'
+e;14326649;'::>31:9190>29:5115';8;0;'cuire [endroit] four'
+e;394463;'saucer>113902';1;64;'saucer>alimentation'
+e;328024;'::>14:62735>29:81191';8;50;'lécher [objet] assiette'
+e;328645;'::>14:62735>29:6973';8;50;'essuyer [objet] assiette'
+e;328495;'::>14:94650>29:45133';8;50;'boucher [objet] évier'
+e;328228;'::>13:116477>29:130164';8;50;'manger [sujet] personne'
+e;328105;'::>13:74860>29:47466';8;50;'nourrir [sujet] homme'
+e;327146;'::>14:61490>29:47466';8;50;'nourrir [objet] femme'
+e;326820;'::>14:124094>29:47466';8;50;'nourrir [objet] enfant'
+e;326626;'::>14:116477>29:47466';8;50;'nourrir [objet] personne'
+e;326907;'::>14:34157>29:130164';8;50;'manger [objet] chocolat'
+e;326836;'::>14:141687>29:130164';8;50;'manger [objet] fromage'
+e;326787;'::>14:74860>29:47466';8;50;'nourrir [objet] homme'
+e;165122;'::>14:94650>29:45133>16';9;50;'Avec quoi pourrait-on boucher un évier ?'
+e;164620;'::>13:116477>29:130164>16';9;50;'Avec quoi une personne pourrait manger ?'
+e;195026;'::>14:62735>29:81191>16';9;50;'Avec quoi pourrait-on lécher une assiette ?'
+e;165952;'::>14:62735>29:6973>16';9;50;'Avec quoi pourrait-on essuyer une assiette ?'
+e;162632;'::>13:74860>29:47466>16';9;50;'Avec quoi un homme pourrait nourrir ?'
+e;159141;'::>14:61490>29:47466>16';9;50;'Avec quoi pourrait-on nourrir une femme ?'
+e;158812;'::>14:124094>29:47466>16';9;50;'Avec quoi pourrait-on nourrir une enfant ?'
+e;157394;'::>14:116477>29:47466>16';9;50;'Avec quoi pourrait-on nourrir une personne ?'
+e;156961;'::>14:74860>29:47466>16';9;50;'Avec quoi pourrait-on nourrir un homme ?'
+e;157182;'::>14:141687>29:130164>16';9;50;'Avec quoi pourrait-on manger un fromage ?'
+e;157381;'::>14:34157>29:130164>16';9;50;'Avec quoi pourrait-on manger un chocolat ?'
+e;14355401;'::>13:40082>29:101824';8;0;'saucer [sujet] convive'
+e;14355403;'::>14:62735>29:101824';8;0;'saucer [objet] assiette'
+e;17562960;'::>13:40082>29:254569';8;0;'saucer son assiette [sujet] convive'
+e;254569;'saucer son assiette';1;50
+e;78845;'déjeuner';1;1380
+e;41971;'avaler';1;788
+e;29926;'acheter';1;2200
+e;101824;'saucer';1;128
+e;122353;'partager';1;1575
+e;54438;'vendre';1;2316
+e;119858;'tremper';1;346
+e;32322;'trancher';1;1052
+e;47466;'nourrir';1;1222
+e;97885;'beurrer';1;272
+e;114937;'émietter';1;74
+e;128828;'couper';1;3429
+e;328707;'::>13:142832>29:68979';8;50;'ronger [sujet] souris'
+e;166336;'::>13:142832>29:68979>14';9;50;'Qu'est-ce que des  souris pourraient ronger ?'
+e;328868;'::>13:124094>29:21149';8;50;'dévorer [sujet] enfant'
+e;8066;'proposer';1;2058
+e;213315;'::>13:124094>29:21149>14';9;50;'Qu'est-ce qu'une enfant pourrait dévorer ?'
+e;326740;'::>16:152543>29:3038';8;50;'pétrir [avec] mains'
+e;328242;'::>13:64888>29:21149';8;50;'dévorer [sujet] affamé'
+e;328326;'::>13:116477>29:38723';8;50;'grignoter [sujet] personne'
+e;328044;'::>13:61490>29:130164';8;50;'manger [sujet] femme'
+e;317035;'::>16:152543>29:130164';8;50;'manger [avec] mains'
+e;327159;'::>16:32610>29:14338';8;50;'attaquer [avec] couteau'
+e;327361;'::>16:32610>29:131654';8;50;'tartiner [avec] couteau'
+e;328016;'::>13:142832>29:38723';8;50;'grignoter [sujet] souris'
+e;327929;'::>16:32610>29:122353';8;50;'partager [avec] couteau'
+e;327382;'::>16:32610>29:130164';8;50;'manger [avec] couteau'
+e;327847;'::>13:40082>29:130164';8;50;'manger [sujet] convive'
+e;327466;'::>13:74860>29:130164';8;50;'manger [sujet] homme'
+e;327122;'::>16:147184>29:130164';8;50;'manger [avec] dents'
+e;326928;'::>16:30821>29:130164';8;50;'manger [avec] doigts'
+e;326613;'::>16:81934>29:3038';8;50;'pétrir [avec] main'
+e;326711;'::>16:9190>29:49021';8;50;'réchauffer [avec] four'
+e;326618;'::>16:16110>29:130164';8;50;'manger [avec] bouche'
+e;260049;'régler en cash';1;2
+e;257674;'régler en espèces';1;16
+e;257675;'régler en liquide';1;50
+e;260059;'payer en espèces';1;4
+e;152199;'payer en liquide';1;66
+e;260048;'payer en cash';1;52
+e;163658;'::>13:61490>29:130164>14';9;50;'Qu'est-ce qu'une femme pourrait manger ?'
+e;68687;'barboter';1;122
+e;162329;'::>16:32610>29:131654>14';9;50;'Que pourrait-on tartiner avec un couteau ?'
+e;167143;'::>13:64888>29:21149>14';9;50;'Qu'est-ce qu'un affamé pourrait dévorer ?'
+e;213856;'voler>58321';1;178;'voler>malhonnêteté'
+e;226992;'::>16:152543>29:3038>14';9;50;'Que pourrait-on pétrir avec des mains ?'
+e;164336;'::>13:116477>29:38723>14';9;50;'Qu'est-ce qu'une personne pourrait grignoter ?'
+e;163582;'::>16:152543>29:130164>14';9;50;'Que pourrait-on manger avec des mains ?'
+e;162278;'::>13:142832>29:38723>14';9;50;'Qu'est-ce que des  souris pourraient grignoter ?'
+e;162442;'::>16:32610>29:14338>14';9;50;'Que pourrait-on attaquer avec un couteau ?'
+e;56105;'mâcher';1;314
+e;161099;'::>16:32610>29:130164>14';9;50;'Que pourrait-on manger avec un couteau ?'
+e;161583;'::>16:32610>29:122353>14';9;50;'Que pourrait-on partager avec un couteau ?'
+e;161016;'::>13:40082>29:130164>14';9;50;'Qu'est-ce qu'une convive pourrait manger ?'
+e;159061;'::>13:74860>29:130164>14';9;50;'Qu'est-ce qu'un homme pourrait manger ?'
+e;157424;'::>16:30821>29:130164>14';9;50;'Que pourrait-on manger avec des doigts ?'
+e;158730;'::>16:147184>29:130164>14';9;50;'Que pourrait-on manger avec des dents ?'
+e;156825;'::>16:9190>29:49021>14';9;50;'Que pourrait-on réchauffer avec un four ?'
+e;157418;'::>16:81934>29:3038>14';9;50;'Que pourrait-on pétrir avec une main ?'
+e;127428;'foutre';1;158
+e;156677;'::>16:16110>29:130164>14';9;50;'Que pourrait-on manger avec une bouche ?'
+e;17496512;'::>14:61283>29:3554';8;0;'façonner [objet] pain'
+e;14563738;'::>13:225916>29:36246';8;0;'préparer [sujet] personne>être humain'
+e;15635097;'::>13:225916>29:54438';8;0;'vendre [sujet] personne>être humain'
+e;14529662;'::>13:225916>29:119858';8;0;'tremper [sujet] personne>être humain'
+e;17496490;'::>13:153046>29:32322';8;0;'trancher [sujet] boulangère'
+e;17497634;'::>13:153046>29:54438';8;0;'vendre [sujet] boulangère'
+e;17496493;'::>13:11662219>29:32322';8;0;'trancher [sujet] boulangère>boulangerie'
+e;37836;'mettre en forme';1;56
+e;17496510;'::>13:225916>29:3554';8;0;'façonner [sujet] personne>être humain'
+e;17496518;'::>14:61283>29:54438';8;0;'vendre [objet] pain'
+e;17496526;'::>14:61283>29:36246';8;0;'préparer [objet] pain'
+e;224422;'manger>113902>119570';1;206;'manger>alimentation>absorber'
+e;17484262;'::>31:339465>29:17484255';8;0;'tremper [objet] pain [endroit] bol de soupe'
+e;14491998;'::>13:225916>29:132366';8;0;'mettre [sujet] personne>être humain'
+e;17496509;'::>31:119014>29:16590622';8;0;'faire cuire [objet] pain [endroit] boulangerie'
+e;14472584;'::>13:225916>29:30536';8;0;'faire cuire [sujet] personne>être humain'
+e;17496533;'::>31:119014>29:17496526';8;0;'préparer [objet] pain [endroit] boulangerie'
+e;17496525;'::>31:119014>29:17496518';8;0;'vendre [objet] pain [endroit] boulangerie'
+e;17496503;'::>31:119014>29:14363897';8;0;'cuire [objet] pain [endroit] boulangerie'
+e;17496517;'::>31:119014>29:17496512';8;0;'façonner [objet] pain [endroit] boulangerie'
+e;17499376;'::>14:61283>29:132366';8;0;'mettre [objet] pain'
+e;6681658;'manger>113902';1;138;'manger>alimentation'
+e;219088;'::>13:116477>29:17195>14';9;50;'Qu'est-ce qu'une personne pourrait tâter ?'
+e;327373;'::>13:116477>29:17195';8;50;'tâter [sujet] personne'
+e;14363895;'::>13:145285>29:5115';8;0;'cuire [sujet] boulanger'
+e;66983;'ingurgiter';1;116
+e;14334478;'::>13:68439>29:128828';8;0;'couper [sujet] individu'
+e;14386832;'::>13:68439>29:29926';8;0;'acheter [sujet] individu'
+e;14450974;'::>31:119014>29:11295522';8;0;'acheter [objet] pain [endroit] boulangerie'
+e;14486216;'::>13:225916>29:32322';8;0;'trancher [sujet] personne>être humain'
+e;14510174;'::>13:74860>29:195857';8;0;'aller chercher [sujet] homme'
+e;14529675;'::>13:225916>29:97885';8;0;'beurrer [sujet] personne>être humain'
+e;238834;'trancher>128828';1;76;'trancher>couper'
+e;14638919;'::>13:225916>29:122353';8;0;'partager [sujet] personne>être humain'
+e;14485743;'::>13:225916>29:134489';8;0;'faire griller [sujet] personne>être humain'
+e;14562794;'::>13:225916>29:64325';8;0;'aimer [sujet] personne>être humain'
+e;216318;'aimer>63449';1;60;'aimer>apprécier'
+e;1755560;'peser>40924>123836';1;0;'peser>mesurer>poids'
+e;1755551;'peser>40924';1;0;'peser>mesurer'
+e;16168858;'::>31:9190>29:14363897';8;0;'cuire [objet] pain [endroit] four'
+e;14485281;'::>13:225916>29:128828';8;0;'couper [sujet] personne>être humain'
+e;14851598;'::>31:42092>29:14389064';8;0;'couper [objet] pain [endroit] planche à pain'
+e;15332048;'en:to format';1;0
+e;15683425;'::>13:16086>29:3038';8;0;'pétrir [sujet] gindre'
+e;15683431;'::>13:145285>29:3038';8;0;'pétrir [sujet] boulanger'
+e;15414230;'en:pay in cash';1;0
+e;15196940;'en:pay cash';1;0
+e;15451124;'en:pay in readies';1;0
+e;15196957;'en:to pay cash';1;0
+e;15340562;'payer en argent comptant';1;0
+e;15332265;'en:to pay in cash';1;0
+e;321848;'payer comptant';1;56
+e;159587;'payer rubis sur l'ongle';1;56
+e;15414231;'en:pay entirely in cash';1;0
+e;15686620;'payer quelque chose en liquide';1;0
+e;15686617;'en:pay for something in cash';1;0
+e;15423973;'payer [qch] en liquide';1;0
+e;15428950;'payer au comptant';1;0
+e;15661773;'payer un lourd tribut à quelque chose';1;0
+e;15428969;'payer un lourd tribut à [qch]';1;0
+e;15196944;'payer qch cher';1;0
+e;15690657;'payer quelque chose cher';1;0
+e;15661772;'en:pay dearly for something';1;0
+e;15715908;'payer cash quelque chose';1;0
+e;15428953;'payer cash [qch]';1;0
+e;15686619;'en:pay cash for something';1;0
+e;15715900;'en:pay for something outright';1;0
+e;15715898;'en:pay for something in full';1;0
+e;15454286;'payer qch en liquide';1;0
+e;14883317;'::>13:225916>29:5115';8;0;'cuire [sujet] personne>être humain'
+e;16324117;'::>13:8946>29:73827';8;0;'voler [sujet] miséreux'
+e;16325277;'payer [qqn] en argent comptant';1;0
+e;16325280;'payer quelqu'un en argent comptant';1;0
+e;15661771;'en:pay a heavy price for something';1;0
+e;15423967;'acheter [qch] en liquide';1;0
+e;15686618;'acheter quelque chose en liquide';1;0
+e;15220490;'payer cher qch';1;0
+e;15705865;'payer cher quelque chose';1;0
+e;34122;'peser';1;272
+e;15196945;'en:to pay dearly for sth';1;0
+e;15196949;'en:to pay a lot for sth';1;0
+e;15567076;'en:pay dearly for sth';1;0
+e;15567077;'en:pay a lot for sth';1;0
+e;16325278;'en:pay in full in cash';1;0
+e;16325279;'en:pay the whole amount in cash';1;0
+e;16419966;'::>13:71348>29:73827';8;0;'voler [sujet] pauvre'
+e;14467560;'::>13:145285>29:30536';8;0;'faire cuire [sujet] boulanger'
+e;16596938;'::>13:124094>29:97885';8;0;'beurrer [sujet] enfant'
+e;16596948;'::>13:78234>29:97885';8;0;'beurrer [sujet] maman'
+e;14471976;'::>13:225916>29:29926';8;0;'acheter [sujet] personne>être humain'
+e;16603682;'::>13:225916>29:63449';8;0;'apprécier [sujet] personne>être humain'
+e;16603608;'::>13:116477>29:63449';8;0;'apprécier [sujet] personne'
+e;16164564;'::>13:116477>29:29926';8;0;'acheter [sujet] personne'
+e;16602855;'::>31:146274>29:11295522';8;0;'acheter [objet] pain [endroit] marché'
+e;14572841;'::>13:116477>29:128828';8;0;'couper [sujet] personne'
+e;16601668;'::>13:116477>29:134489';8;0;'faire griller [sujet] personne'
+e;16601650;'::>13:116477>29:32322';8;0;'trancher [sujet] personne'
+e;16601578;'::>13:116477>29:97885';8;0;'beurrer [sujet] personne'
+e;16601261;'::>13:116477>29:64325';8;0;'aimer [sujet] personne'
+e;16559251;'::>13:116477>29:122353';8;0;'partager [sujet] personne'
+e;16600574;'::>13:116477>29:5115';8;0;'cuire [sujet] personne'
+e;16590627;'::>31:9190>29:16590622';8;0;'faire cuire [objet] pain [endroit] four'
+e;14572951;'::>13:225916>29:7427';8;0;'frotter [sujet] personne>être humain'
+e;329050;'::>13:116477>29:7427';8;50;'frotter [sujet] personne'
+e;97571;'consommer';1;208
+e;392003;'couper en petits morceaux';1;8
+e;1747273;'couper en tranches';1;0
+e;17484255;'::>14:61283>29:119858';8;0;'tremper [objet] pain'
+e;75054;'envelopper';1;196
+e;132366;'mettre';1;3593
+e;36246;'préparer';1;2268
+e;3554;'façonner';1;152
+e;260032;'cuire>16033';1;138;'cuire>cuisine'
+e;127348;'rompre';1;390
+e;191711;'être mangé';1;106
+e;329041;'::>14:61283>29:32322';8;50;'trancher [objet] pain'
+e;328408;'::>14:61283>29:21367';8;50;'multiplier [objet] pain'
+e;328294;'::>14:61283>29:96775';8;50;'fournir [objet] pain'
+e;327955;'::>14:61283>29:131654';8;50;'tartiner [objet] pain'
+e;327166;'::>14:61283>29:97885';8;50;'beurrer [objet] pain'
+e;326927;'::>14:61283>29:130164';8;50;'manger [objet] pain'
+e;96775;'fournir';1;2693
+e;21367;'multiplier';1;252
+e;11295522;'::>14:61283>29:29926';8;0;'acheter [objet] pain'
+e;14363897;'::>14:61283>29:5115';8;0;'cuire [objet] pain'
+e;14389064;'::>14:61283>29:128828';8;0;'couper [objet] pain'
+e;195857;'aller chercher';1;76
+e;14510176;'::>14:61283>29:195857';8;0;'aller chercher [objet] pain'
+e;14638921;'::>14:61283>29:122353';8;0;'partager [objet] pain'
+e;14653007;'::>14:61283>29:134489';8;0;'faire griller [objet] pain'
+e;64325;'aimer';1;1642
+e;14665383;'::>14:61283>29:64325';8;0;'aimer [objet] pain'
+e;73827;'voler';1;3095
+e;16324119;'::>14:61283>29:73827';8;0;'voler [objet] pain'
+e;267491;'rompre>21989';1;58;'rompre>briser'
+e;15683427;'::>14:61283>29:3038';8;0;'pétrir [objet] pain'
+e;16590622;'::>14:61283>29:30536';8;0;'faire cuire [objet] pain'
+e;63449;'apprécier';1;454
+e;16604565;'::>14:61283>29:63449';8;0;'apprécier [objet] pain'
+e;134489;'faire griller';1;140
+e;17049808;'::>14:61283>29:7427';8;0;'frotter [objet] pain'
+e;7427;'frotter';1;478
+e;30536;'faire cuire';1;180
+e;11250641;'pâton>119014';1;2;'pâton>boulangerie'
+e;11286039;'chapelle>119014';1;0;'chapelle>boulangerie'
+e;7030807;'en:rye';1;0
+e;7123609;'en:cereals';1;0
+e;70793;'confiture';1;988
+e;248871;'sésame>14469';1;62;'sésame>graine'
+e;219621;'beurre>133516';1;266;'beurre>produit laitier'
+e;6562633;'confiture>114637';1;18;'confiture>aliment'
+e;5934365;'Céréales';1;0
+e;128690;'rye';1;50
+e;156524;'nutella';1;204
+e;130831;'camembert';1;456
+e;68786;'moisi';1;172
+e;12388;'tarama';1;66
+e;161947;'Nutella';1;214
+e;244982;'miel>11358';1;138;'miel>substance'
+e;136055;'miel';1;1468
+e;262070;'mettre du beurre';1;50
+e;328986;'::>14:70793>29:131654';8;50;'tartiner [objet] confiture'
+e;327458;'::>16:32610>29:108053';8;50;'entailler [avec] couteau'
+e;165211;'::>16:32610>29:108053>15';9;50;'Où pourrait-on entailler avec un couteau ?'
+e;222484;'::>14:70793>29:131654>15';9;50;'Où pourrait-on tartiner une confiture ?'
+e;37298;'amour';1;7157
+e;57221;'joie';1;3928
+e;146357;'envie';1;1666
+e;102345;'plaisir';1;3741
+e;91691;'surprise';1;2394
+e;103405;'indifférence';1;612
+e;14330;'satisfaction';1;626
+e;28453;'bonheur';1;2804
+e;5677794;'most';1;656
+e;254878;'_POL-NEG_PC';36;50
+e;317329;'_POLIT_7NOPOL';36;50
+e;223172;'_POL-NEG';36;50
+e;248197;'_SEX_YES';36;50
+e;15991432;'_ANIME-NO';36;50
+e;276096;'_INFO-WIKI-YES';36;50
+e;248198;'_SEX_NO';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;1912988;'_INFO-COUNTABLE-NO';36;0
+e;1912917;'_INFO-COUNTABLE-YES';36;0
+e;162759;'_INFO-SEM-PLACE';36;504
+e;217817;'_INFO-POLYSEMIC';36;50
+e;191741;'_INFO-VOC-COMMON';36;50
+e;162763;'_INFO-SEM-THING-CONCRETE';36;1238
+e;2585996;'_INFO-CNRTL-YES';36;50
+e;163012;'_INFO-NO-MORE-QUESTION';36;6094
+e;163151;'_INFO-SEM-SUBST';36;286
+e;254876;'_POL-POS_PC';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;223173;'_POL-POS';36;50
+e;238792;'pâte>11358';1;82;'pâte>substance'
+e;19554;'paysan';1;1004
+e;164136;'::>14:61283>29:130164>13';9;50;'Qui pourrait manger un pain ?'
+e;157741;'::>14:61283>29:130164>15';9;50;'Où pourrait-on manger un pain ?'
+e;157423;'::>14:61283>29:130164>16';9;50;'Avec quoi pourrait-on manger un pain ?'
+e;165024;'::>14:61283>29:130164>34';9;50;'De quelle manière pourrait-on manger un pain ?'
+e;161814;'::>14:61283>29:131654>13';9;50;'Qui pourrait tartiner un pain ?'
+e;164030;'::>14:61283>29:131654>16';9;50;'Avec quoi pourrait-on tartiner un pain ?'
+e;164530;'::>14:61283>29:21367>15';9;50;'Où pourrait-on multiplier un pain ?'
+e;164350;'::>14:61283>29:96775>15';9;50;'Où pourrait-on fournir un pain ?'
+e;163683;'::>14:61283>29:96775>16';9;50;'Avec quoi pourrait-on fournir un pain ?'
+e;158004;'::>14:61283>29:97885>16';9;50;'Avec quoi pourrait-on beurrer un pain ?'
+e;222245;'::>14:61283>29:21367>13';9;50;'Qui pourrait multiplier un pain ?'
+e;226213;'::>14:61283>29:32322>15';9;50;'Où pourrait-on trancher un pain ?'
+e;18404;'sésame';1;142
+e;1400;'croque-monsieur';1;102
+e;228309;'toast>65846';1;40;'toast>pain grillé'
+e;11077390;'Hot Dog';777;0
+e;2367469;'hotdog';1;2
+e;2562688;'quas';1;0
+e;585353;'kwass';777;0
+e;100657;'kwas';1;50
+e;585352;'kvass';777;0
+e;148823;'kvas';1;54
+e;182834;'jambon beurre';1;6
+e;38061;'hot dog';1;68
+e;236143;'jambon-beurre';666;54
+e;14945485;'en:kvass';1;0
+e;2603399;'mitron>86573';1;2;'mitron>apprenti'
+e;10913819;'boulanger>68439';1;16;'boulanger>individu'
+e;238467;'tranchette';1;52
+e;56924;'bout';1;3265
+e;234301;'morceau>20965';1;60;'morceau>nourriture'
+e;65364;'morceau';1;2342
+e;17562990;'::>66:61283>25:254569';8;0;'pain [objet pour] saucer son assiette'
+e;17562985;'::>66:61283>25:101824';8;0;'pain [objet pour] saucer'
+e;17499377;'::>66:61283>26:132366';8;0;'pain [se faire] mettre'
+e;17496513;'::>66:61283>26:3554';8;0;'pain [se faire] façonner'
+e;17496519;'::>66:61283>26:54438';8;0;'pain [se faire] vendre'
+e;17496527;'::>66:61283>26:36246';8;0;'pain [se faire] préparer'
+e;17491696;'::>66:61283>24:17491675';8;0;'pain [peut] se faire cuire'
+e;17484256;'::>66:61283>26:119858';8;0;'pain [se faire] tremper'
+e;17049809;'::>66:61283>26:7427';8;0;'pain [se faire] frotter'
+e;16596879;'::>66:61283>24:80350';8;0;'pain [peut] se trouver dans'
+e;16590623;'::>66:61283>26:30536';8;0;'pain [se faire] faire cuire'
+e;16604566;'::>66:61283>26:63449';8;0;'pain [se faire] apprécier'
+e;14363898;'::>66:61283>26:5115';8;0;'pain [se faire] cuire'
+e;14389065;'::>66:61283>26:128828';8;0;'pain [se faire] couper'
+e;14450971;'::>66:61283>26:29926';8;0;'pain [se faire] acheter'
+e;14486218;'::>66:61283>26:32322';8;0;'pain [se faire] trancher'
+e;14510177;'::>66:61283>26:195857';8;0;'pain [se faire] aller chercher'
+e;14529677;'::>66:61283>26:97885';8;0;'pain [se faire] beurrer'
+e;14638922;'::>66:61283>26:122353';8;0;'pain [se faire] partager'
+e;14653008;'::>66:61283>26:134489';8;0;'pain [se faire] faire griller'
+e;14665384;'::>66:61283>26:64325';8;0;'pain [se faire] aimer'
+e;15683428;'::>66:61283>26:3038';8;0;'pain [se faire] pétrir'
+e;15849077;'::>66:61283>24:37229';8;0;'pain [peut] se trouver'
+e;15849074;'::>66:61283>24:5115';8;0;'pain [peut] cuire'
+e;16324120;'::>66:61283>26:73827';8;0;'pain [se faire] voler'
+e;6823221;'en:pain';1;0
+e;133541;'marron clair';1;54
+e;44001;'crème';1;2083
+e;60;'bleu';1;3449
+e;50889;'gris';1;2604
+e;14189;'brun';1;2218
+e;145382;'orange';1;2231
+e;132479;'marron';1;706
+e;86711;'jaune';1;3502
+e;8542;'beige';1;142
+e;252874;'régime sans résidu';1;50
+e;1973299;':r31818924';10;0
+e;8794476;':r184341128';10;0
+e;8794481;':r184341838';10;0
+e;10383726;':r12987096';10;0
+e;11407507;':r2443251';10;0
+e;14163845;':r123315';10;0
+e;14163848;':r2051565';10;0
+e;14163901;':r217003922';10;0
+e;14638932;':r371898487';10;0
+e;14638939;':r371975922';10;0
+e;14638940;':r371976124';10;0
+e;16584964;':r436518839';10;0
+e;16596883;':r437501604';10;0
+e;446260;':r124111';10;50
+e;2591469;':r2024554';10;0
+e;2591470;':r54678922';10;0
+e;9347800;':r116628101';10;0
+e;2937766;':r373839';10;0
+e;10900081;':r12987087';10;0
+e;11295373;':r289017363';10;0
+e;14638937;':r371948031';10;0
+e;15849081;':r413365335';10;0
+e;4633421;':r12790358';10;0
+e;4635183;':r394321';10;0
+e;8794475;':r184341052';10;0
+e;11303942;':r289451528';10;0
+e;16478309;':r413249071';10;0
+e;4858298;':r96715938';10;0
+e;10592362;':r14800990';10;0
+e;13400413;':r339595158';10;0
+e;11137234;':r394322';10;0
+e;4483240;':r96715946';10;0
+e;6082559;':r9973104';10;0
+e;9232282;':r210379331';10;0
+e;15509254;':r397079836';10;0
+e;15509238;':r397079820';10;0
+e;11137235;':r410466';10;0
+e;11137236;':r437320';10;0
+e;4362626;':r96715950';10;0
+e;4407330;':r96715947';10;0
+e;4407407;':r96715940';10;0
+e;4407355;':r96715943';10;0
+e;11057835;':r20751536';10;0
+e;16430775;':r418981814';10;0
+e;16430844;':r418981889';10;0
+e;10851253;':r416745';10;0
+e;10851254;':r1782545';10;0
+e;10681517;':r1912091';10;0
+e;10681512;':r2024559';10;0
+e;10681513;':r2024560';10;0
+e;10681514;':r1827499';10;0
+e;10681515;':r416742';10;0
+e;10681516;':r416748';10;0
+e;10681518;':r127516';10;0
+e;10681519;':r373837';10;0
+e;10681520;':r1782546';10;0
+e;10681521;':r373834';10;0
+e;10681522;':r146683';10;0
+e;444300;':r129613';10;50
+e;443274;':r123314';10;50
+e;15597032;':r96715948';10;0
+e;16288163;':r9996541';10;0
+e;15667589;':r402599779';10;0
+e;15667601;':r402599791';10;0
+e;16341841;':r96715927';10;0
+e;15512031;':r397060662';10;0
+e;16255748;':r68538704';10;0
+e;15667595;':r402599785';10;0
+e;9637748;':r204776';10;0
+e;15638146;':r401297803';10;0
+e;16330885;':r431503563';10;0
+e;16327888;':r11024664';10;0
+e;239595;'cuisson>5115';1;50;'cuisson>cuire'
+e;233054;'eau>389797';1;292;'eau>élément naturel'
+e;32610;'couteau';1;4092
+e;14486410;'eau>140315';1;62;'eau>liquide'
+e;148362;'graines';1;2689
+e;236734;'levure>25484';1;68;'levure>champignon'
+e;1463882;'farine>62278';1;12;'farine>céréales'
+e;1463886;'farine>32071';1;86;'farine>blé'
+e;1967472;':r2268668';10;0
+e;1975134;':r31874991';10;0
+e;2317345;':r33141455';10;0
+e;2325213;':r33824733';10;0
+e;2325235;':r33824978';10;0
+e;3226778;':r77766734';10;0
+e;3374724;':r86181968';10;0
+e;3374725;':r86182337';10;0
+e;3374726;':r86181839';10;0
+e;3374729;':r86181906';10;0
+e;3374730;':r86181627';10;0
+e;3374731;':r86181469';10;0
+e;3374732;':r86181863';10;0
+e;3374736;':r86182226';10;0
+e;3374737;':r86181587';10;0
+e;3374740;':r86181555';10;0
+e;3374745;':r86181916';10;0
+e;3374748;':r86181946';10;0
+e;3374749;':r86181730';10;0
+e;3374751;':r86181515';10;0
+e;3374765;':r86181505';10;0
+e;3374767;':r86181447';10;0
+e;3374778;':r86181684';10;0
+e;3490702;':r34272145';10;0
+e;3632159;':r82639389';10;0
+e;3747056;':r93463433';10;0
+e;3747186;':r93469568';10;0
+e;3747275;':r93483583';10;0
+e;3747324;':r93485964';10;0
+e;3747722;':r93500571';10;0
+e;3747933;':r93494470';10;0
+e;3747939;':r93494687';10;0
+e;3759217;':r93588002';10;0
+e;4939724;':r103629994';10;0
+e;5670189;':r110814437';10;0
+e;9448673;':r78380087';10;0
+e;9527159;':r97574237';10;0
+e;9528061;':r82639377';10;0
+e;9726602;':r1595218';10;0
+e;9777938;':r83649927';10;0
+e;10965470;':r86181421';10;0
+e;10965480;':r86181740';10;0
+e;10965463;':r86181930';10;0
+e;10965464;':r86181409';10;0
+e;10896069;':r273085557';10;0
+e;10896122;':r273085565';10;0
+e;11124125;':r93682047';10;0
+e;11125624;':r93670284';10;0
+e;11126014;':r93659635';10;0
+e;11126373;':r93652486';10;0
+e;12009020;':r313018074';10;0
+e;13304130;':r115856945';10;0
+e;13304164;':r115856907';10;0
+e;14131572;':r97576752';10;0
+e;14530066;':r22500229';10;0
+e;16336402;':r1772553';10;0
+e;16575869;':r413365321';10;0
+e;601515;':r1898984';10;0
+e;1825625;':r28516946';10;0
+e;1922821;':r11358395';10;0
+e;1922822;':r11358396';10;0
+e;2348433;':r34662197';10;0
+e;3374733;':r86181435';10;0
+e;3374734;':r86181541';10;0
+e;3374735;':r86181603';10;0
+e;3374742;':r86181459';10;0
+e;3374750;':r86181896';10;0
+e;3374754;':r86182325';10;0
+e;3374760;':r86182393';10;0
+e;3374764;':r86181527';10;0
+e;3374789;':r86181495';10;0
+e;3747444;':r93489806';10;0
+e;3747760;':r93500229';10;0
+e;3747862;':r93496289';10;0
+e;4337109;':r13348574';10;0
+e;9778075;':r83673128';10;0
+e;11502055;':r115436123';10;0
+e;11502059;':r115856958';10;0
+e;14563675;':r370048820';10;0
+e;14908415;':r83673135';10;0
+e;4566835;':r1986161';10;0
+e;1134507;':r20747947';10;0
+e;1289090;':r12070309';10;0
+e;1293618;':r21875964';10;0
+e;1547136;':r12368590';10;0
+e;3306624;':r82639384';10;0
+e;3321737;':r83649946';10;0
+e;14604773;':r371158061';10;0
+e;1575131;':r11358397';10;0
+e;1701587;':r28026579';10;0
+e;2324881;':r33797252';10;0
+e;5912187;':r99002417';10;0
+e;5912390;':r115338494';10;0
+e;5912501;':r115338909';10;0
+e;5912590;':r115339229';10;0
+e;5912818;':r115340189';10;0
+e;5912935;':r115340619';10;0
+e;5913084;':r115341199';10;0
+e;1555670;':r25149768';10;0
+e;4408798;':r10728683';10;0
+e;1740853;':r8852870';10;0
+e;10685916;':r119345';10;0
+e;1014460;':r12413144';10;0
+e;15659599;':r397954329';10;0
+e;16353679;':r430419924';10;0
+e;12791131;':r97576749';10;0
+e;16287690;':r402353037';10;0
+e;16287696;':r402353077';10;0
+e;16287702;':r402353117';10;0
+e;1316276;':r2068373';10;0
+e;16337947;':r3149190';10;0
+e;15635640;':r396517282';10;0
+e;6573303;':r184712';10;0
+e;8870011;':r9985754';10;0
+e;40082;'convive';1;282
+e;14355405;'::>66:40082>24:14355403';8;0;'convive [peut] saucer [objet] assiette'
+e;17562988;'::>66:14355405>155:61283';8;0;'convive [peut] saucer [objet] assiette [utilisant] pain'
+e;3383380;'bn:03133716n';444;0
+e;3383382;'bn:03935334n';444;0
+e;3383383;'bn:01706309n';444;0
+e;3383384;'bn:03981943n';444;0
+e;3383385;'bn:03596969n';444;0
+e;3383386;'bn:00279578n';444;0
+e;3383387;'bn:04865936n';444;0
+e;3383388;'bn:00372436n';444;0
+e;3383389;'bn:16009383n';444;0
+e;3807731;'dbnary:fra:__ws_3_pain__nom__1';444;0
+e;3831511;'dbnary:fra:__ws_6_pain__nom__1';444;0
+e;3931376;'dbnary:fra:__ws_2_pain__nom__1';444;0
+e;4054757;'dbnary:fra:__ws_1_pain__nom__1';444;0
+e;4068978;'dbnary:fra:__ws_5_pain__nom__1';444;0
+e;4092504;'dbnary:fra:__ws_8_pain__nom__1';444;0
+e;4191563;'dbnary:fra:__ws_4_pain__nom__1';444;0
+e;4215377;'dbnary:fra:__ws_7_pain__nom__1';444;0
+e;3383381;'bn:00013870n';444;0
+e;6221525;'umls:C0006138';444;0
+e;3383390;'bn:02715640n';444;0
+e;3228593;'wiki:@';444;0
+e;3383379;'bn:00012873n';444;0
+e;2983124;'_SW';36;50
+e;142722;'épi';1;154
+e;6526;'Société';1;3316
+e;155087;'élastiques';1;66
+e;138455;'fougères';1;52
+e;164828;'croissant fertile';1;58
+e;56556;'Sumer';1;56
+e;137693;'Pline l'Ancien';1;50
+e;41773;'Vikings';1;1196
+e;58640;'ergotisme';1;58
+e;248126;'glands';1;74
+e;239955;'XVIe siècle';1;54
+e;233225;'XVIIe siècle';1;30
+e;31020;'Turgot';1;50
+e;130017;'Louis XVII';1;50
+e;233334;'XIXe siècle';1;56
+e;10679;'Première Guerre mondiale';1;128
+e;270331;'Heudebert';1;50
+e;32497;'XXe siècle';1;54
+e;236990;'index glycémique';1;2
+e;271414;'Encyclopédie ou Dictionnaire raisonné des sciences, des arts et des métiers';666;50
+e;225692;'Midi de la France';1;64
+e;254973;'fibre alimentaire';1;56
+e;71696;'cassave';1;50
+e;225158;'Empire ottoman';1;46
+e;117839;'ottoman';1;1742
+e;139062;'Perse';1;2432
+e;14042;'perse';1;1934
+e;18586;'moghol';1;52
+e;276737;'Deir el-Médineh';777;50
+e;283049;'Code de Hammurabi';777;52
+e;292381;'feu de Saint-Antoine';777;50
+e;284571;'Charles Heudebert';777;50
+e;140991;'Brik';1;52
+e;25071;'Ladakh';1;50
+e;217225;'panino';1;50
+e;132717;'Scandinavie';1;88
+e;21285;'Gramme';1;50
+e;75606;'g';1;3460
+e;67512;'OMS';1;70
+e;222452;'sucre rapide';1;52
+e;260509;'provençale';1;70
+e;214926;'juifs';1;2876
+e;141745;'E';1;3812
+e;38128;'phosphore';1;94
+e;293456;'guerre de 1870';777;50
+e;237729;'crise de la dette';1;4
+e;111472;'shabbat';1;52
+e;24971;'Élisée';1;50
+e;290514;'Les Confessions';777;50
+e;398371;'normandes';1;50
+e;403286;'Parisiens';1;50
+e;311976;'bruxelloise';1;54
+e;1857356;'Seigle';1;0
+e;34904;'Gilgamesh';1;50
+e;426618;'libations';1;50
+e;2501071;'Croissant fertile';1;0
+e;2574396;'Bouillie';1;0
+e;103256;'terre cuite';1;140
+e;1446710;'Baguette';1;0
+e;2960161;'Kaki';1;0
+e;4277028;'Taguella';1;0
+e;3760127;'Harissa';1;0
+e;4277722;'Leben';1;0
+e;5538956;'Levain';1;0
+e;3747526;'Noix';1;0
+e;5567093;'Amidon';777;0
+e;2275349;'rhizomes';2;0
+e;2109620;'sumérienne';2;0
+e;131156;'égyptienne';1;2211
+e;2406658;'Limon';1;0
+e;2067781;'limons';2;0
+e;2005981;'bas-reliefs';2;0
+e;399811;'fresques';1;50
+e;1987796;'amphores';2;0
+e;3567397;'moulins à eau';1;0
+e;418609;'Compagnon';1;50
+e;47073;'compagnon';1;1744
+e;65434;'copain';1;1028
+e;5628982;'Viennoiserie';1;0
+e;3408734;'Bagel';1;0
+e;5811713;'August Zang';777;0
+e;5881468;'Égyptiens';1;6
+e;5913356;'Tacuinum sanitatis';777;0
+e;6015571;'Élastique';1;0
+e;45619;'Çatal Höyük';1;50
+e;9965975;'Farine';1;0
+e;9949627;'Marie-Antoinette de Habsbourg-Lorraine';777;0
+e;109703;'natoufien';1;50
+e;6529955;'Enluminure';1;0
+e;119979;'enluminure';1;90
+e;146099;'Psautier';1;50
+e;129150;'psautier';1;50
+e;14772310;'Fresque';1;0
+e;73275;'Philippe le Bel';1;50
+e;203319;'mal des ardents';1;54
+e;131289;'Charles V le Sage';1;50
+e;4273;'Thomas Jefferson';1;52
+e;16583029;'Fermentation';1;0
+e;16309905;'Éthanol';1;0
+e;16717296;'Cuisson';1;0
+e;144083;'Proche-Orient';1;2263
+e;17141426;'Fougasse';777;0
+e;219190;'oeuf>88491>34030';1;30;'oeuf>reproduction>fécondation'
+e;219191;'oeuf>88491>4342056';1;38;'oeuf>reproduction>animal ovipare'
+e;219192;'oeuf>88491>37194';1;30;'oeuf>reproduction>poule'
+e;215854;'son>33800';1;50;'son>sciure'
+e;215852;'son>143989';1;24;'son>timbre'
+e;215851;'son>43106';1;234;'son>bruit'
+e;11222300;'bleu>28524';1;0;'bleu>quark'
+e;11222301;'bleu>63518';1;0;'bleu>amoureux'
+e;11222302;'bleu>36811';1;0;'bleu>billard'
+e;11222303;'bleu>25380';1;0;'bleu>budget'
+e;322705;'boulange>73198';1;50;'boulange>meunerie'
+e;215814;'bleu>215808';1;20;'bleu>nouvelle recrue'
+e;2952972;'bleu>28682';1;0;'bleu>télégramme'
+e;2952974;'bleu>133354';1;0;'bleu>ivre'
+e;2952975;'bleu>180300';1;0;'bleu>histoire militaire'
+e;2952985;'bleu>45854';1;0;'bleu>surpris'
+e;2952986;'bleu>101083';1;0;'bleu>policier'
+e;215810;'bleu>140100';1;32;'bleu>viande'
+e;215811;'bleu>80266';1;118;'bleu>ecchymose'
+e;215812;'bleu>120949';1;16;'bleu>vêtement'
+e;215809;'bleu>40056';1;120;'bleu>couleur'
+e;10622136;'restaurant>74736';1;4;'restaurant>repas'
+e;234258;'chapon>121725';1;50;'chapon>sarment'
+e;234259;'chapon>69990';1;80;'chapon>rascasse'
+e;234256;'chapon>117146';1;48;'chapon>coq'
+e;214947;'pétrin>37163';1;52;'pétrin>embarras'
+e;223222;'savon>124091';1;24;'savon>réprimande'
+e;223221;'savon>11358';1;78;'savon>substance'
+e;4311151;'canapé>1346';1;0;'canapé>décoration'
+e;216955;'canapé>40184';1;46;'canapé>siège'
+e;9779286;'baguette>146050';1;0;'baguette>militaire'
+e;3290470;'baguette>105884';1;0;'baguette>arme à feu'
+e;3290469;'baguette>3290468';1;0;'baguette>organe de machine'
+e;9779303;'baguette>136758';1;0;'baguette>chef d'orchestre'
+e;227592;'soupe>74736';1;50;'soupe>repas'
+e;243950;'soupe>14800';1;50;'soupe>mélange'
+e;239430;'soupe>154716';1;50;'soupe>mauvaise qualité'
+e;227593;'soupe>3699';1;50;'soupe>neige'
+e;4342065;'oeuf>109103';1;0;'oeuf>vésicule'
+e;3169842;'oeuf>70846';1;0;'oeuf>commencement'
+e;3169844;'oeuf>107179';1;0;'oeuf>ski'
+e;4342055;'oeuf>88491';1;16;'oeuf>reproduction'
+e;231388;'restaurant>124461';1;4;'restaurant>restaurer'
+e;219193;'oeuf>69414';1;50;'oeuf>télécabine'
+e;219194;'oeuf>142000';1;14;'oeuf>forme'
+e;213427;'croissant>141367';1;2;'croissant>lune'
+e;213426;'croissant>213423';1;52;'croissant>forme géométrique'
+e;213428;'croissant>2954';1;58;'croissant>grandissant'
+e;227897;'fondue>43125';1;10;'fondue>gastronomie'
+e;227895;'fondue>34496';1;54;'fondue>fondu'
+e;234133;'tranche>106784';1;60;'tranche>subdivision'
+e;234134;'tranche>63985';1;50;'tranche>bord'
+e;1136713;'sandwich>72946';1;0;'sandwich>matériau composite'
+e;2675292;'liche>2360102';1;0;'liche>ardoiserie'
+e;265565;'liche>68467';1;50;'liche>poisson'
+e;265564;'liche>216436';1;52;'liche>créature fantastique'
+e;5304286;'four>435427';1;0;'four>Fours'
+e;5304386;'four>5304385';1;0;'four>vente de drogue'
+e;228769;'four>127487';1;14;'four>échec'
+e;5304387;'four>5304384';1;0;'four>lieu chaud'
+e;242206;'boulanger>215292';1;50;'boulanger>faire du pain'
+e;225210;'miette>39409';1;50;'miette>peu'
+e;225209;'miette>65364';1;50;'miette>morceau'
+e;244623;'chaland>107150';1;50;'chaland>bateau'
+e;244624;'chaland>20082';1;50;'chaland>client'
+e;7746267;'boule>142000';1;2;'boule>forme'
+e;5129041;'boule>152268';1;0;'boule>jeu de hasard'
+e;5129020;'boule>56636';1;0;'boule>postérieur'
+e;5129023;'boule>17601';1;0;'boule>bouillotte'
+e;5128933;'boule>43354';1;0;'boule>carrières'
+e;216750;'boule>216745';1;50;'boule>jeu de casino'
+e;5128957;'boule>15704';1;0;'boule>testicule'
+e;5129019;'boule>7430';1;0;'boule>sein'
+e;5129021;'boule>98040';1;0;'boule>architecture'
+e;216751;'boule>144846';1;74;'boule>tête'
+e;5133897;'boule>115134';1;0;'boule>émotionnel'
+e;216748;'boule>43953';1;4;'boule>grosseur'
+e;5128932;'boule>151495';1;2;'boule>boule de pétanque'
+e;216746;'boule>237';1;40;'boule>objet'
+e;213759;'baguette>152508';1;34;'baguette>baguette magique'
+e;213760;'baguette>131886';1;12;'baguette>encadrement'
+e;213761;'baguette>114900';1;2;'baguette>bâton'
+e;229272;'baguette>1451';1;28;'baguette>couvert'
+e;229273;'baguette>90703';1;12;'baguette>tambour'
+e;1866155;'durcir>1866152';1;0;'durcir>rendre dur'
+e;1866157;'durcir>1797646';1;0;'durcir>prendre en masse'
+e;1866158;'durcir>3491';1;0;'durcir>attitude'
+e;213478;'flûte>152866';1;44;'flûte>instrument à vent'
+e;213479;'flûte>144497';1;36;'flûte>verre'
+e;213480;'flûte>102006';1;26;'flûte>zut'
+e;213481;'flûte>30171';1;50;'flûte>navire'
+e;213574;'ficelle>8595';1;52;'ficelle>corde'
+e;213575;'ficelle>34400';1;6;'ficelle>astuce'
+e;247072;'tartine>43207';1;50;'tartine>développement'
+e;4337105;'Wasa>30171';1;0;'Wasa>navire'
+e;218980;'sole>50567';1;50;'sole>agriculture'
+e;261483;'sole>224300';1;50;'sole>anatomie animale'
+e;218981;'sole>111740';1;50;'sole>menuiserie'
+e;218979;'sole>68467';1;38;'sole>poisson'
+e;232822;'natte>98040';1;50;'natte>architecture'
+e;232824;'natte>52255';1;50;'natte>arbre'
+e;232820;'natte>63936';1;50;'natte>tissu'
+e;232821;'natte>2448';1;6;'natte>tresse'
+e;228310;'toast>47918';1;10;'toast>boire'
+e;320828;'bâtard>60093';1;50;'bâtard>insatisfaisant'
+e;320830;'bâtard>251763';1;50;'bâtard>personne méprisable'
+e;320826;'bâtard>17559';1;50;'bâtard>animal'
+e;320829;'bâtard>41722';1;12;'bâtard>enfant naturel'
+e;320831;'bâtard>37370';1;50;'bâtard>dague'
+e;2725035;'miel>127270';1;2;'miel>merde'
+e;244983;'miel>40056';1;50;'miel>couleur'
+e;2725034;'miel>11525';1;0;'miel>agrément'
+e;216652;'croûte>125591';1;50;'croûte>croûte terrestre'
+e;216654;'croûte>129859';1;50;'croûte>sédiment'
+e;216655;'croûte>141687';1;52;'croûte>fromage'
+e;216656;'croûte>25966';1;60;'croûte>pâtisserie'
+e;216657;'croûte>102206';1;56;'croûte>médecine'
+e;216658;'croûte>167803';1;50;'croûte>pain quotidien'
+e;216659;'croûte>35841';1;60;'croûte>peinture'
+e;219147;'empereur>39531';1;32;'empereur>souverain'
+e;219148;'empereur>68467';1;68;'empereur>poisson'
+e;219149;'empereur>140176';1;50;'empereur>oiseau'
+e;219150;'empereur>18285';1;50;'empereur>papillon'
+e;241368;'mie>44438';1;4;'mie>amie'
+e;241369;'mie>27672';1;50;'mie>pas'
+e;2838876;'levage>9172';1;0;'levage>viticulture'
+e;2838877;'levage>26608';1;0;'levage>savon'
+e;2838878;'levage>139869';1;0;'levage>charpente'
+e;2838874;'levage>51683';1;0;'levage>lever'
+e;332551;'banette>105426';1;50;'banette>couchette'
+e;332552;'banette>43733';1;50;'banette>corbeille'
+e;228774;'four>382343>102524';1;50;'four>système de chauffage>incinérateur'
+e;228772;'four>382343>55133';1;50;'four>système de chauffage>industriel'
+e;228771;'four>382343>34994';1;14;'four>système de chauffage>poterie'
+e;228770;'four>382343>16033';1;48;'four>système de chauffage>cuisine'
+e;258583;'faluche>139654';1;16;'faluche>coiffe'
+e;1678561;'fougasse>213727';1;0;'fougasse>mine explosive'
+e;1678562;'fougasse>91516';1;0;'fougasse>incartade'
+e;320389;'petite commission>130808';1;50;'petite commission>course'
+e;320386;'petite commission>83358';1;50;'petite commission>pipi'
+e;320388;'petite commission>51253';1;50;'petite commission>message'
+e;320390;'petite commission>120511';1;50;'petite commission>assemblée'
+e;437811;'roti>19636';1;50;'roti>rôti'
+e;4328849;'geindre>122483';1;6;'geindre>se plaindre'
+e;1652882;'longuet>84432';1;8;'longuet>long'
+e;233203;'oeil>16033>18777';1;50;'oeil>cuisine>bulle'
+e;266046;'pogne>108045';1;50;'pogne>poing'
+e;266047;'pogne>81934';1;50;'pogne>main'
+e;234137;'tranche>65364>140100';1;52;'tranche>morceau>viande'
+e;248870;'sésame>145941';1;50;'sésame>plante'
+e;248872;'sésame>52660';1;54;'sésame>clé'
+e;3304653;'fleurage>251995';1;0;'fleurage>décoration florale'
+e;213431;'miche>126687';1;50;'miche>fesse'
+e;394464;'saucer>113967';1;50;'saucer>pleuvoir'
+e;231389;'restaurant>77864';1;280;'restaurant>établissement'
+e;3542583;'rassissement>64437';1;0;'rassissement>boucherie'
+e;3232301;'chaland>34235';1;0;'chaland>galant'
+e;244771;'lever>244768';1;2;'lever>placer plus haut'
+e;244772;'lever>244770';1;52;'lever>mouvoir de bas en haut'
+e;244773;'lever>43485';1;2;'lever>dresser'
+e;244774;'lever>3486';1;56;'lever>retirer'
+e;244775;'lever>18049';1;50;'lever>faire cesser'
+e;244776;'lever>8972';1;50;'lever>impôt'
+e;244777;'lever>119554';1;50;'lever>enrôler'
+e;244778;'lever>140429';1;50;'lever>chasse'
+e;244779;'lever>3674';1;50;'lever>botanique'
+e;244780;'lever>104795';1;50;'lever>réveiller'
+e;232593;'hostie>86010';1;50;'hostie>holocauste'
+e;245481;'bis>50889';1;50;'bis>gris'
+e;245483;'bis>7049';1;58;'bis>répétition'
+e;245484;'bis>2997';1;50;'bis>secondaire'
+e;1874433;'entamé>146525';1;0;'entamé>entaillé'
+e;1874434;'entamé>266163';1;0;'entamé>débuté'
+e;1874435;'entamé>49666';1;0;'entamé>altéré'
+e;1874436;'entamé>43635';1;0;'entamé>entamer'
+e;11136749;':gLeandro';1002;0
+e;155667;'poisson pané';1;142
+e;2073300;'lumps';2;0
+e;9563213;'soupe chaude';1;4
+e;216120;'recette de cuisine';1;140
+e;38828;'cuiller';1;218
+e;241624;'goûter>24544';1;32;'goûter>essayer'
+e;229830;'baguette d'angle';1;50
+e;129933;'fast-food';1;488
+e;140202;'cuite';1;337
+e;218746;'boucherie>140100';1;176;'boucherie>viande'
+e;247132;'produit de grande consommation';1;54
+e;221738;'blé de Pologne';1;50
+e;177195;'bijane';1;50
+e;177286;'piroshki';1;50
+e;182514;'fondue savoyarde';1;88
+e;227896;'fondue>43125>141687';1;6;'fondue>gastronomie>fromage'
+e;215024;'pigeon>140176';1;120;'pigeon>oiseau'
+e;84111;'cheeseburger';1;126
+e;150219;'restau';1;176
+e;248886;'tahini';1;6
+e;289252;'tahin';777;50
+e;289253;'tahina';777;50
+e;289254;'téhina';777;50
+e;251788;'tahiné';1;50
+e;441;'kebab';1;92
+e;21130;'mai';1;3889
+e;87949;'mée';1;50
+e;119832;'met';1;3656
+e;97161;'cheese-burger';1;50
+e;5812171;'panetière provençale';777;0
+e;145043;'pâté';1;364
+e;11618;'tavaïolle';1;50
+e;25659;'empiffrer';1;56
+e;142704;'fourneau';1;114
+e;14752975;'pain croquant';1;0
+e;93159;'écroûter';1;50
+e;16409;'Paillasse';1;50
+e;1853;'carnier';1;56
+e;4430;'mouille';1;64
+e;8046;'meurette';1;52
+e;9019;'azimite';1;50
+e;18820;'hâle';1;84
+e;23593;'semeur';1;50
+e;31122;'gnocchi';1;50
+e;31371;'chakra';1;52
+e;33762;'surgeler';1;114
+e;33907;'Macaroni';1;50
+e;34655;'filioque';1;50
+e;121296;'fariner';1;60
+e;39440;'muid';1;66
+e;47449;'indigence';1;106
+e;50932;'rougeaud';1;64
+e;230759;'artichaud';666;50
+e;57979;'garnement';1;100
+e;59609;'blédard';1;50
+e;67780;'gratiner';1;130
+e;70905;'xérophagie';1;50
+e;84901;'fraternellement';1;84
+e;86846;'pauvresse';1;58
+e;117177;'recuire';1;58
+e;118320;'spirituellement';1;52
+e;131488;'aigrelet';1;58
+e;153119;'honnetement';1;50
+e;162336;'cepe';1;50
+e;178041;'artomeli';1;50
+e;177592;'artolithe';1;50
+e;219044;'maratre';1;50
+e;2358363;'leche';1;0
+e;2371491;'arthanite';1;0
+e;2406445;'manat';1;0
+e;2425241;'coeurier';1;0
+e;2434320;'simit';1;0
+e;2434249;'charpagnée';1;0
+e;2452957;'merci mon chien';1;0
+e;2500174;'boulonnier';1;0
+e;2508556;'gonichon';1;0
+e;2517580;'panouche';1;0
+e;2528823;'malfil';1;0
+e;2545655;'blandonnée';1;0
+e;2551427;'massou';1;0
+e;16746303;'toast doré';777;0
+e;2589398;'completo';1;0
+e;16767945;'nutriloaf';777;0
+e;3372683;'rafraichissant';1;2
+e;3373011;'hallah';1;0
+e;16795294;'kranmannyòk';777;0
+e;16795538;'matloue';777;0
+e;16848231;'LARD';1;0
+e;16976015;'manaïche/mana'iche';777;0
+e;16986024;'regional nerve blockade';777;0
+e;17018918;'Moventig';777;0
+e;82595;'frire';1;236
+e;5631010;'Khbizet maâdnous';777;0
+e;177230;'douillon';1;50
+e;213700;'fromage>114637';1;582;'fromage>aliment'
+e;36049;'panade';1;70
+e;101361;'quatre-heures';1;86
+e;2865198;'Masmünster';777;0
+e;216956;'canapé>129359';1;10;'canapé>petit-four'
+e;101081;'fondue';1;206
+e;51527;'tressage';1;64
+e;263318;'recette italienne';1;50
+e;339003;'besoins alimentaires';1;50
+e;47740;'vinaigrette';1;298
+e;2489393;'thali';1;0
+e;3372234;'lavash';1;0
+e;276970;'Durée et fin du pétrissage';777;50
+e;568128;'aromatisation du vin';777;50
+e;12067;'mouture';1;74
+e;2420448;'artotyrite';1;0
+e;16769557;'cuisine khmère';777;0
+e;3340344;'régime hypotoxique';1;0
+e;275931;'galette saucisse';777;56
+e;16597555;'::>66:116477>24:119858';8;0;'personne [peut] tremper'
+e;16597554;'::>13:116477>29:119858';8;0;'tremper [sujet] personne'
+e;15744303;'présenter [qch]';1;0
+e;15744304;'présenter quelque chose';1;0
+e;138203;'s'opérer';1;50
+e;140820;'s'accomplir';1;60
+e;112261;'desserrer';1;78
+e;9053913;'se décoincer';1;0
+e;2427314;'picada';1;0
+e;17429385;'en:puts';1;0
+e;66970;'ballon';1;2585
+e;30668;'Parisienne';1;54
+e;124836;'croquer';1;438
+e;589543;'fougace';777;0
+e;13665178;'Filet-O-Fish';666;0
+e;2414236;'Saint Sacrement';1;2
+e;28985;'fleur';1;4974
+e;406083;'bun';1;50
+e;244702;'flammekueche';1;52
+e;137842;'Halloween';1;120
+e;72124;'ratatouille';1;194
+e;36836;'sucrerie';1;1280
+e;1534674;'Christstollen';666;0
+e;1866009;'cuisine maltaise';1;0
+e;271842;'l'aliment';777;50
+e;195083;'L'Humanité';1;50
+e;155326;'boisson alcoolisée';1;176
+e;187524;'boisson alcoolique';1;50
+e;273130;'ferme pédagogique';777;50
+e;115926;'superstition';1;444
+e;273706;'Triticum durum';777;50
+e;156494;'blé dur';1;76
+e;245809;'souris grise';1;52
+e;10920;'Mus musculus';1;50
+e;164213;'souris blanche';1;72
+e;49810;'pin';1;324
+e;247953;'Pingouin';1;50
+e;115841;'biotechnologie';1;56
+e;171786;'vin jaune';1;50
+e;275542;'météorisme abdominal';777;50
+e;35018;'météorisme';1;62
+e;162890;'piège à souris';1;64
+e;125530;'souricière';1;76
+e;206574;'quatre heures';1;104
+e;275718;'goûter matrimonial';777;50
+e;152419;'gouter';1;76
+e;217741;'cuisine italienne';1;104
+e;230139;'biscuit de mer';1;50
+e;244701;'tarte flambée';1;4
+e;876;'Münster';1;56
+e;1041;'sorcellerie';1;562
+e;276770;'mochi';777;50
+e;1612;'Mochi';1;50
+e;276929;'Giambattista della Porta';777;50
+e;2364;'Giambattista Della Porta';1;50
+e;276969;'Opérations préalables';777;50
+e;2747;'Chichimèques';1;50
+e;217589;'Hansel et Gretel';1;74
+e;277441;'Jeannot et Margot';777;50
+e;4260;'halloween';1;64
+e;278318;'régime Dukan';777;50
+e;278319;'régime Protal';777;50
+e;6990;'protal';1;50
+e;8009;'tréhalose';1;50
+e;278741;'fungi';777;6
+e;278742;'mycota';777;50
+e;176143;'mycètes';1;50
+e;264503;'fonge';1;50
+e;272311;'Numéro index';777;50
+e;273455;'Classification';777;2407
+e;272188;'Symboles';777;50
+e;272189;'Phrases R';777;50
+e;276417;'R12';777;50
+e;8911;'acétaldéhyde';1;52
+e;198576;'denrée alimentaire';1;80
+e;9714;'denrée';1;102
+e;203382;'manne céleste';1;50
+e;279461;'thanal';777;50
+e;163022;'chataigne';1;60
+e;170812;'churrasco';1;50
+e;107770;'Catalogne';1;1586
+e;135304;'superstitieux';1;114
+e;19987;'porridge';1;60
+e;219974;'mamaliga';1;56
+e;134950;'panier-repas';1;52
+e;95905;'Aser';1;50
+e;281763;'Asher';777;50
+e;281764;'Le Testament des douze patriarches';777;50
+e;216801;'cuisine provençale';1;78
+e;179955;'ténébrion meunier';1;52
+e;282124;'Tenebrio molitor';777;50
+e;179956;'ver de farine';1;50
+e;239045;'Arcas';1;50
+e;138593;'Hamburger';1;50
+e;170596;'ergot de seigle';1;72
+e;282953;'claviceps purpurea';777;50
+e;91083;'biotechnologies';1;52
+e;100150;'nutritif';1;96
+e;148214;'fricassé';1;50
+e;283519;'frit cassé';777;50
+e;283520;'fricass';777;50
+e;30260;'restaurants';1;1398
+e;142584;'parisienne';1;2267
+e;89620;'Kolyma';1;52
+e;267970;'lablabi';1;50
+e;50585;'bibine';1;134
+e;68291;'Genève';1;3180
+e;167761;'croute terrestre';1;54
+e;223799;'Ratatouille';666;52
+e;46604;'chocard à bec jaune';1;50
+e;241034;'rôti de porc';1;62
+e;60285;'lycanthrope';1;60
+e;42275;'loup-garou';1;398
+e;222208;'loup garou';1;66
+e;287793;'Triticum';777;50
+e;227770;'cuisine végétarienne';1;50
+e;132589;'superstitions';1;50
+e;157579;'oeuf à la coque';1;180
+e;82341;'croustade';1;110
+e;166492;'filet de poisson';1;162
+e;265368;'filet-o-fish';1;50
+e;290064;'régime alimentaire des';777;50
+e;150796;'symposion';1;50
+e;153710;'céréalière';1;60
+e;251496;'chrononutrition';1;50
+e;126183;'Critiques';1;50
+e;291167;'kouign-amann';777;50
+e;291168;'kouignoù-amann';777;50
+e;219508;'kouign aman';1;96
+e;104987;'Nagasaki';1;64
+e;15124;'burettes';1;50
+e;130190;'catharisme';1;60
+e;103286;'navette';1;557
+e;292928;'rôti haché';777;50
+e;261636;'ressource alimentaire';1;50
+e;11346;'gaspacho';1;120
+e;293675;'meule à grains';777;50
+e;16950;'Viterbe';1;52
+e;24695;'fusariose';1;52
+e;25858;'bicarbonate';1;58
+e;294956;'hydrogénocarbonate';777;50
+e;27014;'cathare';1;64
+e;295251;'nénètses';777;52
+e;28574;'Nenets';1;52
+e;295252;'Nénéens';777;50
+e;295256;'liturgie catholique';1;52
+e;101532;'présence réelle';1;50
+e;138668;'Abraham';1;1595
+e;32536;'abraham';1;50
+e;35076;'céréaliculture';1;50
+e;40199;'ballonnement';1;98
+e;296698;'Steven Laurence Kaplan';777;50
+e;44343;'Steven Kaplan';1;50
+e;54441;'biotechnologique';1;50
+e;54839;'Cris de Paris';1;50
+e;58040;'réquisition';1;114
+e;59383;'Hachim ibn Abd Manaf';1;50
+e;67631;'Micmacs';1;50
+e;298307;'Mi'kmaq';777;50
+e;146412;'Ascomycètes';1;52
+e;298584;'Ascomycota';777;50
+e;70165;'ascomycète';1;78
+e;76173;'corned-beef';1;52
+e;78905;'mauvais sort';1;76
+e;81612;'cenelle';1;50
+e;83573;'Almadén';1;50
+e;84764;'bioconversion';1;50
+e;85303;'thériaque';1;50
+e;244395;'papier azyme';1;50
+e;300136;'papier hostie';777;50
+e;90720;'bio-industrie';1;50
+e;91269;'ascomycètes';1;54
+e;96331;'fermenté';1;78
+e;13976;'ferment';1;60
+e;97068;'aligot';1;76
+e;97373;'chocard';1;50
+e;105207;'eucharistique';1;50
+e;107224;'levures';1;54
+e;112044;'soupeur';1;50
+e;152004;'batard';1;64
+e;117141;'fricasse';1;50
+e;118265;'frasage';1;50
+e;119712;'ensorceler';1;126
+e;155547;'bol de céréales';1;62
+e;163573;'Dukan';1;50
+e;164403;'beurre d'escargot';1;64
+e;131184;'encensoir';1;62
+e;131617;'en-cas';1;92
+e;304182;'Sainte Élisabeth de Hongrie';777;50
+e;304183;'sainte Élisabeth de Thuringe';777;50
+e;133118;'Élisabeth de Hongrie';1;50
+e;133699;'Saccharomyces cerevisiae';1;50
+e;141653;'saint-marcellin';1;50
+e;140691;'bâtarde';1;50
+e;148445;'hambourgeois';1;56
+e;160667;'grain de blé';1;88
+e;162884;'culture céréalière';1;50
+e;176663;'bayoud';1;50
+e;306155;'libéralisation du commerce des grains sous l'Ancien Régime';777;50
+e;183493;'pacte de famine';1;50
+e;181268;'cabane à sucre';1;60
+e;187237;'réquisitions';1;68
+e;190467;'tarator';1;50
+e;306534;'robot boulanger';777;50
+e;156678;'pâte à tartiner';1;188
+e;306550;'Queues de castor';777;50
+e;306551;'beavertails';777;50
+e;306552;'BeaverTails Canada inc.';777;50
+e;156713;'queue de castor';1;52
+e;203117;'liturgie romaine';1;50
+e;177272;'oiseau sans tête';1;50
+e;213378;'tapette à souris';1;6
+e;308063;'cornet à glace';777;50
+e;177323;'cornet de glace';1;8
+e;308064;'cornet à crème glacée';777;50
+e;84087;'cornet';1;304
+e;261666;'indice glycémique';1;52
+e;185212;'blé tendre';1;50
+e;213881;'bien de consommation';1;34
+e;310198;'tortilla de patata';777;50
+e;310199;'omelette de pommes de terre';777;50
+e;219739;'omelette à l'oignon';1;50
+e;199705;'espèces eucharistiques';1;50
+e;221043;'mahaleb';1;50
+e;310249;'za`tar';777;50
+e;310250;'zaatar';777;50
+e;221053;'zahtar';1;2
+e;223485;'Y'a d'la joie';1;50
+e;216358;'boisson fermentée';1;56
+e;224878;'y a de la joie';1;58
+e;233074;'cuisine occitane';1;52
+e;239825;'cycéon';1;56
+e;311517;'saka saka';777;50
+e;264327;'pondu';1;6
+e;311518;'bouillon de feuilles de manioc';777;50
+e;237897;'bassin méditerranéen';1;18
+e;311624;'monde méditerranéen';777;50
+e;242976;'corps du Christ';1;6
+e;263271;'bioprocédé';1;50
+e;263394;'cuisine tunisienne';1;66
+e;120728;'planche';1;1437
+e;313950;'nourrir les pissenlits par la racine';1;50
+e;320102;'alimentation humaine';1;60
+e;332398;'graine de sésame';1;50
+e;393317;'L'Halloween';777;50
+e;395893;'cornet de crème glacée';1;50
+e;436370;'cuisine sicilienne';1;50
+e;114470;'fricadelle';1;54
+e;289554;'fricandelle';777;52
+e;407344;'BeaverTails';1;50
+e;462455;'BeaverTails Canada inc';777;50
+e;462658;'cornet de/à crème glacée';777;50
+e;465051;'tortilla de patatas';777;50
+e;338989;'besoin alimentaire';1;50
+e;334759;'aldéhyde acétique';1;50
+e;358337;'hérésie cathare';1;52
+e;367289;'omelette aux pommes de terre';1;50
+e;567459;'farine bise';777;50
+e;373445;'produit de consommation';1;50
+e;381745;'superstition religieuse';1;50
+e;387040;'vin de palme';1;50
+e;404644;'Sandwich';1;50
+e;406477;'Beurre';1;50
+e;407394;'Blé';1;50
+e;103983;'adénine';1;66
+e;408126;'Adénine';1;50
+e;410631;'micmaque';1;50
+e;412127;'pretzel';1;52
+e;413674;'Castagna';1;50
+e;415954;'Restaurant';1;50
+e;416721;'Ballon';1;50
+e;422146;'hansel';1;50
+e;426244;'Navette';1;50
+e;427812;'Repas';1;50
+e;428685;'pingouins';1;50
+e;432661;'Sésame';1;54
+e;433470;'castanha';1;50
+e;436002;'Sorcellerie';1;50
+e;437466;'soupes';1;50
+e;218451;'Gretel';1;72
+e;30675;'empâtage';1;50
+e;580815;'Surnom de ligne du hockey sur glace';777;0
+e;585736;'Stegobium paniceum';777;0
+e;585738;'vrillette boulangère';777;0
+e;585739;'stegobium';777;0
+e;150650;'stégobie';1;50
+e;585761;'Stegobium';1;0
+e;586084;'produits alimentaires';777;0
+e;207391;'saintes espèces';1;50
+e;186743;'porter malheur';1;156
+e;593010;'levain panaire';777;0
+e;616857;'Giovanni Battista Della Porta';777;0
+e;650252;'gliadines';777;0
+e;74490;'gliadine';1;50
+e;264299;'graines de sésame';1;82
+e;1008207;'galette-saucisse';777;0
+e;580796;'punch line';777;0
+e;1329385;'corned beef';1;4
+e;47597;'alcool';1;4436
+e;263110;'OH';1;50
+e;274395;'féculents';777;58
+e;275085;'Marcelino';777;50
+e;1463965;'farine d'épeautre';777;0
+e;1463955;'farine de petit épeautre';1;4
+e;580771;'fouace angevine';777;0
+e;182143;'droit de cuissage';1;24
+e;182144;'droit de jambage';1;20
+e;1658300;'fromage à la crème';777;0
+e;1658301;'fromage en crème';777;0
+e;1658299;'cream cheese';1;0
+e;1690980;'cuisine languedocienne';1;0
+e;1655155;'souriquois';1;0
+e;1801143;'BIS';1;0
+e;1822889;'régime Seignalet';1;0
+e;1830324;'Claviceps purpurea';1;0
+e;1834899;'glutéline';1;0
+e;1858390;'réactions de Maillard';777;0
+e;1906603;'gaspacho andalou';1;0
+e;1906777;'fondue au fromage';777;0
+e;1906595;'fondue jurassienne';1;0
+e;1906588;'farcidure';1;0
+e;1906780;'farce dure';777;0
+e;1906711;'tourtou';1;0
+e;1906593;'fondue aux champignons';1;0
+e;1906597;'fondue Neuchâteloise';1;0
+e;153843;'farine de froment';1;62
+e;1932396;'boissons alcoolisées';1;4
+e;1960044;'principaux pays exportateurs';777;0
+e;1963285;'Erdäpfelkäse';777;0
+e;1963164;'crisp sandwich';1;0
+e;1963291;'chip sandwich';777;0
+e;1963292;'chipwich';777;0
+e;1963293;'potato chip sandwich';777;0
+e;1963195;'morcilla patatera';1;0
+e;1963191;'lefse';1;0
+e;227855;'sauce à la menthe';1;50
+e;1978777;'hamburgers';1;20
+e;312137;'cuisine algérienne';777;50
+e;2142475;'castagna';2;0
+e;256943;'trick or treat';1;50
+e;2345467;'2-acétyl-1-pyrroline';1;0
+e;2354779;'consommation humaine';1;0
+e;2360763;'cestas';777;0
+e;2366506;'ciabatta';1;0
+e;2389555;'kouign-aman';1;0
+e;2393243;'brie de Melun';1;0
+e;2393491;'Brignolet';1;0
+e;2397411;'Cestas';1;0
+e;2397602;'toddy';1;0
+e;2398110;'Saint-Michel-de-Rieufret';1;0
+e;2402826;'Commeny';1;0
+e;2404519;'Boutenac';1;0
+e;2408914;'Juillan';1;0
+e;2409136;'Dugny';1;0
+e;2414999;'La Ferté-sous-Jouarre';1;0
+e;2415980;'biens de consommation';1;0
+e;2588523;'artotyrites';777;0
+e;2420961;'Peyrilles';1;0
+e;2599309;'koulouri';777;0
+e;2599310;'evrek';777;0
+e;2434851;'Tourreilles';1;0
+e;2451507;'Auffreville-Brasseuil';1;0
+e;2457962;'club sandwich';1;4
+e;2462871;'oxoéthane';1;0
+e;2463676;'Avenay';1;0
+e;2476911;'Cruscades';1;0
+e;2486708;'sandwich BLT';1;0
+e;2484277;'sodabi';1;0
+e;2493672;'éthyl aldéhyde';1;0
+e;2495118;'Saint-Hilaire-Luc';1;0
+e;2499894;'mantou';1;0
+e;2771039;'mantuu';777;0
+e;2510683;'macatia';1;0
+e;2515807;'méture';1;0
+e;2514600;'Masevaux';1;0
+e;2525232;'Allemagne-en-Provence';1;0
+e;1858514;'la microbiologie alimentaire';777;0
+e;1963262;'pâté aux';777;0
+e;2927610;'pâté de pomme de terre';777;0
+e;1963263;'pâté aux patates';777;0
+e;2927622;'Kartoffelkäse';777;0
+e;2927860;'Principaux pays exportateurs';777;0
+e;2938964;'Diverses boissons alcoolisées';777;0
+e;319358;'vins et spiritueux';1;50
+e;2872080;'Préoccupation mineure';777;0
+e;2605104;'blé d'hiver';1;0
+e;3124590;'blé d'automne';777;0
+e;2971857;'toast Hawaï';1;0
+e;3169641;'Saintes Espèces';777;0
+e;3170755;'nân';777;0
+e;3174621;'l'Halloween';777;0
+e;3175814;'tâches à accomplir';777;0
+e;3180564;'sakasaka';777;0
+e;3180565;'saka-saka';777;0
+e;2537632;'patranque';1;0
+e;3185932;'patrenque';777;0
+e;3204746;'curry japonais';1;0
+e;2546003;'bannique';1;0
+e;2556969;'focaccia';1;0
+e;1906541;'baeckeoffe';1;0
+e;3224187;'société de musique';777;0
+e;2203056;'fusarioses';2;0
+e;3260103;'bacillus subtilis';1;0
+e;3300988;'La Laitière';1;0
+e;3308725;'H224';777;0
+e;279286;'H319';777;50
+e;279287;'H335';777;50
+e;294544;'H351';777;50
+e;281736;'D2A';777;50
+e;3315406;'Yurak';777;0
+e;3315407;'Samoyède Yurak';777;0
+e;3323010;'amidon résistant';1;0
+e;3343290;'flàmmeküeche';777;0
+e;287293;'dextrines';777;50
+e;3374757;'pa amb tomàquet';777;0
+e;405886;'Halle';1;50
+e;3376071;'challah';777;0
+e;3376072;'Bar'hes';777;0
+e;3376073;'Barkis';777;0
+e;3376074;'Bergis';777;0
+e;3490555;'matsa';777;0
+e;2645567;'Pachira aquatica';1;0
+e;3552432;'Marce';777;0
+e;3552433;'châtaignier de la Guyane';777;0
+e;3552434;'noisetier de la Guyane';777;0
+e;3552435;'noix de Malabar';777;0
+e;3557014;'Chocard à bec jaune';777;0
+e;3564782;'Bis';777;0
+e;2505223;'préfou';1;0
+e;2560054;'pintxo';1;0
+e;2552876;'Saint-Romain-de-Lerps';1;0
+e;2448238;'Saint-Christophe-sur-Dolaison';1;0
+e;3747805;'tea sandwich';777;0
+e;3747806;'finger sandwich';777;0
+e;3763038;'glutélines';777;0
+e;1838269;'réaction de Maillard';1;0
+e;4342587;'sfenj';777;0
+e;1463159;'ftaïr';1;0
+e;1463199;'khfaf';777;0
+e;5246587;'cuisine niçoise';1;0
+e;6876437;'en:viet nam';1;0
+e;168389;'Viêt Nam';1;36
+e;14953423;'en:pate';1;0
+e;2680;'sang';1;3868
+e;36354;'farce';1;536
+e;217183;'cuisine japonaise';1;252
+e;74260;'liaison';1;3059
+e;151000;'tian';1;74
+e;5580583;'histoire de la culture des céréales';777;0
+e;5610984;'Iliouchine Il-2 Chtourmovik';777;0
+e;5619774;'huile de germe de blé';777;0
+e;5619987;'texture des aliments';777;0
+e;5619990;'thon mayonnaise';777;0
+e;5631612;'shooter's sandwich';777;0
+e;5620129;'baked beans';777;0
+e;5620176;'boulangerie militaire';777;0
+e;5620177;'boulangerie de campagne';777;0
+e;5620189;'bubur ketan hitam';777;0
+e;5620190;'bubur pulut hitam';777;0
+e;5620191;'bubur injun';777;0
+e;5537339;'Keropok';777;0
+e;5537340;'Kuih';777;0
+e;5620213;'cha siu bao';777;0
+e;5620233;'confit de cidre';777;0
+e;5620274;'cuisine de la Nouvelle-Calédonie';777;0
+e;5620309;'desem';777;0
+e;5620355;'festin d'écrevisses';777;0
+e;5620477;'histoire de l'art culinaire';777;0
+e;5620482;'horseshoe';777;0
+e;5621415;'Thüringer Klösse';777;0
+e;5621441;'amlou';777;0
+e;5621503;'bodink';777;0
+e;5621517;'boulangerie viennoiserie industrielle';777;0
+e;5621518;'Boulangerie Viennoiserie Pâtisserie industrielle';777;0
+e;5621530;'boza';777;0
+e;5621569;'christophine farcie';777;0
+e;5621573;'ciarimbolo';777;0
+e;146;'craquelin';1;68
+e;5621597;'crumpet';777;0
+e;5621598;'crumpets';777;0
+e;5621828;'farine de pomme de terre';777;0
+e;27321;'kaki';1;72
+e;5621980;'khobz mbesses';777;0
+e;5621982;'khobz talian';777;0
+e;5621997;'lángos';777;0
+e;5622030;'michetta';777;0
+e;5622068;'Pagnotta del Dittaino';777;0
+e;5622385;'ribollita';777;0
+e;5622420;'sauce kerkennienne';777;0
+e;5622466;'tafarnout';777;0
+e;5622574;'uitsmijter';777;0
+e;5622586;'vatapá';777;0
+e;5534856;'Découvrez comment faire';777;0
+e;5627623;'mämmi';777;0
+e;5634144;'Bien manger avec le Guide alimentaire canadien';777;0
+e;5628845;'gohan';1;0
+e;63480;'thymine';1;60
+e;18106;'uracile';1;86
+e;5678982;'Liste des portails thématiques';777;0
+e;5784596;'Autres articles sélectionnés';777;0
+e;422789;'spécialités';1;50
+e;413227;'Fromages';1;1386
+e;5784598;'Vins d'Alsace';777;0
+e;275938;'idiotisme gastronomique';777;50
+e;5786168;'farci poitevin';777;0
+e;5786169;'farci charentais';777;0
+e;5786458;'baguette de Paris';777;0
+e;5786838;'cuisines arlésienne et camarguaise';777;0
+e;5786842;'cuisine cévenole et gardoise';777;0
+e;5786843;'cuisine comtadine et vauclusienne';777;0
+e;5786845;'cuisine de la Provence méditerranéenne';777;0
+e;5787764;'rioute';777;0
+e;5787813;'salade lyonnaise';777;0
+e;2394911;'sarasson';1;0
+e;44825;'saupiquet';1;52
+e;5788178;'abbaye d'Andechs';777;0
+e;5788559;'Égyptiens de l'Antiquité';777;0
+e;5788562;'régime alimentaire des Grecs antiques';777;0
+e;5788725;'Amica Chips';777;0
+e;5792194;'balandra';777;0
+e;5792473;'barbar';777;0
+e;5793885;'Triticum turgidum subsp. durum';777;0
+e;5793886;'Triticum durum Desf';777;0
+e;5793889;'triticum aestivum';777;0
+e;2606926;'L. 1753';777;0
+e;5793954;'Boerhavia diffusa';777;0
+e;5793956;'Bécabar bâtard';777;0
+e;5793958;'Macatia vert';777;0
+e;5793964;'Herbe pintade';777;0
+e;121129;'bouchon';1;614
+e;5794394;'bovril';777;0
+e;5795593;'café d'orge';777;0
+e;5795594;'caffè d'orzo';777;0
+e;5795595;'mugicha';777;0
+e;5795596;'boricha';777;0
+e;5798089;'cheesesteak de Philadelphie';777;0
+e;5798090;'sandwich au steak de Philadelphie';777;0
+e;5798091;'cheesesteak';777;0
+e;5798367;'choripán';777;0
+e;5799668;'confit de vin';777;0
+e;5799669;'gelée de vin';777;0
+e;5799990;'coppia ferrarese';777;0
+e;5800743;'crise alimentaire mondiale de 2007-2008';777;0
+e;5801149;'deche';777;0
+e;5801169;'déjeuner d'Oslo';777;0
+e;5801172;'cuisine berbère';777;0
+e;5801332;'matlou';777;0
+e;5801333;'matlouh';777;0
+e;5801334;'khobz ettadjine';777;0
+e;5801431;'diète cétogène';777;0
+e;5801556;'msemmen';777;0
+e;5801557;'msemen';777;0
+e;5801560;'m'semen';777;0
+e;5802140;'cuisine romagnole';777;0
+e;5802138;'Ekeblad';777;0
+e;5802139;'Eva De la Gardie';777;0
+e;5802332;'petit épeautre de Haute-Provence';777;0
+e;5802358;'Erbswurst';777;0
+e;418672;'farcis';1;56
+e;571295;'petits farcis';777;50
+e;5802847;'la farine de petit épeautre';777;0
+e;5803322;'folar';777;0
+e;69592;'tandoor';1;52
+e;5803467;'tannour';777;0
+e;144301;'Fronton';1;50
+e;5805287;'Grovbrød';777;0
+e;5806098;'histoire de la pomme de terre';777;0
+e;5806824;'Jambon d'Ardenne';777;0
+e;5807535;'khatchapouri';777;0
+e;5807565;'kifli';777;0
+e;5807566;'kipferl';777;0
+e;5807613;'kinema';777;0
+e;5807812;'Gallus gallus domesticus';777;0
+e;37194;'poule';1;1848
+e;117146;'coq';1;1092
+e;2415599;'poulet domestique';1;0
+e;5807901;'Wienermobile';777;0
+e;5808193;'tresse au beurre';777;0
+e;5808230;'lebar';777;0
+e;5807915;'Les Oies sauvages';777;0
+e;5808403;'Les Oies-Cygnes';777;0
+e;5809951;'vin casher';777;0
+e;5811351;'weizenbier';777;0
+e;5811352;'Weissbier';777;0
+e;5811592;'xató';777;0
+e;5812027;'marraqueta';777;0
+e;5812028;'pan batido';777;0
+e;5812029;'pan francés';777;0
+e;5812031;'Usine de panification de Kinshasa';777;0
+e;5812101;'lipie';777;0
+e;5812165;'lahoh';777;0
+e;5812166;'laxoox';777;0
+e;5812181;'panification sur levure';777;0
+e;5812184;'mlinci';777;0
+e;5812188;'rosca';777;0
+e;5812212;'Texas toast';777;0
+e;5812215;'pandesal';777;0
+e;5812216;'pan de sal';777;0
+e;5827657;'flàmmenküeche';777;0
+e;422577;'saté';1;62
+e;5827722;'sauce aux cacahuètes';777;0
+e;5827723;'bumbu kacang';777;0
+e;5827892;'sandwich au beurre de cacahuète et à la confiture';777;0
+e;5827894;'peanut butter and jelly sandwich';777;0
+e;5827895;'PBJ';777;0
+e;5827972;'tartinade au chocolat';777;0
+e;5828008;'sauce saté';777;0
+e;19983;'mendiant';1;150
+e;3373173;'bettelmann';1;0
+e;5828079;'cosumar';777;0
+e;5828553;'Tatws Pum Munud';777;0
+e;5828584;'po' boy';777;0
+e;5828585;'po-boy';777;0
+e;5828586;'po boy';777;0
+e;5828645;'sandwich au pastrami';777;0
+e;5828743;'sandwich au thon';777;2
+e;405161;'Préparation';1;1605
+e;5828970;'sandwich frites-omelette';777;0
+e;5829454;'fer à hosties';777;0
+e;129251;'érablière';1;54
+e;29786;'ferme';1;3030
+e;5836691;'liste des cuisiniers renommés';777;0
+e;118790;'cuisinier';1;1020
+e;5837620;'système agro-pastoral';777;0
+e;5841476;'Hordeum vulgare subsp. vulgare convar. vulgare var. trifurcatum';777;0
+e;5841477;'orge du tibet';777;0
+e;5841504;'orge trifurquée';777;0
+e;5841527;'orge de l'Himalaya';777;0
+e;5872309;'Pyrrhocorax graculus';777;0
+e;5891450;'isomaltose';777;0
+e;5895259;'smörgåsbord';777;0
+e;5897563;'régimes pauvres en glucides';777;0
+e;5897652;'grenier galicien';777;0
+e;5897872;'ration alimentaire de l'armée américaine';777;0
+e;5899254;'ninkasi';777;0
+e;5899255;'Sirish';777;0
+e;5913223;'MOS Burger';777;0
+e;5913265;'Le Cuisinier françois';777;0
+e;5913283;'cuisine de la Rome antique';777;0
+e;5913571;'lembas';777;0
+e;3373262;'migas';1;0
+e;5918134;'migas manchegas';777;0
+e;5918135;'migas andalouses';777;0
+e;5918137;'migas de Murcie';777;0
+e;5918138;'gachamigas';777;0
+e;5918139;'migas extremeñas';777;0
+e;5918699;'Musée bruxellois du Moulin et de l'Alimentation';777;0
+e;5918736;'packed lunch';777;0
+e;5918827;'rúgbrauð';777;0
+e;5918836;'appareil de Dean-Stark';777;0
+e;5918837;'Dean-Stark';777;0
+e;5918838;'montage de Dean-Stark';777;0
+e;5953484;'espagnol chilien';777;0
+e;5953485;'castillan chilien';777;0
+e;426123;'Vos';1;50
+e;5953925;'Serment du Test';777;0
+e;5960809;'Soli Deo gloria';777;0
+e;5918333;'Abdeljelil Zaouche';777;0
+e;6282450;'Birkat Hamazon';777;0
+e;6530953;'Bacillus subtilis';1;0
+e;15693269;'de Jérusalem et du Temple';777;0
+e;76066;'créateur';1;2724
+e;1829948;'régime cétogène';1;0
+e;2403983;'coq domestique';1;2
+e;245986;'poule domestique';1;54
+e;4190;'subsp';1;50
+e;8852790;'Nathan Paul Myhrvold';1;0
+e;14963004;'en:superstition';1;0
+e;2439364;'Boulot';1;0
+e;2387666;'Collegium musicum';1;0
+e;8769209;'en:sucre';1;0
+e;110720;'lactobacille';1;50
+e;9604221;'Wendelin';777;0
+e;405944;'Lactobacillus';1;50
+e;10035359;'David Provost';777;0
+e;10035360;'David Provoost';777;0
+e;10050396;'musée cantonal d'archéologie et d'histoire de Lausanne';777;0
+e;10081291;'La Princesse-Grenouille';777;0
+e;10135470;'Eddie Izzard';777;0
+e;3483809;'l'Italie';777;3024
+e;137252;'Douglas';1;2414
+e;10194416;'pincho';777;0
+e;35229;'Kitchener';1;50
+e;155639;'fromage de chèvre';1;162
+e;10334846;'santons de Provence';777;0
+e;10520044;'circuit court';777;2
+e;10520045;'circuits courts';777;0
+e;10520128;'manjar';777;0
+e;10741839;'cathédrale de la Résurrection Saint-Corbinien';777;0
+e;153377;'galette des rois';1;122
+e;285382;'fouasse';777;50
+e;9791562;'foassa';777;0
+e;10895901;'focaccia novese';1;0
+e;10896072;'levain naturel';777;0
+e;10970294;'cuisine norvégienne';777;0
+e;10970607;'tradition provençale';777;0
+e;11004911;'Aketegi';777;0
+e;10054305;'Ogi';1;0
+e;10690;'éthanal';1;50
+e;11083187;'rue du Four';777;0
+e;2469797;'Graben';1;0
+e;11107944;'fusillade de Soliman';777;0
+e;11120073;'culture nauruane';777;0
+e;249227;'gravlax';1;26
+e;311456;'gravlaks';777;50
+e;311457;'gravad laks';777;50
+e;311458;'graavilohi';777;50
+e;311459;'graflax';777;50
+e;311460;'gravelax';777;50
+e;11124215;'Momofuku And';777;0
+e;11162771;'prieuré de Wariville';777;0
+e;11172890;'culture de la Pologne';777;0
+e;219935;'farcement';1;50
+e;219934;'farçon';1;50
+e;11219927;'rabolet';777;0
+e;11219961;'farçi';777;0
+e;11251337;'Poule domestique';777;0
+e;11252031;'Birkat Hamazone';777;0
+e;318439;'groupe Casino';1;50
+e;318440;'Casino Guichard Perrachon';777;50
+e;1654305;'cantou';1;0
+e;11343779;'droit de dépucelage';777;0
+e;5880214;'convar';1;0
+e;11350731;'trifurcatum/nudum/coeleste/himalayense';777;0
+e;11358477;'grève de Draveil et de Villeneuve-Saint-Georges';777;0
+e;10513309;'l'améliorer';777;0
+e;5534983;'page de discussion';777;0
+e;5553081;'notes de bas de page';777;0
+e;107149;'biseau';1;54
+e;8103307;'en:hot cross bun';1;0
+e;10556882;'Jon Heidenreich';777;0
+e;9267656;'Contenus de qualité';777;0
+e;9267657;'Bons contenus';777;0
+e;5951228;'Sélection';1;0
+e;411314;'Programme';1;1431
+e;1008470;'élections générales';777;0
+e;223233;'élections municipales';1;66
+e;62689;'Le Fou de guerre';1;50
+e;5805943;'Heart Attack Grill';777;0
+e;9968106;'prix de la Banque de Suède en sciences économiques en mémoire d'Alfred Nobel';777;0
+e;170324;'wasabi';1;74
+e;11454271;'Weißbier';777;0
+e;5812301;'crestou';1;0
+e;83191;'Vesoul';1;50
+e;11507311;'fées des houles';777;0
+e;11507316;'Margot la fée';777;0
+e;11552504;'Thierry Souccar';777;0
+e;11644695;'Casino Guichard-Perrachon';777;0
+e;11694724;'contributions des femmes à la science';777;0
+e;11754135;'cuisine kényane';777;0
+e;11771671;'Le Boulanger';777;0
+e;11783405;'Wikipédia en volapük';777;0
+e;11811941;'Saparmyrat';777;0
+e;11811942;'Nyýazow';777;0
+e;5621645;'cuisine danoise';777;0
+e;11830953;'inondation de 1856';777;0
+e;223536;'baozi';1;50
+e;153511;'farine de maïs';1;74
+e;12054055;'Level Mountain';777;0
+e;64815;'référendum';1;2604
+e;12048654;'huitième accord de paix en Centrafrique';777;0
+e;227073;'Le Cercle rouge';1;50
+e;3179649;'Lettres portugaises';777;0
+e;12054174;'treizième accord de paix en Centrafrique';777;0
+e;12054235;'moretum';777;0
+e;2567176;'Saint-Vigor-des-Monts';1;0
+e;10970507;'économie de la Tunisie';777;0
+e;12196589;'régimes hypoglucidiques';777;0
+e;12198427;'El Hajeb';777;0
+e;12301930;'l'histoire de la culture des céréales';777;0
+e;12653343;'barbari';777;0
+e;12688206;'mousse liquide';777;0
+e;12688207;'mousse solide';777;0
+e;12772650;'Pan de Pascua';777;0
+e;12989695;'N. Pita';777;0
+e;13596268;'séder';777;0
+e;13633963;'Joachim Faiguet de Villeneuve';777;0
+e;11454888;'Crestou';1;0
+e;8517138;'en:vegan';1;0
+e;10733992;'feuille de papyrus';777;0
+e;45424;'papyrus';1;104
+e;216938;'Big Mac';1;58
+e;5881440;'Pizzeria';1;0
+e;358342;'hérésie albigeoise';1;50
+e;61827;'albigéisme';1;50
+e;146388;'albigeois';1;52
+e;14108963;'surnoms de ligne';777;0
+e;14130637;'Arabes israéliens';777;0
+e;14160897;'Santon de Provence';777;0
+e;14162243;'céréales à paille';777;0
+e;8852788;'Nathan Myhrvold';1;0
+e;14174711;'Inondation de 1856 en France';777;0
+e;14223069;'John Montagu';777;0
+e;14227826;'Heinrich Eduard Jacob';777;0
+e;14227827;'Henry Edward Jacob';777;0
+e;110446;'fraisage';1;50
+e;53997;'cohen';1;50
+e;14225746;'Nénètses';777;0
+e;14475350;'décompteur';777;0
+e;14475351;'Dominique Ferrat';777;0
+e;5959884;'2000 ans d'histoire';777;0
+e;5536212;'Cette section ne cite pas suffisamment ses sources';777;0
+e;288598;'Voir aussi';777;50
+e;14483001;'sacrifice du Christ';777;0
+e;14483002;'prière collective';777;0
+e;82369;'sacrement';1;176
+e;14486586;'Danse de la brioche';777;0
+e;14486587;'Danse du parapluie';777;0
+e;2957775;'Paquito';1;0
+e;14486588;'Jeu de la brouette';777;0
+e;14486589;'Cri de la mariée';777;0
+e;14488686;'Les pays les plus gros producteurs de céréales';777;0
+e;146141;'Monde';1;3451
+e;14488687;'Les grands pays importateurs et exportateurs de céréales';777;0
+e;14531624;'Matza';777;0
+e;14531625;'Qaddesh';777;0
+e;14531626;'Our'ha';777;0
+e;14531627;'Karpass';777;0
+e;14531628;'Ya'ha';777;0
+e;14531629;'Magguid';777;0
+e;14531630;'Ro'h';777;0
+e;46202;'broyage';1;64
+e;77835;'pilage';1;50
+e;122821;'poussin';1;906
+e;42494;'poulette';1;292
+e;14548054;'Farine panifiable';777;0
+e;133975;'complémentaire';1;1104
+e;5722092;'NAD+';1;0
+e;12110939;'1+2';1;0
+e;27603;'croustille';1;66
+e;3747515;'Brunch';1;0
+e;42106;'collation';1;152
+e;147943;'encas';1;56
+e;5806501;'ftour';777;0
+e;14571687;'gortozenn';777;0
+e;219394;'beurre salé';1;346
+e;164839;'beurre demi-sel';1;266
+e;246407;'beurre doux';1;34
+e;14571823;'beurre d'hiver';777;0
+e;14571824;'beurre d'été';777;0
+e;14571825;'beurre sec';777;0
+e;14571832;'Châtaigne grillée';777;0
+e;143654;'Total';1;2024
+e;14571833;'1 041 501';777;0
+e;14571834;'1 042 743';777;0
+e;2404175;'casta';1;0
+e;416089;'Galette';1;50
+e;14594829;'levures en vinification';777;0
+e;14594830;'Levure en vinification';777;0
+e;10078300;'El-Lahoun';1;0
+e;136067;'Thèbes';1;2147
+e;302490;'île Éléphantine';777;50
+e;43531;'Deir el-Bahari';1;50
+e;14602591;'dans les Mauges';777;0
+e;14602592;'savon de pays';777;0
+e;3348643;'cuisine québécoise';1;0
+e;10431817;'histoire de l'impôt en France';777;0
+e;146874;'élection présidentielle';1;170
+e;1874559;'réélu';1;2397
+e;10066974;'Encyclopédie de Yongle';777;0
+e;14490680;'est réélu';777;0
+e;14740337;'histoire du Grand Uniforme de l'École polytechnique';777;0
+e;14763882;'vol ValuJet 592';777;0
+e;124655;'Sainte-Sophie';1;84
+e;10047243;'La Route de Salina';777;0
+e;574030;'La Joueuse de tympanon';777;50
+e;139940;'Oiseau dans l'espace';1;50
+e;750240;'Histogramme de l'évolution démographique';777;0
+e;2447205;'Vals-près-le-Puy';1;0
+e;406022;'Bains';1;50
+e;38416;'pour tout potage';1;50
+e;17405886;'Le Cuisinier roïal et bourgeois';777;0
+e;16493905;'Mangeoire d'oiseaux';777;0
+e;14589368;'Dénominations historiques';777;0
+e;3304944;'Étymologie';777;1468
+e;14580600;'Nom occitan';777;0
+e;8061565;'en:ratatouille';1;0
+e;14939508;'en:get his bread by the sweat of his brow';1;0
+e;14942388;'en:hot dog';1;0
+e;15018741;'horseshoe sandwich';777;0
+e;212714;'Maori';666;10
+e;6910606;'en:honey';1;0
+e;5881081;'Macatia';1;0
+e;15273275;'en:brie cheese';1;0
+e;11362;'rachitisme';1;58
+e;15474989;'circuit court ou circuit de commercialisation';777;0
+e;15221179;'en:salted butter caramel';1;0
+e;15052820;'en:strawberry jam';1;0
+e;15241703;'en:grilled';1;0
+e;15075539;'en:cruller';1;0
+e;15077991;'en:donut';1;0
+e;15262952;'en:dough-nut';1;0
+e;14923496;'en:fritter';1;0
+e;12363809;'en:peanut butter';1;0
+e;15420042;'en:for a trifle';1;0
+e;15420043;'en:for a crust of bread';1;0
+e;15277331;'en:for a song';1;0
+e;15624404;'lemme des tresses';777;0
+e;14920579;'en:pay';1;0
+e;5570501;'Nourriture';1;0
+e;15195159;'en:hypoallergenic cleansing bar';1;0
+e;5805813;'Viande';777;0
+e;14769850;'Poissonet oeuf';777;0
+e;14769851;'Légumeet fruit';777;0
+e;8769158;'en:pita';1;0
+e;15369242;'en:pita bread';1;0
+e;337511;'au son';1;50
+e;67615;'se donner du bon temps';1;50
+e;15231307;'en:bran bread';1;0
+e;15290262;'en:to earn one's daily bread';1;0
+e;15699287;'en:earn one's daily bread';1;0
+e;14947493;'en:knead';1;0
+e;15226582;'s'amuser bien';1;0
+e;141996;'répartir';1;126
+e;4220858;'glycation';1;2
+e;15190338;'Châtaigne';1;0
+e;1853680;'farinata';1;0
+e;287460;'nonat';777;50
+e;15017949;'t / i-j / n';777;0
+e;15778206;'Une proposition de fusion est en cours entre Eucharistie et Communion';777;0
+e;91804;'se fournir';1;52
+e;15780311;'Edgar Cayce';777;0
+e;15780312;'Lectures physiques';777;0
+e;15780313;'Lectures de vies';777;0
+e;15780314;'Lectures d'affaires';777;0
+e;15780315;'Lectures de rêves';777;0
+e;15574976;'en:go as far as';1;0
+e;15477769;'en:to go as far as';1;0
+e;2363823;'petit déj'';1;0
+e;15420350;'petit dej'';1;0
+e;15420351;'p'tit déj'';1;0
+e;15661957;'porter quelque chose';1;0
+e;15417949;'porter [qch]';1;0
+e;15370045;'en:go get something';1;0
+e;15370046;'en:go fetch something';1;0
+e;14160540;'tourner une page';1;0
+e;14948057;'en:ogle';1;0
+e;273698;'R36';777;50
+e;272192;'Phrases S';777;50
+e;292619;'S26';777;50
+e;15566941;'en:have one's eye on';1;0
+e;15566942;'en:have one's beady eye on';1;0
+e;15444867;'lancer [qch] à toute volée';1;0
+e;15715111;'lancer quelque chose à toute volée';1;0
+e;15524826;'s'équiper de qch';1;0
+e;15255053;'en:dirt-cheap';1;0
+e;11075951;'Motif avancé';777;0
+e;8917642;'Cette section doit être actualisée';777;0
+e;15095239;'en:meatloaf';1;0
+e;5807953;'poulet Marengo';777;0
+e;2547585;'veau Marengo';1;0
+e;15951737;'lapin Marengo';777;0
+e;15951738;'sauce Marengo';777;0
+e;318498;'Steak haché';1;50
+e;275728;'Brioche tressée de Metz';777;50
+e;91625;'se transporter';1;56
+e;16103836;'bouillie écossaise';777;0
+e;10673200;'Croque-monsieur';777;0
+e;53434;'Aubergenville';1;56
+e;16170625;'cathédrale de la Résurrection Saint-Corbinien d'Évry';777;0
+e;15696419;'5 cloches';777;0
+e;16170626;'Mario Maria Giuditta Tobia Tomaso';777;0
+e;10785557;'Corbinien';1;0
+e;145450;'Marie';1;3628
+e;16170627;'Antoinette Thérèse-de-Saint-Augustin';777;0
+e;11789389;'François-Michel';1;0
+e;5913458;'cuisine sénégalaise';777;0
+e;16241682;'teranga';777;0
+e;108750;'poissons';1;2816
+e;140100;'viande';1;5110
+e;145295;'mouton';1;1656
+e;15690292;'poser quelque chose sur';1;0
+e;15233989;'poser qch sur';1;0
+e;16259518;'mangeoire à oiseaux';777;0
+e;12625441;'camerdish';777;0
+e;5535122;'Grandes familles de biomolécules';777;0
+e;16314943;'Créer une ferme pédagogique de l'idée à la réalisation';777;0
+e;12274254;'la neutralité de point de vue';777;0
+e;16324468;'Saparmyrat Nyýazow';777;0
+e;15267617;'en:ginger cake';1;0
+e;8085264;'en:gingerbread';1;0
+e;15420025;'en:a godsend';1;0
+e;15420024;'en:consecrated bread';1;0
+e;15063068;'en:unleavened bread';1;0
+e;15420023;'en:Chelsea bun';1;0
+e;15420022;'en:pain aux raisins';1;0
+e;15043688;'en:sourdough bread';1;0
+e;15760421;'hériter de quelque chose';1;0
+e;15444531;'en:caca';1;0
+e;7335102;'en:droppings';1;0
+e;15430389;'en:beef mince';1;0
+e;15695148;'en:call somebody out';1;0
+e;15710824;'en:to call out';1;0
+e;15542783;'en:to call somebody out';1;0
+e;14939504;'en:gain ground';1;0
+e;15369695;'en:to gain ground';1;0
+e;15746722;'soigner quelque chose';1;0
+e;15425616;'soigner [qch]';1;0
+e;361288;'levure de boulangerie';1;56
+e;15456514;'en:be necessary';1;0
+e;15456513;'en:be called for';1;0
+e;15456512;'en:be a requirement';1;0
+e;15456511;'en:be conventional';1;0
+e;15456510;'en:be proper';1;0
+e;15456509;'en:be good manners';1;0
+e;15456508;'en:be polite';1;0
+e;15359876;'en:be required';1;0
+e;15359873;'en:be appropriate';1;0
+e;16167136;'Films documentaires';777;0
+e;11553651;'François-Georges Mustel';777;0
+e;16181132;'Diagrammes de fabrication';777;0
+e;16181133;'Bactéries lactiques de la farine';777;0
+e;5882157;'Lactobacilles';1;0
+e;317436;'coques';1;62
+e;16181134;'Lb. plantarum';777;0
+e;16576847;'Lactobacillus brevis';777;0
+e;419810;'Soupe';1;50
+e;16578012;'sarassou';777;0
+e;15287769;'salade de chèvre chaud';1;0
+e;16578019;'khatchapuri';777;0
+e;45481;'omelette';1;388
+e;15353604;'en:garden centre';1;0
+e;15261885;'en:superstore';1;0
+e;16585413;'mi'gmaq';777;0
+e;16585414;'L'nuk';777;0
+e;14656644;'Onamag';777;0
+e;14656645;'Pouwowin';777;0
+e;14656646;'Sketekemouc';777;0
+e;133343;'RATP';1;284
+e;1858645;'nicotinamide adénine dinucléotide';777;0
+e;15323587;'en:the Lord's Supper';1;0
+e;461779;'Carassius auratus';777;50
+e;56172;'poisson rouge';1;206
+e;15165274;'Carassin doré';777;0
+e;108048;'Saint-Véran';1;54
+e;16745051;'Sant-Veran';777;0
+e;16745052;'Sent-Veran';777;0
+e;14599875;'CA Gap-Tallard-Durance';777;0
+e;90729;'Gap';1;54
+e;1838888;'microbiologie alimentaire';1;0
+e;5800901;'cuisine arabe';777;0
+e;267002;'cuisine cambodgienne';1;6
+e;127578;'pissaladière';1;56
+e;167167;'four à bois';1;84
+e;12625432;'Cet article peut contenir un travail inédit ou des déclarations non vérifiées';777;0
+e;12616808;'Cet article ne cite pas suffisamment ses sources';777;0
+e;16775938;'Histoire de la Corse';777;0
+e;16776342;'L'histoire de la culture des céréales';777;0
+e;72852;'aïoli';1;140
+e;16777744;'Aïoli traditionnel';777;0
+e;16777745;'Aïoli au jaune d'oeuf';777;0
+e;16777746;'Aïoli aux pommes de terre';777;0
+e;15285992;'Brie de Melun';1;0
+e;16779310;'costières-de-nîmes';777;0
+e;403759;'Sources';1;3006
+e;285933;'spéculoos';777;58
+e;16782675;'Horacio Arruda';777;0
+e;226964;'quiche lorraine';1;54
+e;8929955;'tartine de beurre';1;0
+e;16795292;'pondu ou madaba';777;0
+e;16795536;'sfendj';777;0
+e;319990;'cuisine marocaine';1;50
+e;16796648;'régime alimentaire des Grecs anciens';777;0
+e;307595;'syssities';777;50
+e;16796891;'Histoire de la cuisine japonaise';777;0
+e;16802443;'Bürli';777;0
+e;16802444;'Pürli';777;0
+e;10845896;'Mutsch';1;0
+e;16802445;'Mutschli';777;0
+e;16802446;'Mütschli';777;0
+e;15359201;'en:foodstuffs';1;0
+e;16960284;'paracetamol';777;0
+e;16828016;'acetaminophen';1;0
+e;16972889;'cuisine du Xinjiang';777;0
+e;216972;'cuisine méditerranéenne';1;56
+e;16976524;'Lycée Alain-Fournier';777;0
+e;16976525;'Place du Docteur-Alfred-Fournier';777;0
+e;16976526;'Place Félix-Fournier';777;0
+e;16818016;'BHAV';1;0
+e;16986625;'Le Conte du Vendeur d'indulgences';777;0
+e;17131936;'barmbrack';777;0
+e;3267998;'brack';777;0
+e;17138240;'langallo';777;0
+e;17139301;'Contes collectés';777;0
+e;17021303;'Image externe';777;0
+e;99280;'Corée';1;3268
+e;3263738;'cuisine coréenne';1;20
+e;17213369;'left lower quadrant';777;0
+e;17213371;'left upper quadrant';777;0
+e;17213372;'right upper quadrant';777;0
+e;17213373;'right lower quadrant';777;0
+e;462342;'Children';1;50
+e;17213374;'Elderly';777;0
+e;15648576;'en:make use of something';1;0
+e;15200916;'en:make do with something';1;0
+e;15320712;'en:have a great time';1;0
+e;17338915;'cuisine des Pouilles';777;0
+e;17338922;'pizza all'Andrea';777;0
+e;17338923;'piscialandrea';777;0
+e;17338924;'pizzalandrea';777;0
+e;17338925;'sardenaira';777;0
+e;436810;'caponata';1;50
+e;5802349;'panzanella';777;0
+e;17338969;'borlengo';777;0
+e;17338970;'burlengo';777;0
+e;17338971;'zampanelle';777;0
+e;17338972;'pane di Altamura';777;0
+e;17338973;'pane sciocco';777;0
+e;5622584;'vastiedda';777;0
+e;5622585;'guastedda';777;0
+e;232062;'palais des papes';1;50
+e;1163039;'boulanger>146882';1;0;'boulanger>Ver:Inf'
+e;15370425;'en:at small price';1;0
+e;15370424;'en:small price';1;0
+e;249238;'knack';1;52
+e;17129228;'knack d'Alsace';777;0
+e;249239;'saucisse de Strasbourg';666;8
+e;14927849;'en:knack';1;0
+e;14959025;'en:restaurant';1;0
+e;166262;'resto';1;198
+e;212523;'steack haché';666;16
+e;408424;'nad';1;50
+e;7003741;'en:thymine';1;0
+e;6926743;'en:adenine';1;0
+e;3863755;'ciabata';1;0
+e;32464;'nonnette';1;54
+e;19084;'oblats';1;50
+e;2439977;'prosphore';1;0
+e;16058995;'treculia';1;0
+e;74373;'couque';1;70
+e;135538;'espèces';1;3773
+e;31445;'fermentaire';1;50
+e;1654728;'intinction';1;0
+e;126616;'jocko';1;56
+e;47109;'spéculos';1;68
+e;31028;'torque';1;50
+e;14925183;'en:bun';1;0
+e;3373404;'gingerbread';1;0
+e;16037133;'michotte';1;0
+e;2491753;'tartinabilité';1;0
+e;2537315;'tartinable';1;0
+e;2420884;'azymite';1;0
+e;20320;'biscôme';1;50
+e;147532;'biscuité';1;50
+e;16037087;'choine';1;0
+e;201333;'garçon boulanger';1;50
+e;204931;'pains de proposition';1;50
+e;123068;'radis';1;208
+e;5772;'chapelle';1;2862
+e;61353;'pâton';1;68
+e;5916577;'baguette de tradition française';1;0
+e;5916575;'baguette courante';1;0
+e;6802231;'en:eye';1;0
+e;148104;'eye';1;50
+e;174120;'il';1;1932
+e;15211065;'en:baker's assistant';1;0
+e;257172;'loucher sur';1;56
+e;15438494;'porter [qch] en soi';1;0
+e;15693395;'porter quelque chose en soi';1;0
+e;15266507;'en:to have one's eye on';1;0
+e;15266508;'en:to have one's beady eye on';1;0
+e;15542782;'faire venir quelqu'un';1;0
+e;105055;'faire venir';1;52
+e;15454554;'faire venir [qqn]';1;0
+e;15030267;'antidore';1;0
+e;15742659;'en:ask somebody to come';1;0
+e;15693394;'en:carry something inside yourself';1;0
+e;15693393;'en:carry something inside';1;0
+e;15693392;'en:have something in you';1;0
+e;15693391;'en:have something within you';1;0
+e;15256110;'en:bread poultice';1;0
+e;3675728;'maie>146881';1;0;'maie>Nom:Fem+SG'
+e;77424;'oeil';1;3276
+e;30814;'liche';1;52
+e;19773;'oublie';1;68
+e;15030676;'antirassissant';1;0
+e;17485584;'::>66:116477>24:17484255';8;0;'personne [peut] tremper [objet] pain'
+e;6852744;'en:yeast';1;0
+e;1781378;'faire circuler';1;2
+e;14943441;'en:instigate';1;0
+e;14967028;'en:send out';1;0
+e;15082788;'en:move on';1;0
+e;15268921;'en:to move on';1;0
+e;15268922;'en:to spread';1;0
+e;12260;'se déployer';1;50
+e;15625987;'déploye';1;0
+e;138352;'faire tache d'huile';1;56
+e;143583;'aller jusqu'à';1;50
+e;14931793;'en:hurl';1;0
+e;14918472;'en:fling';1;0
+e;15413162;'en:create ripples';1;0
+e;15420040;'en:flat-chested';1;0
+e;15363350;'en:be made';1;0
+e;15370048;'aller chercher qch';1;0
+e;14589862;'passer un bon moment';1;2
+e;15042768;'en:breadstick';1;0
+e;15451620;'prendre en charge [qch]';1;0
+e;15793553;'prendre quelque chose en charge';1;0
+e;15793554;'prendre en charge quelque chose';1;0
+e;15451619;'prendre [qch] en charge';1;0
+e;15443044;'en:for a low price';1;0
+e;15443045;'en:for as little as possible';1;0
+e;249373;'liaison sans lendemain';1;50
+e;14930526;'en:one-night stand';1;0
+e;14952627;'en:pain au chocolat';1;0
+e;105060;'se dérider';1;50
+e;2368672;'Amer';666;0
+e;15428644;'en:plain flour';1;0
+e;157294;'bis>146892';1;50;'bis>Adj:Mas+InvPL'
+e;213957;'à deux balles';1;50
+e;15323586;'l'Eucharistie';1;0
+e;15504447;'en:take care of something';1;0
+e;15585014;'se charger de quelque chose';1;0
+e;15451581;'se charger de [qch]';1;0
+e;15504448;'assurer le suivi de quelque chose';1;0
+e;15454627;'assurer le suivi de [qch]';1;0
+e;15443043;'en:at a low cost';1;0
+e;14919121;'en:switch on';1;0
+e;14940683;'en:department store';1;0
+e;25914;'bifteck haché';1;50
+e;8055252;'en:beef burger';1;0
+e;15370011;'en:of bad quality';1;0
+e;64618;'de mauvais goût';1;52
+e;15560640;'s'occuper de faire quelque chose';1;0
+e;15560638;'en:take responsibility for something';1;0
+e;437008;'farine tout usage';1;50
+e;137859;'s'effectuer';1;54
+e;14486277;'en faire son affaire';1;0
+e;5125845;'avoir du bon temps';1;0
+e;15745274;'assurer quelque chose';1;0
+e;15454609;'assurer [qch]';1;0
+e;15202063;'en:fine dining';1;0
+e;15334920;'en:be renewed';1;0
+e;15560636;'en:deal with something';1;0
+e;14960543;'en:schnitzel';1;0
+e;15490945;'en:carry something out';1;0
+e;1805246;'entamé>161702';1;0;'entamé>Ver:PPas'
+e;1805247;'entamé>171869';1;0;'entamé>Adj:'
+e;15253575;'en:ginger-bread';1;0
+e;8069837;'en:rusk';1;0
+e;110153;'sole';1;188
+e;5622583;'vastedda';777;0
+e;15420028;'en:freezer block';1;0
+e;5802345;'pane carasau';777;0
+e;15409352;'en:holy bread';1;0
+e;437277;'muffuletta';1;50
+e;17491296;'::>66:16602853>15:119014';8;0;'personne>être humain [peut] acheter [objet] pain [lieu] boulangerie'
+e;17496497;'::>66:17496495>155:36266';8;0;'boulangère>boulangerie [peut] trancher [objet] pain [utilisant] trancheuse'
+e;17496508;'::>66:17496507>15:119014';8;0;'personne>être humain [peut] faire cuire [objet] pain [lieu] boulangerie'
+e;17496502;'::>66:16168856>15:119014';8;0;'personne>être humain [peut] cuire [objet] pain [lieu] boulangerie'
+e;17496524;'::>66:17496523>15:119014';8;0;'personne>être humain [peut] vendre [objet] pain [lieu] boulangerie'
+e;17496516;'::>66:17496515>15:119014';8;0;'personne>être humain [peut] façonner [objet] pain [lieu] boulangerie'
+e;17496532;'::>66:17496531>15:119014';8;0;'personne>être humain [peut] préparer [objet] pain [lieu] boulangerie'
+e;17484261;'::>66:17484260>15:339465';8;0;'personne>être humain [peut] tremper [objet] pain [lieu] bol de soupe'
+e;17499379;'::>66:17499378>155:214995';8;0;'personne>être humain [peut] mettre [objet] pain [utilisant] main>partie du corps'
+e;17497555;'::>66:16168856>155:9190';8;0;'personne>être humain [peut] cuire [objet] pain [utilisant] four'
+e;17497574;'::>66:14363899>155:9190';8;0;'boulanger [peut] cuire [objet] pain [utilisant] four'
+e;8126413;'en:scone';1;0
+e;13426632;'tanourt';777;0
+e;13426630;'taicht';777;0
+e;5621564;'bouchiyyar';777;0
+e;13426628;'labza';777;0
+e;3297938;'pistolet>122581';1;0;'pistolet>pain rond'
+e;14389070;'::>66:14389069>155:153863';8;0;'individu [peut] couper [objet] pain [utilisant] couteau à pain'
+e;14450973;'::>66:14450972>15:119014';8;0;'individu [peut] acheter [objet] pain [lieu] boulangerie'
+e;14486223;'::>66:14486222>155:153863';8;0;'personne>être humain [peut] trancher [objet] pain [utilisant] couteau à pain'
+e;14486228;'::>66:14486222>155:36266';8;0;'personne>être humain [peut] trancher [objet] pain [utilisant] trancheuse'
+e;14529682;'::>66:14529681>155:151545';8;0;'personne>être humain [peut] beurrer [objet] pain [utilisant] couteau à beurre'
+e;14653013;'::>66:14653012>155:93524';8;0;'personne>être humain [peut] faire griller [objet] pain [utilisant] grille-pain'
+e;14851597;'::>66:14851596>15:42092';8;0;'personne>être humain [peut] couper [objet] pain [lieu] planche à pain'
+e;218057;'lait>114637';1;294;'lait>aliment'
+e;86296;'lait';1;3756
+e;15195162;'en:farmhouse bread';1;0
+e;15311430;'en:ruggedized';1;0
+e;6905031;'en:botanical';1;0
+e;15139984;'en:botanic';1;0
+e;14326650;'::>66:9190>30:5115';8;0;'four [lieu pour] cuire'
+e;15849079;'::>66:14538276>30:37229';8;0;'table de la cuisine [lieu pour] se trouver'
+e;199954;'être de mise';1;50
+e;16168857;'::>66:16168856>15:9190';8;0;'personne>être humain [peut] cuire [objet] pain [lieu] four'
+e;16164758;'sésame>146885';1;0;'sésame>Nom:Mas+SG'
+e;16590626;'::>66:16590624>15:9190';8;0;'boulanger [peut] faire cuire [objet] pain [lieu] four'
+e;16596876;'::>66:255756>30:37229';8;0;'table de cuisine [lieu pour] se trouver'
+e;16596881;'::>66:255756>26:80350';8;0;'table de cuisine [se faire] se trouver dans'
+e;16596942;'::>66:16596941>155:151545';8;0;'enfant [peut] beurrer [objet] pain [utilisant] couteau à beurre'
+e;16596952;'::>66:16596951>155:151545';8;0;'maman [peut] beurrer [objet] pain [utilisant] couteau à beurre'
+e;16600119;'::>66:116477>24:14363897';8;0;'personne [peut] cuire [objet] pain'
+e;16600573;'::>66:116477>24:5115';8;0;'personne [peut] cuire'
+e;16600658;'::>66:116477>24:14389064';8;0;'personne [peut] couper [objet] pain'
+e;16600892;'::>66:116477>24:14665383';8;0;'personne [peut] aimer [objet] pain'
+e;16600945;'::>66:116477>24:14653007';8;0;'personne [peut] faire griller [objet] pain'
+e;16600961;'::>66:116477>24:14638921';8;0;'personne [peut] partager [objet] pain'
+e;16559252;'::>66:116477>24:122353';8;0;'personne [peut] partager'
+e;16601260;'::>66:116477>24:64325';8;0;'personne [peut] aimer'
+e;16601575;'::>66:116477>24:327166';8;0;'personne [peut] beurrer [objet] pain'
+e;16601577;'::>66:116477>24:97885';8;0;'personne [peut] beurrer'
+e;16601647;'::>66:116477>24:329041';8;0;'personne [peut] trancher [objet] pain'
+e;16601649;'::>66:116477>24:32322';8;0;'personne [peut] trancher'
+e;16601667;'::>66:116477>24:134489';8;0;'personne [peut] faire griller'
+e;14572842;'::>66:116477>24:128828';8;0;'personne [peut] couper'
+e;16602854;'::>66:16602853>15:146274';8;0;'personne>être humain [peut] acheter [objet] pain [lieu] marché'
+e;16603540;'::>66:116477>24:11295522';8;0;'personne [peut] acheter [objet] pain'
+e;16164565;'::>66:116477>24:29926';8;0;'personne [peut] acheter'
+e;16605002;'::>66:116477>24:16604565';8;0;'personne [peut] apprécier [objet] pain'
+e;16603609;'::>66:116477>24:63449';8;0;'personne [peut] apprécier'
+e;2426968;'grisse';1;0
+e;17049814;'::>66:17049813>155:26979';8;0;'personne>être humain [peut] frotter [objet] pain [utilisant] ail'
+e;16794985;'nan-e sangak';777;0
+e;17110521;'::>66:116477>24:17049808';8;0;'personne [peut] frotter [objet] pain'
+e;16601169;'::>66:116477>24:7427';8;0;'personne [peut] frotter'
+e;17398637;'::>66:14851596>155:153863';8;0;'personne>être humain [peut] couper [objet] pain [utilisant] couteau à pain'
+e;216369;'pains';1;54
+e;17562984;'::>16:61283>29:101824';8;0;'saucer [avec] pain'
+e;17562989;'::>16:61283>29:254569';8;0;'saucer son assiette [avec] pain'
+e;17562987;'::>16:61283>29:14355403';8;0;'saucer [objet] assiette [avec] pain'
+e;204948;'panem et circenses';1;52
+e;222768;'panure>16033';1;44;'panure>cuisine'
+e;242205;'boulanger>126724';1;68;'boulanger>métier'
+e;243674;'radis>120603';1;56;'radis>légume'
+e;440636;'carreau de chocolat';1;100
+e;143786;'levé';1;106
+e;71135;'porc';1;1236
+e;2491794;'croustipain';1;0
+e;374718;'pétrin mécanique';1;4
+e;225940;'oeil>16033';1;50;'oeil>cuisine'
+e;420727;'kouign';1;50
+e;2352319;'régime sans lactose';1;0
+e;14121757;'cheese naan';1;0
+e;15050785;'en:ice pack';1;0
+e;2484668;'grissin';1;0
+e;234261;'chapon>218294>146582';1;50;'chapon>morceau de pain>bouillon'
+e;119691;'petit déj';1;52
+e;214976;'p'tit dej';1;50
+e;183644;'petit-déj'';1;50
+e;289583;'couque au chocolat';777;50
+e;15420027;'en:ice block';1;0
+e;2429024;'larton';1;0
+e;155458;'petit-déjeuner';1;274
+e;227670;'douillon>146033';1;50;'douillon>poire'
+e;2953892;'oublie>231735';1;0;'oublie>pain d'autel'
+e;2387535;'yaka';1;0
+e;2222708;'marquette';2;0
+e;2490225;'petit-deux';1;0
+e;2409808;'chnek';1;0
+e;5903013;'régime sans oeufs';1;0
+e;15061961;'en:gingerbread man';1;0
+e;2443267;'lartif';1;0
+e;247590;'salidou';1;52
+e;5723;'aillade';1;50
+e;2367152;'mannele';1;0
+e;2429262;'schnèque';1;0
+e;2454596;'gros-guillaume';1;0
+e;2484004;'schneck';1;0
+e;145964;'entamé';1;56
+e;5801289;'kesra';777;0
+e;5806189;'cross-bun';777;0
+e;5621578;'coccoi a pitzus';777;0
+e;2561598;'matza';1;0
+e;128033;'casse-graine';1;54
+e;224017;'mezzé';666;16
+e;252151;'ration de survie';1;10
+e;165157;'chocolat en poudre';1;150
+e;2675291;'liche>146696';1;0;'liche>lèche'
+e;214789;'biscuit>191827';1;200;'biscuit>gâteau sec'
+e;2363850;'aumônée';1;0
+e;2436423;'Pumpernickel';1;0
+e;2367092;'mezze';1;0
+e;5621513;'Bouchiyyar';777;0
+e;5621981;'khobz mzouweq';777;0
+e;5792466;'Bara brith';777;0
+e;2479599;'boublik';1;0
+e;5800919;'cuñapé';777;0
+e;5903035;'régime sans sulfites';1;0
+e;15209049;'en:bar of soap';1;0
+e;7288120;'en:white bread';1;0
+e;10895900;'coppia Ferrarese';1;0
+e;10895902;'pagnotta del Dittaino';1;0
+e;249074;'petite commission';1;50
+e;2531879;'matzo';1;0
+e;157041;'bleu>146885';1;50;'bleu>Nom:Mas+SG'
+e;216106;'maie>25797';1;50;'maie>pétrin'
+e;2476336;'mal des Ardents';1;0
+e;3759337;'farinata : Pain Italien';1;0
+e;15302033;'en:stick of gelignite';1;0
+e;14922792;'en:bale';1;0
+e;15064846;'en:baker's yeast';1;0
+e;15052876;'en:zwieback';1;0
+e;15247742;'en:art of cooking';1;4
+e;15225683;'en:for next to nothing';1;0
+e;14936918;'en:Eucharist';1;0
+e;15082490;'en:fish loaf';1;0
+e;7378065;'en:supermarket';1;0
+e;14939268;'en:dough';1;0
+e;15225409;'en:epilating wax';1;0
+e;15226586;'bien s'amuser';1;0
+e;15298849;'se prendre un pain dans la tronche';1;0
+e;15323588;'l'eucharistie';1;0
+e;15419995;'en:milk roll';1;0
+e;112986;'se payer';1;56
+e;15370044;'aller chercher quelque chose';1;0
+e;15432987;'aller chercher [qch]';1;0
+e;15773611;'en:crust of bread';1;0
+e;15372367;'en:chunk of bread';1;0
+e;195622;'à vil prix';1;50
+e;15596187;'en:get somebody something';1;0
+e;15255047;'en:low-priced';1;0
+e;15150051;'en:at a low price';1;0
+e;15205865;'en:at low prices';1;0
+e;15425229;'en:salted caramel';1;0
+e;114260;'Saint-Sacrement';1;64
+e;15420038;'en:surprise bread';1;0
+e;15364558;'en:sliced bread';1;0
+e;15513179;'en:pick something up';1;0
+e;15323589;'en:the Eucharist';1;0
+e;15135849;'en:dirt cheap';1;0
+e;12992520;'à petit prix';1;0
+e;15386450;'à moindre coût';1;0
+e;388793;'à moindre frais';1;50
+e;15420269;'en:for a fraction of the price';1;0
+e;15255048;'en:cheaply';1;0
+e;14924562;'en:cheap';1;0
+e;51121;'fric';1;409
+e;122117;'pognon';1;310
+e;15254654;'en:boodler';1;0
+e;15043868;'en:boodle';1;0
+e;15239588;'en:readies';1;0
+e;15073836;'en:filthy lucre';1;0
+e;156055;'grand magasin';1;124
+e;15211201;'de mauvais aloi';1;0
+e;15065946;'en:drinking chocolate';1;0
+e;15447902;'mettre sous tension';1;0
+e;15370010;'en:in bad taste';1;0
+e;15283368;'vessie de glace';1;0
+e;15296849;'en:raisin bun';1;0
+e;15231310;'en:cheese bread';1;0
+e;15436477;'en:of mediocre quality';1;0
+e;15362560;'en:of poor quality';1;0
+e;15327992;'en:of doubtful quality';1;0
+e;15604826;'de faible valeur';1;0
+e;262262;'pas chère';1;52
+e;3745544;'terrine de poisson';1;0
+e;216927;'kouign amann';1;2
+e;83881;'pâtée';1;152
+e;234260;'chapon>218294>26979';1;50;'chapon>morceau de pain>ail'
+e;108171;'kouingn-amann';1;50
+e;152814;'chocolat au lait';1;290
+e;2512502;'puri';1;0
+e;37432;'salignon';1;50
+e;5622490;'Tanourt';777;0
+e;12009018;'baguette complète';1;2
+e;222310;'pains spéciaux';1;52
+e;254551;'cire à épiler';1;52
+e;93138;'potage';1;538
+e;3154912;'an:132961:132995:127629:?';12;50
+e;3301257;'schneck>156579';1;0;'schneck>pain aux raisins'
+e;116175;'oeuf';1;2570
+e;26608;'savon';1;1228
+e;5621421;'abadir de Imilchil';777;0
+e;5622025;'merdouma';777;0
+e;5621999;'lazarákia';777;0
+e;5621992;'Labza';777;0
+e;5806190;'brioche de Vendredi Saint';777;0
+e;230320;'Panier';666;50
+e;94812;'cramique';1;52
+e;233202;'oeil>16033>115865';1;50;'oeil>cuisine>trou'
+e;219393;'caramel au beurre salé';1;194
+e;2369122;'panèterie';1;0
+e;5619906;'pan dulce';777;0
+e;5622026;'Taicht';777;0
+e;5622572;'tsouréki';777;0
+e;5801674;'tamtunt';777;0
+e;5903053;'régime sans fruits à coque';1;0
+e;5903041;'régime sans sésame';1;0
+e;8103947;'en:matzo';1;0
+e;160930;'chocolatine';1;170
+e;234257;'chapon>218294';1;50;'chapon>morceau de pain'
+e;218982;'sole>9190';1;52;'sole>four'
+e;3154607;'an:145285:?:97220:120949';12;50
+e;2405506;'ciabattina';1;0
+e;2406356;'soupe au fromage';1;0
+e;566847;'ipo';777;50
+e;5787755;'pulenda';777;0
+e;5911983;'régime sans soja';1;0
+e;15310900;'en:grey bread';1;0
+e;14922631;'en:baguette';1;0
+e;15304046;'en:wholewheat bread';1;0
+e;7288146;'en:wholemeal bread';1;0
+e;15204291;'en:bread of life';1;0
+e;7290836;'en:spread';1;0
+e;8061160;'en:wheat flour';1;0
+e;15444459;'mettre [qch]';1;0
+e;15513291;'mettre quelque chose';1;0
+e;14916989;'en:get';1;0
+e;14932682;'en:spend';1;0
+e;7440920;'en:put';1;0
+e;15513297;'en:spend something on something';1;0
+e;15513296;'en:put something towards something';1;0
+e;15513295;'en:put something toward something';1;0
+e;15504724;'en:switch something on';1;0
+e;15504725;'en:turn something on';1;0
+e;15513293;'en:slip into something';1;0
+e;15513292;'en:slip something on';1;0
+e;15504726;'en:put something on';1;0
+e;15434716;'mettre [qch] en marche';1;0
+e;15624627;'en:start something up';1;0
+e;15624628;'en:set something going';1;0
+e;15624629;'mettre quelque chose en marche';1;0
+e;15549324;'faire de quelque chose';1;0
+e;15430096;'faire de [qch]';1;0
+e;90891;'se faire';1;168
+e;14922634;'en:French stick';1;0
+e;15444859;'lancer [qch]';1;0
+e;15662926;'lancer quelque chose';1;0
+e;14919076;'en:go';1;0
+e;15436136;'mettre [qch] en action';1;0
+e;15629253;'mettre quelque chose en action';1;0
+e;7053768;'en:have';1;0
+e;14921152;'en:happen';1;0
+e;14921147;'en:come about';1;0
+e;15430102;'en:be the done thing';1;0
+e;14936687;'en:stretch';1;0
+e;15060006;'en:loosen up';1;0
+e;15697391;'être équipé de quelque chose';1;0
+e;15437658;'être équipé de [qch]';1;0
+e;3259920;'avoir quelqu'un';1;0
+e;15422749;'avoir [qqn]';1;0
+e;15311395;'en:fish terrine';1;0
+e;15700555;'s'équiper de quelque chose';1;0
+e;15437659;'en:be fitted with';1;0
+e;15697390;'en:be equipped with something';1;0
+e;7506458;'en:gluten-free diet';1;0
+e;16037542;'en:allow that';1;0
+e;15701973;'en:say that';1;0
+e;15335510;'en:suppose that';1;0
+e;15596506;'en:put something up';1;0
+e;15513302;'se mettre quelque chose';1;0
+e;15444464;'se mettre [qch]';1;0
+e;15687799;'mettre en scène quelque chose';1;0
+e;15687798;'mettre quelque chose en scène';1;0
+e;15431484;'mettre en scène [qch]';1;0
+e;15431483;'mettre [qch] en scène';1;0
+e;90688;'se renouveler';1;54
+e;1874432;'entamé>153585';1;0;'entamé>écorné'
+e;2366844;'mannala';1;0
+e;78401;'pogne';1;50
+e;2352320;'régime sans gluten';1;2
+e;332524;'bouffe de mecs';1;84
+e;241932;'chocolat à croquer';1;60
+e;15267720;'en:bread-crumb';1;0
+e;15333923;'en:have one's best days behind oneself';1;0
+e;15333922;'en:not be through the worst of it';1;0
+e;15333921;'en:have the worst to come';1;0
+e;15348752;'en:slice of bread';1;0
+e;15220745;'en:piece of bread and butter';1;0
+e;15298850;'en:get punched';1;0
+e;15420148;'en:graze between meals';1;0
+e;15420149;'en:pick between meals';1;0
+e;15563913;'en:make bread';1;0
+e;162097;'prendre des coups';1;56
+e;15361685;'en:stale bread';1;0
+e;15428643;'en:wholewheat flour';1;0
+e;8069833;'en:wholemeal flour';1;0
+e;15281397;'farine de blé complète';1;0
+e;5912101;'farine de blé entier';1;0
+e;15231308;'en:leavened bread';1;0
+e;15516295;'en:small bread stick';1;0
+e;15303145;'en:get knocked about';1;0
+e;15583437;'en:take hits';1;0
+e;15421171;'en:bar of chocolate';1;0
+e;15303144;'en:take punches/bumps/hits';1;0
+e;14155156;'en:putty rubber';1;0
+e;216180;'barre de chocolat';1;96
+e;1866156;'durcir>1866153';1;2;'durcir>devenir dur'
+e;215853;'son>18283';1;4;'son>céréale'
+e;225463;'farine panifiable';1;50
+e;243833;'soupine';1;50
+e;15420150;'en:nibble between meals';1;0
+e;15420147;'grignoter entre les repas';1;0
+e;15060853;'en:bread maker';1;0
+e;15133693;'en:cheese fondue';1;0
+e;15119248;'en:nut bread';1;0
+e;6844122;'en:bran';1;0
+e;2557599;'gata';1;0
+e;94756;'marmelade';1;166
+e;8126395;'en:crumpet';1;0
+e;2360696;'leckerli';1;0
+e;15333920;'en:get over a rough patch';1;0
+e;15195169;'en:to make bread';1;0
+e;15337918;'en:bread oven';1;0
+e;15200529;'en:fresh bread';1;0
+e;15226155;'aromatisé au chocolat';1;0
+e;15226156;'au goût de chocolat';1;0
+e;15226157;'à l'arôme de chocolat';1;0
+e;15222728;'biscuit de Savoie';1;0
+e;10269;'des rillettes';1;50
+e;77035;'Jean le Boulanger de Nîmes';1;50
+e;257061;'brioche au beurre';1;50
+e;118630;'Barbari';1;50
+e;255476;'tartine de confiture';1;66
+e;266366;'faire rôtir';1;50
+e;54583;'épicier';1;130
+e;173946;'sauce rouilleuse';1;52
+e;215813;'bleu>141687';1;4;'bleu>fromage'
+e;219189;'oeuf>113902';1;186;'oeuf>alimentation'
+e;1935088;'rouler dans la chapelure';1;0
+e;327751;'::>13:68439>29:130164';8;50;'manger [sujet] individu'
+e;252600;'::>13:68439>29:130164>14';9;50;'Qu'est-ce qu'un individu pourrait manger ?'
+e;2372824;'kalatch';1;0
+e;3157479;'an:141964:49803:?:63619';12;50
+e;3167747;'an:?:18272:35798:87987';12;50
+e;3223334;'préparer une pâte';1;0
+e;5806188;'hot cross bun';777;0
+e;9202483;'::>66:177321>17:267708';8;0;'préparation culinaire [carac] trop cuite'
+e;16160720;'odeurs de cuisine';1;0
+e;1703609;'vegan';1;18
+e;11577368;'mettre un coup de pied';1;0
+e;2349039;'prendre une claque';1;6
+e;2708155;'repas en plein air';1;0
+e;14159489;'poulet piquant';1;0
+e;14721826;'pique-niquer sur la plage';1;16
+e;14725636;'couverts en plastique';1;8
+e;14726308;'couverts jetables';1;0
+e;268323;'fougasse d'Aigues-Mortes';1;50
+e;5325683;'mettre un direct';1;0
+e;2357509;'se beurrer la biscotte';1;0
+e;14540001;'croûtons aillés';1;0
+e;14730160;'boite à tartines';1;0
+e;4332572;'filer une baffe';1;0
+e;67201;'consubstantiation';1;50
+e;139481;'sucre';1;4349
+e;156501;'pétrisseuse';1;58
+e;3157089;'an:?:127629:45179:41894';12;50
+e;248975;'chawarma';1;2
+e;3154962;'an:119014:?:64437:116173';12;50
+e;215483;'Le Petit Poucet';1;60
+e;3322119;'Knäckebrot';1;0
+e;11325402;'petits pains';1;0
+e;14938204;'en:ferment';1;0
+e;15052266;'en:whole wheat flour';1;0
+e;8061150;'en:rye flour';1;0
+e;15226154;'en:chocolate-flavoured';1;0
+e;75016;'brifton';1;50
+e;150080;'rechristianisation';1;50
+e;148538;'hucherie';1;50
+e;223220;'savon>3225';1;104;'savon>savonnette'
+e;926;'saucissonneur';1;50
+e;2357998;'fromage à l'ail et fines herbes';1;0
+e;7288132;'en:chapati';1;0
+e;77284;'rillettes';1;168
+e;13530;'mortadelle';1;60
+e;38723;'grignoter';1;174
+e;225456;'bluté';1;50
+e;3223271;'à la farine complète';1;0
+e;266421;'confiture de fraises';1;58
+e;155157;'casse-croute';1;50
+e;266048;'pogne>140188';1;50;'pogne>brioche'
+e;8103084;'en:dumpling';1;0
+e;28741;'saucé';1;54
+e;80855;'cène';1;56
+e;1329;'tartariner';1;50
+e;15255;'tapenade';1;132
+e;230326;'pâte levée';1;28
+e;142266;'Cène';1;80
+e;2462617;'taponnade';1;0
+e;269064;'glucide complexe';1;50
+e;7288116;'en:rye bread';1;0
+e;15055127;'en:bread dough';1;0
+e;8085274;'en:sponge cake';1;0
+e;7413996;'en:breakfast';1;2
+e;165262;'::>13:18067>29:130164>14';9;50;'Qu'est-ce qu'un invité pourrait manger ?'
+e;327247;'::>13:18067>29:130164';8;50;'manger [sujet] invité'
+e;260105;'cuit au four';1;164
+e;391657;'tartine beurrée';1;54
+e;3153442;'an:30314:45179:127629:?';12;50
+e;216802;'anchoïade';1;42
+e;21389;'anchoyade';1;52
+e;257792;'beurre de cacahuètes';1;58
+e;10774170;'baguette fraîche';1;52
+e;14726304;'moule à baguette';1;6
+e;14753107;'farine T65';1;0
+e;275726;'brioche tressée de Metz';1;50
+e;14927359;'en:breadcrumb';1;0
+e;15297209;'en:Genoa bread';1;0
+e;13736;'Pain dur';1;50
+e;110943;'transsubstantiation';1;52
+e;291136;'baguel';777;50
+e;291137;'beguel';777;50
+e;3157262;'an:93528:35798:32071:?';12;50
+e;276723;'croquemonsieur';777;50
+e;8126379;'en:muffin';1;0
+e;15459835;'en:grilled ham and cheese sandwich';1;0
+e;15331659;'en:toasted ham and cheese sandwich';1;0
+e;14931161;'en:croque-monsieur';1;0
+e;15100594;'en:culinary art';1;6
+e;156064;'art de la table';1;82
+e;15217116;'en:liver pâté';1;0
+e;15420021;'en:garlic bread';1;0
+e;16085516;'en:ham and cheese toastie';1;0
+e;230916;'tablette de beurre';1;2
+e;246005;'::>66:239890>15:55077';8;50;'miettes de pain [lieu] chemin'
+e;330944;'pâté de foie';1;64
+e;320387;'petite commission>17822';1;50;'petite commission>paiement'
+e;14502870;'baguette à l'ancienne';1;10
+e;1700945;'manger froid';1;2
+e;15195168;'en:bread flour';1;0
+e;15136559;'en:wholemeal';1;0
+e;14952626;'en:chocolate croissant';1;0
+e;2388615;'bertoire';1;0
+e;7030758;'en:breadfruit';1;0
+e;15200534;'en:bread basket';1;0
+e;7288136;'en:milk bread';1;0
+e;15420014;'en:earn your living by the sweat of your brow';1;0
+e;15432141;'en:whole wheat';1;0
+e;15247412;'en:wholewheat';1;0
+e;14952632;'en:sandwich loaf';1;0
+e;115479;'casse-dalle';1;54
+e;2579000;'blé complet';1;0
+e;35566;'fournage';1;50
+e;151459;'flute';1;106
+e;17324;'don';1;2250
+e;2554708;'vaireux';1;0
+e;14938719;'en:flute';1;0
+e;47907;'petit déjeuner';1;568
+e;15401199;'en:bread bin';1;0
+e;15395909;'en:as long as a month of Sundays';1;0
+e;396480;'manger avec les mains';1;50
+e;57980;'jambon';1;1024
+e;2554047;'chupatty';1;0
+e;15200531;'en:supply bread';1;0
+e;15269041;'en:sardine in oil';1;0
+e;215092;'sardine à l'huile';1;36
+e;223448;'dumpling';1;50
+e;247071;'tartine>228308';1;112;'tartine>tranche de pain'
+e;15205786;'en:staple food';1;0
+e;5061;'chiche-kebab';1;54
+e;226273;'chichekébab';1;2
+e;2485082;'chiche-kébab';1;0
+e;15420001;'en:round loaf';1;0
+e;15069166;'en:headcheese';1;0
+e;7455486;'en:sesame seed';1;0
+e;25901;'bacon';1;72
+e;8061339;'en:bacon';1;0
+e;152729;'pâté de tête';1;68
+e;15421344;'en:head-cheese pâté';1;0
+e;8052350;'en:brawn';1;0
+e;15296890;'en:pork brawn';1;0
+e;14939317;'en:head cheese';1;0
+e;102406;'fromage de tête';1;66
+e;15200530;'en:block of ice';1;0
+e;315987;'fishburger';1;14
+e;15195163;'en:baker's oven';1;0
+e;15442452;'en:enjoy good times';1;0
+e;15091006;'en:have a good time';1;0
+e;15694064;'en:enjoy something while it lasts';1;0
+e;4328848;'geindre>145285';1;0;'geindre>boulanger'
+e;224251;'boulanger-pâtissier';1;52
+e;6812725;'en:ergotism';1;0
+e;6433071;'intoxication à l'ergot';1;0
+e;6451280;'intoxication par l'ergot';1;0
+e;15256106;'en:sandwich bread';1;0
+e;15549290;'en:it can't do any harm';1;0
+e;15549289;'en:it can't hurt';1;0
